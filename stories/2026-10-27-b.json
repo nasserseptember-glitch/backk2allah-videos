@@ -1,0 +1,157 @@
+{
+ "id": "2026-10-27-b",
+ "segments": [
+  {
+   "scene": "bed_dawn",
+   "dur": 11,
+   "opts": {
+    "phone": "alarm",
+    "clock": "07:12",
+    "sub": "Fajr est passé",
+    "lowerPhone": true
+   }
+  },
+  {
+   "scene": "street",
+   "dur": 10,
+   "opts": {
+    "dayFrom": 0.0,
+    "dayTo": 1.0,
+    "clock": "13:20"
+   }
+  },
+  {
+   "scene": "living",
+   "dur": 9,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 7
+  },
+  {
+   "scene": "bed_morning",
+   "dur": 10.5,
+   "opts": {
+    "clock": "05:31",
+    "sub": "Fajr"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6
+  }
+ ],
+ "hook": {
+  "t0": 0.4,
+  "t1": 4.4,
+  "text": "Combien de prières as-tu manquées aujourd'hui ?",
+  "gold": [
+   "prières"
+  ]
+ },
+ "hud": [
+  {
+   "t0": 1.0,
+   "t1": 10.9,
+   "label": "PRIÈRES AUJOURD'HUI",
+   "time": "0 / 5",
+   "sub": "FAJR MANQUÉ"
+  },
+  {
+   "t0": 11.1,
+   "t1": 20.9,
+   "label": "PRIÈRES AUJOURD'HUI",
+   "time": "0 / 5",
+   "sub": "DHUHR · ASR"
+  },
+  {
+   "t0": 21.1,
+   "t1": 29.9,
+   "label": "PRIÈRES AUJOURD'HUI",
+   "time": "0 / 5",
+   "sub": "MAGHRIB · ISHA"
+  },
+  {
+   "t0": 37.2,
+   "t1": 48.4,
+   "label": "UN NOUVEAU JOUR",
+   "time": "05:31",
+   "sub": "UNE NOUVELLE CHANCE"
+  }
+ ],
+ "captions": [
+  [
+   4.6,
+   7.8,
+   "07:12. Le soleil est déjà levé."
+  ],
+  [
+   8.0,
+   10.8,
+   "Fajr est passé. « Ce n'est pas grave. »"
+  ],
+  [
+   11.4,
+   15.6,
+   "Dhuhr. Asr. Tu étais occupé."
+  ],
+  [
+   15.8,
+   20.8,
+   "Du temps pour tout… sauf pour Lui."
+  ],
+  [
+   21.5,
+   25.2,
+   "Maghrib passe. Isha aussi."
+  ],
+  [
+   25.4,
+   29.8,
+   "Cinq rendez-vous. Aucun honoré."
+  ],
+  [
+   38.0,
+   41.6,
+   "Mais Allah t'a donné un nouveau jour."
+  ],
+  [
+   41.8,
+   45.4,
+   "Ne rate pas ce rendez-vous."
+  ],
+  [
+   45.6,
+   48.3,
+   "Commence par Fajr."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 30.6,
+   "t1": 36.8,
+   "text": "« Accomplis la Salât pour te souvenir de Moi. »",
+   "ref": "Sourate Tâ-Hâ — 20:14"
+  }
+ ],
+ "end": {
+  "t0": 49.1,
+  "t1": 53.5,
+  "text": "Combien de prières as-tu manquées aujourd'hui ?",
+  "goldT0": 50.6,
+  "gold": "Demain commence maintenant."
+ },
+ "goldWords": [
+  "allah",
+  "lui.",
+  "fajr.",
+  "fajr",
+  "prière"
+ ],
+ "post": {
+  "caption": "Combien de prières as-tu manquées aujourd'hui ? 🤍\n\nCinq rendez-vous par jour avec ton Seigneur.\n« Accomplis la Salât pour te souvenir de Moi. » (20:14)\n\nAllah t'a donné un nouveau jour. Commence par Fajr. 🤲",
+  "hashtags": "#rappel #islam #rappelislamique #priere #salat #fajr #muslim #deen",
+  "youtube_title": "Combien de prières as-tu manquées aujourd'hui ? 🤍 #rappel #islam"
+ }
+}

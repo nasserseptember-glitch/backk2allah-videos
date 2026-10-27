@@ -1,0 +1,223 @@
+{
+ "id": "example-dernier-jour",
+ "segments": [
+  {
+   "scene": "bed_dawn",
+   "dur": 12.5,
+   "opts": {
+    "phone": "alarm",
+    "clock": "05:42",
+    "sub": "Fajr",
+    "snoozeAt": 8.6,
+    "lowerPhone": true
+   }
+  },
+  {
+   "scene": "street",
+   "dur": 10,
+   "opts": {
+    "clock": "13:07"
+   }
+  },
+  {
+   "scene": "living",
+   "dur": 10.5,
+   "opts": {
+    "collapseAt": 7.2
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 5.4
+  },
+  {
+   "scene": "grave",
+   "dur": 20.6,
+   "opts": {
+    "pulses": [
+     7.2,
+     10.4,
+     13.6
+    ],
+    "flashEnd": true
+   }
+  },
+  {
+   "scene": "bed_morning",
+   "dur": 10,
+   "opts": {
+    "clock": "05:43",
+    "flashIn": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6
+  }
+ ],
+ "hook": {
+  "t0": 0.4,
+  "t1": 4.6,
+  "text": "Et si aujourd'hui était ton dernier jour ?",
+  "gold": [
+   "dernier",
+   "jour"
+  ]
+ },
+ "hud": [
+  {
+   "t0": 1.0,
+   "t1": 12.4,
+   "label": "AUJOURD'HUI",
+   "time": "05:42"
+  },
+  {
+   "t0": 12.6,
+   "t1": 22.4,
+   "label": "AUJOURD'HUI",
+   "clock": [
+    "13:07",
+    "19:58"
+   ]
+  },
+  {
+   "t0": 22.7,
+   "t1": 29.6,
+   "label": "AUJOURD'HUI",
+   "time": "21:13"
+  },
+  {
+   "t0": 29.6,
+   "t1": 31.2,
+   "label": "AUJOURD'HUI",
+   "time": "21:13",
+   "glitch": true
+  },
+  {
+   "t0": 31.2,
+   "t1": 33.0,
+   "label": "TON TEMPS",
+   "time": "00:00:00",
+   "sub": "SEUL ALLAH CONNAÎT L'HEURE"
+  },
+  {
+   "t0": 39.0,
+   "t1": 58.6,
+   "label": "TON TEMPS",
+   "time": "00:00:00",
+   "sub": "SEUL ALLAH CONNAÎT L'HEURE",
+   "alpha": 0.9
+  },
+  {
+   "t0": 59.8,
+   "t1": 68.9,
+   "label": "AUJOURD'HUI",
+   "time": "05:43",
+   "sub": "IL TE RESTE DU TEMPS"
+  }
+ ],
+ "captions": [
+  [
+   4.8,
+   8.4,
+   "05:42. L'appel à la prière résonne."
+  ],
+  [
+   8.6,
+   12.2,
+   "Tu appuies sur « Répéter ». Encore cinq minutes."
+  ],
+  [
+   13.0,
+   17.2,
+   "Ta journée file à toute vitesse."
+  ],
+  [
+   17.4,
+   22.2,
+   "Le travail. Les messages. Les projets pour demain."
+  ],
+  [
+   23.0,
+   26.9,
+   "21:13. « Je prierai demain, inch'Allah. »"
+  ],
+  [
+   27.1,
+   29.4,
+   "Encore une prière remise à plus tard."
+  ],
+  [
+   29.6,
+   32.6,
+   "Mais demain ne viendra jamais."
+  ],
+  [
+   39.2,
+   42.6,
+   "C'est étroit. Silencieux. Sombre."
+  ],
+  [
+   42.8,
+   45.3,
+   "Puis viennent les questions."
+  ],
+  [
+   55.3,
+   58.6,
+   "Ces réponses ne s'apprennent pas ici. Elles se vivent avant."
+  ],
+  [
+   60.0,
+   63.4,
+   "05:43. Tu ouvres les yeux."
+  ],
+  [
+   63.6,
+   66.2,
+   "Tu as encore du temps."
+  ],
+  [
+   66.4,
+   68.9,
+   "Lève-toi. Prie."
+  ]
+ ],
+ "big": [
+  [
+   45.6,
+   48.6,
+   "Qui est ton Seigneur ?"
+  ],
+  [
+   48.8,
+   51.8,
+   "Quelle est ta religion ?"
+  ],
+  [
+   52.0,
+   55.1,
+   "Qui est ton prophète ?"
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 33.6,
+   "t1": 38.3,
+   "text": "« Toute âme goûtera la mort. »",
+   "ref": "Sourate Âl ʿImrân — 3:185"
+  }
+ ],
+ "end": {
+  "t0": 69.6,
+  "t1": 75.0,
+  "text": "Et si aujourd'hui était ton dernier jour ?",
+  "goldT0": 71.2,
+  "gold": "Que répondrais-tu ?"
+ },
+ "post": {
+  "caption": "Et si aujourd'hui était ton dernier jour ? 🤍\n\nOn repousse toujours la prière à demain… mais demain n'est promis à personne.\n« Toute âme goûtera la mort. » (3:185)\n\nTu as encore du temps. Lève-toi. Prie. 🤲",
+  "hashtags": "#rappel #islam #rappelislamique #priere #salat #muslim #deen #coran",
+  "youtube_title": "Et si aujourd'hui était ton dernier jour ? 🤍 #rappel #islam"
+ }
+}

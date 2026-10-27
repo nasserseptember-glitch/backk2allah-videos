@@ -1,0 +1,155 @@
+{
+ "id": "2026-10-27-a",
+ "segments": [
+  {
+   "scene": "bed_dawn",
+   "dur": 11,
+   "opts": {
+    "phone": "feed",
+    "lowerPhone": true
+   }
+  },
+  {
+   "scene": "street",
+   "dur": 9,
+   "opts": {
+    "dayFrom": 0.2,
+    "dayTo": 0.75,
+    "clock": "12:30"
+   }
+  },
+  {
+   "scene": "living",
+   "dur": 8.5,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 7
+  },
+  {
+   "scene": "bed_morning",
+   "dur": 10,
+   "opts": {
+    "clock": "05:31",
+    "sub": "Fajr"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6
+  }
+ ],
+ "hook": {
+  "t0": 0.4,
+  "t1": 4.4,
+  "text": "Tu crois que personne ne voit ce que tu traverses ?",
+  "gold": [
+   "personne",
+   "traverses"
+  ]
+ },
+ "hud": [
+  {
+   "t0": 1.0,
+   "t1": 10.9,
+   "label": "CETTE NUIT",
+   "time": "02:14"
+  },
+  {
+   "t0": 11.1,
+   "t1": 19.9,
+   "label": "AUJOURD'HUI",
+   "clock": [
+    "12:30",
+    "17:45"
+   ]
+  },
+  {
+   "t0": 20.1,
+   "t1": 28.4,
+   "label": "AUJOURD'HUI",
+   "time": "21:40"
+  },
+  {
+   "t0": 35.6,
+   "t1": 45.9,
+   "label": "AUJOURD'HUI",
+   "time": "05:31",
+   "sub": "ALLAH T'ENTEND"
+  }
+ ],
+ "captions": [
+  [
+   4.6,
+   7.8,
+   "02:14. Tu n'arrives pas à dormir."
+  ],
+  [
+   8.0,
+   10.8,
+   "Tu scrolles pour ne plus penser."
+  ],
+  [
+   11.4,
+   15.4,
+   "Le jour, tu souris à tout le monde."
+  ],
+  [
+   15.6,
+   19.8,
+   "Personne ne sait ce que tu portes."
+  ],
+  [
+   20.5,
+   24.3,
+   "Même entouré, tu te sens seul."
+  ],
+  [
+   24.5,
+   28.3,
+   "Tu crois que personne n'entend."
+  ],
+  [
+   36.4,
+   39.9,
+   "Il entend ce que tu ne dis à personne."
+  ],
+  [
+   40.1,
+   43.1,
+   "Alors parle-Lui."
+  ],
+  [
+   43.3,
+   45.8,
+   "Lève-toi. Prie. Fais ta dua."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 29.0,
+   "t1": 35.4,
+   "text": "« Je suis tout proche : Je réponds à l'appel de celui qui Me prie quand il Me prie. »",
+   "ref": "Sourate Al-Baqara — 2:186"
+  }
+ ],
+ "end": {
+  "t0": 46.6,
+  "t1": 51.5,
+  "text": "Tu crois que personne ne voit ce que tu traverses ?",
+  "goldT0": 48.2,
+  "gold": "Allah voit. Allah entend."
+ },
+ "goldWords": [
+  "allah",
+  "lui.",
+  "dua.",
+  "prie."
+ ],
+ "post": {
+  "caption": "Tu crois que personne ne voit ce que tu traverses ? 🤍\n\n« Je suis tout proche : Je réponds à l'appel de celui qui Me prie quand il Me prie. » (2:186)\n\nCe que tu ne dis à personne, Allah l'entend. Alors parle-Lui. 🤲",
+  "hashtags": "#rappel #islam #rappelislamique #dua #allah #muslim #deen #coran",
+  "youtube_title": "Allah entend ce que tu ne dis à personne 🤍 #rappel #islam"
+ }
+}

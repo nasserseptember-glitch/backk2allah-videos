@@ -1,0 +1,21 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>html,body{margin:0;background:#000;overflow:hidden}canvas{position:absolute;left:0;top:0;width:1080px;height:1920px}</style>
+</head><body>
+<canvas id="gl"></canvas><canvas id="ov" width="1080" height="1920"></canvas>
+<script src="engine.js"></script><script src="scenes.js"></script><script src="story.js"></script>
+<script>
+(async () => {
+  const faces = [new FontFace('InterUI', 'url(fonts/Inter-SemiBold.otf)', { weight: '600' }), new FontFace('InterUI', 'url(fonts/Inter-Medium.otf)', { weight: '300 500' }),
+    new FontFace('LoraUI', 'url(fonts/Lora-Variable.ttf)', { weight: '400 700' }), new FontFace('LoraItalic', 'url(fonts/Lora-Italic-Variable.ttf)', { weight: '400 700', style: 'italic' })];
+  for (const f of faces) { await f.load(); document.fonts.add(f); }
+  buildTextures();
+  const ov = document.getElementById('ov').getContext('2d');
+  window.renderAt = (t) => {
+    const F = frameAt(t);
+    if (F) renderFrame(F, t); else { gl.bindFramebuffer(gl.FRAMEBUFFER, null); gl.viewport(0,0,W,H); gl.clearColor(0.02,0.02,0.025,1); gl.clear(gl.COLOR_BUFFER_BIT); gl.finish(); }
+    drawOverlay(ov, t); return true;
+  };
+  window.ready = true;
+})().catch(e => { window.err = String(e && e.stack || e); });
+window.onerror = (m, s, l, c, e) => { window.err = m + ' ' + l + ':' + c + ' ' + (e && e.stack); };
+</script></body></html>
