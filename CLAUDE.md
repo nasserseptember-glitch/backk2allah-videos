@@ -11,6 +11,7 @@ Stijl: 3D low-poly, eerste persoon, HUD-klokje links, korte Franse captions in c
    - Taal: Frans, correct gespeld, smalle niet-afbrekende spatie (U+202F) vóór `?` `!` `:` waar passend, guillemets « … ».
    - **Koranverzen: ALLEEN letterlijk uit `verses.json`** (tekst + ref exact overnemen). Nooit zelf verzen of hadith verzinnen of parafraseren als citaat.
    - Geen afbeeldingen van profeten, geen gezichten van "Allah", geen spot of angstzaaierij; toon: oprecht, hoopvol einde.
+   - **Variatie (belangrijk, wens van de gebruiker):** elk verhaal speelt in een andere context en situatie. Gebruik per video minstens 2 verschillende decors en kies decors die je in de vorige 4 video's niet als hoofddecor gebruikte. Wissel thema's af (bv. gemis van een ouder aan tafel, nachtelijk piekeren op het dak, naar Fajr in de moskee wandelen, onderweg in de auto, dankbaarheid aan zee, berouw, geduld, dua, dunya/telefoon, dood en tweede kans). Niet elke video een graf of slaapkamer.
    - Duur 45–60 s. Hook bovenaan in de eerste ~4 s, einde = zwart scherm met de hook-vraag + gouden antwoord.
 3. **Render** elk verhaal (± 25–35 min per video, CPU):
    `./make_video.sh stories/<id>.json out/<id>.mp4`
@@ -42,6 +43,12 @@ Stijl: 3D low-poly, eerste persoon, HUD-klokje links, korte Franse captions in c
   - `living` — woonkamer 's avonds, moeder in zetel, tv, kaars. opts: `collapseAt` (s; camera valt om, zwart — alleen voor "dood"-verhalen)
   - `grave` — donker graf, liggend naar boven. opts: `pulses` (s, lichtpulsen bij grote tekst), `flashEnd`
   - `bed_morning` — wakker worden in ochtendzon, gebedskleed in zonnestraal. opts: `clock`, `sub`, `flashIn`, `wake: false` (geen wazig-openen)
+  - `mosque_ext` — naar de moskee wandelen, minaretten, verlichte deur. opts: `time: "night"|"dawn"`, `speed`
+  - `mosque_int` — gebedszaal, rijen gelovigen, mihrab, kroonluchter. opts: `ruku: [[start,eind],...]` (rijen buigen), `povBow` (camera buigt mee), `night`, `rows`
+  - `rooftop` — 's nachts op een dak, stad met lichtjes, sterren, maan. opts: `phone` (telefoon in handen), `legs`
+  - `car_night` — autorijden 's nachts in de regen, stuur, achterlichten, straatlampen. opts: `rain: false`, `clock`
+  - `seaside` — strand bij zonsondergang, golven, glinsterende zee. opts: `walk: false` (zittend)
+  - `dinner` — familie-avondmaal aan tafel, kaars, hanglamp. opts: `family: ["father","mother","sibling"]` (laat iemand weg = lege stoel, bv. voor gemis/rouw), `sad`
   - `black` — zwart scherm (voor vers of einde)
 - Tijden hieronder zijn **absolute seconden** vanaf het begin van de video.
 - `hook`: `{t0, t1, text, gold: [woorden in goud]}` (bovenaan)

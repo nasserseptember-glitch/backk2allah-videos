@@ -152,8 +152,9 @@ function person(base, o) {
     out.push(seg(R, kneeP, foot, [0.16, 0.17], pants));
     out.push(G(R, M4.trs([foot[0], 0.05, foot[2] + 0.05], [0, 0, 0], [0.17, 0.09, 0.28]), 'box', C('#2a2a2e')));
   }
+  const RU = o.bow ? M4.mul(R, M4.mul(M4.trs([0, hipY, 0], [o.bow, 0, 0]), M4.trs([0, -hipY, 0]))) : R;
   const tY = hipY + 0.33;
-  out.push(G(R, M4.trs([0, tY, 0], [0, 0, 0], [0.48, 0.66, 0.27]), 'box', shirt));
+  out.push(G(RU, M4.trs([0, tY, 0], [0, 0, 0], [0.48, 0.66, 0.27]), 'box', shirt));
   for (const sd of [-1, 1]) {
     const sh = [sd * 0.31, tY + 0.27, 0];
     const arm = (sd < 0 ? o.armL : o.armR);
@@ -161,11 +162,11 @@ function person(base, o) {
     const el = [sh[0] + sd * 0.02, sh[1] - Math.cos(ang) * 0.32, sh[2] + Math.sin(ang) * 0.32];
     const fore = (o.sit && arm == null) ? 0.9 : (arm != null ? 0.2 : 0.25);
     const hand = [el[0], el[1] - Math.cos(ang + fore) * 0.3, el[2] + Math.sin(ang + fore) * 0.3];
-    out.push(seg(R, sh, el, [0.14, 0.15], shirt));
-    out.push(seg(R, el, hand, [0.13, 0.14], shirt));
-    out.push(G(R, M4.trs(hand, [0, 0, 0], [0.12, 0.13, 0.12]), 'box', skin));
+    out.push(seg(RU, sh, el, [0.14, 0.15], shirt));
+    out.push(seg(RU, el, hand, [0.13, 0.14], shirt));
+    out.push(G(RU, M4.trs(hand, [0, 0, 0], [0.12, 0.13, 0.12]), 'box', skin));
   }
-  const H0 = M4.mul(R, M4.trs([0, tY + 0.55, 0], [0, o.headYaw || 0, 0]));
+  const H0 = M4.mul(RU, M4.trs([0, tY + 0.55, 0], [0, o.headYaw || 0, 0]));
   if (o.hijab) {
     const hj = C(o.hijab);
     out.push(G(H0, M4.trs([0, 0.0, -0.01], [0, 0, 0], [0.46, 0.5, 0.44]), 'box', hj));
