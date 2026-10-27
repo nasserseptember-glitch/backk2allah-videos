@@ -44,8 +44,24 @@ function hud(g, t, S) {
     g.restore();
   }
 }
+function drawOutro(g, t, o) {
+  const a = fadeA(t, o.t0, o.t1 + 1, 0.5); if (a <= 0) return;
+  const k = clamp((t - o.t0) / 0.9, 0, 1), e = 1 - Math.pow(1 - k, 3);
+  g.save(); g.globalAlpha = a;
+  const R = 170 * (0.85 + 0.15 * e), cx = W / 2, cy = 720;
+  g.shadowColor = 'rgba(231,194,122,0.35)'; g.shadowBlur = 60;
+  g.beginPath(); g.arc(cx, cy, R, 0, Math.PI * 2); g.closePath(); g.fillStyle = '#111'; g.fill();
+  g.shadowBlur = 0; g.save(); g.clip(); if (window.LOGO) g.drawImage(window.LOGO, cx - R, cy - R, 2 * R, 2 * R); g.restore();
+  g.strokeStyle = 'rgba(231,194,122,0.8)'; g.lineWidth = 4; g.beginPath(); g.arc(cx, cy, R, 0, Math.PI * 2); g.stroke();
+  g.restore();
+  textBlock(g, 'Back2Allah', W / 2, 1000, '600 74px LoraUI', 900, 80, a, null, '#ffffff');
+  textBlock(g, '@backk.2allah', W / 2, 1075, '500 30px InterUI', 900, 40, a * 0.85, null, GOLD);
+  const a2 = fadeA(t, o.t0 + 0.6, o.t1 + 1, 0.5);
+  if (a2 > 0) textBlock(g, 'Abonne-toi pour plus de rappels islamiques 🤍', W / 2, 1200, 'italic 400 42px LoraItalic', 860, 54, a2, null, '#ffffff');
+}
 function drawOverlay(g, t) {
   const S = window.STORY; g.clearRect(0, 0, W, H);
+  if (S.outro) drawOutro(g, t, S.outro);
   if (S.hook) { const a = fadeA(t, S.hook.t0, S.hook.t1, 0.5); if (a > 0) textBlock(g, S.hook.text, W / 2, 470, '500 64px LoraUI', 860, 80, a, (S.hook.gold || []).map(normW)); }
   hud(g, t, S);
   const capGold = (S.goldWords || ['allah', 'prière', 'prie', 'dua', 'allah.', 'allah,']).map(normW);

@@ -9,6 +9,7 @@
     new FontFace('LoraUI', 'url(fonts/Lora-Variable.ttf)', { weight: '400 700' }), new FontFace('LoraItalic', 'url(fonts/Lora-Italic-Variable.ttf)', { weight: '400 700', style: 'italic' })];
   for (const f of faces) { await f.load(); document.fonts.add(f); }
   buildTextures();
+  window.LOGO = new Image(); window.LOGO.src = 'logo.png'; await window.LOGO.decode();
   const ov = document.getElementById('ov').getContext('2d');
   window.renderAt = (t) => {
     const F = frameAt(t);

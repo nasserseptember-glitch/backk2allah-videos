@@ -31,10 +31,13 @@ Stijl: 3D low-poly, eerste persoon, HUD-klokje links, korte Franse captions in c
      `python3 vo_join.py out/vo/<id>.wav out/vo/<id>.segs.json <result-bestand regel 1> <regel 2> ...` (in volgorde). Dat maakt de wav + segs; transcriberen is dan niet nodig. vo_join.py weigert clips die niet van google-tts komen → die regel opnieuw maken.
    - (Alternatief voor één lange opname: Speko `audio_transcribe` met word_timestamps → per vertelregel [start_s, eind_s] naar `out/vo/<id>.segs.json`.)
    - Een vers duurt in de stem ± 9–11 s: geef het `black`-segment van het vers minstens 10–11 s.
-   - `python3 vo_mix.py mix stories/<id>.json out/vo/<id>.wav out/<id>.mp4 out/<id>-vo.mp4 out/vo/<id>.segs.json` → gebruik **`<id>-vo.mp4`** om te posten.
+   - `python3 vo_mix.py mix stories/<id>.json out/vo/<id>.wav out/<id>.mp4 out/<id>-vo.mp4 out/vo/<id>.segs.json`
+3c. **Afsluiter (verplicht, wens van de gebruiker):** elke video eindigt met het logo (maansikkel), de naam **Back2Allah**, @backk.2allah en de stem "Abonne-toi pour plus de rappels islamiques. Back to Allah." in dezelfde stem als de video:
+   `./add_outro.sh out/<id>-vo.mp4 charon|puck out/<id>-final.mp4` (video a → charon, video b → puck). **Post altijd `<id>-final.mp4`.**
+   (De afsluiter is vooraf gemaakt: engine/outro.mp4 + engine/outro_charon.wav / outro_puck.wav; opnieuw maken: `node render.js stories/_outro.json 0 108 engine/outro.mp4 8170`.)
    - Later mag ElevenLabs (connector) i.p.v. Speko als de gebruiker een abonnement heeft — zelfde stijl: diepe warme Franse mannenstem.
 4. **Commit** de story-JSON's op `main` en push. Zet de video's op een orphan branch `media-YYYY-MM-DD` (map `v/`), push die branch.
-   Publieke URL: `https://raw.githubusercontent.com/nasserseptember-glitch/backk2allah-videos/media-YYYY-MM-DD/v/<id>.mp4`
+   Publieke URL: `https://raw.githubusercontent.com/nasserseptember-glitch/backk2allah-videos/media-YYYY-MM-DD/v/<id>-final.mp4`
    Verwijder media-branches ouder dan 3 dagen (`git push origin --delete media-...`).
 5. **Plan in via Metricool** (`createScheduledPost`, blogId 7687333), per video één post met providers instagram + tiktok + youtube:
    - Tijden: `getBestTimeToPostByNetwork` (instagram) voor vandaag; kies de piek in de ochtend (9–12u) voor video a en de avondpiek (17–20u) voor video b. Moet minstens 45 min in de toekomst liggen; anders beide in de avond, ≥2 u uit elkaar.
