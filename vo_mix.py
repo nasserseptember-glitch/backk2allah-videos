@@ -78,8 +78,8 @@ for k, ((t0, t1, txt), s0, s1) in enumerate(zip(L, starts, ends)):
 tmp = tempfile.mkdtemp()
 wavfile.write(f'{tmp}/vo.wav', OSR, (np.clip(vo, -1, 1) * 32767).astype(np.int16))
 subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', vin, '-i', f'{tmp}/vo.wav', '-filter_complex',
-                '[1:a]aformat=channel_layouts=stereo,highpass=f=70,acompressor=threshold=-20dB:ratio=3:attack=10:release=200,volume=1.6,asplit[v1][v2];'
-                '[0:a][v1]sidechaincompress=threshold=0.03:ratio=6:attack=20:release=400[duck];'
+                '[1:a]aformat=channel_layouts=stereo,highpass=f=80,equalizer=f=3000:t=q:w=1.2:g=3,acompressor=threshold=-22dB:ratio=4:attack=8:release=180,volume=2.4,asplit[v1][v2];'
+                '[0:a]volume=0.55[bg];[bg][v1]sidechaincompress=threshold=0.02:ratio=10:attack=15:release=450[duck];'
                 '[duck][v2]amix=inputs=2:normalize=0,loudnorm=I=-14:TP=-1.5[a]',
                 '-map', '0:v', '-map', '[a]', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', vout], check=True)
 print('mixed ->', vout)
