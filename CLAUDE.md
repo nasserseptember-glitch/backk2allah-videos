@@ -2,7 +2,7 @@
 
 Automatische productie van korte islamitische reminder-video's (Frans) voor het account van Nasser:
 Instagram @backk.2allah, TikTok @backk2allah2, YouTube (via Metricool, brand/blogId **7687333**, timezone Europe/Brussels).
-Stijl: 3D low-poly, eerste persoon, HUD-klokje links, korte Franse captions in cursief, zwart eindscherm met gouden vraag. Geen voice-over.
+Stijl: 3D low-poly, eerste persoon, HUD-klokje links, korte Franse captions in cursief, zwart eindscherm met gouden vraag. Franse voice-over (zie stap 3b).
 
 ## Dagelijkse routine (2 video's per dag)
 
