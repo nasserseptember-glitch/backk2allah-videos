@@ -15,6 +15,13 @@ Stijl: 3D low-poly, eerste persoon, HUD-klokje links, korte Franse captions in c
 3. **Render** elk verhaal (± 25–35 min per video, CPU):
    `./make_video.sh stories/<id>.json out/<id>.mp4`
    Controleer daarna een paar frames: `ffmpeg -i out/<id>.mp4 -vf "fps=1/4,scale=180:-1,tile=8x2" /tmp/check.png` en bekijk ze.
+3b. **Voice-over (Frans, verplicht)** per video:
+   - `python3 vo_mix.py script stories/<id>.json` geeft de vertelling (regels gescheiden door `... ...`). Schrijf tijden uit in woorden ("02:14" → "Deux heures quatorze").
+   - Speko `audio_synthesize` met `{"model":"gpt-4o-mini-tts","voice":"onyx","intent":{"language":"fr","optimizeFor":"accuracy"},"constraints":{"allowedProviders":{"tts":["openai:gpt-4o-mini-tts"]}}, "instructions": "Parle en français naturel avec une voix masculine grave, chaude et posée, comme un narrateur de rappels islamiques. Calme, sincère, intime. Rythme lent. Vraie pause à chaque '... ...'. 'Allah' doucement, sans accent arabe exagéré. Le verset avec révérence. Fin douce et rassurante. Pas théâtral.", "text": ...}`.
+     Het resultaat is groot en wordt in een tool-results-bestand gezet: `jq -r .audio_base64 <bestand> | base64 -d > out/vo/<id>.wav`; `jq -r .url <bestand>` geeft een link (15 min geldig).
+   - Speko `audio_transcribe` (audio_url = die link, language "fr", word_timestamps true) → bepaal per vertelregel [start_s, eind_s] en schrijf die lijst naar `out/vo/<id>.segs.json` (aantal = aantal regels).
+   - `python3 vo_mix.py mix stories/<id>.json out/vo/<id>.wav out/<id>.mp4 out/<id>-vo.mp4 out/vo/<id>.segs.json` → gebruik **`<id>-vo.mp4`** om te posten.
+   - Later mag ElevenLabs (connector) i.p.v. Speko als de gebruiker een abonnement heeft — zelfde stijl: diepe warme Franse mannenstem.
 4. **Commit** de story-JSON's op `main` en push. Zet de video's op een orphan branch `media-YYYY-MM-DD` (map `v/`), push die branch.
    Publieke URL: `https://raw.githubusercontent.com/nasserseptember-glitch/backk2allah-videos/media-YYYY-MM-DD/v/<id>.mp4`
    Verwijder media-branches ouder dan 3 dagen (`git push origin --delete media-...`).

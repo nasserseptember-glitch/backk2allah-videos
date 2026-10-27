@@ -28,7 +28,8 @@ if sys.argv[1] == 'script':
     print('\n\n... ...\n\n'.join(clean(t) for _, _, t in lines(S)))
     sys.exit()
 
-_, _, sp, vop, vin, vout = sys.argv
+sp, vop, vin, vout = sys.argv[2:6]
+SEGS = json.load(open(sys.argv[6])) if len(sys.argv) > 6 else None  # optional [[start_s, end_s], ...] per line (from word timestamps)
 S = json.load(open(sp)); L = lines(S)
 sr, x = wavfile.read(vop); x = x.astype(np.float32) / 32768
 if x.ndim > 1: x = x.mean(1)
@@ -45,27 +46,34 @@ while i < len(voiced):
         i = j
     else: i += 1
 need = len(L) - 1
-gaps = sorted(sorted(gaps, reverse=True)[:need], key=lambda g: g[1])
-if len(gaps) != need: sys.exit(f'could not split narration: {len(gaps)} gaps for {len(L)} lines')
-starts = [int(np.argmax(voiced))] + [g[2] for g in gaps]
-ends = [g[1] for g in gaps] + [len(voiced) - int(np.argmax(voiced[::-1]))]
+if SEGS:
+    if len(SEGS) != len(L): sys.exit(f'segments file has {len(SEGS)} entries for {len(L)} lines')
+    starts = [int(a / 0.01) for a, b in SEGS]; ends = [int(b / 0.01) + 8 for a, b in SEGS]
+else:
+    gaps = sorted(sorted(gaps, reverse=True)[:need], key=lambda g: g[1])
+    if len(gaps) != need: sys.exit(f'could not split narration: {len(gaps)} gaps for {len(L)} lines')
+    starts = [int(np.argmax(voiced))] + [g[2] for g in gaps]
+    ends = [g[1] for g in gaps] + [len(voiced) - int(np.argmax(voiced[::-1]))]
 dur = sum(s['dur'] for s in S['segments'])
 OSR = 48000
 vo = np.zeros(int(OSR * dur) + OSR)
+prev_end = 0.0
 for k, ((t0, t1, txt), s0, s1) in enumerate(zip(L, starts, ends)):
+    t0 = max(t0, prev_end + 0.15)
     seg = x[max(0, (s0 - 4) * hop):(s1 + 6) * hop]
     seg = resample_poly(seg, OSR, sr)
     nxt = L[k + 1][0] if k + 1 < len(L) else dur
     room = nxt - t0 - 0.15
     ln = len(seg) / OSR
     if ln > room and room > 0.5:  # speed up slightly (max 1.25x) via resampling-free time compression
-        f = min(1.25, ln / room)
+        f = min(1.12, ln / room)
         tmp = tempfile.mkdtemp(); wavfile.write(f'{tmp}/i.wav', OSR, (seg * 32767).astype(np.int16))
         subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', f'{tmp}/i.wav', '-af', f'atempo={f:.3f}', f'{tmp}/o.wav'], check=True)
         seg = wavfile.read(f'{tmp}/o.wav')[1].astype(np.float32) / 32768
     i0 = int(t0 * OSR); n = min(len(seg), len(vo) - i0)
     fade = np.ones(n); fl = min(n, int(0.02 * OSR)); fade[:fl] = np.linspace(0, 1, fl); fade[-fl:] = np.linspace(1, 0, fl)
     vo[i0:i0 + n] += seg[:n] * fade
+    prev_end = t0 + len(seg) / OSR
     print(f'{t0:6.2f}s  {ln:4.1f}s/{room:4.1f}s  {clean(txt)[:60]}')
 tmp = tempfile.mkdtemp()
 wavfile.write(f'{tmp}/vo.wav', OSR, (np.clip(vo, -1, 1) * 32767).astype(np.int16))
