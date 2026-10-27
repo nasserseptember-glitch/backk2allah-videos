@@ -1,0 +1,157 @@
+{
+ "id": "2026-10-27-jumua",
+ "segments": [
+  {
+   "scene": "street",
+   "dur": 10,
+   "opts": {
+    "dayFrom": 0.0,
+    "dayTo": 0.15,
+    "clock": "12:58"
+   }
+  },
+  {
+   "scene": "mosque_ext",
+   "dur": 10,
+   "opts": {
+    "time": "dawn",
+    "speed": 1.0
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 12,
+   "opts": {
+    "ruku": [
+     [
+      5.6,
+      9.2
+     ]
+    ],
+    "povBow": true
+   }
+  },
+  {
+   "scene": "dinner",
+   "dur": 7,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 6
+  }
+ ],
+ "hook": {
+  "t0": 0.4,
+  "t1": 4.2,
+  "text": "Ce vendredi, qu'est-ce qui passera avant ta Jumu'a ?",
+  "gold": [
+   "vendredi,",
+   "jumu'a"
+  ]
+ },
+ "hud": [
+  {
+   "t0": 0.8,
+   "t1": 9.9,
+   "label": "VENDREDI",
+   "time": "12:58"
+  },
+  {
+   "t0": 10.2,
+   "t1": 19.9,
+   "label": "VENDREDI",
+   "time": "13:10",
+   "sub": "EN ROUTE VERS LA MOSQUÉE"
+  },
+  {
+   "t0": 31.4,
+   "t1": 42.9,
+   "label": "JUMU'A",
+   "time": "13:30",
+   "sub": "LE RENDEZ-VOUS DE LA SEMAINE"
+  }
+ ],
+ "captions": [
+  [
+   4.4,
+   7.3,
+   "Vendredi, 12:58. Les messages n'arrêtent pas."
+  ],
+  [
+   7.5,
+   9.8,
+   "Encore une réunion. Encore une excuse."
+  ],
+  [
+   10.6,
+   13.6,
+   "Puis tu ranges ton téléphone."
+  ],
+  [
+   13.8,
+   16.8,
+   "Tu marches vers la maison d'Allah."
+  ],
+  [
+   17.0,
+   19.8,
+   "Des frères venus de partout."
+  ],
+  [
+   31.8,
+   35.0,
+   "Épaule contre épaule. Un seul rang."
+  ],
+  [
+   35.2,
+   38.8,
+   "Riche ou pauvre, ici tout le monde s'incline."
+  ],
+  [
+   39.0,
+   42.7,
+   "Le monde peut bien attendre une heure."
+  ],
+  [
+   43.6,
+   46.6,
+   "Tu rentres, le cœur plus léger."
+  ],
+  [
+   46.8,
+   49.7,
+   "Le plus beau rendez-vous de ta semaine."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 20.4,
+   "t1": 30.8,
+   "text": "« Ô vous qui avez cru ! Quand on appelle à la Salât du jour du Vendredi, accourez à l'invocation d'Allah et laissez tout négoce. »",
+   "ref": "Sourate Al-Jumuʿa — 62:9"
+  }
+ ],
+ "end": {
+  "t0": 50.6,
+  "t1": 56.0,
+  "text": "Ce vendredi, qu'est-ce qui passera avant ta Jumu'a ?",
+  "goldT0": 52.3,
+  "gold": "Laisse tout. Accours vers Allah."
+ },
+ "goldWords": [
+  "allah.",
+  "allah",
+  "jumu'a",
+  "vendredi,"
+ ],
+ "post": {
+  "caption": "Ce vendredi, qu'est-ce qui passera avant ta Jumu'a ? 🤍\n\n« Ô vous qui avez cru ! Quand on appelle à la Salât du jour du Vendredi, accourez à l'invocation d'Allah et laissez tout négoce. » (62:9)\n\nLe monde peut bien attendre une heure. 🕌",
+  "hashtags": "#jumua #vendredi #rappel #islam #rappelislamique #salat #mosquee #muslim",
+  "youtube_title": "Ce vendredi, qu'est-ce qui passera avant ta Jumu'a ? 🕌 #rappel #islam"
+ }
+}
