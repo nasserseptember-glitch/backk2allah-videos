@@ -1,0 +1,77 @@
+"""Voice-over helper.
+  python3 vo_mix.py script <story.json>                 -> prints the narration text to send to TTS (one line per caption, long pauses between)
+  python3 vo_mix.py mix <story.json> <vo.wav> <in.mp4> <out.mp4>
+      splits the narration at the N-1 longest pauses, places each line at its caption start, ducks the sound design, remuxes.
+"""
+import sys, json, subprocess, tempfile, os
+import numpy as np
+from scipy.io import wavfile
+from scipy.signal import resample_poly
+
+def lines(S):
+    L = []
+    if S.get('hook'): L.append((S['hook']['t0'] + 0.2, S['hook']['t1'], S['hook']['text']))
+    for a, b, t in S.get('captions', []): L.append((a + 0.1, b, t))
+    for a, b, t in S.get('big', []): L.append((a + 0.1, b, t))
+    for v in S.get('verses', []):
+        name, num = [p.strip() for p in v['ref'].split('—')]
+        verse = num.split(':')[1].replace('-', ' à ')
+        L.append((v['t0'] + 0.3, v['t1'], v['text'].strip('«» .') + '. ' + name + ', verset ' + verse + '.'))
+    if S.get('end') and S['end'].get('gold'): L.append((S['end']['goldT0'] + 0.1, S['end']['t1'], S['end']['gold']))
+    L.sort()
+    return L
+
+def clean(t): return t.replace(' ', ' ').replace(' ', ' ').replace('«', '').replace('»', '').strip()
+
+if sys.argv[1] == 'script':
+    S = json.load(open(sys.argv[2]))
+    print('\n\n... ...\n\n'.join(clean(t) for _, _, t in lines(S)))
+    sys.exit()
+
+_, _, sp, vop, vin, vout = sys.argv
+S = json.load(open(sp)); L = lines(S)
+sr, x = wavfile.read(vop); x = x.astype(np.float32) / 32768
+if x.ndim > 1: x = x.mean(1)
+# energy envelope
+hop = int(sr * 0.01); e = np.sqrt(np.convolve(x ** 2, np.ones(hop * 3) / (hop * 3), 'same'))[::hop]
+voiced = e > max(0.01, np.percentile(e, 70) * 0.12)
+# runs of silence
+gaps = []; i = 0
+while i < len(voiced):
+    if not voiced[i]:
+        j = i
+        while j < len(voiced) and not voiced[j]: j += 1
+        if i > 0 and j < len(voiced): gaps.append((j - i, i, j))
+        i = j
+    else: i += 1
+need = len(L) - 1
+gaps = sorted(sorted(gaps, reverse=True)[:need], key=lambda g: g[1])
+if len(gaps) != need: sys.exit(f'could not split narration: {len(gaps)} gaps for {len(L)} lines')
+starts = [int(np.argmax(voiced))] + [g[2] for g in gaps]
+ends = [g[1] for g in gaps] + [len(voiced) - int(np.argmax(voiced[::-1]))]
+dur = sum(s['dur'] for s in S['segments'])
+OSR = 48000
+vo = np.zeros(int(OSR * dur) + OSR)
+for k, ((t0, t1, txt), s0, s1) in enumerate(zip(L, starts, ends)):
+    seg = x[max(0, (s0 - 4) * hop):(s1 + 6) * hop]
+    seg = resample_poly(seg, OSR, sr)
+    nxt = L[k + 1][0] if k + 1 < len(L) else dur
+    room = nxt - t0 - 0.15
+    ln = len(seg) / OSR
+    if ln > room and room > 0.5:  # speed up slightly (max 1.25x) via resampling-free time compression
+        f = min(1.25, ln / room)
+        tmp = tempfile.mkdtemp(); wavfile.write(f'{tmp}/i.wav', OSR, (seg * 32767).astype(np.int16))
+        subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', f'{tmp}/i.wav', '-af', f'atempo={f:.3f}', f'{tmp}/o.wav'], check=True)
+        seg = wavfile.read(f'{tmp}/o.wav')[1].astype(np.float32) / 32768
+    i0 = int(t0 * OSR); n = min(len(seg), len(vo) - i0)
+    fade = np.ones(n); fl = min(n, int(0.02 * OSR)); fade[:fl] = np.linspace(0, 1, fl); fade[-fl:] = np.linspace(1, 0, fl)
+    vo[i0:i0 + n] += seg[:n] * fade
+    print(f'{t0:6.2f}s  {ln:4.1f}s/{room:4.1f}s  {clean(txt)[:60]}')
+tmp = tempfile.mkdtemp()
+wavfile.write(f'{tmp}/vo.wav', OSR, (np.clip(vo, -1, 1) * 32767).astype(np.int16))
+subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', vin, '-i', f'{tmp}/vo.wav', '-filter_complex',
+                '[1:a]aformat=channel_layouts=stereo,highpass=f=70,acompressor=threshold=-20dB:ratio=3:attack=10:release=200,volume=1.6,asplit[v1][v2];'
+                '[0:a][v1]sidechaincompress=threshold=0.03:ratio=6:attack=20:release=400[duck];'
+                '[duck][v2]amix=inputs=2:normalize=0,loudnorm=I=-14:TP=-1.5[a]',
+                '-map', '0:v', '-map', '[a]', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', vout], check=True)
+print('mixed ->', vout)
