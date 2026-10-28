@@ -1,0 +1,138 @@
+{
+ "id": "2026-10-28-b",
+ "segments": [
+  {
+   "scene": "dinner",
+   "dur": 14,
+   "opts": {
+    "family": [
+     "mother",
+     "sibling"
+    ],
+    "sad": true
+   }
+  },
+  {
+   "scene": "seaside",
+   "dur": 12,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 11
+  },
+  {
+   "scene": "living",
+   "dur": 11,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 7
+  }
+ ],
+ "hook": {
+  "t0": 0.4,
+  "t1": 4.2,
+  "text": "Qu'est-ce que tu peux encore faire pour lui ?",
+  "gold": [
+   "encore"
+  ]
+ },
+ "hud": [
+  {
+   "t0": 0.8,
+   "t1": 13.8,
+   "label": "CE SOIR",
+   "time": "20:14",
+   "sub": "UNE CHAISE VIDE"
+  },
+  {
+   "t0": 14.3,
+   "t1": 25.8,
+   "label": "L'AN DERNIER",
+   "time": "18:40",
+   "sub": "AVEC PAPA"
+  },
+  {
+   "t0": 37.3,
+   "t1": 47.8,
+   "label": "CE SOIR",
+   "time": "22:47",
+   "sub": "UNE DUA POUR LUI"
+  }
+ ],
+ "captions": [
+  [
+   4.4,
+   7.4,
+   "Ce soir, sa chaise est restée vide."
+  ],
+  [
+   7.6,
+   10.6,
+   "Personne n'ose s'asseoir à sa place."
+  ],
+  [
+   10.8,
+   13.8,
+   "Et toi, tu ne sais pas quoi dire."
+  ],
+  [
+   14.4,
+   17.6,
+   "L'an dernier, il marchait ici avec toi."
+  ],
+  [
+   17.8,
+   21.2,
+   "Il te disait : « N'oublie jamais ta prière. »"
+  ],
+  [
+   21.4,
+   25.0,
+   "Et tu répondais : « Plus tard, papa. »"
+  ],
+  [
+   37.4,
+   40.6,
+   "Ce soir, tu regardes ses vieilles photos."
+  ],
+  [
+   40.8,
+   44.0,
+   "Puis tu poses le téléphone. Tu lèves les mains."
+  ],
+  [
+   44.2,
+   47.7,
+   "Ses conseils vivent encore dans ta prière."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 26.4,
+   "t1": 36.6,
+   "text": "« Invoquez-Moi, Je vous répondrai. »",
+   "ref": "Sourate Ghâfir — 40:60"
+  }
+ ],
+ "end": {
+  "t0": 48.4,
+  "t1": 55.0,
+  "text": "Qu'est-ce que tu peux encore faire pour lui ?",
+  "goldT0": 50.2,
+  "gold": "Lève les mains. Fais une dua pour lui."
+ },
+ "goldWords": [
+  "papa.",
+  "prière.",
+  "dua",
+  "allah"
+ ],
+ "post": {
+  "caption": "Qu'est-ce que tu peux encore faire pour lui ? 🤍\n\n« Invoquez-Moi, Je vous répondrai. » (40 :60)\n\nCe soir, lève les mains et fais une dua pour ceux qui sont partis.",
+  "hashtags": "#dua #parents #rappel #islam #rappelislamique #pere #muslim #priere",
+  "youtube_title": "Qu'est-ce que tu peux encore faire pour lui ? 🤍 #rappel #islam"
+ }
+}

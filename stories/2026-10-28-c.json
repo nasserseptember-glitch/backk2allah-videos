@@ -1,0 +1,130 @@
+{
+ "id": "2026-10-28-c",
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 7
+  },
+  {
+   "scene": "street",
+   "dur": 13,
+   "opts": {
+    "dayFrom": 0.6,
+    "dayTo": 1.0,
+    "clock": "17:48"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11
+  },
+  {
+   "scene": "rooftop",
+   "dur": 14,
+   "opts": {
+    "phone": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7
+  }
+ ],
+ "hook": {
+  "t0": 0.4,
+  "t1": 4.4,
+  "text": "6 heures sur ton écran aujourd'hui. Et pour Allah ?",
+  "gold": [
+   "allah"
+  ]
+ },
+ "hud": [
+  {
+   "t0": 7.3,
+   "t1": 19.8,
+   "label": "TEMPS D'ÉCRAN 6H12",
+   "time": "17:48",
+   "sub": "POUR ALLAH : 0 MIN"
+  },
+  {
+   "t0": 31.3,
+   "t1": 44.8,
+   "label": "TEMPS POUR ALLAH 5 MIN",
+   "time": "21:03",
+   "sub": "ÉCRAN ÉTEINT"
+  }
+ ],
+ "captions": [
+  [
+   4.6,
+   6.9,
+   "Ton téléphone tient les comptes."
+  ],
+  [
+   7.4,
+   10.4,
+   "Dans le bus, dans la rue, au travail."
+  ],
+  [
+   10.6,
+   13.8,
+   "Une vidéo. Puis une autre. Puis cent."
+  ],
+  [
+   14.0,
+   17.0,
+   "Le soleil se couche sans toi."
+  ],
+  [
+   17.2,
+   19.8,
+   "Maghrib passe. Tu n'as rien vu."
+  ],
+  [
+   31.4,
+   34.6,
+   "Ce soir, tu montes sur le toit. Sans écran."
+  ],
+  [
+   34.8,
+   38.0,
+   "Les mêmes étoiles. Tu ne les voyais plus."
+  ],
+  [
+   38.2,
+   41.4,
+   "Cinq minutes. Juste toi et ton Seigneur."
+  ],
+  [
+   41.6,
+   44.7,
+   "Et ton cœur respire enfin."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 20.4,
+   "t1": 30.6,
+   "text": "« La vie présente n'est que jouissance trompeuse. »",
+   "ref": "Sourate Al-Hadîd — 57:20"
+  }
+ ],
+ "end": {
+  "t0": 45.4,
+  "t1": 52.0,
+  "text": "6 heures sur ton écran aujourd'hui. Et pour Allah ?",
+  "goldT0": 47.2,
+  "gold": "Donne-Lui cinq minutes. Ce soir."
+ },
+ "goldWords": [
+  "allah",
+  "seigneur.",
+  "enfin.",
+  "cinq"
+ ],
+ "post": {
+  "caption": "6 heures sur ton écran aujourd'hui. Et pour Allah ? 🤍\n\n« La vie présente n'est que jouissance trompeuse. » (57 :20)\n\nDonne-Lui cinq minutes ce soir. Ton cœur te remerciera.",
+  "hashtags": "#rappel #islam #rappelislamique #dunya #telephone #dhikr #muslim #salat",
+  "youtube_title": "6 heures sur ton écran aujourd'hui. Et pour Allah ? 🤍 #rappel #islam"
+ }
+}

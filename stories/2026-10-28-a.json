@@ -1,0 +1,138 @@
+{
+ "id": "2026-10-28-a",
+ "segments": [
+  {
+   "scene": "car_night",
+   "dur": 14,
+   "opts": {
+    "clock": "18:52"
+   }
+  },
+  {
+   "scene": "mosque_ext",
+   "dur": 10,
+   "opts": {
+    "time": "night",
+    "speed": 0.9
+   }
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 11,
+   "opts": {
+    "night": true,
+    "ruku": [
+     [
+      4.2,
+      7.8
+     ]
+    ],
+    "povBow": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 12
+  },
+  {
+   "scene": "black",
+   "dur": 7
+  }
+ ],
+ "hook": {
+  "t0": 0.4,
+  "t1": 4.2,
+  "text": "Qui t'a nourri jusqu'à aujourd'hui ?",
+  "gold": [
+   "nourri"
+  ]
+ },
+ "hud": [
+  {
+   "t0": 0.8,
+   "t1": 13.8,
+   "label": "LE LOYER DANS 3 JOURS",
+   "time": "18:52"
+  },
+  {
+   "t0": 14.3,
+   "t1": 34.8,
+   "label": "ISHA",
+   "time": "19:05",
+   "sub": "DIX MINUTES POUR ALLAH"
+  }
+ ],
+ "captions": [
+  [
+   4.4,
+   7.6,
+   "Le loyer dans trois jours. Le compte presque vide."
+  ],
+  [
+   7.8,
+   10.9,
+   "Tu refais les calculs. Encore et encore."
+  ],
+  [
+   11.1,
+   13.9,
+   "Et si je perds tout ? Et après ?"
+  ],
+  [
+   14.4,
+   17.6,
+   "Puis tu vois la lumière de la mosquée."
+  ],
+  [
+   17.8,
+   20.8,
+   "Tu te gares. Juste dix minutes."
+  ],
+  [
+   21.0,
+   23.9,
+   "Pour la première fois depuis des semaines."
+  ],
+  [
+   24.4,
+   27.6,
+   "Qui t'a nourri quand tu étais enfant ?"
+  ],
+  [
+   27.8,
+   31.0,
+   "Qui t'a sorti de ta dernière épreuve ?"
+  ],
+  [
+   31.2,
+   34.7,
+   "Ce n'était pas ton compte en banque."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 35.4,
+   "t1": 46.4,
+   "text": "« Et quiconque place sa confiance en Allah, Il lui suffit. »",
+   "ref": "Sourate At-Talâq — 65:3"
+  }
+ ],
+ "end": {
+  "t0": 47.2,
+  "t1": 54.0,
+  "text": "Qui t'a nourri jusqu'à aujourd'hui ?",
+  "goldT0": 49.0,
+  "gold": "Celui qui t'a porté jusqu'ici ne te lâchera pas."
+ },
+ "goldWords": [
+  "allah",
+  "allah.",
+  "nourri",
+  "mosquée."
+ ],
+ "post": {
+  "caption": "Qui t'a nourri jusqu'à aujourd'hui ? 🤍\n\n« Et quiconque place sa confiance en Allah, Il lui suffit. » (65 :3)\n\nCelui qui t'a porté jusqu'ici ne te lâchera pas.",
+  "hashtags": "#tawakkul #rappel #islam #rappelislamique #confiance #rizq #muslim #dua",
+  "youtube_title": "Qui t'a nourri jusqu'à aujourd'hui ? 🤍 #rappel #islam"
+ }
+}
