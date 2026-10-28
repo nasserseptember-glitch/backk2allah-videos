@@ -1,0 +1,37 @@
+{
+ "id": "lina-petit-arbre",
+ "segments": [{"scene": "c_lina", "dur": 49.2}],
+ "hud": [
+  {"t0": 0.4, "t1": 4.9, "label": "LE PETIT ARBRE", "sub": "UNE HISTOIRE DE LINA"},
+  {"t0": 11.6, "t1": 15.0, "label": "JOUR 7"},
+  {"t0": 22.7, "t1": 25.8, "label": "JOUR 15"},
+  {"t0": 25.9, "t1": 29.1, "label": "JOUR 30"},
+  {"t0": 29.3, "t1": 32.6, "label": "QUELQUES MOIS PLUS TARD"}
+ ],
+ "captions": [
+  [1.15, 4.4, "Lina : « Grand-mère, on plante quoi ? »"],
+  [4.8, 10.9, "Grand-mère : « Un petit arbre. Un peu d'eau chaque jour… comme la prière. »"],
+  [12.2, 14.6, "Lina : « Mais il ne pousse pas… »"],
+  [15.1, 21.2, "Grand-mère : « Patience, ma fille. Ce que tu fais chaque jour, Allah le fait grandir. »"],
+  [23.0, 28.6, "Alors Lina continue. Un peu d'eau, un peu de dhikr. Chaque jour."],
+  [29.75, 33.3, "Lina : « Grand-mère, regarde ! Il est devenu grand ! »"],
+  [33.55, 37.2, "Grand-mère : « Comme ta foi… quand tu la nourris chaque jour. »"],
+  [44.7, 48.9, "Les petites actions de chaque jour deviennent de grands arbres."]
+ ],
+ "verses": [
+  {"t0": 37.7, "t1": 44.4, "text": "« Allah est avec ceux qui sont endurants. »", "ref": "Sourate Al-Baqara — 2:153"}
+ ],
+ "goldWords": ["allah", "prière.", "patience,", "dhikr.", "foi…", "arbres."],
+ "fx": [
+  ["steps", 0.3, 4.8, 0.48], ["steps", 0.3, 4.9, 0.55],
+  ["dig", 5.25], ["dig", 5.7], ["dig", 6.15], ["thud", 6.6], ["pat", 7.5], ["pat", 7.9], ["pat", 8.3],
+  ["water", 9.1, 11.2], ["steps", 13.0, 15.0, 0.5], ["water", 22.9, 25.7],
+  ["chime", 6.8, 0.5], ["chime", 22.7, 0.4], ["chime", 25.9, 0.4], ["chime", 29.25, 1.0],
+  ["rustle", 29.2, 49.2]
+ ],
+ "post": {
+  "caption": "Le petit arbre de Lina 🌱\n\nUn peu d'eau, un peu de dhikr… chaque jour. Ce que tu fais avec patience, Allah le fait grandir.\n« Allah est avec ceux qui sont endurants. » (2:153)\n\nQuelle petite habitude vas-tu arroser aujourd'hui ? 🤍",
+  "hashtags": "#rappel #islam #patience #dhikr #foi #muslim #histoire #animation",
+  "youtube_title": "Le petit arbre de Lina 🌱 | Rappel islamique"
+ }
+}
