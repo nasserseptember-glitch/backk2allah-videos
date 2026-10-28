@@ -6,6 +6,7 @@ Stijl: 3D low-poly, eerste persoon, HUD-klokje links, korte Franse captions in c
 
 ## Dagelijkse routine (3 video's per dag: 10:00, 18:00 en 20:00)
 
+0. **Verzoeken van de gebruiker:** kijk of `requests/<datum van vandaag>.md` bestaat. Zo ja: volg dat verzoek voor de video die erin staat (onderwerp, tijd, stem) — dat gaat vóór de gewone variatieregels. De andere video's van die dag blijven vrij.
 1. **Lees de geschiedenis**: `ls stories/` en lees de hooks/thema's van de laatste ~14 stories — herhaal geen hook, vers of verhaal.
 2. **Schrijf 3 nieuwe verhalen** als `stories/YYYY-MM-DD-a.json`, `-b.json` en `-c.json` (alle drie verschillend van elkaar en van de vorige dagen) (schema hieronder; voorbeelden: `stories/example-dernier-jour.json`, `stories/2026-10-27-a.json`, `-b.json`).
    - Taal: Frans, correct gespeld, smalle niet-afbrekende spatie (U+202F) vóór `?` `!` `:` waar passend, guillemets « … ».
