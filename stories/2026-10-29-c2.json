@@ -1,0 +1,153 @@
+{
+ "id": "2026-10-29-c2",
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 6.5
+  },
+  {
+   "scene": "bed_dawn",
+   "dur": 15,
+   "opts": {
+    "phone": "feed",
+    "clock": "03:12",
+    "lowerPhone": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11
+  },
+  {
+   "scene": "rooftop",
+   "dur": 8,
+   "opts": {
+    "phone": false
+   }
+  },
+  {
+   "scene": "bed_morning",
+   "dur": 11,
+   "opts": {
+    "clock": "07:05",
+    "sub": "Jour 7"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.3,
+  "text": "2 h de scroll cette nuit. Et 10 minutes pour Lui ?",
+  "gold": [
+   "lui"
+  ]
+ },
+ "hud": [
+  {
+   "t0": 6.8,
+   "t1": 21.2,
+   "label": "TEMPS DE SCROLL 2H06",
+   "clock": [
+    "03:12",
+    "03:40"
+   ],
+   "sub": "ISTIGHFAR : 0"
+  },
+  {
+   "t0": 32.8,
+   "t1": 40.2,
+   "label": "LE DERNIER TIERS DE LA NUIT",
+   "time": "03:44",
+   "sub": "ASTAGHFIRULLAH"
+  },
+  {
+   "t0": 40.8,
+   "t1": 51.4,
+   "label": "JOUR 7",
+   "time": "07:05",
+   "sub": "10 MIN POUR LUI, CHAQUE NUIT"
+  }
+ ],
+ "captions": [
+  [
+   4.5,
+   6.4,
+   "Tu ne dors pas, de toute façon."
+  ],
+  [
+   6.8,
+   9.6,
+   "Trois heures du matin. Encore une vidéo."
+  ],
+  [
+   9.8,
+   13.0,
+   "Le dernier tiers de la nuit passe sous ton pouce."
+  ],
+  [
+   13.2,
+   16.8,
+   "Le moment le plus précieux… perdu à scroller."
+  ],
+  [
+   17.0,
+   21.2,
+   "Cette nuit, tu poses le téléphone. Tu te lèves."
+  ],
+  [
+   32.8,
+   35.8,
+   "Wudu. Deux rak'at. Astaghfirullah."
+  ],
+  [
+   36.0,
+   40.2,
+   "Dix minutes. Rien qu'entre toi et Lui."
+  ],
+  [
+   40.8,
+   45.2,
+   "Au matin, le même lit. Un autre cœur."
+  ],
+  [
+   45.4,
+   47.9,
+   "Une semaine après, tu attends cette heure-là."
+  ],
+  [
+   48.1,
+   51.4,
+   "Celle où personne ne te voit. Sauf Lui."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 21.8,
+   "t1": 32.2,
+   "text": "« Ils dormaient peu, la nuit, et aux dernières heures de la nuit ils imploraient le pardon. »",
+   "ref": "Sourate Adh-Dhâriyât — 51:17-18"
+  }
+ ],
+ "end": {
+  "t0": 51.8,
+  "t1": 58.2,
+  "text": "2 h de scroll cette nuit. Et 10 minutes pour Lui ?",
+  "goldT0": 53.6,
+  "gold": "Cette nuit : pose l'écran. Lève-toi pour Lui."
+ },
+ "goldWords": [
+  "lui",
+  "lui.",
+  "astaghfirullah.",
+  "wudu."
+ ],
+ "post": {
+  "caption": "2 h de scroll cette nuit. Et 10 minutes pour Lui ? 🤍\n\n« Ils dormaient peu, la nuit, et aux dernières heures de la nuit ils imploraient le pardon. » (51:17-18)\n\nWudu. Deux rak'at. Astaghfirullah. Cette nuit, pose l'écran et lève-toi pour Lui. 🤲",
+  "hashtags": "#tahajjud #istighfar #astaghfirullah #rappel #islam #rappelislamique #muslim #telephone",
+  "youtube_title": "2 h de scroll cette nuit. Et 10 minutes pour Lui ? 🤍 #tahajjud #islam"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "2026-10-29-b2",
+ "segments": [
+  {"scene": "black", "dur": 6.5},
+  {"scene": "car_night", "dur": 14, "opts": {"clock": "17:31"}},
+  {"scene": "black", "dur": 8},
+  {"scene": "mosque_ext", "dur": 9, "opts": {"time": "night"}},
+  {"scene": "mosque_int", "dur": 8, "opts": {"night": true, "rows": 3}},
+  {"scene": "black", "dur": 7}
+ ],
+ "hook": {"t0": 0.3, "t1": 4.3, "text": "83 messages répondus aujourd'hui. Et l'adhan ?", "gold": ["l'adhan"]},
+ "hud": [
+  {"t0": 6.8, "t1": 20.2, "label": "MESSAGES RÉPONDUS : 83", "clock": ["17:12", "17:38"], "sub": "ADHAN : IGNORÉ"},
+  {"t0": 28.8, "t1": 45.2, "label": "RÉPONDU À L'APPEL", "time": "17:41", "sub": "MAGHRIB"}
+ ],
+ "captions": [
+  [4.5, 6.4, "Tu réponds à tout le monde."],
+  [6.8, 9.8, "Le boss. Le groupe. Ta mère. En deux secondes."],
+  [10.0, 13.0, "Une vibration, et tu réponds aussitôt."],
+  [13.2, 16.4, "Puis l'adhan de Maghrib résonne."],
+  [16.6, 20.2, "Et lui, tu le laisses en « vu »."],
+  [28.8, 31.8, "Ce soir, le téléphone reste dans la poche."],
+  [32.0, 35.0, "Tu marches vers l'appel. En premier."],
+  [35.2, 38.4, "Le seul appel qui n'attend que toi."],
+  [38.6, 41.8, "Tu L'appelles. Il te répond."],
+  [42.0, 45.2, "Et ton cœur se pose enfin."]
+ ],
+ "verses": [
+  {"t0": 20.8, "t1": 28.2, "text": "« Invoquez-Moi, Je vous répondrai. »", "ref": "Sourate Ghâfir — 40:60"}
+ ],
+ "end": {"t0": 45.8, "t1": 52.2, "text": "83 messages répondus aujourd'hui. Et l'adhan ?", "goldT0": 47.6, "gold": "Au prochain adhan, réponds en premier."},
+ "goldWords": ["l'adhan", "maghrib", "l'appel.", "répond."],
+ "post": {
+  "caption": "83 messages répondus aujourd'hui. Et l'adhan ? 🤍\n\n« Invoquez-Moi, Je vous répondrai. » (40:60)\n\nTu réponds à tout le monde en deux secondes. Au prochain adhan, réponds en premier. 🕌",
+  "hashtags": "#rappel #islam #rappelislamique #salat #adhan #maghrib #muslim #telephone",
+  "youtube_title": "83 messages répondus aujourd'hui. Et l'adhan ? 🤍 #rappel #islam"
+ }
+}
