@@ -1,0 +1,141 @@
+{
+ "id": "2026-10-29-b",
+ "segments": [
+  {
+   "scene": "mosque_ext",
+   "dur": 13,
+   "opts": {
+    "time": "dawn",
+    "speed": 1.0
+   }
+  },
+  {
+   "scene": "street",
+   "dur": 11.5,
+   "opts": {
+    "dayFrom": 0.1,
+    "dayTo": 0.5,
+    "phone": false
+   }
+  },
+  {
+   "scene": "dinner",
+   "dur": 10,
+   "opts": {
+    "family": [
+     "father",
+     "mother",
+     "sibling"
+    ]
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11
+  },
+  {
+   "scene": "black",
+   "dur": 6.5
+  }
+ ],
+ "hook": {
+  "t0": 0.4,
+  "t1": 5.6,
+  "text": "Un salam, un sourire, un merci. Ça pèse combien ?",
+  "gold": [
+   "combien"
+  ]
+ },
+ "hud": [
+  {
+   "t0": 5.9,
+   "t1": 12.9,
+   "label": "PETITES ACTIONS",
+   "time": "1 / 3",
+   "sub": "UN SALAM"
+  },
+  {
+   "t0": 13.2,
+   "t1": 24.3,
+   "label": "PETITES ACTIONS",
+   "time": "2 / 3",
+   "sub": "UN COUP DE MAIN"
+  },
+  {
+   "t0": 24.7,
+   "t1": 34.3,
+   "label": "PETITES ACTIONS",
+   "time": "3 / 3",
+   "sub": "UN MERCI"
+  }
+ ],
+ "captions": [
+  [
+   5.8,
+   9.3,
+   "Fajr. Le vieux voisin, à la porte de la mosquée."
+  ],
+  [
+   9.5,
+   12.9,
+   "Tu lui dis : As-salamu alaykum. Il sourit."
+  ],
+  [
+   13.2,
+   17.2,
+   "Midi. Tu tiens la porte. Tu laisses passer."
+  ],
+  [
+   17.4,
+   21.1,
+   "Un inconnu porte trop de sacs. Tu l'aides deux minutes."
+  ],
+  [
+   21.3,
+   24.2,
+   "Personne ne filme. Personne n'applaudit."
+  ],
+  [
+   24.7,
+   28.0,
+   "Le soir, ta mère pose le plat sur la table."
+  ],
+  [
+   28.2,
+   31.0,
+   "Tu lui dis : Merci, maman. Elle s'arrête."
+  ],
+  [
+   31.2,
+   34.3,
+   "Ça faisait longtemps qu'elle ne l'avait pas entendu."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 35.0,
+   "t1": 45.0,
+   "text": "« Quiconque fait un bien fût-ce du poids d'un atome, le verra. »",
+   "ref": "Sourate Az-Zalzala — 99:7"
+  }
+ ],
+ "end": {
+  "t0": 45.8,
+  "t1": 52.0,
+  "text": "Un salam, un sourire, un merci. Ça pèse combien ?",
+  "goldT0": 47.4,
+  "gold": "Rien n'est petit devant Allah."
+ },
+ "goldWords": [
+  "allah",
+  "allah.",
+  "sourit.",
+  "merci,",
+  "maman."
+ ],
+ "post": {
+  "caption": "Un salam, un sourire, un merci. Ça pèse combien ? 🤍\n\n« Quiconque fait un bien fût-ce du poids d'un atome, le verra. » (99:7)\n\nPersonne ne voit ? Allah voit. Rien n'est petit devant Lui.",
+  "hashtags": "#rappel #islam #rappelislamique #bonnesactions #sadaqa #muslim #akhlaq #sourire",
+  "youtube_title": "Un salam, un sourire, un merci. Ça pèse combien ? 🤍 #rappel #islam"
+ }
+}

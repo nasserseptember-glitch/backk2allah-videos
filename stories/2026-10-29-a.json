@@ -1,0 +1,176 @@
+{
+ "id": "2026-10-29-a",
+ "segments": [
+  {
+   "scene": "living",
+   "dur": 9,
+   "opts": {}
+  },
+  {
+   "scene": "rooftop",
+   "dur": 12,
+   "opts": {
+    "phone": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.5
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 10.5,
+   "opts": {
+    "night": true,
+    "ruku": [
+     [
+      4.2,
+      7.6
+     ]
+    ],
+    "povBow": true
+   }
+  },
+  {
+   "scene": "seaside",
+   "dur": 8.5,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 6.5
+  }
+ ],
+ "hook": {
+  "t0": 0.4,
+  "t1": 4.2,
+  "text": "Et si cette nuit, tu te levais pour Lui ?",
+  "gold": [
+   "nuit",
+   "lui"
+  ]
+ },
+ "hud": [
+  {
+   "t0": 0.6,
+   "t1": 8.8,
+   "label": "AVANT",
+   "time": "01:12",
+   "sub": "ENCORE RÉVEILLÉ"
+  },
+  {
+   "t0": 9.2,
+   "t1": 16.8,
+   "label": "AVANT",
+   "clock": [
+    "02:31",
+    "02:58"
+   ],
+   "sub": "LE SOMMEIL NE VIENT PAS"
+  },
+  {
+   "t0": 17.0,
+   "t1": 20.8,
+   "label": "LE DERNIER TIERS DE LA NUIT",
+   "time": "03:40"
+  },
+  {
+   "t0": 32.8,
+   "t1": 42.8,
+   "label": "TAHAJJUD",
+   "time": "03:52",
+   "sub": "ASTAGHFIRULLAH"
+  },
+  {
+   "t0": 43.3,
+   "t1": 51.2,
+   "label": "APRÈS",
+   "sub": "QUELQUES SEMAINES PLUS TARD"
+  }
+ ],
+ "captions": [
+  [
+   4.4,
+   8.8,
+   "Avant : la télé allumée, des soucis que tu ne dis à personne."
+  ],
+  [
+   9.3,
+   13.0,
+   "Tu scrolles jusqu'à pas d'heure. Le sommeil ne vient pas."
+  ],
+  [
+   13.2,
+   15.0,
+   "Même la prière te paraît lourde."
+  ],
+  [
+   15.2,
+   16.9,
+   "Tout semble bloqué."
+  ],
+  [
+   17.1,
+   20.8,
+   "Cette nuit, tu poses le téléphone. Tu te lèves."
+  ],
+  [
+   32.9,
+   36.6,
+   "Wudu. Deux rak'at dans le silence."
+  ],
+  [
+   36.8,
+   40.2,
+   "Tu murmures : Astaghfirullah. Encore et encore."
+  ],
+  [
+   40.4,
+   42.9,
+   "Et ton cœur, enfin, se pose."
+  ],
+  [
+   43.4,
+   46.2,
+   "Après : un cœur plus calme."
+  ],
+  [
+   46.4,
+   49.0,
+   "L'envie de prier qui revient."
+  ],
+  [
+   49.2,
+   51.3,
+   "Des portes qui s'ouvrent. Alhamdulillah."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 21.5,
+   "t1": 32.0,
+   "text": "« Ils dormaient peu, la nuit, et aux dernières heures de la nuit ils imploraient le pardon. »",
+   "ref": "Sourate Adh-Dhâriyât — 51:17-18"
+  }
+ ],
+ "end": {
+  "t0": 52.0,
+  "t1": 58.0,
+  "text": "Et si cette nuit, tu te levais pour Lui ?",
+  "goldT0": 53.6,
+  "gold": "Astaghfirullah. Il t'attend."
+ },
+ "goldWords": [
+  "astaghfirullah.",
+  "alhamdulillah.",
+  "nuit,",
+  "prière",
+  "pose.",
+  "calme."
+ ],
+ "post": {
+  "caption": "Et si cette nuit, tu te levais pour Lui ? 🤍\n\n« Ils dormaient peu, la nuit, et aux dernières heures de la nuit ils imploraient le pardon. » (51:17-18)\n\nLe dernier tiers de la nuit. Deux rak'at. Astaghfirullah. Il t'attend.",
+  "hashtags": "#tahajjud #istighfar #astaghfirullah #rappel #islam #rappelislamique #muslim #priere",
+  "youtube_title": "Avant et après le tahajjud 🤍 #rappel #islam"
+ }
+}
