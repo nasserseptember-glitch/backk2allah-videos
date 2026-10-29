@@ -61,6 +61,25 @@ De video "6 heures sur ton écran aujourd'hui. Et pour Allah ?" (`stories/2026-1
 
 Tip voor snelheid: render de 3 video's na elkaar (make_video.sh gebruikt al 2 CPU-kernen); maak tijdens het renderen al de stemclips via Speko.
 
+## Algemene tips (alle talen)
+- **Maak eerst de stemclips, dan pas de captiontijden + render.** Elke caption moet minstens (stemduur / 1,12) + 0,2 s lang zijn, anders loopt de stem achter op de tekst. Pas de tijden aan vóór `make_video.sh` (de tekst wordt mee gerenderd).
+- Gebruik nooit `pkill -f`/`pgrep -f` met een patroon uit je eigen commando (dat kill't je eigen shell). Wacht op achtergrondtaken via de melding.
+- `git pull --rebase` vóór elke push naar `main`: de Franse en de Engelse taak draaien tegelijk.
+
+## ENGELS ACCOUNT (aparte dagelijkse taak, vanaf 2026-10-30)
+Brand **Back2AllahENG, blogId 7737230** (Instagram @backk2allah.en, TikTok @back2Allah, YouTube Back2AllahEN), timezone Europe/Brussels.
+- Zelfde FORMAT als hierboven (krachtige hook met getal, HUD-teller, avant → vers → après, gouden opdracht), zelfde engine en variatieregels voor de beelden. **Eigen verhalen en onderwerpen**: geen vertaling van de Franse video's; kies onderwerpen/hooks die verschillen van de Franse video's van dezelfde dag en van alle `stories/*-en-*.json` van de laatste 7 dagen.
+- Bestanden: `stories/YYYY-MM-DD-en-a.json`, `-en-b.json`, `-en-c.json`, met `"lang": "en"` (zet Engelse afsluiter-tekst + @backk2allah.en en Engelse vers-uitspraak in vo_mix).
+- Engels: natuurlijk, kort, "you"-vorm, geen Franse typografie; aanhalingstekens “ … ”. Voorbeeld: `stories/2026-10-29-en-c.json`.
+- **Verzen ALLEEN letterlijk uit `verses_en.json`** (Sahih International, tekst + ref exact). Nooit zelf vertalen of hadith citeren.
+- Tijden: **en-a → 13:00 (Charon), en-b → 19:00 (Puck), en-c → 22:00 (Charon)**. Zelfde regel bij te laat: eerstvolgend vrij uur, en melden.
+- Stem (Speko, per regel, `intent.language: "en-US"`, zelfde model/provider-constraint als hierboven). Getallen en tijden voluit in woorden ("4 hours" → "Four hours"; vers: "Surah Ar-Ra'd, verse twenty-eight").
+  - Charon: "Read in English with a deep, warm, calm male voice, intimate and sincere, like a narrator of spiritual reminders speaking to one person. Slow pace, no theatrical emphasis. Say 'Allah' gently and with respect. Read Quran verses with reverence."
+  - Puck: "Read in English with a young but composed male voice, soft and natural, like a friend speaking gently, calm and sincere. Slow pace, no theatrical emphasis. Say 'Allah' gently and with respect. Read Quran verses with reverence. Encouraging ending."
+- Afsluiter: `./add_outro.sh out/<id>-vo.mp4 charon|puck out/<id>-final.mp4 en` (engine/outro_en.mp4 + outro_en_charon.wav / outro_en_puck.wav).
+- Media: orphan branch **`media-en-YYYY-MM-DD`** (map `v/`), URL `https://raw.githubusercontent.com/nasserseptember-glitch/backk2allah-videos/media-en-YYYY-MM-DD/v/<id>-final.mp4`. Verwijder `media-en-*` ouder dan 3 dagen (raak `media-YYYY-...` van de Franse taak niet aan).
+- Metricool: blogId **7737230**, zelfde providers/instellingen als stap 5 (REEL + isAiGenerated, TikTok title + isAigc, YouTube short PEOPLE_BLOGS). Engelse hashtags (#islamicreminder #islam #muslim #quran #deen + onderwerp).
+
 ## Story-schema (JSON)
 - `segments`: lijst van `{scene, dur, opts}`; scenes:
   - `bed_dawn` — in bed, vóór zonsopgang. opts: `phone: "alarm"|"feed"|"none"`, `clock`, `sub` (tekst op alarmscherm), `snoozeAt` (s, duim drukt "Répéter"), `lowerPhone` (telefoon zakt op het einde)
@@ -84,5 +103,6 @@ Tip voor snelheid: render de 3 video's na elkaar (make_video.sh gebruikt al 2 CP
 - `end`: `{t0, t1, text, goldT0, gold}`
 - `goldWords`: woorden die in captions goud kleuren
 - `post`: `{caption, hashtags, youtube_title}`
+- `lang`: `"en"` voor het Engelse account (anders Frans)
 
 Tests: `node render.js stories/<id>.json 0 0 /tmp/st 8160 --stills 3,15,30` maakt stills.

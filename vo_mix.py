@@ -15,8 +15,12 @@ def lines(S):
     for a, b, t in S.get('big', []): L.append((a + 0.1, b, t))
     for v in S.get('verses', []):
         name, num = [p.strip() for p in v['ref'].split('—')]
-        verse = num.split(':')[1].replace('-', ' à ')
-        L.append((v['t0'] + 0.3, v['t1'], v['text'].strip('«» .') + '. ' + name + ', verset ' + verse + '.'))
+        if S.get('lang') == 'en':
+            verse = num.split(':')[1].replace('-', ' to ')
+            L.append((v['t0'] + 0.3, v['t1'], v['text'].strip('“”" .') + '. ' + name + ', verse ' + verse + '.'))
+        else:
+            verse = num.split(':')[1].replace('-', ' à ')
+            L.append((v['t0'] + 0.3, v['t1'], v['text'].strip('«» .') + '. ' + name + ', verset ' + verse + '.'))
     if S.get('end') and S['end'].get('gold'): L.append((S['end']['goldT0'] + 0.1, S['end']['t1'], S['end']['gold']))
     L.sort()
     return L

@@ -1,0 +1,136 @@
+{
+ "id": "2026-10-29-en-c",
+ "lang": "en",
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 6.5
+  },
+  {
+   "scene": "street",
+   "dur": 14,
+   "opts": {
+    "dayFrom": 0.5,
+    "dayTo": 0.95,
+    "clock": "16:20"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9
+  },
+  {
+   "scene": "seaside",
+   "dur": 14,
+   "opts": {
+    "walk": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.3,
+  "text": "4 hours of overthinking today. 4 minutes of dhikr?",
+  "gold": [
+   "dhikr"
+  ]
+ },
+ "hud": [
+  {
+   "t0": 6.8,
+   "t1": 20.2,
+   "label": "OVERTHINKING 4H17",
+   "clock": [
+    "16:20",
+    "16:58"
+   ],
+   "sub": "DHIKR: 0 MIN"
+  },
+  {
+   "t0": 29.8,
+   "t1": 43.2,
+   "label": "DHIKR 4 MIN",
+   "time": "18:12",
+   "sub": "HEART: CALM"
+  }
+ ],
+ "captions": [
+  [
+   4.5,
+   7.0,
+   "Your mind never switches off."
+  ],
+  [
+   7.2,
+   9.8,
+   "That conversation. Again and again."
+  ],
+  [
+   10.0,
+   14.4,
+   "The bills. The future. What they think of you."
+  ],
+  [
+   14.6,
+   17.2,
+   "Your thoughts run faster than your feet."
+  ],
+  [
+   17.4,
+   20.3,
+   "And not once did you say His name."
+  ],
+  [
+   29.8,
+   33.0,
+   "Tonight, you sit by the sea. Phone away."
+  ],
+  [
+   33.2,
+   37.4,
+   "SubhanAllah. Alhamdulillah. Allahu Akbar."
+  ],
+  [
+   37.6,
+   40.3,
+   "The same worries. A lighter heart."
+  ],
+  [
+   40.5,
+   43.4,
+   "Four minutes. And your heart can breathe."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 20.8,
+   "t1": 29.2,
+   "text": "“Unquestionably, by the remembrance of Allah hearts are assured.”",
+   "ref": "Surah Ar-Ra'd — 13:28"
+  }
+ ],
+ "end": {
+  "t0": 43.8,
+  "t1": 50.2,
+  "text": "4 hours of overthinking today. 4 minutes of dhikr?",
+  "goldT0": 45.6,
+  "gold": "Tonight: 4 minutes of dhikr before you sleep."
+ },
+ "goldWords": [
+  "his",
+  "subhanallah.",
+  "alhamdulillah.",
+  "allahu",
+  "akbar.",
+  "breathe."
+ ],
+ "post": {
+  "caption": "4 hours of overthinking today. 4 minutes of dhikr? 🤍\n\n“Unquestionably, by the remembrance of Allah hearts are assured.” (13:28)\n\nTonight, before you sleep: SubhanAllah, Alhamdulillah, Allahu Akbar. Give your heart 4 minutes. 🤲",
+  "hashtags": "#islamicreminder #dhikr #islam #muslim #overthinking #anxiety #quran #deen",
+  "youtube_title": "4 hours of overthinking today. 4 minutes of dhikr? 🤍 #islam #dhikr"
+ }
+}
