@@ -4,6 +4,17 @@ Automatische productie van korte islamitische reminder-video's (Frans) voor het 
 Instagram @backk.2allah, TikTok @backk2allah2, YouTube (via Metricool, brand/blogId **7687333**, timezone Europe/Brussels).
 Stijl: 3D low-poly, eerste persoon, HUD-klokje links, korte Franse captions in cursief, zwart eindscherm met gouden vraag. Franse voice-over (zie stap 3b).
 
+## FORMAT VAN ALLE VIDEO'S (wens van de gebruiker, vanaf 2026-10-30) — gaat vóór de andere stijlregels
+De video "6 heures sur ton écran aujourd'hui. Et pour Allah ?" (`stories/2026-10-28-c.json`) werkte het best. **Alle 3 video's per dag volgen dit format**, telkens met een ander onderwerp, verhaal en beeld (geen chibi/cartoonstijl in de dagelijkse video's, tenzij een verzoek in `requests/` het vraagt). Lees dat bestand als voorbeeld van de opbouw, maar kopieer de tekst of het onderwerp niet.
+- **Krachtig begin (belangrijkst):** de hook staat er vanaf ±0,3 s, op zwart of over een sterk eerste beeld. Het is één korte, directe zin in de "tu"-vorm, uit het dagelijkse leven, liefst met een **concreet getal of tijdstip** en een **tegenstelling met Allah/de dood/de Akhira**. Max ±60 tekens, geen inleiding of "Et si…". De stem begint meteen met de hook.
+  Voorbeelden van het soort (niet letterlijk hergebruiken): « 47 notifications aujourd'hui. Combien d'appels à la prière ? » · « Tu as répondu à tout le monde. Sauf à Allah. » · « 2 h de série hier soir. 2 minutes pour Fajr ? » · « Ton téléphone : 100 %. Ton imân : ? » · « 3 000 pas pour le shopping. 0 vers la mosquée. »
+- **Eerste 7 s:** na de hook meteen een tweede korte zin die het pijnlijk concreet maakt, bv. « Ton téléphone tient les comptes. ». Geen trage opbouw en geen landschap zonder tekst.
+- **Teller/HUD als bewijs:** een HUD die het getal toont tegenover iets voor Allah, bv. "TEMPS D'ÉCRAN 6H12 / POUR ALLAH : 0 MIN" of "MESSAGES ENVOYÉS 83 / DUA : 0". Later in de video volgt een HUD die de verandering toont.
+- **Opbouw:** het herkenbare "avant" (korte zinnen van 2,5–3,5 s, ritme « Une vidéo. Puis une autre. Puis cent. ») → vers op zwart (alleen uit verses.json) → "après" met een kleine, haalbare stap → einde op zwart met de hook-vraag opnieuw + een gouden **concrete opdracht met tijd** (bv. « Donne-Lui cinq minutes. Ce soir. »).
+- **Toon:** confronterend maar liefdevol, nooit beschuldigend of angstzaaiend, met een hoopvol einde.
+- **Elke dag 3 verschillende onderwerpen**, nooit 2 keer hetzelfde getal of thema in een week. Denk aan: schermtijd, uitstellen van gebed, slapen tijdens Fajr, roddelen, muziek/series, geld vs sadaqa, ouders bellen, Koran die stof verzamelt, jaren die voorbijvliegen, wachten op "later", dua vergeten, dankbaarheid, enz.
+- De variatieregels hieronder (andere decors/openingsscènes/opts) blijven gelden voor de **beelden**: elke video ziet er anders uit (andere scenes, moment van de dag, HUD-label).
+
 ## Dagelijkse routine (3 video's per dag: 10:00, 18:00 en 20:00)
 
 0. **Verzoeken van de gebruiker:** kijk of `requests/<datum van vandaag>.md` bestaat. Zo ja: volg dat verzoek voor de video die erin staat (onderwerp, tijd, stem) — dat gaat vóór de gewone variatieregels. De andere video's van die dag blijven vrij.
