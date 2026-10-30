@@ -80,6 +80,16 @@ Brand **Back2AllahENG, blogId 7737230** (Instagram @backk2allah.en, TikTok @back
 - Media: orphan branch **`media-en-YYYY-MM-DD`** (map `v/`), URL `https://raw.githubusercontent.com/nasserseptember-glitch/backk2allah-videos/media-en-YYYY-MM-DD/v/<id>-final.mp4`. Verwijder `media-en-*` ouder dan 3 dagen (raak `media-YYYY-...` van de Franse taak niet aan).
 - Metricool: blogId **7737230**, zelfde providers/instellingen als stap 5 (REEL + isAiGenerated, TikTok title + isAigc, YouTube short PEOPLE_BLOGS). Engelse hashtags (#islamicreminder #islam #muslim #quran #deen + onderwerp).
 
+## ARABISCH (lang = "ar") — klaar in de engine, nog geen dagelijkse taak
+Brand **Back2Allah ARB, blogId 7763307** (Instagram @back2allah_arb, TikTok @Back2Allah.arb, YouTube). Voorbeeld: `stories/ar-test.json` (gepost 30/10 om 20:00).
+- Zelfde FORMAT (hook met getal, HUD, avant → vers → après, gouden opdracht). Taal: Modern Standaard-Arabisch (fusha), kort en eenvoudig, "أنت"-vorm. In de HUD: Arabisch label, cijfers apart in `time` (bv. label "وقت الشاشة اليوم", time "6:12"), niet cijfers in de label-tekst mengen.
+- **Verzen ALLEEN uit `verses_ar.json`** (tekst exact, met ﴿ ﴾; `ref` en `audio` overnemen in de story: `{"t0","t1","text","ref","audio"}`).
+- **De TTS-stem reciteert NOOIT de Koran.** De verteller zegt alleen "قال الله تعالى" (vo_mix doet dit automatisch), daarna plaatst vo_mix de echte recitatie van Alafasy (`engine/recit/<audio>`). Het `black`-segment van het vers moet ≥ 1,6 + duur van de recitatie (zie `cut_recit.py`-output / verses_ar.json) + 1,5 s zijn; zet het vers-`t0` op ±0,3 s na het begin van dat segment.
+- Stem (Speko, per regel, `intent.language: "ar"`, voice Charon, zelfde model/provider-constraint), met tashkeel in de gesproken tekst waar uitspraak twijfelachtig is. Instructie: "اقرأ باللغة العربية الفصحى بصوت رجل عميق ودافئ، هادئ وصادق، كراوٍ لتذكيرات إيمانية يتحدث إلى شخص واحد. إيقاع بطيء، بدون مبالغة مسرحية. انطق اسم الله بخشوع واحترام."
+- **Controleer de stem:** push de samengevoegde narratie als mp3 naar een media-branch en laat Speko `audio_transcribe` (language "ar") hem terugschrijven; elk woord moet kloppen, anders die regel opnieuw met meer tashkeel.
+- Afsluiter: `./add_outro.sh out/<id>-vo.mp4 charon out/<id>-final.mp4 ar`. Caption: hook + vers met [سورة: nummer] + opdracht + "التلاوة: الشيخ مشاري العفاسي" + Arabische hashtags.
+- Nieuwe recitaties toevoegen: mp3 per vers (everyayah-naam SSSAAA.mp3) in een map, entry met `cut` (start/eind-venster op pauzes van de qari) in verses_ar.json, `python3 cut_recit.py <map>`, daarna elk fragment transcriberen ter controle. (2:152 en 40:60 ontbreken nog.)
+
 ## Story-schema (JSON)
 - `segments`: lijst van `{scene, dur, opts}`; scenes:
   - `bed_dawn` — in bed, vóór zonsopgang. opts: `phone: "alarm"|"feed"|"none"`, `clock`, `sub` (tekst op alarmscherm), `snoozeAt` (s, duim drukt "Répéter"), `lowerPhone` (telefoon zakt op het einde)
@@ -103,6 +113,6 @@ Brand **Back2AllahENG, blogId 7737230** (Instagram @backk2allah.en, TikTok @back
 - `end`: `{t0, t1, text, goldT0, gold}`
 - `goldWords`: woorden die in captions goud kleuren
 - `post`: `{caption, hashtags, youtube_title}`
-- `lang`: `"en"` voor het Engelse account (anders Frans)
+- `lang`: `"en"` (Engels) of `"ar"` (Arabisch); anders Frans
 
 Tests: `node render.js stories/<id>.json 0 0 /tmp/st 8160 --stills 3,15,30` maakt stills.

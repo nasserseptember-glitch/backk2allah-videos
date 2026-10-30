@@ -3,7 +3,7 @@
   python3 vo_mix.py mix <story.json> <vo.wav> <in.mp4> <out.mp4>
       splits the narration at the N-1 longest pauses, places each line at its caption start, ducks the sound design, remuxes.
 """
-import sys, json, subprocess, tempfile, os
+import sys, os, json, subprocess, tempfile, os
 import numpy as np
 from scipy.io import wavfile
 from scipy.signal import resample_poly
@@ -80,6 +80,18 @@ for k, ((t0, t1, txt), s0, s1) in enumerate(zip(L, starts, ends)):
     fade = np.ones(n); fl = min(n, int(0.02 * OSR)); fade[:fl] = np.linspace(0, 1, fl); fade[-fl:] = np.linspace(1, 0, fl)
     vo[i0:i0 + n] += seg[:n] * fade
     prev_end = t0 + len(seg) / OSR
+    if S.get('lang') == 'ar' and txt == 'قال الله تعالى':  # Arabic: real recitation (Alafasy, engine/recit) right after the intro
+        v = next((v for v in S.get('verses', []) if v.get('audio') and v['t0'] <= t0 <= v['t1'] + 1), None)
+        if v:
+            rsr, r = wavfile.read(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'engine', 'recit', v['audio']))
+            r = r.astype(np.float32) / 32768
+            if r.ndim > 1: r = r.mean(1)
+            r = resample_poly(r, OSR, rsr)
+            nv = np.abs(x) > 0.02; nar = np.sqrt((x[nv] ** 2).mean()) if nv.any() else 0.1
+            rv = np.abs(r) > 0.02; r = r / (np.sqrt((r[rv] ** 2).mean()) + 1e-9) * nar * 0.85
+            r0 = prev_end + 0.25; i0 = int(r0 * OSR); n = min(len(r), len(vo) - i0)
+            vo[i0:i0 + n] += r[:n]; prev_end = r0 + n / OSR
+            print(f'{r0:6.2f}s  recitation {v["audio"]} {len(r) / OSR:4.1f}s (verse shown until {v["t1"]}s)')
     print(f'{t0:6.2f}s  {ln:4.1f}s/{room:4.1f}s  {clean(txt)[:60]}')
 tmp = tempfile.mkdtemp()
 wavfile.write(f'{tmp}/vo.wav', OSR, (np.clip(vo, -1, 1) * 32767).astype(np.int16))
