@@ -6,7 +6,9 @@
 <script>
 (async () => {
   const faces = [new FontFace('InterUI', 'url(fonts/Inter-SemiBold.otf)', { weight: '600' }), new FontFace('InterUI', 'url(fonts/Inter-Medium.otf)', { weight: '300 500' }),
-    new FontFace('LoraUI', 'url(fonts/Lora-Variable.ttf)', { weight: '400 700' }), new FontFace('LoraItalic', 'url(fonts/Lora-Italic-Variable.ttf)', { weight: '400 700', style: 'italic' })];
+    new FontFace('LoraUI', 'url(fonts/Lora-Variable.ttf)', { weight: '400 700' }), new FontFace('LoraItalic', 'url(fonts/Lora-Italic-Variable.ttf)', { weight: '400 700', style: 'italic' }),
+    new FontFace('ArNaskh', 'url(fonts/NotoNaskhArabic-Variable.ttf)', { weight: '400 700' }), new FontFace('ArAmiri', 'url(fonts/Amiri-Regular.ttf)', { weight: '400' }),
+    new FontFace('ArAmiri', 'url(fonts/Amiri-Bold.ttf)', { weight: '700' }), new FontFace('ArCairo', 'url(fonts/Cairo-Variable.ttf)', { weight: '200 1000' })];
   for (const f of faces) { await f.load(); document.fonts.add(f); }
   buildTextures();
   window.LOGO = new Image(); window.LOGO.src = 'logo.png'; await window.LOGO.decode();

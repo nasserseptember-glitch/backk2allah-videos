@@ -15,7 +15,9 @@ def lines(S):
     for a, b, t in S.get('big', []): L.append((a + 0.1, b, t))
     for v in S.get('verses', []):
         name, num = [p.strip() for p in v['ref'].split('—')]
-        if S.get('lang') == 'en':
+        if S.get('lang') == 'ar':  # verse shown in Arabic on screen; the narrator only introduces it (no TTS recitation of the Quran)
+            L.append((v['t0'] + 0.3, v['t1'], 'قال الله تعالى'))
+        elif S.get('lang') == 'en':
             verse = num.split(':')[1].replace('-', ' to ')
             L.append((v['t0'] + 0.3, v['t1'], v['text'].strip('“”" .') + '. ' + name + ', verse ' + verse + '.'))
         else:
