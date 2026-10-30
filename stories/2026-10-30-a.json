@@ -1,0 +1,146 @@
+{
+ "id": "2026-10-30-a",
+ "hook": {
+  "t0": 0.4,
+  "t1": 4.0,
+  "text": "Tu l'as raconté à 5 personnes. Pas à Allah.",
+  "gold": [
+   "allah."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 24.37,
+   "t1": 34.57,
+   "text": "« Nous sommes plus près de lui que sa veine jugulaire. »",
+   "ref": "Sourate Qâf — 50:16"
+  }
+ ],
+ "end": {
+  "t0": 49.26,
+  "t1": 55.66,
+  "text": "Tu l'as raconté à 5 personnes. Pas à Allah.",
+  "goldT0": 51.06,
+  "gold": "Ce soir, avant de dormir : raconte-Lui."
+ },
+ "segments": [
+  {
+   "scene": "dinner",
+   "dur": 13.43,
+   "opts": {
+    "family": [
+     "father",
+     "mother",
+     "sibling"
+    ]
+   }
+  },
+  {
+   "scene": "street",
+   "dur": 10.44,
+   "opts": {
+    "dayFrom": 0.55,
+    "dayTo": 1.0,
+    "clock": "19:05"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.3
+  },
+  {
+   "scene": "seaside",
+   "dur": 13.59,
+   "opts": {
+    "walk": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.3
+  }
+ ],
+ "hud": [
+  {
+   "t0": 4.5,
+   "t1": 23.67,
+   "label": "PERSONNES AU COURANT : 5",
+   "clock": [
+    "18:40",
+    "19:22"
+   ],
+   "sub": "DUA : 0"
+  },
+  {
+   "t0": 35.47,
+   "t1": 48.56,
+   "label": "DUA : 1",
+   "time": "19:48",
+   "sub": "LE CŒUR PLUS LÉGER"
+  }
+ ],
+ "captions": [
+  [
+   4.4,
+   7.33,
+   "Ta mère, ton frère, trois amis."
+  ],
+  [
+   7.53,
+   10.23,
+   "À table, tu en parles encore."
+  ],
+  [
+   10.43,
+   13.13,
+   "Tout le monde te donne un conseil."
+  ],
+  [
+   13.63,
+   16.66,
+   "Un vocal de trois minutes. Puis un autre."
+  ],
+  [
+   16.86,
+   20.67,
+   "Le soir tombe. Le poids est toujours là."
+  ],
+  [
+   20.87,
+   23.57,
+   "Et Allah ? Tu ne Lui as rien demandé."
+  ],
+  [
+   35.37,
+   38.35,
+   "Ce soir, tu t'assois face à la mer."
+  ],
+  [
+   38.55,
+   41.25,
+   "Tu lèves les mains. Sans téléphone."
+  ],
+  [
+   41.45,
+   45.38,
+   "Tu Lui racontes tout. Même ce que tu caches."
+  ],
+  [
+   45.58,
+   48.46,
+   "Et pour la première fois, tu te sens léger."
+  ]
+ ],
+ "goldWords": [
+  "allah",
+  "allah ?",
+  "lui",
+  "léger.",
+  "mains."
+ ],
+ "post": {
+  "caption": "Tu l'as raconté à 5 personnes. Pas à Allah. 🤍\n\n« Nous sommes plus près de lui que sa veine jugulaire. » (50:16)\n\nCe soir, avant de dormir : raconte-Lui. Il entend avant même que tu parles.",
+  "hashtags": "#rappel #islam #rappelislamique #dua #invocation #muslim #allah #coeur",
+  "youtube_title": "Tu l'as raconté à 5 personnes. Pas à Allah. 🤍 #rappel #islam"
+ }
+}

@@ -1,0 +1,139 @@
+{
+ "id": "2026-10-30-b",
+ "hook": {
+  "t0": 0.4,
+  "t1": 5.38,
+  "text": "3 saisons en une semaine. Ton Coran : 0 page.",
+  "gold": [
+   "coran",
+   "page."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 25.75,
+   "t1": 35.95,
+   "text": "« N'est-ce point par l'évocation d'Allah que se tranquillisent les cœurs ? »",
+   "ref": "Sourate Ar-Raʿd — 13:28"
+  }
+ ],
+ "end": {
+  "t0": 50.63,
+  "t1": 57.03,
+  "text": "3 saisons en une semaine. Ton Coran : 0 page.",
+  "goldT0": 52.43,
+  "gold": "Ce soir, une page avant ton épisode."
+ },
+ "segments": [
+  {
+   "scene": "rooftop",
+   "dur": 15.24,
+   "opts": {
+    "phone": true
+   }
+  },
+  {
+   "scene": "living",
+   "dur": 10.01
+  },
+  {
+   "scene": "black",
+   "dur": 11.3
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 13.57,
+   "opts": {
+    "night": true,
+    "rows": 2
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.3
+  }
+ ],
+ "hud": [
+  {
+   "t0": 5.88,
+   "t1": 25.05,
+   "label": "ÉPISODES CETTE SEMAINE : 24",
+   "clock": [
+    "23:41",
+    "24:52"
+   ],
+   "sub": "PAGES DU CORAN : 0"
+  },
+  {
+   "t0": 36.85,
+   "t1": 49.93,
+   "label": "PAGES DU CORAN : 7",
+   "time": "20:41",
+   "sub": "CETTE SEMAINE"
+  }
+ ],
+ "captions": [
+  [
+   5.78,
+   8.71,
+   "Le marque-page n'a pas bougé depuis Ramadan."
+  ],
+  [
+   8.91,
+   12.04,
+   "Un épisode sur le toit, pour souffler."
+  ],
+  [
+   12.24,
+   14.94,
+   "« Encore un. » Il est minuit passé."
+  ],
+  [
+   15.44,
+   18.14,
+   "Le lendemain soir, la série reprend."
+  ],
+  [
+   18.34,
+   21.67,
+   "Un épisode. Puis deux. Puis la saison."
+  ],
+  [
+   21.87,
+   24.95,
+   "Sur l'étagère, ton Coran prend la poussière."
+  ],
+  [
+   36.75,
+   39.45,
+   "Après Isha, tu restes cinq minutes de plus."
+  ],
+  [
+   39.65,
+   43.17,
+   "Tu ouvres le Coran. Une page. Pas plus."
+  ],
+  [
+   43.37,
+   46.93,
+   "Le lendemain, tu reviens. Puis encore."
+  ],
+  [
+   47.13,
+   49.83,
+   "Ton cœur avait soif de ces mots."
+  ]
+ ],
+ "goldWords": [
+  "coran",
+  "coran.",
+  "page.",
+  "cœur",
+  "mots."
+ ],
+ "post": {
+  "caption": "3 saisons en une semaine. Ton Coran : 0 page. 📖\n\n« N'est-ce point par l'évocation d'Allah que se tranquillisent les cœurs ? » (13:28)\n\nCe soir, une page avant ton épisode. Juste une. Ton cœur la reconnaîtra.",
+  "hashtags": "#rappel #islam #coran #rappelislamique #muslim #lecture #quran #deen",
+  "youtube_title": "3 saisons en une semaine. Ton Coran : 0 page. 📖 #rappel #islam"
+ }
+}

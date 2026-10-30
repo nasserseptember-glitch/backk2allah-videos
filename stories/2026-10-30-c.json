@@ -1,0 +1,126 @@
+{
+ "id": "2026-10-30-c",
+ "hook": {
+  "t0": 0.4,
+  "t1": 4.0,
+  "text": "« Je changerai plus tard. » Tu le dis depuis 7 ans.",
+  "gold": [
+   "tard."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 20.41,
+   "t1": 30.61,
+   "text": "« Ne désespérez pas de la miséricorde d'Allah. »",
+   "ref": "Sourate Az-Zumar — 39:53"
+  }
+ ],
+ "end": {
+  "t0": 43.74,
+  "t1": 50.33,
+  "text": "« Je changerai plus tard. » Tu le dis depuis 7 ans.",
+  "goldT0": 45.54,
+  "gold": "Pas plus tard. Ta prochaine prière, à l'heure."
+ },
+ "segments": [
+  {
+   "scene": "street",
+   "dur": 19.91,
+   "opts": {
+    "dayFrom": 0.0,
+    "dayTo": 1.0,
+    "phone": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.3
+  },
+  {
+   "scene": "mosque_ext",
+   "dur": 12.03,
+   "opts": {
+    "time": "dawn",
+    "speed": 1.0
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.49
+  }
+ ],
+ "hud": [
+  {
+   "t0": 4.5,
+   "t1": 19.71,
+   "label": "« PLUS TARD » DEPUIS 7 ANS",
+   "sub": "PROMESSES TENUES : 0"
+  },
+  {
+   "t0": 31.51,
+   "t1": 43.04,
+   "label": "AUJOURD'HUI",
+   "time": "06:41",
+   "sub": "FAJR : À L'HEURE"
+  }
+ ],
+ "captions": [
+  [
+   4.4,
+   7.1,
+   "À 19 ans : « après les études »."
+  ],
+  [
+   7.3,
+   10.0,
+   "À 22 ans : « après le mariage »."
+  ],
+  [
+   10.2,
+   13.69,
+   "À 25 ans : « quand j'aurai moins de travail »."
+  ],
+  [
+   13.89,
+   16.59,
+   "Les années passent plus vite que tes promesses."
+  ],
+  [
+   16.79,
+   19.61,
+   "Et « plus tard », personne ne te l'a promis."
+  ],
+  [
+   31.41,
+   34.11,
+   "Ce matin, tu n'attends plus."
+  ],
+  [
+   34.31,
+   37.09,
+   "Une prière. À l'heure. C'est tout."
+  ],
+  [
+   37.29,
+   39.99,
+   "Pas parfait. Juste commencé."
+  ],
+  [
+   40.19,
+   42.94,
+   "La porte était ouverte depuis sept ans."
+  ]
+ ],
+ "goldWords": [
+  "ouverte",
+  "l'heure.",
+  "commencé.",
+  "plus."
+ ],
+ "post": {
+  "caption": "« Je changerai plus tard. » Tu le dis depuis 7 ans. 🤍\n\n« Ne désespérez pas de la miséricorde d'Allah. » (39:53)\n\nPas plus tard. Ta prochaine prière, à l'heure. La porte est encore ouverte.",
+  "hashtags": "#rappel #islam #rappelislamique #salat #priere #tawba #muslim #maintenant",
+  "youtube_title": "« Je changerai plus tard. » Tu le dis depuis 7 ans. 🤍 #rappel #islam"
+ }
+}
