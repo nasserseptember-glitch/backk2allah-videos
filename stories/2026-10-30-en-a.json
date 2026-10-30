@@ -1,0 +1,137 @@
+{
+ "id": "2026-10-30-en-a",
+ "lang": "en",
+ "segments": [
+  {
+   "scene": "street",
+   "dur": 22.09,
+   "opts": {
+    "dayFrom": 0.3,
+    "dayTo": 0.45,
+    "clock": "12:41"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 14.54
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 14.29,
+   "opts": {
+    "walkIn": true,
+    "ruku": [
+     [
+      10,
+      14
+     ]
+    ],
+    "rows": 4
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.63
+  }
+ ],
+ "hud": [
+  {
+   "label": "WORK TODAY 8H00",
+   "clock": [
+    "12:41",
+    "12:58"
+   ],
+   "sub": "JUMU'AH: 0 MIN",
+   "t0": 4.47,
+   "t1": 21.99
+  },
+  {
+   "label": "JUMU'AH",
+   "time": "13:15",
+   "sub": "FOR ALLAH: 1 HOUR",
+   "t0": 37.03,
+   "t1": 50.82
+  }
+ ],
+ "captions": [
+  [
+   4.47,
+   8.26,
+   "It's Friday. And your calendar is full."
+  ],
+  [
+   8.46,
+   11.65,
+   "A call at one. Another at two."
+  ],
+  [
+   11.85,
+   15.17,
+   "The adhan rings out. You keep typing."
+  ],
+  [
+   15.37,
+   18.41,
+   "“Just this once,” you tell yourself."
+  ],
+  [
+   18.61,
+   21.59,
+   "Last Friday was “just this once” too."
+  ],
+  [
+   37.03,
+   39.86,
+   "So today, you close the laptop."
+  ],
+  [
+   40.06,
+   43.49,
+   "You walk in. You find your place in the row."
+  ],
+  [
+   43.69,
+   47.62,
+   "Shoulder to shoulder. No notifications."
+  ],
+  [
+   47.82,
+   50.42,
+   "The world can wait one hour."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 22.59,
+   "t1": 36.13,
+   "text": "“O you who have believed, when [the adhan] is called for the prayer on the day of Jumu'ah [Friday], then proceed to the remembrance of Allah and leave trade.”",
+   "ref": "Surah Al-Jumu'ah — 62:9"
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.27,
+  "text": "8 hours for your boss today. 1 hour for Allah?",
+  "gold": [
+   "Allah?"
+  ]
+ },
+ "end": {
+  "t0": 51.22,
+  "t1": 59.25,
+  "text": "8 hours for your boss today. 1 hour for Allah?",
+  "goldT0": 53.22,
+  "gold": "Next Friday, 12:30: close the laptop. Go to Jumu'ah."
+ },
+ "goldWords": [
+  "friday.",
+  "adhan",
+  "row.",
+  "hour."
+ ],
+ "post": {
+  "caption": "8 hours for your boss today. 1 hour for Allah? 🤍\n\nIt's Jumu'ah. The emails will still be there in an hour.\n\n“O you who have believed, when [the adhan] is called for the prayer on the day of Jumu'ah [Friday], then proceed to the remembrance of Allah and leave trade.” (62:9)\n\nNext Friday, 12:30: close the laptop. Go. 🕌",
+  "hashtags": "#islamicreminder #jumuah #jummahmubarak #friday #islam #muslim #quran #deen #salah",
+  "youtube_title": "8 hours for your boss today. 1 hour for Allah? 🕌 #jumuah #islam"
+ }
+}

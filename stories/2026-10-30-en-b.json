@@ -1,0 +1,132 @@
+{
+ "id": "2026-10-30-en-b",
+ "lang": "en",
+ "segments": [
+  {
+   "scene": "car_night",
+   "dur": 21.81,
+   "opts": {
+    "clock": "18:40"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.89
+  },
+  {
+   "scene": "dinner",
+   "dur": 14.84,
+   "opts": {
+    "family": [
+     "father",
+     "mother",
+     "sibling"
+    ]
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.61
+  }
+ ],
+ "hud": [
+  {
+   "label": "CALLS THIS WEEK 12",
+   "clock": [
+    "18:40",
+    "18:52"
+   ],
+   "sub": "MUM: 0",
+   "t0": 3.94,
+   "t1": 21.71
+  },
+  {
+   "label": "VISITS TO MUM 1",
+   "time": "19:30",
+   "sub": "HER WEEK: MADE",
+   "t0": 31.1,
+   "t1": 45.44
+  }
+ ],
+ "captions": [
+  [
+   3.94,
+   6.44,
+   "Your phone keeps the list."
+  ],
+  [
+   6.64,
+   10.81,
+   "The bank. Your manager. The delivery guy."
+  ],
+  [
+   11.01,
+   13.68,
+   "Her name? At the very bottom."
+  ],
+  [
+   13.88,
+   17.53,
+   "“I'll call her tomorrow.” You said that last week."
+  ],
+  [
+   17.73,
+   21.31,
+   "She never complains. She just waits."
+  ],
+  [
+   31.1,
+   34.22,
+   "Tonight, you don't call. You go."
+  ],
+  [
+   34.42,
+   37.29,
+   "Same table. The food she always makes."
+  ],
+  [
+   37.49,
+   41.32,
+   "She doesn't say much. But she can't stop smiling."
+  ],
+  [
+   41.52,
+   45.04,
+   "One hour of your week. The best hour of hers."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 22.31,
+   "t1": 30.2,
+   "text": "“So whoever does an atom's weight of good will see it.”",
+   "ref": "Surah Az-Zalzalah — 99:7"
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 3.74,
+  "text": "12 calls this week. Not one to your mother.",
+  "gold": [
+   "mother."
+  ]
+ },
+ "end": {
+  "t0": 45.84,
+  "t1": 52.85,
+  "text": "12 calls this week. Not one to your mother.",
+  "goldT0": 47.84,
+  "gold": "Tonight, before 9 PM: call your mother."
+ },
+ "goldWords": [
+  "her",
+  "go.",
+  "smiling.",
+  "hers."
+ ],
+ "post": {
+  "caption": "12 calls this week. Not one to your mother. 🤍\n\nShe never complains. She just waits.\n\n“So whoever does an atom's weight of good will see it.” (99:7)\n\nTonight, before 9 PM: call your mother. Or better, go and see her. 🤲",
+  "hashtags": "#islamicreminder #mother #parents #islam #muslim #quran #deen #family",
+  "youtube_title": "12 calls this week. Not one to your mother. 🤍 #islam #parents"
+ }
+}

@@ -68,7 +68,7 @@ function drawOverlay(g, t) {
   const capGold = (S.goldWords || ['allah', 'prière', 'prie', 'dua', 'allah.', 'allah,']).map(normW);
   for (const [a0, a1, s] of (S.captions || [])) { const al = fadeA(t, a0, a1, 0.3); if (al > 0) textBlock(g, s, W / 2, 1270, 'italic 400 44px LoraItalic', 900, 58, al, capGold); }
   for (const [a0, a1, s] of (S.big || [])) { const al = fadeA(t, a0, a1, 0.45); if (al > 0) { const sc = 1 + (t - a0) * 0.012; g.save(); g.translate(W / 2, 760); g.scale(sc, sc); textBlock(g, s, 0, 0, '600 70px LoraUI', 900, 84, al, null, GOLD); g.restore(); } }
-  for (const v of (S.verses || [])) { const a = fadeA(t, v.t0, v.t1, 0.6); if (a > 0) { textBlock(g, v.text, W / 2, 900, 'italic 400 58px LoraItalic', 880, 74, a, null, '#ffffff'); textBlock(g, v.ref, W / 2, 1010 + (v.text.length > 60 ? 70 : 0), '500 28px InterUI', 880, 40, a * 0.95, null, GOLD); } }
+  for (const v of (S.verses || [])) { const a = fadeA(t, v.t0, v.t1, 0.6); if (a > 0) { textBlock(g, v.text, W / 2, 900, 'italic 400 58px LoraItalic', 880, 74, a, null, '#ffffff'); g.font = 'italic 400 58px LoraItalic'; const vn = wrapLines(g, v.text, 880).length; textBlock(g, v.ref, W / 2, Math.max(1010 + (v.text.length > 60 ? 70 : 0), 900 + (vn - 1) * 37 + 95), '500 28px InterUI', 880, 40, a * 0.95, null, GOLD); } }
   if (S.end) { const e = S.end; let a = fadeA(t, e.t0, e.t1 + 1, 0.6); if (a > 0) { textBlock(g, e.text, W / 2, 880, '500 58px LoraUI', 820, 74, a, null, '#ffffff'); if (e.gold) { const a2 = fadeA(t, e.goldT0, e.t1 + 1, 0.6); if (a2 > 0) textBlock(g, e.gold, W / 2, 1070, 'italic 400 44px LoraItalic', 880, 56, a2, null, GOLD); } } }
 }
 const SCENES = { bed_dawn: sceneBed1, bed_morning: sceneBed2, street: sceneStreet, living: sceneLiving, grave: sceneGrave };
