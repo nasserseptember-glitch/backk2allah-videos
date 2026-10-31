@@ -108,6 +108,7 @@ Brand **Back2Allah ARB, blogId 7763307** (Instagram @back2allah_arb, TikTok @Bac
   - `black` — zwart scherm (voor vers of einde)
 - Tijden hieronder zijn **absolute seconden** vanaf het begin van de video.
 - `hook`: `{t0, t1, text, gold: [woorden in goud]}` (bovenaan)
+  - `hookBox: true` (story-niveau) zet een halfdonker vlak achter de hook; `box: true` per HUD-item doet hetzelfde voor de HUD. Gebruik bij heldere decors (seaside/zon, street overdag) samen met `capBox: true`.
 - `hud`: lijst `{t0, t1, label, time | clock: ["13:07","19:58"], sub, glitch, alpha}`
 - `captions`: `[[t0, t1, "tekst"], ...]` (max ~60 tekens, 2.5–4.5 s elk, nooit overlappend)
 - `big`: `[[t0, t1, "tekst"]]` grote gouden tekst in het midden
