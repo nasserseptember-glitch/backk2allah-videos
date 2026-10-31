@@ -1,0 +1,127 @@
+{
+ "id": "2026-10-31-en-a",
+ "lang": "en",
+ "capBox": true,
+ "segments": [
+  {
+   "scene": "living",
+   "dur": 22.38,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "bed_morning",
+   "dur": 12.76,
+   "opts": {
+    "clock": "08:10",
+    "sub": "Quran · 1 page"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.88
+  }
+ ],
+ "hud": [
+  {
+   "label": "PHONE UNLOCKS 96",
+   "clock": [
+    "21:10",
+    "21:48"
+   ],
+   "sub": "QURAN OPENED: 0",
+   "t0": 6.12,
+   "t1": 22.23
+  },
+  {
+   "label": "QURAN TODAY 1 PAGE",
+   "time": "08:10",
+   "sub": "PHONE: FACE DOWN",
+   "t0": 33.28,
+   "t1": 45.49
+  }
+ ],
+ "captions": [
+  [
+   6.12,
+   8.62,
+   "Your screen keeps the score."
+  ],
+  [
+   8.82,
+   12.05,
+   "A message. A reel. A message again."
+  ],
+  [
+   12.25,
+   15.48,
+   "On the shelf, a green book. Under the dust."
+  ],
+  [
+   15.68,
+   18.21,
+   "The last time you opened it? Ramadan."
+  ],
+  [
+   18.41,
+   21.88,
+   "It waited all year. Without a word."
+  ],
+  [
+   33.28,
+   35.91,
+   "This morning, the phone stays face down."
+  ],
+  [
+   36.11,
+   38.95,
+   "You blow off the dust. One page."
+  ],
+  [
+   39.15,
+   42.25,
+   "You don't understand every word. That's okay."
+  ],
+  [
+   42.45,
+   45.14,
+   "But your heart knows Who is speaking."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 22.88,
+   "t1": 32.48,
+   "text": "“We are closer to him than [his] jugular vein.”",
+   "ref": "Surah Qaf — 50:16"
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.92,
+  "text": "You unlocked your phone 96 times yesterday. Your Quran: 0.",
+  "gold": [
+   "Quran:"
+  ]
+ },
+ "end": {
+  "t0": 45.94,
+  "t1": 54.22,
+  "text": "You unlocked your phone 96 times yesterday. Your Quran: 0.",
+  "goldT0": 47.94,
+  "gold": "Today, before Dhuhr: one page. Just one."
+ },
+ "goldWords": [
+  "page.",
+  "speaking.",
+  "dust."
+ ],
+ "post": {
+  "caption": "You unlocked your phone 96 times yesterday. Your Quran: 0. 📖\n\nIt waited all year on the shelf. Without a word.\n\n“We are closer to him than [his] jugular vein.” (50:16)\n\nToday, before Dhuhr: one page. Just one. 🤍",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #readquran #quranreminder",
+  "youtube_title": "You unlocked your phone 96 times. Your Quran: 0. 📖 #islam #quran"
+ }
+}

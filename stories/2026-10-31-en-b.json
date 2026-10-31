@@ -1,0 +1,134 @@
+{
+ "id": "2026-10-31-en-b",
+ "lang": "en",
+ "capBox": true,
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 5.56
+  },
+  {
+   "scene": "street",
+   "dur": 17.48,
+   "opts": {
+    "dayFrom": 0.05,
+    "dayTo": 0.55,
+    "clock": "15:20"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "mosque_ext",
+   "dur": 13.63,
+   "opts": {
+    "time": "night"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.2
+  }
+ ],
+ "hud": [
+  {
+   "label": "COFFEES THIS MONTH 23",
+   "clock": [
+    "15:20",
+    "15:34"
+   ],
+   "sub": "SADAQA: 0",
+   "t0": 5.96,
+   "t1": 22.89
+  },
+  {
+   "label": "SADAQA TODAY",
+   "time": "17:15",
+   "sub": "ONE COFFEE",
+   "t0": 33.94,
+   "t1": 47.02
+  }
+ ],
+ "captions": [
+  [
+   5.96,
+   8.5,
+   "Your banking app remembers every one."
+  ],
+  [
+   8.7,
+   13.46,
+   "Coffee. Lunch. A delivery. Another coffee."
+  ],
+  [
+   13.66,
+   16.17,
+   "Each time, you tap without thinking."
+  ],
+  [
+   16.37,
+   18.87,
+   "The man outside the shop? You walk past."
+  ],
+  [
+   19.07,
+   22.54,
+   "“Next time,” you tell yourself. Every time."
+  ],
+  [
+   33.94,
+   37.53,
+   "This evening, at the mosque door, a small box."
+  ],
+  [
+   37.73,
+   40.37,
+   "You slip in the price of one coffee."
+  ],
+  [
+   40.57,
+   43.07,
+   "No one sees it. Allah sees it."
+  ],
+  [
+   43.27,
+   46.67,
+   "Your wallet feels lighter. Your heart, too."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 23.54,
+   "t1": 33.14,
+   "text": "“And what is the worldly life except the enjoyment of delusion.”",
+   "ref": "Surah Al-Hadid — 57:20"
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.26,
+  "text": "23 coffees this month. Not one coin in sadaqa.",
+  "gold": [
+   "sadaqa."
+  ]
+ },
+ "end": {
+  "t0": 47.47,
+  "t1": 55.07,
+  "text": "23 coffees this month. Not one coin in sadaqa.",
+  "goldT0": 49.47,
+  "gold": "Before Maghrib today: give the price of one coffee."
+ },
+ "goldWords": [
+  "sees",
+  "coffee.",
+  "too."
+ ],
+ "post": {
+  "caption": "23 coffees this month. Not one coin in sadaqa. ☕\n\n“Next time,” you tell yourself. Every time.\n\n“And what is the worldly life except the enjoyment of delusion.” (57:20)\n\nBefore Maghrib today: give the price of one coffee. No one sees it. Allah sees it. 🤍",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #sadaqa #charity",
+  "youtube_title": "23 coffees this month. Not one coin in sadaqa. ☕ #islam #sadaqa"
+ }
+}

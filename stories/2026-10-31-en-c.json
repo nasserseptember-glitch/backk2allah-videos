@@ -1,0 +1,131 @@
+{
+ "id": "2026-10-31-en-c",
+ "lang": "en",
+ "capBox": true,
+ "segments": [
+  {
+   "scene": "seaside",
+   "dur": 24.22,
+   "opts": {
+    "walk": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 13.44,
+   "opts": {
+    "night": true,
+    "ruku": [
+     [
+      7.0,
+      10.0
+     ]
+    ]
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.77
+  }
+ ],
+ "hud": [
+  {
+   "label": "“NEXT YEAR” × 5",
+   "time": "17:40",
+   "sub": "PRAYERS: 0",
+   "t0": 4.59,
+   "t1": 24.07
+  },
+  {
+   "label": "DAY 1",
+   "time": "18:52",
+   "sub": "ISHA: PRAYED",
+   "t0": 35.12,
+   "t1": 48.01
+  }
+ ],
+ "captions": [
+  [
+   4.59,
+   8.86,
+   "Every year, the same sunset. The same promise."
+  ],
+  [
+   9.06,
+   11.91,
+   "“When things calm down.” “When I'm married.”"
+  ],
+  [
+   12.11,
+   15.52,
+   "“When I'm older.” The years didn't wait."
+  ],
+  [
+   15.72,
+   20.99,
+   "Five summers. Five Ramadans. Gone, like this wave."
+  ],
+  [
+   21.19,
+   23.72,
+   "And now you feel too far to come back."
+  ],
+  [
+   35.12,
+   37.94,
+   "Tonight, you step into the back row."
+  ],
+  [
+   38.14,
+   40.64,
+   "You don't know all the words. You follow."
+  ],
+  [
+   40.84,
+   44.09,
+   "Your forehead on the ground. Finally home."
+  ],
+  [
+   44.29,
+   47.66,
+   "Not next year. Not tomorrow. Tonight."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 24.72,
+   "t1": 34.32,
+   "text": "“Do not despair of the mercy of Allah.”",
+   "ref": "Surah Az-Zumar — 39:53"
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.39,
+  "text": "5 years of “I'll pray next year.” Still 0 prayers.",
+  "gold": [
+   "0",
+   "prayers."
+  ]
+ },
+ "end": {
+  "t0": 48.46,
+  "t1": 56.63,
+  "text": "5 years of “I'll pray next year.” Still 0 prayers.",
+  "goldT0": 50.46,
+  "gold": "Tonight: pray Isha. Your next year starts now."
+ },
+ "goldWords": [
+  "home.",
+  "tonight."
+ ],
+ "post": {
+  "caption": "5 years of “I'll pray next year.” Still 0 prayers. 🌅\n\nThe years didn't wait. But the door is still open.\n\n“Do not despair of the mercy of Allah.” (39:53)\n\nTonight: pray Isha. Your next year starts now. 🤲",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #salah #prayer #tawbah",
+  "youtube_title": "5 years of “I'll pray next year.” Still 0 prayers. #islam #salah"
+ }
+}
