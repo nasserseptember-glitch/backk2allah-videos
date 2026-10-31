@@ -45,6 +45,7 @@ function hud(g, t, S) {
     if (h.clock) { const k = clamp((t - h.t0) / (h.t1 - h.t0), 0, 1); time = fmt(lerp(toMin(h.clock[0]), toMin(h.clock[1]), k)); }
     let label = h.label;
     if (h.glitch) { const r = rnd(Math.floor(t * 14)); time = (time || '').split('').map(ch => /\d/.test(ch) && r() < 0.55 ? '?' : ch).join(''); if (Math.floor(t * 12) % 3 === 0) label = label.replace(/O/, '?'); }
+    if (h.box) { g.save(); g.globalAlpha = a * 0.45; g.fillStyle = '#000'; g.beginPath(); if (isAR()) g.roundRect(W - 420, 826, 380, 166, 18); else g.roundRect(40, 826, 380, 166, 18); g.fill(); g.restore(); }
     g.save(); g.globalAlpha = a; g.shadowColor = 'rgba(0,0,0,0.6)'; g.shadowBlur = 12; g.textAlign = 'left'; g.textBaseline = 'alphabetic';
     if (isAR()) {
       g.direction = 'rtl'; g.textAlign = 'right'; g.letterSpacing = '0px';
@@ -84,7 +85,7 @@ function drawOverlay(g, t) {
     FR = AR ? '600 30px ArCairo' : '500 28px InterUI', FE = AR ? '600 60px ArNaskh' : '500 58px LoraUI', FG = AR ? '500 48px ArNaskh' : 'italic 400 44px LoraItalic', FB = AR ? '700 72px ArNaskh' : '600 70px LoraUI';
   const LHC = AR ? 78 : 58, LHV = AR ? 110 : 74;
   const gl2 = (arr) => (arr || []).map(w => AR ? normAr(w) : normW(w));
-  if (S.hook) { const a = fadeA(t, S.hook.t0, S.hook.t1, 0.5); if (a > 0) textBlock(g, S.hook.text, W / 2, 470, FH, 860, AR ? 100 : 80, a, gl2(S.hook.gold)); }
+  if (S.hook) { const a = fadeA(t, S.hook.t0, S.hook.t1, 0.5); if (a > 0 && S.hookBox) { g.font = FH; const ls = wrapLines(g, S.hook.text, 860); const lh = AR ? 100 : 80; const bw = Math.max(...ls.map(l => g.measureText(l).width)) + 70, bh = ls.length * lh + 44; g.save(); g.globalAlpha = a * 0.5; g.fillStyle = '#000'; g.beginPath(); g.roundRect(W / 2 - bw / 2, 470 - bh / 2, bw, bh, 22); g.fill(); g.restore(); } if (a > 0) textBlock(g, S.hook.text, W / 2, 470, FH, 860, AR ? 100 : 80, a, gl2(S.hook.gold)); }
   hud(g, t, S);
   const capGold = gl2(S.goldWords || ['allah', 'prière', 'prie', 'dua', 'allah.', 'allah,']);
   for (const [a0, a1, s] of (S.captions || [])) { const al = fadeA(t, a0, a1, 0.3); if (al > 0) { if (S.capBox) { g.font = FC; const ls = wrapLines(g, s, 900); const bw = Math.max(...ls.map(l => g.measureText(l).width)) + 56, bh = ls.length * LHC + 30; g.save(); g.globalAlpha = al * 0.45; g.fillStyle = '#000'; g.beginPath(); g.roundRect(W / 2 - bw / 2, 1270 - bh / 2, bw, bh, 18); g.fill(); g.restore(); } textBlock(g, s, W / 2, 1270, FC, 900, LHC, al, capGold); } }
