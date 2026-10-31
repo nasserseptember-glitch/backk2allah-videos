@@ -1,0 +1,131 @@
+{
+  "id": "2026-10-31-a",
+  "hook": {
+    "t0": 0.4,
+    "t1": 4.45,
+    "text": "Tu as appelé 40 personnes cette semaine. Pas ta mère.",
+    "gold": [
+      "mère."
+    ]
+  },
+  "verses": [
+    {
+      "t0": 22.61,
+      "t1": 32.21,
+      "text": "« Toute âme goûtera la mort. »",
+      "ref": "Sourate Âl ʿImrân — 3:185"
+    }
+  ],
+  "end": {
+    "t0": 47.07,
+    "t1": 53.07,
+    "text": "Tu as appelé 40 personnes cette semaine. Pas ta mère.",
+    "goldT0": 48.87,
+    "gold": "Appelle-la aujourd'hui. Avant midi."
+  },
+  "segments": [
+    {
+      "scene": "car_night",
+      "dur": 22.01,
+      "opts": {
+        "clock": "22:47"
+      }
+    },
+    {
+      "scene": "black",
+      "dur": 10.8
+    },
+    {
+      "scene": "dinner",
+      "dur": 13.75,
+      "opts": {
+        "family": [
+          "mother"
+        ]
+      }
+    },
+    {
+      "scene": "black",
+      "dur": 7.1
+    }
+  ],
+  "hud": [
+    {
+      "t0": 4.45,
+      "t1": 21.71,
+      "label": "APPELS CETTE SEMAINE : 40",
+      "clock": [
+        "22:47",
+        "22:58"
+      ],
+      "sub": "MAMAN : 0"
+    },
+    {
+      "t0": 33.11,
+      "t1": 46.27,
+      "label": "MAMAN : 1 VISITE",
+      "time": "20:30",
+      "sub": "LE LENDEMAIN SOIR"
+    }
+  ],
+  "captions": [
+    [
+      4.65,
+      9.57,
+      "Le boulot, les potes, le garage, le livreur."
+    ],
+    [
+      9.77,
+      12.87,
+      "Son nom est là. Tout en bas de la liste."
+    ],
+    [
+      13.07,
+      15.8,
+      "« Je l'appelle demain. » Puis demain passe."
+    ],
+    [
+      16.0,
+      18.6,
+      "Elle ne te le reprochera jamais."
+    ],
+    [
+      18.8,
+      21.71,
+      "Elle attend juste. Le téléphone près d'elle."
+    ],
+    [
+      33.11,
+      36.4,
+      "Le lendemain soir, tu fais un détour. Tu sonnes."
+    ],
+    [
+      36.6,
+      39.78,
+      "Elle met une assiette de plus. Sans rien demander."
+    ],
+    [
+      39.98,
+      43.47,
+      "Tu manges. Tu l'écoutes. Vingt minutes."
+    ],
+    [
+      43.67,
+      46.27,
+      "Et son sourire vaut toute ta semaine."
+    ]
+  ],
+  "goldWords": [
+    "mère.",
+    "elle.",
+    "sourire",
+    "semaine.",
+    "demain."
+  ],
+  "post": {
+    "caption": "Tu as appelé 40 personnes cette semaine. Pas ta mère. 🤍\n\n« Toute âme goûtera la mort. » (3:185)\n\nElle ne sera pas là pour toujours. Appelle-la aujourd'hui, avant midi. Vingt minutes de ta voix, c'est sa journée entière.",
+    "hashtags": "#rappel #islam #rappelislamique #parents #mere #birrulwalidayn #muslim #famille",
+    "youtube_title": "Tu as appelé 40 personnes cette semaine. Pas ta mère. 🤍 #rappel #islam"
+  },
+  "capBox": true
+}

@@ -1,0 +1,147 @@
+{
+  "id": "2026-10-31-b",
+  "hook": {
+    "t0": 0.4,
+    "t1": 4.0,
+    "text": "4 alarmes pour le travail. 0 pour Fajr.",
+    "gold": [
+      "fajr."
+    ]
+  },
+  "verses": [
+    {
+      "t0": 21.27,
+      "t1": 30.86,
+      "text": "« Souvenez-vous de Moi, Je vous récompenserai. »",
+      "ref": "Sourate Al-Baqara — 2:152"
+    }
+  ],
+  "end": {
+    "t0": 49.35,
+    "t1": 55.35,
+    "text": "4 alarmes pour le travail. 0 pour Fajr.",
+    "goldT0": 51.15,
+    "gold": "Ce soir, règle une alarme pour Fajr."
+  },
+  "segments": [
+    {
+      "scene": "bed_dawn",
+      "dur": 20.66,
+      "opts": {
+        "phone": "alarm",
+        "clock": "06:52",
+        "sub": "Répéter",
+        "snoozeAt": 5.5,
+        "lowerPhone": true,
+        "snoozeClock": "06:57"
+      }
+    },
+    {
+      "scene": "black",
+      "dur": 10.8
+    },
+    {
+      "scene": "mosque_ext",
+      "dur": 11.39,
+      "opts": {
+        "time": "dawn"
+      }
+    },
+    {
+      "scene": "mosque_int",
+      "dur": 6.0,
+      "opts": {
+        "ruku": [
+          [
+            2.6,
+            5.0
+          ]
+        ]
+      }
+    },
+    {
+      "scene": "black",
+      "dur": 7.1
+    }
+  ],
+  "hud": [
+    {
+      "t0": 4.0,
+      "t1": 20.36,
+      "label": "ALARMES : 4",
+      "time": "06:52",
+      "sub": "FAJR : 0"
+    },
+    {
+      "t0": 31.77,
+      "t1": 48.55,
+      "label": "UNE SEULE ALARME",
+      "time": "06:28",
+      "sub": "FAJR : À L'HEURE"
+    }
+  ],
+  "captions": [
+    [
+      4.2,
+      6.83,
+      "« Répéter. » Encore cinq minutes."
+    ],
+    [
+      7.03,
+      11.86,
+      "6 h 30. 6 h 40. 6 h 50. Tu connais par cœur."
+    ],
+    [
+      12.06,
+      14.66,
+      "Fajr est passé depuis une heure."
+    ],
+    [
+      14.86,
+      17.46,
+      "Pour le travail, tu te lèves. Toujours."
+    ],
+    [
+      17.66,
+      20.36,
+      "Pour Lui, ton corps dit : demain."
+    ],
+    [
+      31.77,
+      35.87,
+      "Ce soir, une seule alarme. Son nom : Fajr."
+    ],
+    [
+      36.07,
+      38.96,
+      "Le téléphone loin du lit. Tu dors plus tôt."
+    ],
+    [
+      39.16,
+      42.55,
+      "Le froid du matin. La ville dort encore."
+    ],
+    [
+      43.15,
+      45.75,
+      "Tu entres. Les rangs sont déjà là."
+    ],
+    [
+      45.95,
+      48.55,
+      "Deux rak'at. Et ta journée commence avec Lui."
+    ]
+  ],
+  "goldWords": [
+    "fajr.",
+    "lui.",
+    "lui,",
+    "fajr"
+  ],
+  "post": {
+    "caption": "4 alarmes pour le travail. 0 pour Fajr. 🤍\n\n« Souvenez-vous de Moi, Je vous récompenserai. » (2:152)\n\nCe soir, règle une seule alarme : Fajr. Téléphone loin du lit, et commence ta journée avec Lui.",
+    "hashtags": "#rappel #islam #rappelislamique #fajr #salat #priere #muslim #mosquee",
+    "youtube_title": "4 alarmes pour le travail. 0 pour Fajr. 🤍 #rappel #islam"
+  },
+  "capBox": true
+}

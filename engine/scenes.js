@@ -107,9 +107,9 @@ function buildTextures() {
     g.fillStyle = 'rgba(255,255,255,0.10)'; g.beginPath(); g.roundRect(30, 390, 180, 46, 23); g.fill();
     g.fillStyle = 'rgba(255,255,255,0.7)'; g.fillText('Arrêter', w / 2, 420);
   });
-  T.scrSnooze = scr((g, w, h) => {
+  T.scrSnoozeF = (time) => scr((g, w, h) => {
     g.fillStyle = '#0d1120'; g.fillRect(0, 0, w, h); g.fillStyle = '#fff'; g.textAlign = 'center';
-    g.font = font(54, 300); g.fillText('05:42', w / 2, 140); g.font = font(15, 500); g.fillStyle = 'rgba(255,255,255,0.65)'; g.fillText('Alarme répétée · 5 min', w / 2, 175);
+    g.font = font(54, 300); g.fillText(time, w / 2, 140); g.font = font(15, 500); g.fillStyle = 'rgba(255,255,255,0.65)'; g.fillText('Alarme répétée · 5 min', w / 2, 175);
   });
   T.scrFeed = texFromCanvas(mkCanvas(240, 1920, (g, w, h) => {
     g.fillStyle = '#f4f4f6'; g.fillRect(0, 0, w, h); const r = rnd(77); const pal = ['#f2b880', '#86b6d8', '#9ccf9a', '#e58c8a', '#c3a6e0', '#f2d17a'];
@@ -132,6 +132,7 @@ function buildTextures() {
 // ================== characters ==================
 const SKINS = ['#8d5a3b', '#c68e62', '#e0b48c', '#6b4329', '#b07a52'];
 const SCR = {};
+function scrSnoozeK(time) { const k = 's' + time; if (!SCR[k]) SCR[k] = T.scrSnoozeF(time); return SCR[k]; }
 function scrAlarmK(time, sub) { const k = 'a' + time + sub; if (!SCR[k]) SCR[k] = T.scrAlarm(time, sub); return SCR[k]; }
 function scrNotifK(time) { const k = 'n' + time; if (!SCR[k]) SCR[k] = T.scrNotifF(time); return SCR[k]; }
 function person(base, o) {
@@ -274,7 +275,7 @@ function sceneBed1(t, dur, o) {
   const drop = sstep(lw, lw + 1.8, t);
   const pp = [0.0 + vib, -0.12 - drop * 0.25, -0.37];
   const pr = [0.32 + drop * 0.3, 0, vib * 3];
-  const scr = o.phone === 'feed' ? T.scrFeed : (t < sn + 0.3 ? scrAlarmK(o.clock || '05:42', o.sub || 'Fajr') : T.scrSnooze);
+  const scr = o.phone === 'feed' ? T.scrFeed : (t < sn + 0.3 ? scrAlarmK(o.clock || '05:42', o.sub || 'Fajr') : scrSnoozeK(o.snoozeClock || '05:42'));
   const uvrB = o.phone === 'feed' ? [0, 0.8 - ((t * 0.06) % 0.8), 1, 0.125] : null;
   const glow = ringing ? 1.5 : 1.1 * (1 - drop * 0.6);
   if (o.phone !== 'none') objs.push(...phone(CW, pp, pr, scr, uvrB, glow));

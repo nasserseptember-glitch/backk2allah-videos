@@ -1,0 +1,131 @@
+{
+  "id": "2026-10-31-c",
+  "hook": {
+    "t0": 0.4,
+    "t1": 4.69,
+    "text": "9 plaintes aujourd'hui. Et pas un seul alhamdulillah.",
+    "gold": [
+      "alhamdulillah."
+    ]
+  },
+  "verses": [
+    {
+      "t0": 23.26,
+      "t1": 32.86,
+      "text": "« Ton Seigneur ne t'a ni abandonné, ni détesté. »",
+      "ref": "Sourate Ad-Duhâ — 93:3"
+    }
+  ],
+  "end": {
+    "t0": 49.48,
+    "t1": 57.51,
+    "text": "9 plaintes aujourd'hui. Et pas un seul alhamdulillah.",
+    "goldT0": 51.27,
+    "gold": "Avant de dormir : trois bienfaits, trois alhamdulillah."
+  },
+  "segments": [
+    {
+      "scene": "black",
+      "dur": 8.25
+    },
+    {
+      "scene": "living",
+      "dur": 14.41,
+      "opts": {}
+    },
+    {
+      "scene": "black",
+      "dur": 10.8
+    },
+    {
+      "scene": "seaside",
+      "dur": 15.51,
+      "opts": {
+        "walk": false
+      }
+    },
+    {
+      "scene": "black",
+      "dur": 9.14
+    }
+  ],
+  "hud": [
+    {
+      "t0": 8.55,
+      "t1": 22.36,
+      "label": "PLAINTES AUJOURD'HUI : 9",
+      "clock": [
+        "20:40",
+        "21:05"
+      ],
+      "sub": "ALHAMDULILLAH : 0"
+    },
+    {
+      "t0": 33.76,
+      "t1": 48.68,
+      "label": "ALHAMDULILLAH : 3",
+      "time": "18:10",
+      "sub": "CHAQUE BIENFAIT COMPTÉ"
+    }
+  ],
+  "captions": [
+    [
+      4.89,
+      8.05,
+      "T"
+    ],
+    [
+      8.55,
+      11.42,
+      "Le bus en retard. Le café trop froid."
+    ],
+    [
+      11.62,
+      15.38,
+      "Le chef. La pluie. Le wifi qui coupe."
+    ],
+    [
+      15.58,
+      18.69,
+      "Ce soir, tu râles encore, dans le canapé."
+    ],
+    [
+      18.89,
+      22.36,
+      "Ta mère est là, à côté. Tu ne la vois même pas."
+    ],
+    [
+      33.76,
+      36.65,
+      "Le lendemain, tu t'assois face à la mer."
+    ],
+    [
+      36.85,
+      40.25,
+      "Tu comptes autrement. Des yeux qui voient."
+    ],
+    [
+      40.45,
+      45.66,
+      "Un toit. Une mère. Un souffle. Un jour de plus."
+    ],
+    [
+      45.86,
+      48.68,
+      "Alhamdulillah. Et ton cœur s'apaise."
+    ]
+  ],
+  "goldWords": [
+    "alhamdulillah.",
+    "mère.",
+    "voient.",
+    "s'apaise.",
+    "alhamdulillah"
+  ],
+  "post": {
+    "caption": "9 plaintes aujourd'hui. Et pas un seul alhamdulillah. 🤍\n\n« Ton Seigneur ne t'a ni abandonné, ni détesté. » (93:3)\n\nCe soir, avant de dormir : cite trois bienfaits, et dis trois fois alhamdulillah.",
+    "hashtags": "#rappel #islam #rappelislamique #alhamdulillah #gratitude #shukr #muslim #dhikr",
+    "youtube_title": "9 plaintes aujourd'hui. Et pas un seul alhamdulillah. 🤍 #rappel #islam"
+  },
+  "capBox": true
+}
