@@ -89,7 +89,9 @@
    "dur": 15.85,
    "opts": {
     "wake": false,
-    "flashIn": true
+    "flashIn": true,
+    "clock": "06:52",
+    "sub": "الفجر"
    }
   },
   {

@@ -100,16 +100,16 @@ function buildTextures() {
   const font = (s, wgt = 500, fam = 'InterUI') => `${wgt} ${s}px ${fam}`;
   T.scrAlarm = (time, sub) => scr((g, w, h) => {
     const gr = g.createLinearGradient(0, 0, 0, h); gr.addColorStop(0, '#1b2440'); gr.addColorStop(1, '#3b2a4a'); g.fillStyle = gr; g.fillRect(0, 0, w, h);
-    g.fillStyle = '#fff'; g.textAlign = 'center'; g.font = font(14, 600); g.fillText((window.STORY && window.STORY.lang === 'en') ? 'ALARM' : 'ALARME', w / 2, 70);
+    g.fillStyle = '#fff'; g.textAlign = 'center'; g.font = font(14, 600); g.fillText((window.STORY && window.STORY.lang) === 'en' ? 'ALARM' : (window.STORY && window.STORY.lang) === 'ar' ? 'المنبّه' : 'ALARME', w / 2, 70);
     g.font = font(64, 300); g.fillText(time, w / 2, 150); g.font = font(18, 500); g.fillStyle = '#f0d590'; g.fillText(sub, w / 2, 185);
     g.fillStyle = 'rgba(255,255,255,0.18)'; g.beginPath(); g.roundRect(30, 330, 180, 46, 23); g.fill();
-    g.fillStyle = '#fff'; g.font = font(17, 600); g.fillText((window.STORY && window.STORY.lang === 'en') ? 'Snooze' : 'Répéter', w / 2, 360);
+    g.fillStyle = '#fff'; g.font = font(17, 600); g.fillText((window.STORY && window.STORY.lang) === 'en' ? 'Snooze' : (window.STORY && window.STORY.lang) === 'ar' ? 'غفوة' : 'Répéter', w / 2, 360);
     g.fillStyle = 'rgba(255,255,255,0.10)'; g.beginPath(); g.roundRect(30, 390, 180, 46, 23); g.fill();
-    g.fillStyle = 'rgba(255,255,255,0.7)'; g.fillText((window.STORY && window.STORY.lang === 'en') ? 'Stop' : 'Arrêter', w / 2, 420);
+    g.fillStyle = 'rgba(255,255,255,0.7)'; g.fillText((window.STORY && window.STORY.lang) === 'en' ? 'Stop' : (window.STORY && window.STORY.lang) === 'ar' ? 'إيقاف' : 'Arrêter', w / 2, 420);
   });
   T.scrSnoozeF = (time) => scr((g, w, h) => {
     g.fillStyle = '#0d1120'; g.fillRect(0, 0, w, h); g.fillStyle = '#fff'; g.textAlign = 'center';
-    g.font = font(54, 300); g.fillText(time, w / 2, 140); g.font = font(15, 500); g.fillStyle = 'rgba(255,255,255,0.65)'; g.fillText((window.STORY && window.STORY.lang === 'en') ? 'Snoozed · 5 min' : 'Alarme répétée · 5 min', w / 2, 175);
+    g.font = font(54, 300); g.fillText(time, w / 2, 140); g.font = font(15, 500); g.fillStyle = 'rgba(255,255,255,0.65)'; g.fillText((window.STORY && window.STORY.lang) === 'en' ? 'Snoozed · 5 min' : (window.STORY && window.STORY.lang) === 'ar' ? 'غفوة · 5 دقائق' : 'Alarme répétée · 5 min', w / 2, 175);
   });
   T.scrFeed = texFromCanvas(mkCanvas(240, 1920, (g, w, h) => {
     g.fillStyle = '#f4f4f6'; g.fillRect(0, 0, w, h); const r = rnd(77); const pal = ['#f2b880', '#86b6d8', '#9ccf9a', '#e58c8a', '#c3a6e0', '#f2d17a'];
