@@ -1,0 +1,155 @@
+{
+ "id": "2026-11-01-b",
+ "segments": [
+  {
+   "scene": "mosque_int",
+   "dur": 13.5,
+   "opts": {
+    "night": true,
+    "rows": 4,
+    "ruku": [
+     [
+      6.5,
+      9.5
+     ]
+    ]
+   }
+  },
+  {
+   "scene": "street",
+   "dur": 11.48,
+   "opts": {
+    "dayFrom": 0.3,
+    "dayTo": 1.0,
+    "clock": "16:45"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.77
+  },
+  {
+   "scene": "mosque_ext",
+   "dur": 13.24,
+   "opts": {
+    "time": "night"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.56
+  }
+ ],
+ "hook": {
+  "t0": 0.4,
+  "t1": 4.58,
+  "text": "30 nuits à la mosquée en Ramadan. Depuis : 0.",
+  "gold": [
+   "ramadan.",
+   "0."
+  ]
+ },
+ "hud": [
+  {
+   "t0": 4.58,
+   "t1": 13.2,
+   "label": "RAMADAN · NUIT 27",
+   "time": "22:40",
+   "sub": "LA MOSQUÉE PLEINE"
+  },
+  {
+   "t0": 13.8,
+   "t1": 24.68,
+   "label": "DEPUIS RAMADAN : 226 JOURS",
+   "time": "16:45",
+   "sub": "MOSQUÉE : 0",
+   "box": true
+  },
+  {
+   "t0": 37.05,
+   "t1": 49.69,
+   "label": "RETOUR À LA MOSQUÉE",
+   "time": "18:55",
+   "sub": "JOUR 1"
+  }
+ ],
+ "captions": [
+  [
+   4.78,
+   7.28,
+   "Tu te souviens de ces nuits ?"
+  ],
+  [
+   7.48,
+   10.4,
+   "Épaule contre épaule. Le cœur léger."
+  ],
+  [
+   10.6,
+   13.1,
+   "Tu disais : « Cette fois, je ne lâche plus. »"
+  ],
+  [
+   13.9,
+   17.2,
+   "Puis l'Aïd. Puis le travail. Puis la vie."
+  ],
+  [
+   17.4,
+   20.62,
+   "Une prière ratée. Puis une semaine."
+  ],
+  [
+   20.82,
+   24.58,
+   "Aujourd'hui, tu passes devant la mosquée. Sans entrer."
+  ],
+  [
+   37.15,
+   40.32,
+   "Ramadan est parti. Lui, Il est resté."
+  ],
+  [
+   40.52,
+   44.19,
+   "Ce soir, tu pousses la porte. Juste pour Isha."
+  ],
+  [
+   44.39,
+   46.89,
+   "Personne ne te demande où tu étais."
+  ],
+  [
+   47.09,
+   49.59,
+   "Tu reprends ta place dans le rang."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 25.58,
+   "t1": 36.15,
+   "text": "« Je suis tout proche : Je réponds à l'appel de celui qui Me prie quand il Me prie. »",
+   "ref": "Sourate Al-Baqara — 2:186"
+  }
+ ],
+ "end": {
+  "t0": 50.59,
+  "t1": 56.95,
+  "text": "30 nuits à la mosquée en Ramadan. Depuis : 0.",
+  "goldT0": 52.39,
+  "gold": "Ce soir, une prière à la mosquée. Juste Isha."
+ },
+ "capBox": true,
+ "goldWords": [
+  "ramadan.",
+  "resté.",
+  "isha.",
+  "rang."
+ ],
+ "post": {
+  "caption": "30 nuits à la mosquée en Ramadan. Depuis : 0. 🤍\n\n« Je suis tout proche : Je réponds à l'appel de celui qui Me prie quand il Me prie. » (2:186)\n\nRamadan est parti, Lui est resté. Ce soir, pousse la porte de la mosquée. Juste pour Isha.",
+  "hashtags": "#rappel #islam #rappelislamique #ramadan #mosquee #salat #isha #muslim",
+  "youtube_title": "30 nuits à la mosquée en Ramadan. Depuis : 0. 🤍 #rappel #islam"
+ }
+}

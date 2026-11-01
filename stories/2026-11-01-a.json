@@ -1,0 +1,127 @@
+{
+ "id": "2026-11-01-a",
+ "segments": [
+  {
+   "scene": "seaside",
+   "dur": 21.16,
+   "opts": {
+    "walk": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.8
+  },
+  {
+   "scene": "rooftop",
+   "dur": 13.72,
+   "opts": {
+    "phone": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.01
+  }
+ ],
+ "hook": {
+  "t0": 0.4,
+  "t1": 4.39,
+  "text": "12 refus cette année. Tu crois qu'Allah t'a oublié ?",
+  "gold": [
+   "allah"
+  ]
+ },
+ "hud": [
+  {
+   "t0": 4.39,
+   "t1": 20.86,
+   "label": "REFUS CETTE ANNÉE : 12",
+   "time": "18:40",
+   "sub": "DUA : OUBLIÉE",
+   "box": true
+  },
+  {
+   "t0": 32.27,
+   "t1": 45.39,
+   "label": "DUA CETTE NUIT",
+   "time": "23:10",
+   "sub": "12 REFUS · 1 SEIGNEUR"
+  }
+ ],
+ "captions": [
+  [
+   4.59,
+   8.27,
+   "Encore un mail. « Nous sommes au regret… »"
+  ],
+  [
+   8.47,
+   12.13,
+   "Un stage. Puis un emploi. Puis un appartement."
+  ],
+  [
+   12.33,
+   15.37,
+   "Tu souris aux autres. Tu t'effondres le soir."
+  ],
+  [
+   15.57,
+   18.07,
+   "Et tu n'as même plus la force de prier."
+  ],
+  [
+   18.27,
+   20.77,
+   "Tu te demandes si quelqu'un t'entend encore."
+  ],
+  [
+   32.37,
+   35.82,
+   "Cette nuit, tu montes sur le toit. Sans ton téléphone."
+  ],
+  [
+   36.02,
+   39.67,
+   "Tu lèves les mains. Tu Lui racontes les douze refus."
+  ],
+  [
+   39.88,
+   42.59,
+   "Il connaît déjà chaque porte fermée."
+  ],
+  [
+   42.79,
+   45.29,
+   "Et Il sait laquelle t'ouvrir."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 21.77,
+   "t1": 31.37,
+   "text": "« À côté de la difficulté est, certes, une facilité. »",
+   "ref": "Sourate Ash-Sharh — 94:5-6"
+  }
+ ],
+ "end": {
+  "t0": 46.29,
+  "t1": 53.1,
+  "text": "12 refus cette année. Tu crois qu'Allah t'a oublié ?",
+  "goldT0": 48.09,
+  "gold": "Ce soir, deux rak'at. Et dis-Lui tout."
+ },
+ "hookBox": true,
+ "capBox": true,
+ "goldWords": [
+  "allah",
+  "lui",
+  "ouvrir.",
+  "facilité."
+ ],
+ "post": {
+  "caption": "12 refus cette année. Tu crois qu'Allah t'a oublié ? 🤍\n\n« À côté de la difficulté est, certes, une facilité. » (94:5-6)\n\nIl connaît chaque porte fermée, et Il sait laquelle t'ouvrir. Ce soir, deux rak'at. Et dis-Lui tout.",
+  "hashtags": "#rappel #islam #rappelislamique #dua #patience #sabr #muslim #tawakkul",
+  "youtube_title": "12 refus cette année. Tu crois qu'Allah t'a oublié ? 🤍 #rappel #islam"
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "id": "2026-11-01-c",
+ "segments": [
+  {
+   "scene": "dinner",
+   "dur": 21.89,
+   "opts": {
+    "family": [
+     "father",
+     "mother"
+    ],
+    "sad": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.8
+  },
+  {
+   "scene": "car_night",
+   "dur": 13.53,
+   "opts": {
+    "clock": "21:40"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.4
+  }
+ ],
+ "hook": {
+  "t0": 0.4,
+  "t1": 4.4,
+  "text": "2 ans sans parler à ton frère. Tu veux le pardon d'Allah ?",
+  "gold": [
+   "frère.",
+   "allah"
+  ]
+ },
+ "hud": [
+  {
+   "t0": 4.4,
+   "t1": 21.59,
+   "label": "SANS PARLER À TON FRÈRE",
+   "time": "2 ANS",
+   "sub": "SALAM : 0"
+  },
+  {
+   "t0": 32.99,
+   "t1": 45.92,
+   "label": "EN ROUTE VERS TON FRÈRE",
+   "time": "21:40",
+   "sub": "SALAM : 1"
+  }
+ ],
+ "captions": [
+  [
+   4.6,
+   7.1,
+   "Sa chaise est vide à chaque repas."
+  ],
+  [
+   7.3,
+   9.8,
+   "Ta mère n'ose plus prononcer son nom."
+  ],
+  [
+   10.0,
+   14.85,
+   "Une dispute. Des mots de trop. Puis la fierté."
+  ],
+  [
+   15.05,
+   17.94,
+   "Chaque Aïd, tu attends qu'il fasse le premier pas."
+  ],
+  [
+   18.14,
+   21.49,
+   "Et chaque nuit, tu demandes à Allah de te pardonner."
+  ],
+  [
+   33.09,
+   37.03,
+   "Ce soir, tu prends la voiture. Le cœur qui bat."
+  ],
+  [
+   37.23,
+   39.99,
+   "Pas pour avoir raison. Pour Allah."
+  ],
+  [
+   40.19,
+   43.12,
+   "Tu ne sais pas ce qu'il dira. Tu y vas quand même."
+  ],
+  [
+   43.32,
+   45.82,
+   "Parce qu'un salam pèse plus que ta fierté."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 22.49,
+   "t1": 32.09,
+   "text": "« Allah est avec ceux qui sont endurants. »",
+   "ref": "Sourate Al-Baqara — 2:153"
+  }
+ ],
+ "end": {
+  "t0": 46.82,
+  "t1": 53.02,
+  "text": "2 ans sans parler à ton frère. Tu veux le pardon d'Allah ?",
+  "goldT0": 48.62,
+  "gold": "Envoie-lui un salam. Ce soir."
+ },
+ "goldWords": [
+  "allah",
+  "allah.",
+  "salam",
+  "fierté.",
+  "frère."
+ ],
+ "post": {
+  "caption": "2 ans sans parler à ton frère. Tu veux le pardon d'Allah ? 🤍\n\n« Allah est avec ceux qui sont endurants. » (2:153)\n\nPas pour avoir raison. Pour Allah. Un salam pèse plus que ta fierté. Envoie-lui un salam, ce soir.",
+  "hashtags": "#rappel #islam #rappelislamique #famille #pardon #fraternite #muslim #sabr",
+  "youtube_title": "2 ans sans parler à ton frère. Tu veux le pardon d'Allah ? 🤍 #rappel #islam"
+ },
+ "capBox": true
+}
