@@ -1,0 +1,127 @@
+{
+ "id": "2026-11-01-en-b",
+ "lang": "en",
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.99,
+  "text": "You snoozed 7 times. Fajr only needed 5 minutes.",
+  "gold": [
+   "Fajr"
+  ]
+ },
+ "verses": [
+  {
+   "t0": 24.24,
+   "t1": 33.84,
+   "text": "“Establish prayer for My remembrance.”",
+   "ref": "Surah Ta-Ha — 20:14"
+  }
+ ],
+ "end": {
+  "t0": 51.91,
+  "t1": 58.36,
+  "text": "You snoozed 7 times. Fajr only needed 5 minutes.",
+  "goldT0": 53.61,
+  "gold": "Tonight: one alarm for Fajr. Across the room."
+ },
+ "segments": [
+  {
+   "scene": "bed_dawn",
+   "dur": 23.74,
+   "opts": {
+    "phone": "alarm",
+    "clock": "06:12",
+    "sub": "Fajr",
+    "snoozeAt": 7.0,
+    "snoozeClock": "06:17",
+    "lowerPhone": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.6
+  },
+  {
+   "scene": "car_night",
+   "dur": 17.12,
+   "opts": {
+    "rain": false,
+    "clock": "05:41"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.2
+  }
+ ],
+ "hud": [
+  {
+   "label": "SNOOZE × 7",
+   "clock": [
+    "06:12",
+    "06:47"
+   ],
+   "sub": "FAJR: MISSED",
+   "t0": 5.19,
+   "t1": 23.59
+  },
+  {
+   "label": "ONE ALARM",
+   "time": "05:41",
+   "sub": "FAJR: ON TIME",
+   "t0": 35.14,
+   "t1": 51.31
+  }
+ ],
+ "captions": [
+  [
+   5.19,
+   8.48,
+   "The alarm rings. Your thumb knows the way."
+  ],
+  [
+   8.68,
+   13.09,
+   "Snooze. Snooze. Five more minutes, every time."
+  ],
+  [
+   13.29,
+   17.62,
+   "Outside, the sky turns light. Fajr slips away."
+  ],
+  [
+   17.82,
+   23.39,
+   "You wake up at nine. Tired, and a little empty."
+  ],
+  [
+   35.14,
+   39.34,
+   "The next day, 5:40. One alarm. Across the room."
+  ],
+  [
+   39.54,
+   42.55,
+   "You get up. Cold water on your face."
+  ],
+  [
+   42.75,
+   47.73,
+   "Empty roads. Streetlights. Just you, and the adhan."
+  ],
+  [
+   47.93,
+   51.11,
+   "Two rak'ahs. The best five minutes of your day."
+  ]
+ ],
+ "goldWords": [
+  "adhan.",
+  "day."
+ ],
+ "post": {
+  "caption": "You snoozed 7 times. Fajr only needed 5 minutes. ⏰\n\nSnooze. Snooze. Five more minutes, every time — and the sky turns light.\n\n“Establish prayer for My remembrance.” (20:14)\n\nTonight: one alarm for Fajr. Across the room. 🌙",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #fajr #salah #prayer",
+  "youtube_title": "You snoozed 7 times. Fajr only needed 5 minutes. #islam #fajr"
+ }
+}

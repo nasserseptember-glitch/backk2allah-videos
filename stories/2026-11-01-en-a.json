@@ -1,0 +1,135 @@
+{
+ "id": "2026-11-01-en-a",
+ "lang": "en",
+ "capBox": true,
+ "hookBox": true,
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.93,
+  "text": "31 questions to Google yesterday. Not one to Allah.",
+  "gold": [
+   "Allah."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 24.25,
+   "t1": 33.85,
+   "text": "“Call upon Me; I will respond to you.”",
+   "ref": "Surah Ghafir — 40:60"
+  }
+ ],
+ "end": {
+  "t0": 52.31,
+  "t1": 59.72,
+  "text": "31 questions to Google yesterday. Not one to Allah.",
+  "goldT0": 54.01,
+  "gold": "Today, before Dhuhr: raise your hands. Ask Him first."
+ },
+ "segments": [
+  {
+   "scene": "dinner",
+   "dur": 23.75,
+   "opts": {
+    "family": [
+     "father",
+     "mother",
+     "sibling"
+    ]
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.6
+  },
+  {
+   "scene": "rooftop",
+   "dur": 17.51,
+   "opts": {
+    "legs": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.16
+  }
+ ],
+ "hud": [
+  {
+   "label": "SEARCHES YESTERDAY 31",
+   "clock": [
+    "20:40",
+    "20:52"
+   ],
+   "sub": "DUAS: 0",
+   "box": true,
+   "t0": 5.13,
+   "t1": 23.6
+  },
+  {
+   "label": "LAST NIGHT, ON THE ROOF",
+   "time": "23:10",
+   "sub": "DUA: 1",
+   "box": true,
+   "t0": 35.15,
+   "t1": 51.71
+  }
+ ],
+ "captions": [
+  [
+   5.13,
+   8.51,
+   "Your phone keeps the history. Every single one."
+  ],
+  [
+   8.71,
+   12.36,
+   "How to sleep better. How to stop worrying."
+  ],
+  [
+   12.56,
+   16.26,
+   "How to fix a friendship. How to feel okay."
+  ],
+  [
+   16.46,
+   20.04,
+   "Your family talks. You keep scrolling for answers."
+  ],
+  [
+   20.24,
+   23.4,
+   "31 searches. And still no peace."
+  ],
+  [
+   35.15,
+   38.83,
+   "Later that night, on the roof, you put the phone away."
+  ],
+  [
+   39.03,
+   43.2,
+   "You raise your hands. At first, no words come."
+  ],
+  [
+   43.4,
+   46.97,
+   "Then you tell Him everything. Even the small things."
+  ],
+  [
+   47.17,
+   51.51,
+   "No answer on a screen. But your heart is quiet."
+  ]
+ ],
+ "goldWords": [
+  "peace.",
+  "everything.",
+  "quiet."
+ ],
+ "post": {
+  "caption": "31 questions to Google yesterday. Not one to Allah. 📱\n\nHow to sleep. How to stop worrying. How to feel okay. You searched everywhere — except in front of Him.\n\n“Call upon Me; I will respond to you.” (40:60)\n\nToday, before Dhuhr: raise your hands. Ask Him first. 🤲",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #dua #tawakkul",
+  "youtube_title": "31 questions to Google. Not one to Allah. #islam #dua"
+ }
+}

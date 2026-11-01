@@ -1,0 +1,130 @@
+{
+ "id": "2026-11-01-en-c",
+ "lang": "en",
+ "capBox": true,
+ "hookBox": true,
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.48,
+  "text": "8,000 steps today. Not one inside the masjid.",
+  "gold": [
+   "masjid."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 22.57,
+   "t1": 32.17,
+   "text": "“So remember Me; I will remember you.”",
+   "ref": "Surah Al-Baqarah — 2:152"
+  }
+ ],
+ "end": {
+  "t0": 49.91,
+  "t1": 55.11,
+  "text": "8,000 steps today. Not one inside the masjid.",
+  "goldT0": 51.61,
+  "gold": "Tonight: walk to the masjid for Isha."
+ },
+ "segments": [
+  {
+   "scene": "mosque_ext",
+   "dur": 22.07,
+   "opts": {
+    "time": "night",
+    "speed": 0.5
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.6
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 16.79,
+   "opts": {
+    "night": true,
+    "ruku": [
+     [
+      9.5,
+      12.5
+     ]
+    ]
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 5.95
+  }
+ ],
+ "hud": [
+  {
+   "label": "STEPS TODAY 8,000",
+   "time": "18:20",
+   "sub": "MASJID: 0",
+   "box": true,
+   "t0": 4.68,
+   "t1": 21.92
+  },
+  {
+   "label": "STEPS TO THE MASJID",
+   "time": "10",
+   "sub": "ISHA: IN JAMA'AH",
+   "box": true,
+   "t0": 33.47,
+   "t1": 49.31
+  }
+ ],
+ "captions": [
+  [
+   4.68,
+   9.11,
+   "Gym. Office. Shops. Your watch counts them all."
+  ],
+  [
+   9.31,
+   13.29,
+   "Every day, you pass this door. Twice."
+  ],
+  [
+   13.49,
+   18.22,
+   "The light is on. The adhan calls. You keep walking."
+  ],
+  [
+   18.42,
+   21.72,
+   "Ten more steps. But your feet go home."
+  ],
+  [
+   33.47,
+   36.82,
+   "Tonight, you stop at the door. Shoes off."
+  ],
+  [
+   37.02,
+   42.24,
+   "Ten steps. The carpet is soft. The rows are open."
+  ],
+  [
+   42.44,
+   45.98,
+   "Shoulder to shoulder. You belong here."
+  ],
+  [
+   46.18,
+   49.11,
+   "The best ten steps you took all day."
+  ]
+ ],
+ "goldWords": [
+  "home.",
+  "here.",
+  "door."
+ ],
+ "post": {
+  "caption": "8,000 steps today. Not one inside the masjid. 👟\n\nEvery day you pass the door. The light is on. The adhan calls. You keep walking.\n\n“So remember Me; I will remember you.” (2:152)\n\nTonight: walk to the masjid for Isha. Ten steps. Shoes off. You belong here. 🕌",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #masjid #salah #isha",
+  "youtube_title": "8,000 steps today. Not one inside the masjid. #islam #salah"
+ }
+}
