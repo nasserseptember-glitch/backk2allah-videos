@@ -1,0 +1,131 @@
+{
+ "id": "2026-11-02-en-a",
+ "lang": "en",
+ "capBox": true,
+ "hookBox": true,
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.25,
+  "text": "14 times on your bank app. 0 on your prayer mat.",
+  "gold": [
+   "prayer",
+   "mat."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 25.33,
+   "t1": 35.03,
+   "text": "“And whoever relies upon Allah - then He is sufficient for him.”",
+   "ref": "Surah At-Talaq — 65:3"
+  }
+ ],
+ "end": {
+  "t0": 54.61,
+  "t1": 61.25,
+  "text": "14 times on your bank app. 0 on your prayer mat.",
+  "goldT0": 56.31,
+  "gold": "Today, before you open that app: two rak'ahs first."
+ },
+ "segments": [
+  {
+   "scene": "street",
+   "dur": 24.83,
+   "opts": {
+    "dayFrom": 0.05,
+    "dayTo": 0.25,
+    "clock": "08:41"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.6
+  },
+  {
+   "scene": "bed_morning",
+   "dur": 18.98,
+   "opts": {
+    "clock": "07:10",
+    "sub": "",
+    "wake": false,
+    "flashIn": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.24
+  }
+ ],
+ "hud": [
+  {
+   "label": "BANK APP THIS WEEK",
+   "time": "14×",
+   "sub": "TIME ON THE PRAYER MAT: 0 MIN",
+   "box": true,
+   "t0": 6.45,
+   "t1": 24.68
+  },
+  {
+   "label": "THE NEXT MORNING",
+   "time": "07:10",
+   "sub": "PRAYER MAT: 10 MIN",
+   "box": true,
+   "t0": 35.73,
+   "t1": 54.26
+  }
+ ],
+ "captions": [
+  [
+   6.45,
+   11.06,
+   "Rent on Friday. The bill you keep ignoring."
+  ],
+  [
+   11.26,
+   15.04,
+   "You refresh the app. The number doesn't change."
+  ],
+  [
+   15.24,
+   19.75,
+   "You count every euro. You forget who sends it."
+  ],
+  [
+   19.95,
+   24.48,
+   "14 checks. And still that knot in your chest."
+  ],
+  [
+   35.73,
+   39.6,
+   "The next morning, the phone stays face down."
+  ],
+  [
+   39.8,
+   44.44,
+   "You stand on the mat. Two rak'ahs. Slowly."
+  ],
+  [
+   44.64,
+   49.19,
+   "You hand Him the bills. The rent. The fear."
+  ],
+  [
+   49.39,
+   54.06,
+   "The number is the same. Your chest is not."
+  ]
+ ],
+ "goldWords": [
+  "provision.",
+  "knot",
+  "Slowly.",
+  "fear.",
+  "not."
+ ],
+ "post": {
+  "caption": "14 times on your bank app this week. 0 minutes on your prayer mat. 💳\n\nRent. Bills. That knot in your chest. You count every euro — and forget the One who sends it.\n\n“And whoever relies upon Allah - then He is sufficient for him.” (65:3)\n\nToday, before you open that app: two rak'ahs first. 🤲",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #tawakkul #rizq",
+  "youtube_title": "14 times on your bank app. 0 on your prayer mat. #islam #tawakkul"
+ }
+}

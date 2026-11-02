@@ -1,0 +1,126 @@
+{
+  "id": "2026-11-02-en-c",
+  "lang": "en",
+  "capBox": true,
+  "hookBox": true,
+  "hook": {
+    "t0": 0.3,
+    "t1": 5.75,
+    "text": "You've lived 10,000 days. How many were for Allah?",
+    "gold": [
+      "Allah?"
+    ]
+  },
+  "verses": [
+    {
+      "t0": 41.03,
+      "t1": 50.73,
+      "text": "“Every soul will taste death.”",
+      "ref": "Surah Al-Imran — 3:185"
+    }
+  ],
+  "end": {
+    "t0": 51.33,
+    "t1": 59.05,
+    "text": "You've lived 10,000 days. How many were for Allah?",
+    "goldT0": 53.03,
+    "gold": "Tonight, at Isha: give Him day 10,001."
+  },
+  "segments": [
+    {
+      "scene": "rooftop",
+      "dur": 24.25,
+      "opts": {
+        "legs": true
+      }
+    },
+    {
+      "scene": "mosque_int",
+      "dur": 16.28,
+      "opts": {
+        "night": true,
+        "ruku": [
+          [
+            5.2,
+            9.6
+          ]
+        ],
+        "povBow": true
+      }
+    },
+    {
+      "scene": "black",
+      "dur": 10.6
+    },
+    {
+      "scene": "black",
+      "dur": 8.32
+    }
+  ],
+  "hud": [
+    {
+      "label": "DAYS LIVED",
+      "time": "10,000",
+      "sub": "DAYS FOR ALLAH: ?",
+      "box": true,
+      "t0": 5.95,
+      "t1": 24.1
+    },
+    {
+      "label": "DAY 10,001",
+      "time": "19:05",
+      "sub": "ISHA: IN THE ROW",
+      "box": true,
+      "t0": 24.55,
+      "t1": 40.38
+    }
+  ],
+  "captions": [
+    [
+      5.95,
+      10.16,
+      "27 years. Gone like one weekend."
+    ],
+    [
+      10.36,
+      15.51,
+      "School. Work. Weddings. A thousand plans."
+    ],
+    [
+      15.71,
+      19.49,
+      "“Later,” you told Him. “When things calm down.”"
+    ],
+    [
+      19.69,
+      23.9,
+      "They never calmed down. The days kept going."
+    ],
+    [
+      24.55,
+      29.76,
+      "Tonight, you walk in for Isha. Day 10,001."
+    ],
+    [
+      29.96,
+      35.49,
+      "The rows. The quiet. Your forehead on the floor."
+    ],
+    [
+      35.69,
+      40.18,
+      "Not a perfect life. Just a first honest day."
+    ]
+  ],
+  "goldWords": [
+    "weekend.",
+    "Later,”",
+    "10,001.",
+    "honest"
+  ],
+  "post": {
+    "caption": "You've lived 10,000 days. How many were for Allah? 🌙\n\n27 years. School, work, weddings, a thousand plans. “Later,” you told Him. Things never calmed down.\n\n“Every soul will taste death.” (3:185)\n\nIt's not too late. Tonight, at Isha: give Him day 10,001. 🤍",
+    "hashtags": "#islamicreminder #islam #muslim #quran #deen #akhirah #salah",
+    "youtube_title": "You've lived 10,000 days. How many for Allah? #islam #reminder"
+  }
+}

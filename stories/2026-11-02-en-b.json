@@ -1,0 +1,118 @@
+{
+  "id": "2026-11-02-en-b",
+  "lang": "en",
+  "capBox": true,
+  "hookBox": true,
+  "hook": {
+    "t0": 0.3,
+    "t1": 4.77,
+    "text": "You snapped 4 times today. Not once did you pause for Allah.",
+    "gold": [
+      "Allah."
+    ]
+  },
+  "verses": [
+    {
+      "t0": 23.02,
+      "t1": 32.72,
+      "text": "“Indeed, Allah is with the patient.”",
+      "ref": "Surah Al-Baqarah — 2:153"
+    }
+  ],
+  "end": {
+    "t0": 46.53,
+    "t1": 53.73,
+    "text": "You snapped 4 times today. Not once did you pause for Allah.",
+    "goldT0": 48.23,
+    "gold": "Today, before Maghrib: make wudu, then say sorry."
+  },
+  "segments": [
+    {
+      "scene": "car_night",
+      "dur": 22.52,
+      "opts": {
+        "rain": true,
+        "clock": "17:42"
+      }
+    },
+    {
+      "scene": "black",
+      "dur": 10.6
+    },
+    {
+      "scene": "living",
+      "dur": 13.21,
+      "opts": {}
+    },
+    {
+      "scene": "black",
+      "dur": 7.8
+    }
+  ],
+  "hud": [
+    {
+      "label": "SNAPPED TODAY",
+      "time": "4",
+      "sub": "PAUSES FOR ALLAH: 0",
+      "box": true,
+      "t0": 4.97,
+      "t1": 22.37
+    },
+    {
+      "label": "THE NEXT TIME",
+      "time": "19:30",
+      "sub": "WUDU FIRST",
+      "box": true,
+      "t0": 33.42,
+      "t1": 46.18
+    }
+  ],
+  "captions": [
+    [
+      4.97,
+      9.41,
+      "The traffic. The horn. Your hands tight on the wheel."
+    ],
+    [
+      9.61,
+      12.97,
+      "Earlier, your mother called. You cut her off."
+    ],
+    [
+      13.17,
+      17.37,
+      "Your colleague. The cashier. The driver behind you."
+    ],
+    [
+      17.57,
+      22.17,
+      "Every word felt right. Then that heavy silence."
+    ],
+    [
+      33.42,
+      38.32,
+      "Home. Your mother on the sofa. It rises again."
+    ],
+    [
+      38.52,
+      42.73,
+      "This time, you stop. Cold water. Wudu."
+    ],
+    [
+      42.93,
+      45.98,
+      "You sit next to her. “I'm sorry, Mama.”"
+    ]
+  ],
+  "goldWords": [
+    "silence.",
+    "stop.",
+    "Wudu.",
+    "sorry,"
+  ],
+  "post": {
+    "caption": "You snapped 4 times today. Not once did you pause for Allah. 🚗\n\nThe traffic. Your mother on the phone. The cashier. Every word felt right — for three seconds.\n\n“Indeed, Allah is with the patient.” (2:153)\n\nToday, before Maghrib: make wudu, then say sorry. 💧",
+    "hashtags": "#islamicreminder #islam #muslim #quran #deen #sabr #patience #anger",
+    "youtube_title": "You snapped 4 times today. Not once for Allah. #islam #sabr"
+  }
+}
