@@ -16,6 +16,16 @@ De video "6 heures sur ton écran aujourd'hui. Et pour Allah ?" (`stories/2026-1
 - De variatieregels hieronder (andere decors/openingsscènes/opts) blijven gelden voor de **beelden**: elke video ziet er anders uit (andere scenes, moment van de dag, HUD-label).
 - **DECORS — afwisselen (klacht van de gebruiker 2/11: "je gebruikt steeds hetzelfde"):** er zijn nu 19 decors. Per dag en per account: **elke video gebruikt minstens 1 van de nieuwe decors** (`office`, `train`, `kitchen`, `park`, `hospital`, `wudu`, `desert`, `study`), en **geen enkel decor mag 2× op dezelfde dag** bij hetzelfde account voorkomen. `mosque_int`, `mosque_ext`, `car_night`, `living`, `street`, `dinner` en `rooftop` zijn de laatste weken te vaak gebruikt: hooguit 1 van deze per video, en niet als openingsdecor van twee video's na elkaar. Tel vóór het schrijven de decors van de laatste 9 stories van je account (`stories/`) en kies de minst gebruikte die bij het verhaal passen.
 
+## STERKE VERHALEN (wens van de gebruiker 2/11) — geldt voor alle talen
+Elke video vertelt één echt, klein verhaal, geen losse spreuken. Controleer elk verhaal vóór het renderen op deze 6 punten; schrap of herschrijf wat niet klopt:
+1. **Eén persoon, één moment.** "Jij" op een precieze plek en tijd (bv. 23:47 aan je bureau, de metro van 7:12, de wachtkamer van het ziekenhuis). Geen algemeenheden zoals "de mensen" of "het leven".
+2. **Een concreet, herkenbaar detail** dat de kijker raakt omdat hij het zelf meemaakt: de koude koffie, het "gezien" onder een bericht, de stoffige Koran met je naam op de eerste pagina, de hartmonitor van je vader.
+3. **Een kantelpunt.** Er gebeurt iets dat de persoon doet stilstaan (een notificatie, de adhan, de hand van je vader die koud is, een vallend blad). Pas dáárna komt het vers.
+4. **Een keuze en een kleine actie** die de kijker vandaag kan doen (in de woorden en het beeld: hij legt de telefoon weg, neemt de Koran, belt zijn moeder, staat op voor wudu).
+5. **Gevoel boven uitleg.** Toon het (beeld + korte zin), preek niet. Max. één zin per caption, ritme kort–kort–lang.
+6. **De decors dienen het verhaal.** Kies de decors die bij dit verhaal horen (bv. `hospital` voor ouders, `study` voor de Koran, `office` voor werk boven gebed, `train` voor scrollen, `park` voor de tijd die voorbijgaat, `kitchen` voor Fajr/suhoor, `wudu` voor de stap naar het gebed, `desert` voor bezinning) en laat elke scène één stap van het verhaal tonen.
+Test: als je de hook en de laatste gouden zin wegneemt, moet het verhaal nog steeds een begin, een kantelpunt en een einde hebben.
+
 ## Dagelijkse routine (3 video's per dag: 10:00, 18:00 en 20:00)
 
 0. **Verzoeken van de gebruiker:** kijk of `requests/<datum van vandaag>.md` bestaat. Zo ja: volg dat verzoek voor de video die erin staat (onderwerp, tijd, stem) — dat gaat vóór de gewone variatieregels. De andere video's van die dag blijven vrij.
