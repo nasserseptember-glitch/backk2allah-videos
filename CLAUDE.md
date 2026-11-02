@@ -14,6 +14,7 @@ De video "6 heures sur ton écran aujourd'hui. Et pour Allah ?" (`stories/2026-1
 - **Toon:** confronterend maar liefdevol, nooit beschuldigend of angstzaaiend, met een hoopvol einde.
 - **Elke dag 3 verschillende onderwerpen**, nooit 2 keer hetzelfde getal of thema in een week. Denk aan: schermtijd, uitstellen van gebed, slapen tijdens Fajr, roddelen, muziek/series, geld vs sadaqa, ouders bellen, Koran die stof verzamelt, jaren die voorbijvliegen, wachten op "later", dua vergeten, dankbaarheid, enz.
 - De variatieregels hieronder (andere decors/openingsscènes/opts) blijven gelden voor de **beelden**: elke video ziet er anders uit (andere scenes, moment van de dag, HUD-label).
+- **DECORS — afwisselen (klacht van de gebruiker 2/11: "je gebruikt steeds hetzelfde"):** er zijn nu 19 decors. Per dag en per account: **elke video gebruikt minstens 1 van de nieuwe decors** (`office`, `train`, `kitchen`, `park`, `hospital`, `wudu`, `desert`, `study`), en **geen enkel decor mag 2× op dezelfde dag** bij hetzelfde account voorkomen. `mosque_int`, `mosque_ext`, `car_night`, `living`, `street`, `dinner` en `rooftop` zijn de laatste weken te vaak gebruikt: hooguit 1 van deze per video, en niet als openingsdecor van twee video's na elkaar. Tel vóór het schrijven de decors van de laatste 9 stories van je account (`stories/`) en kies de minst gebruikte die bij het verhaal passen.
 
 ## Dagelijkse routine (3 video's per dag: 10:00, 18:00 en 20:00)
 
@@ -105,6 +106,14 @@ Brand **Back2Allah ARB, blogId 7763307** (Instagram @back2allah_arb, TikTok @Bac
   - `car_night` — autorijden 's nachts in de regen, stuur, achterlichten, straatlampen. opts: `rain: false`, `clock`
   - `seaside` — strand bij zonsondergang, golven, glinsterende zee. opts: `walk: false` (zittend)
   - `dinner` — familie-avondmaal aan tafel, kaars, hanglamp. opts: `family: ["father","mother","sibling"]` (laat iemand weg = lege stoel, bv. voor gemis/rouw), `sad`
+  - `office` — 's avonds laat aan het bureau, laptop met code/mail, stadslichten door het raam, koffie met damp, POV-handen typen. opts: `screen: "code"|"mail"`, `typing: false`
+  - `train` — metro/trein binnenin, iedereen op zijn telefoon, lichtjes van de tunnel, POV met telefoon. opts: `phone: false`
+  - `kitchen` — keuken bij dageraad (suhoor/Fajr), waterkoker met stoom, dadels, moeder bij het aanrecht. opts: `time: "dawn"|"night"`, `mother: false`
+  - `park` — herfstpark, vallende bladeren, bankje met oude man, wandelaars. opts: `time: "golden"` (zonsondergang), `walk: false`
+  - `hospital` — ziekenhuiskamer, ouder in bed, hartmonitor, infuus, POV-hand die naar de hand van de ouder reikt. opts: `patient: "father"|"mother"`
+  - `wudu` — wastafel, stromend water, POV-handen (wudu). opts: `time: "dawn"|"day"`, `water: false`
+  - `desert` — woestijn 's nachts, kampvuur, sterren en maan, vriend bij het vuur; camera kijkt op het einde omhoog naar de sterren. opts: `friend: false`
+  - `study` — kamer met boekenkast; de Koran ligt stoffig bovenaan, de POV-hand neemt hem (40–75 % van het segment). Ideaal voor "Koran die stof verzamelt".
   - `black` — zwart scherm (voor vers of einde)
 - Tijden hieronder zijn **absolute seconden** vanaf het begin van de video.
 - `hook`: `{t0, t1, text, gold: [woorden in goud]}` (bovenaan)

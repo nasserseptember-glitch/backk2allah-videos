@@ -105,6 +105,56 @@ for sg in S['segments']:
             for rep in range(rng.integers(1, 4)):
                 s = np.sin(2 * np.pi * (f0 + rng.uniform(-1500, 1500) * tt / tt[-1]) * tt) * np.sin(np.pi * tt / tt[-1]) ** 2
                 put(verb(s, 0.3) * 0.02, t0 + rep * 0.13, pan=rng.uniform(-0.8, 0.8))
+    elif sc == 'office':  # fridge/AC hum, keyboard clicks, distant city
+        out[:] += ((lp(BROWN, 200) * 0.03 + bp(PINK, 100, 140) * 0.02) * w)[:, None]
+        if o.get('typing', True):
+            tt = a + 0.5
+            while tt < b - 0.3:
+                put(hp(burst := rng.normal(0, 1, int(SR * 0.025)), 1500) * env(int(SR * 0.025), 0.001, 0.006) * 0.05, tt, pan=rng.uniform(-0.3, 0.3))
+                tt += rng.uniform(0.08, 0.22) + (0.6 if rng.random() < 0.08 else 0)
+    elif sc == 'train':  # rumble + rail clacks + air
+        out[:] += ((lp(BROWN, 160) * 0.09 + bp(PINK, 300, 1500) * 0.03) * w)[:, None]
+        tt = a + 0.3
+        while tt < b - 0.2:
+            for dt in (0, 0.12):
+                n = int(SR * 0.08); put(lp(rng.normal(0, 1, n), 900) * env(n, 0.002, 0.03) * 0.12, tt + dt)
+            tt += 1.15
+    elif sc == 'kitchen':  # room tone, kettle hiss rising, cup clink, faint birds at dawn
+        n = int(SR * d); k = np.clip(np.arange(n) / n, 0, 1)
+        put(bp(rng.normal(0, 1, n), 2500, 7000) * (0.004 + 0.02 * k) * win(0, d, 0.8, 0.8)[:n], a)
+        out[:] += (lp(BROWN, 250) * 0.02 * w)[:, None]
+        put(verb(bell(2600, 0.15), 0.3) * 0.02, a + d * 0.6); put(verb(bell(3900, 0.1), 0.3) * 0.01, a + d * 0.6)
+        if o.get('time') != 'night':
+            for kk in range(int(d * 1.2)):
+                f0 = rng.uniform(2800, 4400); m = int(SR * 0.1); u = np.arange(m) / SR
+                put(verb(np.sin(2 * np.pi * (f0 + 900 * u / u[-1]) * u) * np.sin(np.pi * u / u[-1]) ** 2, 0.4) * 0.008, a + 0.5 + rng.random() * (d - 1), pan=rng.uniform(-0.8, 0.8))
+    elif sc == 'park':  # wind in trees, leaves rustle, footsteps on leaves, birds
+        out[:] += ((bp(PINK, 1500, 7000) * 0.025 * (0.6 + 0.4 * np.sin(T * 0.7)) + lp(BROWN, 300) * 0.02) * w)[:, None]
+        if o.get('walk', True):
+            tt = a + 0.3
+            while tt < b - 0.2:
+                n = int(SR * 0.12); put(bp(rng.normal(0, 1, n), 800, 6000) * env(n, 0.003, 0.04) * 0.06, tt, pan=0.2 if int(tt * 2) % 2 else -0.2); tt += 0.6
+        for kk in range(int(d * 1.5)):
+            f0 = rng.uniform(2600, 4600); m = int(SR * rng.uniform(0.06, 0.14)); u = np.arange(m) / SR
+            put(verb(np.sin(2 * np.pi * (f0 + rng.uniform(-1500, 1500) * u / u[-1]) * u) * np.sin(np.pi * u / u[-1]) ** 2, 0.3) * 0.015, a + 0.5 + rng.random() * (d - 1), pan=rng.uniform(-0.8, 0.8))
+    elif sc == 'hospital':  # ventilation hum + heart monitor beeps
+        out[:] += ((lp(BROWN, 180) * 0.03 + bp(PINK, 2000, 5000) * 0.004) * w)[:, None]
+        tt = a + 0.4
+        while tt < b - 0.2:
+            m = int(SR * 0.12); u = np.arange(m) / SR; put(np.sin(2 * np.pi * 1046 * u) * env(m, 0.003, 0.05) * 0.06, tt); tt += 1.1
+    elif sc == 'wudu':  # running tap water
+        n = int(SR * d)
+        if o.get('water', True): put((bp(rng.normal(0, 1, n), 600, 9000) * 0.05 + bp(rng.normal(0, 1, n), 200, 900) * 0.02) * win(0, d, 0.4, 0.6)[:n], a)
+        out[:] += (lp(BROWN, 200) * 0.015 * w)[:, None]
+    elif sc == 'desert':  # soft wind + crackling fire
+        out[:] += ((bp(PINK, 200, 1500) * 0.02 * (0.6 + 0.4 * np.sin(T * 0.4)) + lp(BROWN, 120) * 0.03) * w)[:, None]
+        for kk in range(int(d * 9)):
+            m = int(SR * rng.uniform(0.004, 0.02)); put(hp(rng.normal(0, 1, m), 1200) * env(m, 0.0005, 0.004) * rng.uniform(0.03, 0.12), a + 0.2 + rng.random() * (d - 0.4), pan=rng.uniform(-0.2, 0.2))
+    elif sc == 'study':  # quiet room, clock ticking
+        out[:] += (lp(BROWN, 200) * 0.02 * w)[:, None]
+        tt = a + 0.3
+        while tt < b - 0.1:
+            m = int(SR * 0.02); put(hp(rng.normal(0, 1, m), 2500) * env(m, 0.0005, 0.004) * 0.05, tt, pan=-0.5); tt += 1.0
     elif sc == 'black':
         out[:] += (lp(BROWN, 120) * 0.04 * win(a, b, 1.0, 1.0))[:, None]
     a = b
