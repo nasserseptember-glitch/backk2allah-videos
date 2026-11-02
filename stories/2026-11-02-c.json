@@ -1,0 +1,125 @@
+{
+ "id": "2026-11-02-c",
+ "segments": [
+  {
+   "scene": "living",
+   "dur": 27.12
+  },
+  {
+   "scene": "black",
+   "dur": 12.29
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 13.05,
+   "opts": {
+    "night": true,
+    "povBow": true,
+    "rows": 3,
+    "ruku": [
+     [
+      4.2,
+      10.6
+     ]
+    ]
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.73
+  }
+ ],
+ "captions": [
+  [
+   6.53,
+   12.45,
+   "Les factures. Le travail. Ta mère qui fatigue."
+  ],
+  [
+   12.65,
+   14.85,
+   "Elle s'est endormie devant la télé."
+  ],
+  [
+   15.05,
+   18.69,
+   "Toi, tu refais les comptes. Encore."
+  ],
+  [
+   18.89,
+   23.23,
+   "Tu portes tout. Seul. Sans rien dire."
+  ],
+  [
+   23.43,
+   26.62,
+   "Mais ce poids-là, tu ne l'as jamais posé devant Lui."
+  ],
+  [
+   39.71,
+   43.46,
+   "Ce soir, à Isha, tu prends ta place dans le rang."
+  ],
+  [
+   43.66,
+   47.24,
+   "En sujud, tu Lui confies tes cinq soucis."
+  ],
+  [
+   47.44,
+   51.96,
+   "Les soucis sont encore là. Mais tu n'es plus seul."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 27.52,
+   "t1": 39.01,
+   "text": "« Allah n'impose à aucune âme une charge supérieure à sa capacité. »",
+   "ref": "Sourate Al-Baqara — 2:286"
+  }
+ ],
+ "hud": [
+  {
+   "label": "HIER SOIR · SOUCIS : 5",
+   "time": "01:12",
+   "sub": "SUJUD : 0",
+   "t0": 6.33,
+   "t1": 26.82
+  },
+  {
+   "label": "CE SOIR · ISHA",
+   "time": "19:05",
+   "sub": "SOUCIS CONFIÉS : 5",
+   "t0": 39.61,
+   "t1": 52.16
+  }
+ ],
+ "hook": {
+  "text": "1 h du matin. 5 soucis. Et pas un seul sujud.",
+  "gold": [
+   "sujud."
+  ],
+  "t0": 0.3,
+  "t1": 6.33
+ },
+ "end": {
+  "t0": 52.76,
+  "t1": 59.79,
+  "text": "1 h du matin. 5 soucis. Et pas un seul sujud.",
+  "goldT0": 54.26,
+  "gold": "Ce soir, à Isha : reste deux minutes en sujud."
+ },
+ "goldWords": [
+  "sujud.",
+  "sujud,",
+  "lui.",
+  "isha,",
+  "seul."
+ ],
+ "post": {
+  "caption": "1 h du matin. 5 soucis. Et pas un seul sujud. 🤍\n\n« Allah n'impose à aucune âme une charge supérieure à sa capacité. » (2:286)\n\nTu portes tout, seul, sans rien dire. Ce soir, à Isha, confie-Lui tes soucis un par un : reste deux minutes en sujud. Tu n'es plus seul.",
+  "hashtags": "#rappel #islam #rappelislamique #sujud #isha #tawakkul #soucis #muslim",
+  "youtube_title": "1 h du matin. 5 soucis. Et pas un seul sujud. 🤍 #rappel #islam"
+ }
+}

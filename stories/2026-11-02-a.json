@@ -1,0 +1,130 @@
+{
+ "id": "2026-11-02-a",
+ "segments": [
+  {
+   "scene": "street",
+   "dur": 25.83,
+   "opts": {
+    "dayFrom": 0,
+    "dayTo": 0.25,
+    "clock": "13:07"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.26
+  },
+  {
+   "scene": "bed_morning",
+   "dur": 15.41,
+   "opts": {
+    "wake": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.83
+  }
+ ],
+ "captions": [
+  [
+   5.16,
+   8.97,
+   "Le café, tu le savoures. Lentement."
+  ],
+  [
+   9.17,
+   13.36,
+   "Les messages, tu y réponds. Un par un."
+  ],
+  [
+   13.56,
+   17.52,
+   "Puis l'adhan. Et tu pries en courant."
+  ],
+  [
+   17.72,
+   22.29,
+   "Quatre rak'at. Trois minutes. La tête ailleurs."
+  ],
+  [
+   22.49,
+   25.33,
+   "Tu as donné à Allah ce qui restait."
+  ],
+  [
+   37.39,
+   41.4,
+   "Aujourd'hui, à Dhuhr, tu poses le téléphone."
+  ],
+  [
+   41.6,
+   43.89,
+   "Tu prends le temps du wudu."
+  ],
+  [
+   44.09,
+   48.67,
+   "Tu ralentis. Chaque mot. Chaque sujud."
+  ],
+  [
+   48.87,
+   52.0,
+   "Dix minutes. Et ta journée change."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 26.23,
+   "t1": 36.69,
+   "text": "« La Salât préserve de la turpitude et du blâmable. »",
+   "ref": "Sourate Al-ʿAnkabût — 29:45"
+  }
+ ],
+ "hud": [
+  {
+   "label": "PAUSE CAFÉ : 32 MIN",
+   "time": "13:07",
+   "sub": "DHUHR : 3 MIN",
+   "box": true,
+   "t0": 4.96,
+   "t1": 25.53
+  },
+  {
+   "label": "DHUHR",
+   "time": "13:20",
+   "sub": "10 MIN · TÉLÉPHONE ÉTEINT",
+   "t0": 37.29,
+   "t1": 52.2
+  }
+ ],
+ "hook": {
+  "text": "30 minutes de pause café. 3 minutes pour Dhuhr.",
+  "gold": [
+   "Dhuhr."
+  ],
+  "t0": 0.3,
+  "t1": 4.96
+ },
+ "end": {
+  "t0": 52.8,
+  "t1": 59.93,
+  "text": "30 minutes de pause café. 3 minutes pour Dhuhr.",
+  "goldT0": 54.3,
+  "gold": "Aujourd'hui, à Dhuhr : dix minutes. Sans te presser."
+ },
+ "goldWords": [
+  "allah",
+  "dhuhr,",
+  "dhuhr.",
+  "sujud.",
+  "wudu."
+ ],
+ "post": {
+  "caption": "30 minutes de pause café. 3 minutes pour Dhuhr. 🤍\n\n« La Salât préserve de la turpitude et du blâmable. » (29:45)\n\nLe café, tu le savoures. Ta prière, tu la cours. Aujourd'hui à Dhuhr : pose le téléphone, prends le temps du wudu, et donne-Lui dix minutes. Sans te presser.",
+  "hashtags": "#rappel #islam #rappelislamique #salat #priere #dhuhr #khushu #muslim",
+  "youtube_title": "30 minutes de pause café. 3 minutes pour Dhuhr. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

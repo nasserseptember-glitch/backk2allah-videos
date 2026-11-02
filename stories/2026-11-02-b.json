@@ -1,0 +1,126 @@
+{
+ "id": "2026-11-02-b",
+ "segments": [
+  {
+   "scene": "rooftop",
+   "dur": 23.33,
+   "opts": {
+    "phone": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 13.2
+  },
+  {
+   "scene": "car_night",
+   "dur": 16.18,
+   "opts": {
+    "clock": "22:40"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6.76
+  }
+ ],
+ "captions": [
+  [
+   6.37,
+   8.57,
+   "« Pardon pour le retard. »"
+  ],
+  [
+   8.77,
+   12.75,
+   "« Pardon, je t'ai coupé. » « Pardon, j'ai oublié. »"
+  ],
+  [
+   12.95,
+   15.3,
+   "Pour les gens, le mot sort tout seul."
+  ],
+  [
+   15.5,
+   19.29,
+   "Mais à Celui qui voit tout, tu ne dis rien."
+  ],
+  [
+   19.49,
+   22.83,
+   "Pas un mot. Pas un astaghfirullah."
+  ],
+  [
+   36.83,
+   40.37,
+   "Ce soir, il pleut. Tu conduis en silence."
+  ],
+  [
+   40.57,
+   43.96,
+   "Et à chaque feu rouge : astaghfirullah."
+  ],
+  [
+   44.16,
+   48.19,
+   "Une fois. Dix fois. Cent fois."
+  ],
+  [
+   48.39,
+   52.21,
+   "Ton cœur se lave, comme la route sous la pluie."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 23.73,
+   "t1": 36.13,
+   "text": "« Implorez le pardon de votre Seigneur, car Il est grand Pardonneur, pour qu'Il vous envoie du ciel des pluies abondantes. »",
+   "ref": "Sourate Nûh — 71:10-11"
+  }
+ ],
+ "hud": [
+  {
+   "label": "« PARDON » AUJOURD'HUI",
+   "time": "10",
+   "sub": "ASTAGHFIRULLAH : 0",
+   "t0": 6.17,
+   "t1": 23.03
+  },
+  {
+   "label": "ASTAGHFIRULLAH",
+   "time": "100",
+   "sub": "22:40 · SOUS LA PLUIE",
+   "t0": 36.73,
+   "t1": 52.41
+  }
+ ],
+ "hook": {
+  "text": "Tu as dit « pardon » 10 fois aujourd'hui. Jamais à Allah.",
+  "gold": [
+   "Allah."
+  ],
+  "t0": 0.3,
+  "t1": 6.17
+ },
+ "end": {
+  "t0": 53.01,
+  "t1": 59.07,
+  "text": "Tu as dit « pardon » 10 fois aujourd'hui. Jamais à Allah.",
+  "goldT0": 54.51,
+  "gold": "Ce soir : cent astaghfirullah. Avant de dormir."
+ },
+ "goldWords": [
+  "allah.",
+  "astaghfirullah.",
+  "astaghfirullah",
+  "pluie.",
+  "pardon"
+ ],
+ "post": {
+  "caption": "Tu as dit « pardon » 10 fois aujourd'hui. Jamais à Allah. 🤍\n\n« Implorez le pardon de votre Seigneur, car Il est grand Pardonneur, pour qu'Il vous envoie du ciel des pluies abondantes. » (71:10-11)\n\nPour les gens, le mot sort tout seul. Ce soir, dis-le à Celui qui voit tout : cent astaghfirullah avant de dormir.",
+  "hashtags": "#rappel #islam #rappelislamique #astaghfirullah #istighfar #pardon #muslim #dhikr",
+  "youtube_title": "Tu as dit « pardon » 10 fois aujourd'hui. Jamais à Allah. 🤍 #rappel #islam"
+ },
+ "capBox": true
+}
