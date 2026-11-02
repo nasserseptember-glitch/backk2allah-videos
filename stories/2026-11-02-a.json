@@ -18,7 +18,9 @@
    "scene": "bed_morning",
    "dur": 15.41,
    "opts": {
-    "wake": false
+    "wake": false,
+    "clock": "13:20",
+    "sub": "Dhuhr"
    }
   },
   {
