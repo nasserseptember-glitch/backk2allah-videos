@@ -3,7 +3,7 @@
  "hook": {
   "text": "10 heures au bureau. 4 minutes avant la fin d'Asr.",
   "gold": [
-   "Asr."
+   "d'Asr."
   ],
   "t0": 0.3,
   "t1": 5.17
@@ -103,7 +103,8 @@
    "time": "17:05",
    "sub": "ORDINATEUR FERMÉ",
    "t0": 34.72,
-   "t1": 46.66
+   "t1": 46.66,
+   "box": true
   }
  ],
  "goldWords": [
@@ -112,7 +113,8 @@
   "asr.",
   "asr»",
   "rak'at.",
-  "visage."
+  "visage.",
+  "d'asr"
  ],
  "post": {
   "caption": "10 heures au bureau. 4 minutes avant la fin d'Asr. 🤍\n\n« Accomplis la Salât pour te souvenir de Moi. » (20:14)\n\nLe mail peut attendre. Ta prière, non. Aujourd'hui, à l'adhan d'Asr : ferme l'ordinateur, fais tes ablutions, et donne-Lui ces quelques minutes.",

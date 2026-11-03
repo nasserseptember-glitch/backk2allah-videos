@@ -101,14 +101,16 @@
    "time": "22:41",
    "sub": "SADAQA : 0 €",
    "t0": 5.7,
-   "t1": 30.08
+   "t1": 30.08,
+   "box": true
   },
   {
    "label": "SADAQA : 18 €",
    "time": "18:47",
    "sub": "UN REPAS DE MOINS",
    "t0": 40.78,
-   "t1": 52.8
+   "t1": 52.8,
+   "box": true
   }
  ],
  "goldWords": [
