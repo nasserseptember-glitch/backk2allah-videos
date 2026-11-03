@@ -1,0 +1,114 @@
+{
+ "hook": {
+  "text": "Your heart beat 100,000 times. Did you thank Allah once?",
+  "gold": [
+   "Allah",
+   "once?"
+  ],
+  "t0": 0.3,
+  "t1": 7.1
+ },
+ "hookBox": true,
+ "capBox": true,
+ "hud": [
+  {
+   "label": "HEARTBEATS TODAY",
+   "time": "100,000",
+   "sub": "ALHAMDULILLAH: 0",
+   "box": true,
+   "t0": 7.0,
+   "t1": 25.85
+  },
+  {
+   "label": "ALHAMDULILLAH",
+   "time": "10:05",
+   "sub": "HEART: GRATEFUL",
+   "box": true,
+   "t0": 37.07,
+   "t1": 46.93
+  }
+ ],
+ "end": {
+  "text": "Your heart beat 100,000 times. Did you thank Allah once?",
+  "gold": "This morning: thank Him for 10 things. Before noon.",
+  "t0": 47.53,
+  "goldT0": 49.03,
+  "t1": 55.08
+ },
+ "goldWords": [
+  "“alhamdulillah.”",
+  "thank",
+  "him."
+ ],
+ "post": {
+  "caption": "Your heart beat 100,000 times. Did you thank Allah once? 🤍\n\n“For indeed, with hardship [will be] ease.” (94:5)\n\nThis morning, before noon: thank Him for 10 things. Your eyes, your breath, the people you love. Alhamdulillah. 🤲",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #alhamdulillah #gratitude #parents",
+  "youtube_title": "Your heart beat 100,000 times. Did you thank Allah once? 🤍 #islam #alhamdulillah"
+ },
+ "id": "2026-11-03-en-a",
+ "lang": "en",
+ "verses": [
+  {
+   "t0": 26.55,
+   "t1": 36.55,
+   "text": "“For indeed, with hardship [will be] ease.”",
+   "ref": "Surah Ash-Sharh — 94:5"
+  }
+ ],
+ "segments": [
+  {
+   "scene": "hospital",
+   "dur": 26.15,
+   "opts": {
+    "patient": "father"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.72
+  },
+  {
+   "scene": "wudu",
+   "dur": 10.36,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.05
+  }
+ ],
+ "captions": [
+  [
+   7.22,
+   13.97,
+   "9:40. Room 214. Dad’s heart, on a screen."
+  ],
+  [
+   14.09,
+   17.96,
+   "You count every beep. You never counted yours."
+  ],
+  [
+   18.08,
+   22.88,
+   "Then his hand moves. Cold. Weak."
+  ],
+  [
+   23.0,
+   25.73,
+   "He whispers: “Alhamdulillah.”"
+  ],
+  [
+   37.27,
+   42.17,
+   "You walk to the sink. Cold water on your hands."
+  ],
+  [
+   42.29,
+   46.71,
+   "You go back. You hold his hand. And you thank Him."
+  ]
+ ]
+}

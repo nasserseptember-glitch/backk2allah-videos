@@ -1,0 +1,119 @@
+{
+ "hook": {
+  "text": "Awake until 3 a.m. Not one “Astaghfirullah.”",
+  "gold": [
+   "“Astaghfirullah.”"
+  ],
+  "t0": 0.3,
+  "t1": 5.17
+ },
+ "hookBox": true,
+ "capBox": true,
+ "hud": [
+  {
+   "label": "AWAKE",
+   "clock": [
+    "02:47",
+    "03:04"
+   ],
+   "sub": "ISTIGHFAR: 0",
+   "box": true,
+   "t0": 6.0,
+   "t1": 24.58
+  },
+  {
+   "label": "ISTIGHFAR",
+   "time": "100",
+   "sub": "BEFORE FAJR",
+   "box": true,
+   "t0": 25.08,
+   "t1": 37.1
+  }
+ ],
+ "end": {
+  "text": "Awake until 3 a.m. Not one “Astaghfirullah.”",
+  "gold": "Tonight, before you sleep: Astaghfirullah, 100 times.",
+  "t0": 51.19,
+  "goldT0": 52.69,
+  "t1": 59.66
+ },
+ "goldWords": [
+  "“astaghfirullah,”",
+  "astaghfirullah.",
+  "whisper"
+ ],
+ "post": {
+  "caption": "Awake until 3 a.m. Not one “Astaghfirullah.” 🤍\n\n“They used to sleep but little of the night, and in the hours before dawn they would ask forgiveness.” (51:17-18)\n\nTonight, before you sleep: Astaghfirullah, 100 times. A few minutes, a lighter heart. 🤲",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #istighfar #astaghfirullah #night",
+  "youtube_title": "Awake until 3 a.m. Not one “Astaghfirullah.” 🤍 #islam #istighfar"
+ },
+ "id": "2026-11-03-en-c",
+ "lang": "en",
+ "verses": [
+  {
+   "t0": 37.8,
+   "t1": 50.67,
+   "text": "“They used to sleep but little of the night, and in the hours before dawn they would ask forgiveness.”",
+   "ref": "Surah Adh-Dhariyat — 51:17-18"
+  }
+ ],
+ "segments": [
+  {
+   "scene": "desert",
+   "dur": 24.88
+  },
+  {
+   "scene": "kitchen",
+   "dur": 12.52,
+   "opts": {
+    "time": "dawn",
+    "mother": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 13.59
+  },
+  {
+   "scene": "black",
+   "dur": 8.87
+  }
+ ],
+ "captions": [
+  [
+   5.29,
+   12.09,
+   "2:47 a.m. A fire in the desert. Your friend beside you."
+  ],
+  [
+   12.21,
+   16.4,
+   "Sand in your shoes. Your phone at 9%."
+  ],
+  [
+   16.52,
+   19.69,
+   "Then he puts his phone down in the sand."
+  ],
+  [
+   19.81,
+   24.56,
+   "“Astaghfirullah,” he whispers. Again. And again."
+  ],
+  [
+   25.28,
+   29.82,
+   "Back home, 5:10 a.m. The kettle hisses."
+  ],
+  [
+   29.94,
+   33.27,
+   "You sit at the table. And you whisper it too."
+  ],
+  [
+   33.39,
+   37.18,
+   "Astaghfirullah. One hundred times."
+  ]
+ ]
+}

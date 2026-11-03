@@ -1,0 +1,130 @@
+{
+ "hook": {
+  "text": "12 rejections this year. Did you stop knocking on His door?",
+  "gold": [
+   "His",
+   "door?"
+  ],
+  "t0": 0.3,
+  "t1": 4.73
+ },
+ "hookBox": true,
+ "capBox": true,
+ "hud": [
+  {
+   "label": "REJECTIONS THIS YEAR",
+   "time": "12",
+   "sub": "PRAYERS SINCE NO. 5: 0",
+   "box": true,
+   "t0": 5.15,
+   "t1": 25.05
+  },
+  {
+   "label": "MAGHRIB",
+   "time": "17:09",
+   "sub": "BACK ON THE MAT",
+   "box": true,
+   "t0": 36.27,
+   "t1": 51.04
+  }
+ ],
+ "end": {
+  "text": "12 rejections this year. Did you stop knocking on His door?",
+  "gold": "Today at Maghrib: pray. Tomorrow: apply again.",
+  "t0": 51.64,
+  "goldT0": 53.14,
+  "t1": 59.08
+ },
+ "goldWords": [
+  "qibla.",
+  "knock",
+  "forgotten."
+ ],
+ "post": {
+  "caption": "12 rejections this year. Did you stop knocking on His door? 🤍\n\n“So do not weaken and do not grieve.” (3:139)\n\nA closed door on earth is not a closed door with Allah. Today at Maghrib: pray. Tomorrow: apply again. 🤲",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #rejection #hope #salah",
+  "youtube_title": "12 rejections this year. Did you stop knocking on His door? 🤍 #islam #hope"
+ },
+ "id": "2026-11-03-en-b",
+ "lang": "en",
+ "verses": [
+  {
+   "t0": 25.75,
+   "t1": 35.75,
+   "text": "“So do not weaken and do not grieve.”",
+   "ref": "Surah Al-Imran — 3:139"
+  }
+ ],
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 4.95
+  },
+  {
+   "scene": "train",
+   "dur": 20.4
+  },
+  {
+   "scene": "black",
+   "dur": 10.72
+  },
+  {
+   "scene": "park",
+   "dur": 15.27,
+   "opts": {
+    "time": "golden"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.94
+  }
+ ],
+ "captions": [
+  [
+   5.25,
+   10.04,
+   "4:12 p.m. Line 4. Everyone on their phone."
+  ],
+  [
+   10.16,
+   13.65,
+   "“Unfortunately, we have decided…” Number 12."
+  ],
+  [
+   13.77,
+   16.77,
+   "After number five, you stopped praying."
+  ],
+  [
+   16.89,
+   20.6,
+   "Then the train stops. The tunnel goes dark."
+  ],
+  [
+   20.72,
+   24.93,
+   "In the black window: just you. Tired."
+  ],
+  [
+   36.47,
+   39.66,
+   "You get off one stop early. The park."
+  ],
+  [
+   39.78,
+   43.54,
+   "The leaves fall. The tree is still standing."
+  ],
+  [
+   43.66,
+   47.15,
+   "You face the qibla. And you knock again."
+  ],
+  [
+   47.27,
+   50.82,
+   "No job yet. But you are not forgotten."
+  ]
+ ]
+}
