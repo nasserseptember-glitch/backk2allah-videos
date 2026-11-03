@@ -1,0 +1,124 @@
+{
+ "id": "2026-11-03-a",
+ "hook": {
+  "text": "10 heures au bureau. 4 minutes avant la fin d'Asr.",
+  "gold": [
+   "Asr."
+  ],
+  "t0": 0.3,
+  "t1": 5.17
+ },
+ "end": {
+  "text": "10 heures au bureau. 4 minutes avant la fin d'Asr.",
+  "gold": "Aujourd'hui, à l'adhan d'Asr : ferme l'ordinateur.",
+  "t0": 47.26,
+  "goldT0": 48.66,
+  "t1": 55.0
+ },
+ "segments": [
+  {
+   "scene": "office",
+   "dur": 24.32,
+   "opts": {
+    "screen": "mail"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.2
+  },
+  {
+   "scene": "wudu",
+   "dur": 12.44,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.24
+  }
+ ],
+ "captions": [
+  [
+   5.37,
+   7.87,
+   "Ton café est froid depuis midi."
+  ],
+  [
+   8.02,
+   12.81,
+   "Un mail. Puis un autre. Puis quarante."
+  ],
+  [
+   12.96,
+   16.19,
+   "Chaque fois, « encore cinq minutes »."
+  ],
+  [
+   16.34,
+   20.34,
+   "Puis ton téléphone s'allume : « Asr se termine bientôt »."
+  ],
+  [
+   20.49,
+   23.87,
+   "Derrière la vitre, le ciel s'éteint déjà."
+  ],
+  [
+   34.82,
+   38.57,
+   "Tu fermes l'ordinateur. Le mail attendra."
+  ],
+  [
+   38.72,
+   42.37,
+   "L'eau froide sur tes mains. Sur ton visage."
+  ],
+  [
+   42.52,
+   46.51,
+   "Quatre rak'at. Et enfin, tu respires."
+  ]
+ ],
+ "verses": [
+  {
+   "text": "« Accomplis la Salât pour te souvenir de Moi. »",
+   "ref": "Sourate Tâ-Hâ — 20:14",
+   "t0": 24.72,
+   "t1": 33.54
+  }
+ ],
+ "hud": [
+  {
+   "label": "AU BUREAU : 10 H",
+   "time": "17:02",
+   "sub": "ASR : FIN DANS 4 MIN",
+   "box": true,
+   "t0": 5.17,
+   "t1": 24.02
+  },
+  {
+   "label": "ASR",
+   "time": "17:05",
+   "sub": "ORDINATEUR FERMÉ",
+   "t0": 34.72,
+   "t1": 46.66
+  }
+ ],
+ "goldWords": [
+  "allah",
+  "asr",
+  "asr.",
+  "asr»",
+  "rak'at.",
+  "visage."
+ ],
+ "post": {
+  "caption": "10 heures au bureau. 4 minutes avant la fin d'Asr. 🤍\n\n« Accomplis la Salât pour te souvenir de Moi. » (20:14)\n\nLe mail peut attendre. Ta prière, non. Aujourd'hui, à l'adhan d'Asr : ferme l'ordinateur, fais tes ablutions, et donne-Lui ces quelques minutes.",
+  "hashtags": "#rappel #islam #rappelislamique #salat #asr #priere #travail #muslim",
+  "youtube_title": "10 heures au bureau. 4 minutes avant la fin d'Asr. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

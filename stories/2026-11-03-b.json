@@ -1,0 +1,129 @@
+{
+ "id": "2026-11-03-b",
+ "hook": {
+  "text": "23 livraisons ce mois. 0 € pour la sadaqa.",
+  "gold": [
+   "sadaqa."
+  ],
+  "t0": 0.3,
+  "t1": 5.7
+ },
+ "end": {
+  "text": "23 livraisons ce mois. 0 € pour la sadaqa.",
+  "gold": "Ce soir, le prix d'un repas. Pour Allah.",
+  "t0": 53.4,
+  "goldT0": 54.8,
+  "t1": 60.46
+ },
+ "segments": [
+  {
+   "scene": "kitchen",
+   "dur": 30.38,
+   "opts": {
+    "time": "night",
+    "mother": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.2
+  },
+  {
+   "scene": "mosque_ext",
+   "dur": 12.53,
+   "opts": {
+    "time": "night"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.55
+  }
+ ],
+ "captions": [
+  [
+   5.9,
+   8.4,
+   "Ton appli de livraison te connaît par cœur."
+  ],
+  [
+   8.55,
+   13.49,
+   "22 h 41. Encore un sac en papier sur le comptoir."
+  ],
+  [
+   13.64,
+   17.72,
+   "Burger, frites. 18 euros. Sans réfléchir."
+  ],
+  [
+   17.87,
+   22.83,
+   "À côté, la boîte de la mosquée. Vide depuis le Ramadan."
+  ],
+  [
+   22.98,
+   27.28,
+   "L'appli affiche le total du mois : 412 euros."
+  ],
+  [
+   27.43,
+   29.93,
+   "Et pour Allah, pas un centime."
+  ],
+  [
+   40.88,
+   44.66,
+   "Le lendemain, avant Isha, tu passes par la mosquée."
+  ],
+  [
+   44.81,
+   48.88,
+   "18 euros dans la boîte. Le prix d'un burger."
+  ],
+  [
+   49.03,
+   52.65,
+   "Personne ne le voit. Allah, si."
+  ]
+ ],
+ "verses": [
+  {
+   "text": "« Quiconque fait un bien fût-ce du poids d'un atome, le verra. »",
+   "ref": "Sourate Az-Zalzala — 99:7",
+   "t0": 30.78,
+   "t1": 39.67
+  }
+ ],
+ "hud": [
+  {
+   "label": "LIVRAISONS CE MOIS : 23",
+   "time": "22:41",
+   "sub": "SADAQA : 0 €",
+   "t0": 5.7,
+   "t1": 30.08
+  },
+  {
+   "label": "SADAQA : 18 €",
+   "time": "18:47",
+   "sub": "UN REPAS DE MOINS",
+   "t0": 40.78,
+   "t1": 52.8
+  }
+ ],
+ "goldWords": [
+  "allah",
+  "allah,",
+  "allah.",
+  "sadaqa",
+  "isha,",
+  "mosquée."
+ ],
+ "post": {
+  "caption": "23 livraisons ce mois. 0 € pour la sadaqa. 🤍\n\n« Quiconque fait un bien fût-ce du poids d'un atome, le verra. » (99:7)\n\nTon appli connaît tes commandes par cœur. La boîte de la mosquée t'attend depuis le Ramadan. Ce soir, donne le prix d'un repas. Personne ne le verra. Allah, si.",
+  "hashtags": "#rappel #islam #rappelislamique #sadaqa #aumone #ramadan #muslim #deen",
+  "youtube_title": "23 livraisons ce mois. 0 € pour la sadaqa. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

@@ -1,0 +1,120 @@
+{
+ "id": "2026-11-03-c",
+ "hook": {
+  "text": "20 minutes à parler de lui. 0 dua pour lui.",
+  "gold": [
+   "dua"
+  ],
+  "t0": 0.3,
+  "t1": 5.22
+ },
+ "end": {
+  "text": "20 minutes à parler de lui. 0 dua pour lui.",
+  "gold": "Ce soir, une dua pour celui dont tu as parlé.",
+  "t0": 50.72,
+  "goldT0": 52.12,
+  "t1": 57.24
+ },
+ "segments": [
+  {
+   "scene": "park",
+   "dur": 31.01,
+   "opts": {
+    "time": "golden",
+    "walk": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.2
+  },
+  {
+   "scene": "train",
+   "dur": 9.21
+  },
+  {
+   "scene": "black",
+   "dur": 7.02
+  }
+ ],
+ "captions": [
+  [
+   5.42,
+   8.15,
+   "Et il ne saura jamais ce que tu as dit."
+  ],
+  [
+   8.3,
+   13.67,
+   "17 h 20. Un banc, des feuilles mortes, et Yassine."
+  ],
+  [
+   13.82,
+   20.16,
+   "Tu parles de Karim. Son travail. Son mariage. Ses dettes."
+  ],
+  [
+   20.31,
+   23.86,
+   "Ton téléphone vibre. Un message de Karim."
+  ],
+  [
+   24.01,
+   27.33,
+   "« Je pensais à toi. Ça va, mon frère ? »"
+  ],
+  [
+   27.48,
+   30.56,
+   "Et tes mots restent coincés dans ta gorge."
+  ],
+  [
+   41.51,
+   44.42,
+   "Dans le métro du retour, tu lui réponds enfin."
+  ],
+  [
+   44.57,
+   49.97,
+   "Puis, à voix basse, une dua. Pour lui, cette fois."
+  ]
+ ],
+ "verses": [
+  {
+   "text": "« Allah aime ceux qui se repentent. »",
+   "ref": "Sourate Al-Baqara — 2:222",
+   "t0": 31.41,
+   "t1": 38.68
+  }
+ ],
+ "hud": [
+  {
+   "label": "PARLÉ DE KARIM",
+   "time": "20 MIN",
+   "sub": "DUA POUR LUI : 0",
+   "box": true,
+   "t0": 5.22,
+   "t1": 30.71
+  },
+  {
+   "label": "DUA POUR KARIM : 1",
+   "time": "18:04",
+   "sub": "ASTAGHFIRULLAH",
+   "t0": 41.41,
+   "t1": 50.12
+  }
+ ],
+ "goldWords": [
+  "allah",
+  "dua.",
+  "dua",
+  "fois."
+ ],
+ "post": {
+  "caption": "20 minutes à parler de lui. 0 dua pour lui. 🤍\n\n« Allah aime ceux qui se repentent. » (2:222)\n\nOn rit, sur le moment. Puis il t'écrit « Ça va, mon frère ? » et les mots restent coincés. Ce soir, fais une dua pour celui dont tu as parlé. Astaghfirullah.",
+  "hashtags": "#rappel #islam #rappelislamique #medisance #ghiba #dua #fraternite #muslim",
+  "youtube_title": "20 minutes à parler de lui. 0 dua pour lui. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}
