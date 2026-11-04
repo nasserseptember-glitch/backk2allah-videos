@@ -1,0 +1,114 @@
+{
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.55,
+  "text": "214 contacts. No one to call tonight. Except One.",
+  "gold": [
+   "Except"
+  ]
+ },
+ "hookBox": true,
+ "capBox": true,
+ "hud": [
+  {
+   "label": "CONTACTS",
+   "time": "214",
+   "sub": "CALLS TODAY: 0",
+   "t0": 6.75,
+   "t1": 26.38,
+   "box": true
+  },
+  {
+   "label": "ISHA",
+   "time": "20:41",
+   "sub": "NOT ALONE",
+   "t0": 39.16,
+   "t1": 51.37,
+   "box": true
+  }
+ ],
+ "end": {
+  "text": "214 contacts. No one to call tonight. Except One.",
+  "gold": "Tonight at Isha, raise your hands. Tell Him everything.",
+  "t0": 51.87,
+  "goldT0": 53.37,
+  "t1": 59.36
+ },
+ "goldWords": [
+  "name.",
+  "talk."
+ ],
+ "post": {
+  "caption": "214 contacts. No one to call tonight. Except One. 🤍\n\n“Indeed I am near. I respond to the invocation of the supplicant when he calls upon Me.” (2:186)\n\nNew city, empty room, quiet phone. He is still near. Tonight at Isha: raise your hands and tell Him everything. 🤲",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #dua #loneliness #isha",
+  "youtube_title": "214 contacts. No one to call tonight. Except One. 🤍 #islam #dua"
+ },
+ "id": "2026-11-04-en-c",
+ "lang": "en",
+ "verses": [
+  {
+   "t0": 26.98,
+   "t1": 38.46,
+   "text": "“Indeed I am near. I respond to the invocation of the supplicant when he calls upon Me.”",
+   "ref": "Surah Al-Baqarah — 2:186"
+  }
+ ],
+ "segments": [
+  {
+   "scene": "study",
+   "dur": 26.68
+  },
+  {
+   "scene": "black",
+   "dur": 12.18
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 12.81,
+   "opts": {
+    "night": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.99
+  }
+ ],
+ "captions": [
+  [
+   6.7,
+   12.18,
+   "7:52 p.m. Your room in a new city. Week three."
+  ],
+  [
+   12.3,
+   16.91,
+   "You scroll. Too late. Too busy. Too long ago."
+  ],
+  [
+   17.03,
+   22.54,
+   "On the shelf: the Quran your mum packed. Dust on top."
+  ],
+  [
+   22.66,
+   26.41,
+   "Inside, your name. In her handwriting."
+  ],
+  [
+   39.11,
+   44.34,
+   "8:41 p.m. Isha. A masjid around the corner."
+  ],
+  [
+   44.46,
+   47.23,
+   "A stranger makes space for you in the row."
+  ],
+  [
+   47.35,
+   51.35,
+   "After salam, you raise your hands. And you talk."
+  ]
+ ]
+}

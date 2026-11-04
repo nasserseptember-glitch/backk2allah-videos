@@ -1,0 +1,129 @@
+{
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.91,
+  "text": "40 minutes talking about him. Allah heard every word.",
+  "gold": [
+   "Allah",
+   "every",
+   "word."
+  ]
+ },
+ "hookBox": true,
+ "capBox": true,
+ "hud": [
+  {
+   "label": "TALKING ABOUT HIM",
+   "time": "40 MIN",
+   "sub": "SAID TO HIS FACE: 0",
+   "t0": 6.11,
+   "t1": 27.88,
+   "box": true
+  },
+  {
+   "label": "ASR",
+   "time": "15:14",
+   "sub": "WORDS TO BILAL: 1 GOOD ONE",
+   "t0": 39.48,
+   "t1": 52.83,
+   "box": true
+  }
+ ],
+ "end": {
+  "text": "40 minutes talking about him. Allah heard every word.",
+  "gold": "Before Maghrib, say one good thing about him.",
+  "t0": 53.33,
+  "goldT0": 54.83,
+  "t1": 58.51
+ },
+ "goldWords": [
+  "adhan",
+  "“Proud"
+ ],
+ "post": {
+  "caption": "40 minutes talking about him. Allah heard every word. 🤍\n\n“Indeed, prayer prohibits immorality and wrongdoing.” (29:45)\n\nLet your prayer clean your tongue too. Before Maghrib: say one good thing about the person you talked about. 🤲",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #backbiting #gheebah #salah",
+  "youtube_title": "40 minutes talking about him. Allah heard every word. 🤍 #islam #backbiting"
+ },
+ "id": "2026-11-04-en-b",
+ "lang": "en",
+ "verses": [
+  {
+   "t0": 28.48,
+   "t1": 36.18,
+   "text": "“Indeed, prayer prohibits immorality and wrongdoing.”",
+   "ref": "Surah Al-Ankabut — 29:45"
+  }
+ ],
+ "segments": [
+  {
+   "scene": "park",
+   "dur": 28.18,
+   "opts": {
+    "walk": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.0
+  },
+  {
+   "scene": "wudu",
+   "dur": 13.95,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 5.68
+  }
+ ],
+ "captions": [
+  [
+   6.06,
+   10.94,
+   "3:10 p.m. A park bench. Your friend on speaker."
+  ],
+  [
+   11.06,
+   15.12,
+   "“Did you see what Bilal posted?” And you laugh."
+  ],
+  [
+   15.24,
+   20.63,
+   "His job. His marriage. His weight. Forty minutes."
+  ],
+  [
+   20.75,
+   24.53,
+   "Then, across the park: the adhan for Asr."
+  ],
+  [
+   24.65,
+   27.91,
+   "And your own words are still hanging in the air."
+  ],
+  [
+   39.43,
+   42.8,
+   "You hang up. Cold water over your hands."
+  ],
+  [
+   42.92,
+   45.49,
+   "You rinse your mouth. Three times."
+  ],
+  [
+   45.61,
+   48.87,
+   "On the mat, every word you said comes back."
+  ],
+  [
+   48.99,
+   52.81,
+   "After salam, you text him: “Proud of you, brother.”"
+  ]
+ ]
+}

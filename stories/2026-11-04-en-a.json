@@ -1,0 +1,124 @@
+{
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.19,
+  "text": "37 tasks on your list. Allah only asked you for 5.",
+  "gold": [
+   "Allah",
+   "5."
+  ]
+ },
+ "hookBox": true,
+ "capBox": true,
+ "hud": [
+  {
+   "label": "TASKS TODAY",
+   "time": "37",
+   "sub": "PRAYERS ON TIME: 0",
+   "t0": 6.39,
+   "t1": 25.92,
+   "box": true
+  },
+  {
+   "label": "TODAY'S LIST — NO. 1",
+   "time": "FAJR",
+   "sub": "DONE",
+   "t0": 37.52,
+   "t1": 54.16,
+   "box": true
+  }
+ ],
+ "end": {
+  "text": "37 tasks on your list. Allah only asked you for 5.",
+  "gold": "Put Dhuhr at the top of today's list.",
+  "t0": 54.66,
+  "goldT0": 56.16,
+  "t1": 60.22
+ },
+ "goldWords": [
+  "Fajr.",
+  "Him."
+ ],
+ "post": {
+  "caption": "37 tasks on your list. Allah only asked you for 5. 🤍\n\n“Allah does not charge a soul except [with that within] its capacity.” (2:286)\n\nThe list will always be long. Put the prayer first, and carry the rest with Him. This morning: put Dhuhr at the top of today's list. 🤲",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #salah #burnout #worklife",
+  "youtube_title": "37 tasks on your list. Allah only asked you for 5. 🤍 #islam #salah"
+ },
+ "id": "2026-11-04-en-a",
+ "lang": "en",
+ "verses": [
+  {
+   "t0": 26.52,
+   "t1": 36.72,
+   "text": "“Allah does not charge a soul except [with that within] its capacity.”",
+   "ref": "Surah Al-Baqarah — 2:286"
+  }
+ ],
+ "segments": [
+  {
+   "scene": "office",
+   "dur": 26.22,
+   "opts": {
+    "screen": "mail"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.0
+  },
+  {
+   "scene": "kitchen",
+   "dur": 17.25,
+   "opts": {
+    "time": "dawn",
+    "mother": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6.05
+  }
+ ],
+ "captions": [
+  [
+   6.34,
+   13.13,
+   "11:47 p.m. The office is empty. Coffee cold since six."
+  ],
+  [
+   13.25,
+   17.9,
+   "Dhuhr: “after this email.” Asr: “after this call.”"
+  ],
+  [
+   18.02,
+   20.78,
+   "Maghrib: you didn't even hear it."
+  ],
+  [
+   20.9,
+   25.95,
+   "Then the laptop dies. Black screen. Silence."
+  ],
+  [
+   37.47,
+   42.43,
+   "6:40 a.m. Your kitchen. The kettle hums."
+  ],
+  [
+   42.55,
+   46.91,
+   "On a new list, you write one word first: Fajr."
+  ],
+  [
+   47.03,
+   50.67,
+   "You pray. The 37 tasks are still there."
+  ],
+  [
+   50.79,
+   54.14,
+   "But now, you carry them with Him."
+  ]
+ ]
+}
