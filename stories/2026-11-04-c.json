@@ -1,0 +1,128 @@
+{
+ "id": "2026-11-04-c",
+ "hook": {
+  "text": "Examen dans 8 heures. Tu as tout prévu. Sauf Allah.",
+  "gold": [
+   "Allah."
+  ],
+  "t0": 0.3,
+  "t1": 6.48
+ },
+ "verses": [
+  {
+   "text": "« Et quiconque place sa confiance en Allah, Il lui suffit. »",
+   "ref": "Sourate At-Talâq — 65:3",
+   "t0": 28.72,
+   "t1": 38.22
+  }
+ ],
+ "end": {
+  "text": "Examen dans 8 heures. Tu as tout prévu. Sauf Allah.",
+  "gold": "Ce soir, avant tes fiches : deux rak'at et une dua.",
+  "t0": 51.89,
+  "goldT0": 53.29,
+  "t1": 59.28
+ },
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 12.0
+  },
+  {
+   "scene": "study",
+   "dur": 16.32,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "street",
+   "dur": 12.97,
+   "opts": {
+    "phone": false,
+    "dayFrom": 0,
+    "dayTo": 0
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.89
+  }
+ ],
+ "captions": [
+  [
+   6.63,
+   11.8,
+   "214 fiches. 3 cafés. Et ton cœur qui tremble."
+  ],
+  [
+   11.95,
+   16.29,
+   "1 h 04. Tu relis la même phrase pour la dixième fois."
+  ],
+  [
+   16.44,
+   19.46,
+   "« Et si je rate ? » Ça tourne. Encore."
+  ],
+  [
+   19.61,
+   24.61,
+   "Au-dessus de tes livres, le Coran. Couvert de poussière."
+  ],
+  [
+   24.76,
+   28.02,
+   "Tu le prends. La poussière tombe sur tes fiches."
+  ],
+  [
+   39.12,
+   42.66,
+   "8 h 40. Le chemin de la fac."
+  ],
+  [
+   42.81,
+   46.61,
+   "Tes mains tremblent encore. Ton cœur, moins."
+  ],
+  [
+   46.76,
+   51.49,
+   "Tu murmures : « Hasbiyallah. » Tu as fait ta part."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "EXAMEN DANS 8 H",
+   "time": "01:04",
+   "sub": "FICHES : 214 · DUA : 0",
+   "box": true,
+   "t0": 6.48,
+   "t1": 28.17
+  },
+  {
+   "label": "HASBIYALLAH",
+   "time": "08:40",
+   "sub": "DUA : FAITE",
+   "box": true,
+   "t0": 38.92,
+   "t1": 51.69
+  }
+ ],
+ "goldWords": [
+  "allah",
+  "allah.",
+  "coran.",
+  "hasbiyallah.",
+  "coran"
+ ],
+ "post": {
+  "caption": "Examen dans 8 heures. Tu as tout prévu. Sauf Allah. 🤍\n\n« Et quiconque place sa confiance en Allah, Il lui suffit. » (65:3)\n\nRévise, prépare-toi, fais ta part. Puis remets le reste à Allah. Ce soir, avant tes fiches : deux rak'at et une dua.",
+  "hashtags": "#rappel #islam #rappelislamique #tawakkul #examen #etudiant #hasbiyallah #muslim",
+  "youtube_title": "Examen dans 8 heures. Tu as tout prévu. Sauf Allah. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

@@ -1,0 +1,125 @@
+{
+ "id": "2026-11-04-a",
+ "hook": {
+  "text": "37 messages au groupe famille. 0 dua pour elle.",
+  "gold": [
+   "dua"
+  ],
+  "t0": 0.3,
+  "t1": 5.77
+ },
+ "verses": [
+  {
+   "text": "« Invoquez-Moi, Je vous répondrai. »",
+   "ref": "Sourate Ghâfir — 40:60",
+   "t0": 31.47,
+   "t1": 40.97
+  }
+ ],
+ "end": {
+  "text": "37 messages au groupe famille. 0 dua pour elle.",
+  "gold": "Avant ton prochain message : lève les mains. Aujourd'hui.",
+  "t0": 55.05,
+  "goldT0": 56.45,
+  "t1": 62.98
+ },
+ "segments": [
+  {
+   "scene": "hospital",
+   "dur": 31.07,
+   "opts": {
+    "patient": "mother"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 13.38,
+   "opts": {
+    "night": true,
+    "rows": 2
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.43
+  }
+ ],
+ "captions": [
+  [
+   5.92,
+   11.51,
+   "21 h 40. Chambre 14. Le bip du moniteur."
+  ],
+  [
+   11.66,
+   16.25,
+   "Tension. Résultats. Le médecin repasse demain."
+  ],
+  [
+   16.4,
+   21.89,
+   "Un message au groupe. Puis un autre. Puis trente-sept."
+  ],
+  [
+   22.04,
+   26.82,
+   "Sa main bouge. Elle murmure : « Tu as prié ? »"
+  ],
+  [
+   26.97,
+   30.77,
+   "Et tu réalises que tu n'as rien demandé à Allah."
+  ],
+  [
+   41.87,
+   46.76,
+   "22 h 05. La mosquée en face de l'hôpital."
+  ],
+  [
+   46.91,
+   50.13,
+   "Tu poses le téléphone. Tu lèves les mains."
+  ],
+  [
+   50.28,
+   54.65,
+   "Et pour la première fois ce soir, tu parles à Allah."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "MESSAGES ENVOYÉS",
+   "time": "37",
+   "sub": "DUA POUR MAMAN : 0",
+   "box": true,
+   "t0": 5.77,
+   "t1": 30.92
+  },
+  {
+   "label": "DUA POUR MAMAN : 1",
+   "time": "22:05",
+   "sub": "TÉLÉPHONE POSÉ",
+   "box": true,
+   "t0": 41.67,
+   "t1": 54.85
+  }
+ ],
+ "goldWords": [
+  "allah",
+  "allah.",
+  "dua",
+  "mains.",
+  "prié"
+ ],
+ "post": {
+  "caption": "37 messages au groupe famille. 0 dua pour elle. 🤍\n\n« Invoquez-Moi, Je vous répondrai. » (40:60)\n\nTu donnes des nouvelles à tout le monde. Parle aussi à Celui qui guérit. Avant ton prochain message : lève les mains.",
+  "hashtags": "#rappel #islam #rappelislamique #dua #parents #maman #hopital #muslim",
+  "youtube_title": "37 messages au groupe famille. 0 dua pour elle. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

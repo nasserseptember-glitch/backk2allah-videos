@@ -1,0 +1,122 @@
+{
+ "id": "2026-11-04-b",
+ "hook": {
+  "text": "312 likes hier. Ce soir, 0 réseau. Juste toi et Allah.",
+  "gold": [
+   "Allah."
+  ],
+  "t0": 0.3,
+  "t1": 7.29
+ },
+ "verses": [
+  {
+   "text": "« La vie présente n'est que jouissance trompeuse. »",
+   "ref": "Sourate Al-Hadîd — 57:20",
+   "t0": 27.78,
+   "t1": 37.28
+  }
+ ],
+ "end": {
+  "text": "312 likes hier. Ce soir, 0 réseau. Juste toi et Allah.",
+  "gold": "Ce soir : 10 minutes sans réseau. Juste toi et Lui.",
+  "t0": 52.06,
+  "goldT0": 53.46,
+  "t1": 60.28
+ },
+ "segments": [
+  {
+   "scene": "desert",
+   "dur": 27.38,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "train",
+   "dur": 14.08,
+   "opts": {
+    "phone": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.72
+  }
+ ],
+ "captions": [
+  [
+   7.44,
+   9.94,
+   "Ton pouce cherche encore le téléphone."
+  ],
+  [
+   10.09,
+   15.66,
+   "23 h 10. Un feu, du sable, et Ilyes."
+  ],
+  [
+   15.81,
+   20.46,
+   "Tu lèves l'écran. Pas de barre. Encore. Et encore."
+  ],
+  [
+   20.61,
+   23.65,
+   "Ilyes sourit : « Lève la tête, akhi. »"
+  ],
+  [
+   23.8,
+   27.08,
+   "Et au-dessus de toi, des milliers d'étoiles."
+  ],
+  [
+   38.18,
+   43.96,
+   "Lundi, 7 h 12. Le métro. 146 notifications."
+  ],
+  [
+   44.11,
+   46.61,
+   "Tu laisses le téléphone dans ta poche."
+  ],
+  [
+   46.76,
+   51.66,
+   "Tu fermes les yeux. Subhanallah. Le ciel est encore là."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "LIKES HIER",
+   "time": "312",
+   "sub": "RÉSEAU : 0",
+   "box": true,
+   "t0": 7.29,
+   "t1": 27.23
+  },
+  {
+   "label": "NOTIFICATIONS : 146",
+   "time": "07:12",
+   "sub": "SUBHANALLAH × 33",
+   "box": true,
+   "t0": 37.98,
+   "t1": 51.86
+  }
+ ],
+ "goldWords": [
+  "allah",
+  "allah.",
+  "étoiles.",
+  "subhanallah.",
+  "tête,"
+ ],
+ "post": {
+  "caption": "312 likes hier. Ce soir, 0 réseau. Juste toi et Allah. 🤍\n\n« La vie présente n'est que jouissance trompeuse. » (57:20)\n\nLes likes s'effacent. Le ciel, lui, est toujours là. Ce soir : 10 minutes sans réseau. Juste toi et Lui.",
+  "hashtags": "#rappel #islam #rappelislamique #dunya #reseauxsociaux #dhikr #subhanallah #muslim",
+  "youtube_title": "312 likes hier. Ce soir, 0 réseau. Juste toi et Allah. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}
