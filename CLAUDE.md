@@ -131,7 +131,7 @@ Brand **Back2Allah ARB, blogId 7763307** (Instagram @back2allah_arb, TikTok @Bac
   - `hospital` — ziekenhuiskamer, ouder in bed, hartmonitor, infuus, POV-hand die naar de hand van de ouder reikt. opts: `patient: "father"|"mother"`
   - `wudu` — wastafel, stromend water, POV-handen (wudu). opts: `time: "dawn"|"day"`, `water: false`
   - `desert` — woestijn 's nachts, kampvuur, sterren en maan, vriend bij het vuur; camera kijkt op het einde omhoog naar de sterren. opts: `friend: false`
-  - `study` — kamer met boekenkast; de Koran ligt stoffig bovenaan, de POV-hand neemt hem (40–75 % van het segment). Ideaal voor "Koran die stof verzamelt".
+  - `study` — kamer met boekenkast; de Koran ligt stoffig bovenaan, de POV-hand neemt hem (40–75 % van het segment). Ideaal voor "Koran die stof verzamelt". opts: `reach` (fractie van het segment waarop de hand begint te reiken, standaard 0.25; nemen volgt 0.15 later, tot max. 95 %).
   - `black` — zwart scherm (voor vers of einde)
 - Tijden hieronder zijn **absolute seconden** vanaf het begin van de video.
 - `hook`: `{t0, t1, text, gold: [woorden in goud]}` (bovenaan)

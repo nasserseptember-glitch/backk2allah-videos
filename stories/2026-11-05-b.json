@@ -1,0 +1,126 @@
+{
+ "id": "2026-11-05-b",
+ "segments": [
+  {
+   "scene": "train",
+   "dur": 26.23,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.66
+  },
+  {
+   "scene": "street",
+   "dur": 15.06,
+   "opts": {
+    "phone": false,
+    "dayFrom": 0.75,
+    "dayTo": 1.0
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.59
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.38,
+  "text": "4 h 20 dans tes écouteurs. Et pas un seul dhikr.",
+  "gold": [
+   "dhikr."
+  ]
+ },
+ "hud": [
+  {
+   "t0": 5.38,
+   "t1": 25.93,
+   "box": true,
+   "label": "ÉCOUTÉ AUJOURD'HUI 4H20",
+   "time": "17:52",
+   "sub": "DHIKR : 0"
+  },
+  {
+   "t0": 37.19,
+   "t1": 51.65,
+   "box": true,
+   "label": "DHIKR : 33",
+   "time": "18:14",
+   "sub": "ÉCOUTEURS : RANGÉS"
+  }
+ ],
+ "captions": [
+  [
+   5.53,
+   7.32,
+   "Tu ne sors plus jamais sans eux."
+  ],
+  [
+   7.47,
+   12.92,
+   "17 h 52. Métro, ligne 2. Chacun dans sa bulle."
+  ],
+  [
+   13.07,
+   17.72,
+   "Un son. Puis un autre. Puis l'album entier."
+  ],
+  [
+   17.87,
+   22.21,
+   "Bip. Batterie : 0 %. Plus rien."
+  ],
+  [
+   22.36,
+   25.73,
+   "Et dans ce silence, ton cœur se met à parler."
+  ],
+  [
+   37.29,
+   40.8,
+   "Tu descends deux arrêts plus tôt. À pied."
+  ],
+  [
+   40.95,
+   46.84,
+   "Subhanallah. Alhamdulillah. Allahu akbar."
+  ],
+  [
+   46.99,
+   51.5,
+   "33 fois. Personne ne t'entend. Sauf Lui."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 26.53,
+   "t1": 36.39,
+   "text": "« N'est-ce point par l'évocation d'Allah que se tranquillisent les cœurs ? »",
+   "ref": "Sourate Ar-Raʿd — 13:28"
+  }
+ ],
+ "end": {
+  "t0": 52.25,
+  "t1": 59.14,
+  "text": "4 h 20 dans tes écouteurs. Et pas un seul dhikr.",
+  "goldT0": 53.75,
+  "gold": "Sur le chemin du retour : 33 dhikr. Ce soir."
+ },
+ "goldWords": [
+  "dhikr.",
+  "cœur",
+  "subhanallah.",
+  "alhamdulillah.",
+  "allahu",
+  "akbar.",
+  "lui."
+ ],
+ "post": {
+  "caption": "4 h 20 dans tes écouteurs. Et pas un seul dhikr. 🤍\n\n« N'est-ce point par l'évocation d'Allah que se tranquillisent les cœurs ? » (13:28)\n\nRetire tes écouteurs sur le chemin du retour. 33 fois Subhanallah, Alhamdulillah, Allahu akbar. Ce soir.",
+  "hashtags": "#rappel #islam #rappelislamique #dhikr #musique #coeur #subhanallah #muslim",
+  "youtube_title": "4 h 20 dans tes écouteurs. Et pas un seul dhikr. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

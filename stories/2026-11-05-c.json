@@ -1,0 +1,119 @@
+{
+ "id": "2026-11-05-c",
+ "segments": [
+  {
+   "scene": "study",
+   "dur": 24.41,
+   "opts": {
+    "reach": 0.58
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 16.5
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 9.9,
+   "opts": {
+    "ruku": [
+     [
+      5.45,
+      8.42
+     ]
+    ]
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.74
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.83,
+  "text": "6 réunions demain. Et Jumu'a n'est même pas dans ton agenda.",
+  "gold": [
+   "jumu'a"
+  ]
+ },
+ "hud": [
+  {
+   "t0": 5.83,
+   "t1": 24.11,
+   "box": true,
+   "label": "VENDREDI : 6 RÉUNIONS",
+   "time": "21:30",
+   "sub": "JUMU'A : —"
+  },
+  {
+   "t0": 41.21,
+   "t1": 50.51,
+   "box": true,
+   "label": "JUMU'A",
+   "time": "13:05",
+   "sub": "AGENDA : BLOQUÉ"
+  }
+ ],
+ "captions": [
+  [
+   5.98,
+   10.67,
+   "Jeudi, 21 h 30. Tu prépares demain."
+  ],
+  [
+   10.82,
+   14.98,
+   "Le client à 13 h. Pile à l'heure de la khutba."
+  ],
+  [
+   15.13,
+   17.88,
+   "« Je prierai Dhuhr plus tard, à la maison. »"
+  ],
+  [
+   18.03,
+   23.91,
+   "Sur l'étagère, le Coran. Le marque-page sur Al-Kahf."
+  ],
+  [
+   41.31,
+   45.74,
+   "Vendredi. Tu as décalé le client à 14 h 30."
+  ],
+  [
+   45.89,
+   50.36,
+   "13 h 05. Les rangs se serrent. Tu y es."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 24.71,
+   "t1": 40.41,
+   "text": "« Ô vous qui avez cru ! Quand on appelle à la Salât du jour du Vendredi, accourez à l'invocation d'Allah et laissez tout négoce. »",
+   "ref": "Sourate Al-Jumuʿa — 62:9"
+  }
+ ],
+ "end": {
+  "t0": 51.11,
+  "t1": 58.15,
+  "text": "6 réunions demain. Et Jumu'a n'est même pas dans ton agenda.",
+  "goldT0": 52.61,
+  "gold": "Demain, 13 h. Bloque-le dans ton agenda. Maintenant."
+ },
+ "goldWords": [
+  "jumu'a",
+  "allah.",
+  "coran.",
+  "al-kahf.",
+  "vendredi."
+ ],
+ "post": {
+  "caption": "6 réunions demain. Et Jumu'a n'est même pas dans ton agenda. 🤍\n\n« Ô vous qui avez cru ! Quand on appelle à la Salât du jour du Vendredi, accourez à l'invocation d'Allah et laissez tout négoce. » (62:9)\n\nDemain, c'est vendredi. Bloque 13 h dans ton agenda. Maintenant. Le reste peut attendre une heure.",
+  "hashtags": "#rappel #islam #rappelislamique #jumua #vendredi #salat #alkahf #muslim",
+  "youtube_title": "6 réunions demain. Et Jumu'a n'est même pas dans ton agenda. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

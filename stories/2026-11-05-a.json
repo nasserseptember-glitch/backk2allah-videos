@@ -1,0 +1,124 @@
+{
+ "id": "2026-11-05-a",
+ "segments": [
+  {
+   "scene": "car_night",
+   "dur": 28.26,
+   "opts": {
+    "clock": "23:18"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.18
+  },
+  {
+   "scene": "wudu",
+   "dur": 11.32,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.73
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.4,
+  "text": "3 ans sans prier. Tu crois qu'Allah ne t'attend plus ?",
+  "gold": [
+   "qu'allah"
+  ]
+ },
+ "hud": [
+  {
+   "t0": 4.4,
+   "t1": 27.96,
+   "box": true,
+   "label": "DERNIÈRE PRIÈRE : IL Y A 3 ANS",
+   "time": "23:18",
+   "sub": "PRIÈRES MANQUÉES : 5 475"
+  },
+  {
+   "t0": 39.74,
+   "t1": 50.46,
+   "box": true,
+   "label": "RETOUR",
+   "time": "23:41",
+   "sub": "PRIÈRE : 1"
+  }
+ ],
+ "captions": [
+  [
+   4.55,
+   8.41,
+   "Ton tapis est toujours plié, au fond du placard."
+  ],
+  [
+   8.56,
+   13.97,
+   "23 h 18. Tu rentres du travail, sous la pluie."
+  ],
+  [
+   14.12,
+   19.35,
+   "Feu rouge. Une mosquée. Les lumières encore allumées."
+  ],
+  [
+   19.5,
+   22.68,
+   "« Je ne peux plus revenir. C'est trop tard. »"
+  ],
+  [
+   22.83,
+   27.76,
+   "Ton vieux rappel s'allume : « Isha ». Jamais supprimé."
+  ],
+  [
+   39.84,
+   43.85,
+   "23 h 41. Tu ouvres le robinet."
+  ],
+  [
+   44.0,
+   46.01,
+   "Tes mains se souviennent avant toi."
+  ],
+  [
+   46.16,
+   50.31,
+   "Une prière. Le premier pas de ton retour."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 28.56,
+   "t1": 38.94,
+   "text": "« Ne vous laissez pas abattre, ne vous affligez pas. »",
+   "ref": "Sourate Âl ʿImrân — 3:139"
+  }
+ ],
+ "end": {
+  "t0": 51.06,
+  "t1": 58.09,
+  "text": "3 ans sans prier. Tu crois qu'Allah ne t'attend plus ?",
+  "goldT0": 52.56,
+  "gold": "Ce soir, déplie ton tapis. Une seule prière."
+ },
+ "goldWords": [
+  "allah",
+  "qu'allah",
+  "tapis",
+  "prière.",
+  "retour."
+ ],
+ "post": {
+  "caption": "3 ans sans prier. Tu crois qu'Allah ne t'attend plus ? 🤍\n\n« Ne vous laissez pas abattre, ne vous affligez pas. » (3:139)\n\nLa honte te dit que c'est trop tard. Ce n'est pas vrai. Ce soir, déplie ton tapis. Une seule prière.",
+  "hashtags": "#rappel #islam #rappelislamique #salat #priere #tawba #retour #muslim",
+  "youtube_title": "3 ans sans prier. Tu crois qu'Allah ne t'attend plus ? 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

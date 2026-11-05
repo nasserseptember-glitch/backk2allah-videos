@@ -260,7 +260,8 @@ function sceneStudy(t, dur, o) {
   objs.push(B([0, 1.15, -3.3], [2.4, 2.3, 0.45], C('#5a3e28')));
   for (let i = 0; i < 4; i++) { const y = 0.35 + i * 0.52; objs.push(B([0, y, -3.12], [2.3, 0.04, 0.42], C('#6b4a32'))); objs.push(O('plane', [0, y + 0.24, -2.97], [0, 0, 0], [2.25, 0.44, 1], [1.15, 1.15, 1.15], { tex: T3.spines, uvr: [i * 0.3, 0, 2, 1], noShadow: true })); }
   // the Quran: green, gold, on the top shelf, dusty until taken
-  const take = sstep(dur * 0.4, dur * 0.75, t);
+  const r0 = (o.reach != null) ? o.reach : 0.25; // fraction of the segment where the hand starts reaching (default 0.25)
+  const take = sstep(dur * (r0 + 0.15), dur * Math.min(0.95, r0 + 0.5), t);
   const q0 = [0.35, 2.06, -2.9], q1 = [0.05, 1.32, -1.4];
   const qp = lerp3(q0, q1, take); const qr = [lerp(0, -1.1, take), lerp(0, 0.2, take), 0];
   objs.push(O('box', qp, qr, [0.26, 0.34, 0.07], C('#1f5a3a')), O('box', add(qp, [0, 0, 0.037]), qr, [0.16, 0.2, 0.002], C('#d9b25a', 1.4)));
@@ -270,7 +271,7 @@ function sceneStudy(t, dur, o) {
   objs.push(O('plane', [-1.6, 1.6, -3.43], [0, 0, 0], [0.9, 1.0, 1], [1.1, 1.1, 1.1], { mode: 1, tex: T.night, noShadow: true }));
   const cam = { pos: [0.1, 1.5, -0.25], target: lerp3([0.2, 1.4, -3.2], [0.05, 1.2, -1.6], take), up: [0, 1, 0], fov: 64 };
   const CW = M4.camWorld(cam.pos, cam.target, cam.up);
-  const reachK = sstep(dur * 0.25, dur * 0.45, t) * (1 - take);
+  const reachK = sstep(dur * r0, dur * (r0 + 0.2), t) * (1 - take);
   if (reachK > 0.02) objs.push(...povArm(CW, [0.3, -0.6, 0.05], lerp3([0.25, -0.5, -0.4], [0.14, 0.28, -1.9], reachK), POV_SLEEVE(), POV_SKIN()));
   if (take > 0.6) objs.push(...povArm(CW, [-0.3, -0.62, 0.05], [-0.12, -0.3, -0.62], POV_SLEEVE(), POV_SKIN()), ...povArm(CW, [0.3, -0.62, 0.05], [0.12, -0.3, -0.62], POV_SLEEVE(), POV_SKIN()));
   return {
