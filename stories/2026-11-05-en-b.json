@@ -1,0 +1,131 @@
+{
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.37,
+  "text": "12 people walked past the old man. You were the 13th.",
+  "gold": [
+   "13th."
+  ]
+ },
+ "hookBox": true,
+ "capBox": true,
+ "hud": [
+  {
+   "label": "WALKED PAST HIM",
+   "time": "13",
+   "sub": "STOPPED: 0",
+   "box": true,
+   "t0": 5.57,
+   "t1": 23.84
+  },
+  {
+   "label": "STOPPED",
+   "time": "1",
+   "sub": "30 SECONDS",
+   "box": true,
+   "t0": 35.14,
+   "t1": 50.59
+  }
+ ],
+ "end": {
+  "text": "12 people walked past the old man. You were the 13th.",
+  "gold": "Before Maghrib: one small good. Nobody needs to see it.",
+  "t0": 50.89,
+  "goldT0": 52.19,
+  "t1": 57.72
+ },
+ "goldWords": [
+  "Allah",
+  "saw"
+ ],
+ "post": {
+  "caption": "12 people walked past the old man. You were the 13th. 🍊\n\n“So whoever does an atom's weight of good will see it.” (99:7)\n\nBefore Maghrib today: one small good. Pick something up, hold a door, carry someone's bag. Nobody needs to see it. Allah does. 🤍",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #kindness #sadaqah #goodnessmatters",
+  "youtube_title": "12 people walked past him. You were the 13th. 🍊 #islam #kindness"
+ },
+ "id": "2026-11-05-en-b",
+ "lang": "en",
+ "verses": [
+  {
+   "t0": 24.44,
+   "t1": 34.24,
+   "text": "“So whoever does an atom's weight of good will see it.”",
+   "ref": "Surah Az-Zalzalah — 99:7"
+  }
+ ],
+ "segments": [
+  {
+   "scene": "street",
+   "dur": 10.94,
+   "opts": {
+    "dayFrom": 0.25,
+    "dayTo": 0.4,
+    "clock": "15:41"
+   }
+  },
+  {
+   "scene": "park",
+   "dur": 13.2,
+   "opts": {
+    "time": "golden"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "park",
+   "dur": 16.25,
+   "opts": {
+    "time": "golden"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.13
+  }
+ ],
+ "captions": [
+  [
+   5.52,
+   10.82,
+   "3:41 p.m. Late again. Eyes on your phone."
+  ],
+  [
+   10.94,
+   14.16,
+   "In the park, an old man drops his shopping."
+  ],
+  [
+   14.28,
+   18.26,
+   "Oranges roll across the path. People step around them."
+  ],
+  [
+   18.38,
+   23.62,
+   "At the gate you look back. He's still bent over. Alone."
+  ],
+  [
+   34.94,
+   38.33,
+   "You turn around. You kneel on the cold path."
+  ],
+  [
+   38.45,
+   43.25,
+   "Eleven oranges. One torn bag. Thirty seconds."
+  ],
+  [
+   43.37,
+   47.06,
+   "He smiles: “May Allah bless you, son.”"
+  ],
+  [
+   47.18,
+   50.47,
+   "Nobody filmed it. Allah saw it."
+  ]
+ ]
+}

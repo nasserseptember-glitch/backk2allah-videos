@@ -1,0 +1,118 @@
+{
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.35,
+  "text": "11 hours with earbuds in yesterday. 0 minutes of Quran.",
+  "gold": [
+   "0",
+   "minutes",
+   "of",
+   "Quran."
+  ]
+ },
+ "hookBox": true,
+ "capBox": true,
+ "hud": [
+  {
+   "label": "EARBUDS IN",
+   "time": "11H04",
+   "sub": "QURAN: 0 MIN",
+   "box": true,
+   "t0": 6.55,
+   "t1": 26.87
+  },
+  {
+   "label": "THIS MORNING",
+   "time": "06:40",
+   "sub": "QURAN FIRST",
+   "box": true,
+   "t0": 38.24,
+   "t1": 52.63
+  }
+ ],
+ "end": {
+  "text": "11 hours with earbuds in yesterday. 0 minutes of Quran.",
+  "gold": "Today: one surah before your first song.",
+  "t0": 52.93,
+  "goldT0": 54.23,
+  "t1": 58.94
+ },
+ "goldWords": [
+  "Ar-Rahman.",
+  "quiet"
+ ],
+ "post": {
+  "caption": "11 hours with earbuds in yesterday. 0 minutes of Quran. 🎧\n\n“Unquestionably, by the remembrance of Allah hearts are assured.” (13:28)\n\nToday, before your first song or podcast: one surah. Even a short one. 🤍",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #quranrecitation #dhikr #innerpeace",
+  "youtube_title": "11 hours of earbuds. 0 minutes of Quran. 🎧 #islam #quran"
+ },
+ "id": "2026-11-05-en-a",
+ "lang": "en",
+ "verses": [
+  {
+   "t0": 27.47,
+   "t1": 37.34,
+   "text": "“Unquestionably, by the remembrance of Allah hearts are assured.”",
+   "ref": "Surah Ar-Ra'd — 13:28"
+  }
+ ],
+ "segments": [
+  {
+   "scene": "train",
+   "dur": 27.17
+  },
+  {
+   "scene": "black",
+   "dur": 10.57
+  },
+  {
+   "scene": "kitchen",
+   "dur": 15.19,
+   "opts": {
+    "time": "dawn",
+    "mother": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6.31
+  }
+ ],
+ "captions": [
+  [
+   6.5,
+   11.96,
+   "10:52 p.m. The last train home. Earbuds in."
+  ],
+  [
+   12.08,
+   17.69,
+   "Then: 1% battery. And everything goes quiet."
+  ],
+  [
+   17.81,
+   21.64,
+   "Just the rattle of the train. And your own heart."
+  ],
+  [
+   21.76,
+   26.65,
+   "Loud all day. So why does it feel this empty?"
+  ],
+  [
+   38.04,
+   43.42,
+   "6:40 a.m. Phone charged. Kettle on."
+  ],
+  [
+   43.54,
+   47.44,
+   "Surah Ar-Rahman. Quietly, on the counter."
+  ],
+  [
+   47.56,
+   52.51,
+   "And for the first time in days, it's quiet inside."
+  ]
+ ]
+}

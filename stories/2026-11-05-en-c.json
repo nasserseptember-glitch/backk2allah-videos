@@ -1,0 +1,128 @@
+{
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.17,
+  "text": "9 nights beside his hospital bed. Did Allah stop listening?",
+  "gold": [
+   "listening?"
+  ]
+ },
+ "hookBox": true,
+ "capBox": true,
+ "hud": [
+  {
+   "label": "NIGHTS IN WARD 4",
+   "time": "9",
+   "sub": "DUAS SINCE NIGHT 3: 0",
+   "box": true,
+   "t0": 6.37,
+   "t1": 21.42
+  },
+  {
+   "label": "MAGHRIB",
+   "time": "17:14",
+   "sub": "DUAS: BACK",
+   "box": true,
+   "t0": 32.72,
+   "t1": 51.8
+  }
+ ],
+ "end": {
+  "text": "9 nights beside his hospital bed. Did Allah stop listening?",
+  "gold": "Tonight after Maghrib, make dua for someone who's sick.",
+  "t0": 52.1,
+  "goldT0": 53.4,
+  "t1": 58.57
+ },
+ "goldWords": [
+  "“Did",
+  "pray?”"
+ ],
+ "post": {
+  "caption": "9 nights beside his hospital bed. Did Allah stop listening? 🤍\n\n“Your Lord has not taken leave of you, [O Muhammad], nor has He detested [you].” (93:3)\n\nHe hears every dua, even the tired ones. Tonight after Maghrib, make dua for someone who's sick. 🤲",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #dua #sabr #hope",
+  "youtube_title": "9 nights by his hospital bed. Did Allah stop listening? 🤍 #islam #dua"
+ },
+ "id": "2026-11-05-en-c",
+ "lang": "en",
+ "verses": [
+  {
+   "t0": 22.02,
+   "t1": 31.82,
+   "text": "“Your Lord has not taken leave of you, [O Muhammad], nor has He detested [you].”",
+   "ref": "Surah Ad-Duha — 93:3"
+  }
+ ],
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 6.27
+  },
+  {
+   "scene": "hospital",
+   "dur": 15.45,
+   "opts": {
+    "patient": "father"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "wudu",
+   "dur": 5.24,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "hospital",
+   "dur": 14.64,
+   "opts": {
+    "patient": "father"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6.77
+  }
+ ],
+ "captions": [
+  [
+   6.47,
+   12.14,
+   "Ward 4. The monitor beeps. Your father sleeps."
+  ],
+  [
+   12.26,
+   16.07,
+   "“If He were listening, Dad would be home by now.”"
+  ],
+  [
+   16.19,
+   21.2,
+   "Then his fingers move. He whispers: “Did you pray?”"
+  ],
+  [
+   32.52,
+   37.34,
+   "The tap in the hallway. Cold water, slowly."
+  ],
+  [
+   37.46,
+   41.61,
+   "Maghrib on a folded towel, beside his bed."
+  ],
+  [
+   41.73,
+   46.85,
+   "And the dua comes back. Quietly. Word by word."
+  ],
+  [
+   46.97,
+   51.68,
+   "His hand in yours. You were never alone in this room."
+  ]
+ ]
+}
