@@ -1,0 +1,128 @@
+{
+ "id": "2026-11-06-b",
+ "segments": [
+  {
+   "scene": "park",
+   "dur": 25.88,
+   "opts": {
+    "time": "golden",
+    "walk": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.2
+  },
+  {
+   "scene": "street",
+   "dur": 14.02,
+   "opts": {
+    "phone": false,
+    "dayFrom": 0.7,
+    "dayTo": 1.0
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.76
+  }
+ ],
+ "hud": [
+  {
+   "label": "ÂGE : 29 ANS",
+   "time": "16:47",
+   "sub": "« PLUS TARD » : 1 000+",
+   "t0": 3.78,
+   "t1": 25.58,
+   "box": true
+  },
+  {
+   "label": "PLUS TARD : 0",
+   "time": "16:58",
+   "sub": "ASR : MAINTENANT",
+   "t0": 37.18,
+   "t1": 50.8,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   3.88,
+   9.7,
+   "16 h 47. Un banc au parc. Une pause entre deux appels."
+  ],
+  [
+   9.85,
+   13.64,
+   "À côté de toi, un vieil homme égrène son chapelet."
+  ],
+  [
+   13.79,
+   18.21,
+   "Toi, tu te dis : « Plus tard. Quand j'aurai le temps. »"
+  ],
+  [
+   18.36,
+   21.98,
+   "Une feuille tombe sur ta manche. Il sourit."
+  ],
+  [
+   22.13,
+   25.38,
+   "« J'avais ton âge hier, mon fils. Hier. »"
+  ],
+  [
+   37.28,
+   40.39,
+   "Tu te lèves. Asr n'est pas encore fini."
+  ],
+  [
+   40.54,
+   45.73,
+   "La mosquée du quartier. Trois rues. Tu y vas à pied."
+  ],
+  [
+   45.88,
+   50.6,
+   "Pas plus tard. Maintenant. Et c'est si léger."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 26.18,
+   "t1": 36.58,
+   "text": "« Toute âme goûtera la mort. »",
+   "ref": "Sourate Âl ʿImrân — 3:185"
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 3.73,
+  "text": "29 ans à dire « plus tard » à Allah.",
+  "gold": [
+   "allah."
+  ]
+ },
+ "end": {
+  "t0": 51.5,
+  "t1": 58.46,
+  "text": "29 ans à dire « plus tard » à Allah.",
+  "goldT0": 53.0,
+  "gold": "Ta prochaine prière : à l'heure. Pas plus tard."
+ },
+ "goldWords": [
+  "allah",
+  "allah.",
+  "asr",
+  "maintenant.",
+  "léger.",
+  "hier."
+ ],
+ "post": {
+  "caption": "29 ans à dire « plus tard » à Allah. 🤍\n\n« Toute âme goûtera la mort. » (3:185)\n\nLe temps ne prévient pas. Mais la porte est encore ouverte, aujourd'hui. Ta prochaine prière : à l'heure. Pas plus tard.",
+  "hashtags": "#rappel #islam #rappelislamique #salat #priere #temps #akhira #muslim",
+  "youtube_title": "29 ans à dire « plus tard » à Allah. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

@@ -1,0 +1,126 @@
+{
+ "id": "2026-11-06-c",
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 8.74
+  },
+  {
+   "scene": "living",
+   "dur": 16.67,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 11.2
+  },
+  {
+   "scene": "study",
+   "dur": 15.01,
+   "opts": {
+    "reach": 0.2
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.75
+  }
+ ],
+ "hud": [
+  {
+   "label": "ÉPISODES : 11",
+   "time": "22:36",
+   "sub": "CORAN : 0 PAGE",
+   "t0": 8.84,
+   "t1": 25.11,
+   "box": true
+  },
+  {
+   "label": "CORAN : 1 PAGE",
+   "time": "22:41",
+   "sub": "ÉCRAN : ÉTEINT",
+   "t0": 36.71,
+   "t1": 51.32,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.3,
+   8.39,
+   "L'appli se souvient où tu t'es arrêté."
+  ],
+  [
+   8.94,
+   13.06,
+   "22 h 36. « Épisode suivant dans 5 secondes. »"
+  ],
+  [
+   13.21,
+   16.96,
+   "Tu ne choisis même plus. Ça continue tout seul."
+  ],
+  [
+   17.11,
+   21.7,
+   "Ton marque-page est resté à Al-Kahf. Depuis Ramadan."
+  ],
+  [
+   21.85,
+   24.91,
+   "« Êtes-vous toujours là ? » demande l'écran."
+  ],
+  [
+   36.81,
+   40.29,
+   "Tu éteins. Tu vas jusqu'à l'étagère."
+  ],
+  [
+   40.44,
+   45.34,
+   "Un peu de poussière. Ton prénom, sur la première page."
+  ],
+  [
+   45.49,
+   51.12,
+   "Al-Kahf. Une page ce soir. Puis une autre."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 25.71,
+   "t1": 36.11,
+   "text": "« Souvenez-vous de Moi, Je vous récompenserai. »",
+   "ref": "Sourate Al-Baqara — 2:152"
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.15,
+  "text": "11 épisodes cette semaine. 0 page de Coran.",
+  "gold": [
+   "coran."
+  ]
+ },
+ "end": {
+  "t0": 52.02,
+  "t1": 59.97,
+  "text": "11 épisodes cette semaine. 0 page de Coran.",
+  "goldT0": 53.52,
+  "gold": "Ce soir, une page de Coran. Avant le prochain épisode."
+ },
+ "goldWords": [
+  "coran",
+  "coran.",
+  "al-kahf.",
+  "page",
+  "lui"
+ ],
+ "post": {
+  "caption": "11 épisodes cette semaine. 0 page de Coran. 🤍\n\n« Souvenez-vous de Moi, Je vous récompenserai. » (2:152)\n\nL'appli se souvient où tu t'es arrêté. Ton Coran aussi t'attend. Ce soir, une page de Coran. Avant le prochain épisode.",
+  "hashtags": "#rappel #islam #rappelislamique #coran #quran #alkahf #muslim #imane",
+  "youtube_title": "11 épisodes cette semaine. 0 page de Coran. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

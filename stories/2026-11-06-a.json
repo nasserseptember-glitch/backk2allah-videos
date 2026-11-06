@@ -1,0 +1,120 @@
+{
+ "id": "2026-11-06-a",
+ "segments": [
+  {
+   "scene": "kitchen",
+   "dur": 29.83,
+   "opts": {
+    "time": "night",
+    "mother": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.65
+  },
+  {
+   "scene": "mosque_ext",
+   "dur": 8.9,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.35
+  }
+ ],
+ "hud": [
+  {
+   "label": "ALARMES DEMAIN : 7",
+   "time": "23:52",
+   "sub": "FAJR : 0",
+   "t0": 5.55,
+   "t1": 29.53,
+   "box": true
+  },
+  {
+   "label": "ALARMES : 8",
+   "time": "06:08",
+   "sub": "FAJR : À L'HEURE",
+   "t0": 41.58,
+   "t1": 50.08,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.65,
+   10.14,
+   "23 h 52. Tu prépares ta boîte pour demain."
+  ],
+  [
+   10.29,
+   17.11,
+   "6 h 10. 6 h 15. 6 h 20. Rien ne doit t'échapper."
+  ],
+  [
+   17.26,
+   21.41,
+   "Et Fajr ? « Je le rattraperai. » Comme hier."
+  ],
+  [
+   21.56,
+   25.17,
+   "Sur le frigo, le calendrier des prières de ta mère."
+  ],
+  [
+   25.32,
+   29.33,
+   "Fajr est entouré trois fois. Au stylo rouge."
+  ],
+  [
+   41.68,
+   45.67,
+   "Tu ajoutes une huitième alarme. Fajr."
+  ],
+  [
+   45.82,
+   49.88,
+   "Et pour la première fois depuis longtemps, tu es à l'heure pour Lui."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 30.13,
+   "t1": 40.98,
+   "text": "« Ils dormaient peu, la nuit, et aux dernières heures de la nuit ils imploraient le pardon. »",
+   "ref": "Sourate Adh-Dhâriyât — 51:17-18"
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.5,
+  "text": "7 alarmes pour le boulot. Aucune pour Fajr.",
+  "gold": [
+   "fajr."
+  ]
+ },
+ "end": {
+  "t0": 50.78,
+  "t1": 58.34,
+  "text": "7 alarmes pour le boulot. Aucune pour Fajr.",
+  "goldT0": 52.28,
+  "gold": "Ce soir, avant de dormir : une alarme pour Fajr."
+ },
+ "goldWords": [
+  "fajr",
+  "fajr.",
+  "lui.",
+  "alarme",
+  "huitième"
+ ],
+ "post": {
+  "caption": "7 alarmes pour le boulot. Aucune pour Fajr. 🤍\n\n« Ils dormaient peu, la nuit, et aux dernières heures de la nuit ils imploraient le pardon. » (51:17-18)\n\nTu prévois tout pour demain. Prévois aussi ton rendez-vous avec Allah. Ce soir, avant de dormir : une alarme pour Fajr.",
+  "hashtags": "#rappel #islam #rappelislamique #fajr #salat #priere #muslim #imane",
+  "youtube_title": "7 alarmes pour le boulot. Aucune pour Fajr. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}
