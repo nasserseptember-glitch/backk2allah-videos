@@ -1,0 +1,120 @@
+{
+ "id": "2026-11-06-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.91,
+  "text": "17 takes to film one sunset. Not one du'a before it set.",
+  "gold": [
+   "Not",
+   "du'a",
+   "before",
+   "it",
+   "set."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 30.22,
+   "t1": 36.99,
+   "text": "“Call upon Me; I will respond to you.”",
+   "ref": "Surah Ghafir — 40:60"
+  }
+ ],
+ "end": {
+  "text": "17 takes to film one sunset. Not one du'a before it set.",
+  "gold": "Before Maghrib today: raise your hands. Ask Him.",
+  "t0": 53.54,
+  "goldT0": 54.84,
+  "t1": 60.12
+ },
+ "segments": [
+  {
+   "scene": "seaside",
+   "opts": {},
+   "dur": 29.92
+  },
+  {
+   "scene": "black",
+   "dur": 7.38
+  },
+  {
+   "scene": "wudu",
+   "opts": {
+    "time": "dawn"
+   },
+   "dur": 15.95
+  },
+  {
+   "scene": "black",
+   "dur": 7.18
+  }
+ ],
+ "hud": [
+  {
+   "label": "TAKES",
+   "time": "17",
+   "sub": "DU'A: 0",
+   "box": true,
+   "t0": 7.06,
+   "t1": 29.62
+  },
+  {
+   "label": "MAGHRIB",
+   "time": "17:05",
+   "sub": "HANDS RAISED",
+   "box": true,
+   "t0": 37.59,
+   "t1": 52.94
+  }
+ ],
+ "captions": [
+  [
+   7.01,
+   13.95,
+   "Friday, 4:40 p.m. The sea. The sky turning gold."
+  ],
+  [
+   14.07,
+   20.47,
+   "Today you asked your phone for everything. Weather. Way. Time."
+  ],
+  [
+   20.59,
+   25.17,
+   "Then the sun touches the water. And it's gone."
+  ],
+  [
+   25.29,
+   29.5,
+   "A whole Friday. And you never asked Him for anything."
+  ],
+  [
+   37.69,
+   42.66,
+   "5:00 p.m. Cold water on your hands. Then your face."
+  ],
+  [
+   42.78,
+   47.56,
+   "The last light of Friday. You finally raise your hands."
+  ],
+  [
+   47.68,
+   52.82,
+   "No filter. No second take. Just: “Ya Allah.”"
+  ]
+ ],
+ "goldWords": [
+  "Him",
+  "Allah.”",
+  "hands."
+ ],
+ "post": {
+  "caption": "17 takes to film one sunset. Not one du'a before it set. 🌅\n\n“Call upon Me; I will respond to you.” (40:60)\n\nIt's Friday. Before Maghrib today: put the phone down, raise your hands, and ask Him. No filter needed. 🤲",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #dua #jumuah #maghrib",
+  "youtube_title": "17 takes of a sunset. 0 du'as. 🌅 #islam #dua #jumuah"
+ }
+}

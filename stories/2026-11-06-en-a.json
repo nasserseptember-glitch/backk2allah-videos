@@ -1,0 +1,120 @@
+{
+ "id": "2026-11-06-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "t0": 0.3,
+  "t1": 7.43,
+  "text": "You watched 63 lives before breakfast. Allah gave you yours.",
+  "gold": [
+   "Allah",
+   "gave",
+   "you",
+   "yours."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 32.28,
+   "t1": 42.58,
+   "text": "“And what is the worldly life except the enjoyment of delusion.”",
+   "ref": "Surah Al-Hadid — 57:20"
+  }
+ ],
+ "end": {
+  "text": "You watched 63 lives before breakfast. Allah gave you yours.",
+  "gold": "This morning: name 3 blessings before you open 1 app.",
+  "t0": 54.84,
+  "goldT0": 56.14,
+  "t1": 62.18
+ },
+ "segments": [
+  {
+   "scene": "kitchen",
+   "opts": {
+    "time": "dawn"
+   },
+   "dur": 31.98
+  },
+  {
+   "scene": "black",
+   "dur": 10.91
+  },
+  {
+   "scene": "train",
+   "opts": {
+    "phone": false
+   },
+   "dur": 11.66
+  },
+  {
+   "scene": "black",
+   "dur": 7.94
+  }
+ ],
+ "hud": [
+  {
+   "label": "STORIES WATCHED",
+   "time": "63",
+   "sub": "ALHAMDULILLAH: 0",
+   "box": true,
+   "t0": 7.58,
+   "t1": 31.68
+  },
+  {
+   "label": "THIS MORNING",
+   "time": "08:12",
+   "sub": "ALHAMDULILLAH × 3",
+   "box": true,
+   "t0": 43.18,
+   "t1": 54.24
+  }
+ ],
+ "captions": [
+  [
+   7.53,
+   13.44,
+   "7:40 a.m. Tea going cold. Thumb still scrolling."
+  ],
+  [
+   13.56,
+   17.87,
+   "A beach in Bali. A new car. A wedding."
+  ],
+  [
+   17.99,
+   22.89,
+   "And a quiet voice inside: why not me?"
+  ],
+  [
+   23.01,
+   27.22,
+   "Behind you, your mum puts warm bread on the table."
+  ],
+  [
+   27.34,
+   31.56,
+   "She's been up since six. You didn't even look up."
+  ],
+  [
+   43.28,
+   48.51,
+   "8:12 a.m. The train. Your phone stays in your pocket."
+  ],
+  [
+   48.63,
+   54.12,
+   "None of it was in a story. All of it was from Allah."
+  ]
+ ],
+ "goldWords": [
+  "mum",
+  "Allah."
+ ],
+ "post": {
+  "caption": "You watched 63 lives before breakfast. Allah gave you yours. 🤍\n\n“And what is the worldly life except the enjoyment of delusion.” (57:20)\n\nThis morning: name 3 blessings before you open a single app. Alhamdulillah for your own life.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #gratitude #alhamdulillah #comparison",
+  "youtube_title": "63 lives before breakfast. Allah gave you yours. 🤍 #islam #alhamdulillah"
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-06-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "t0": 0.3,
+  "t1": 7.16,
+  "text": "312 messages in the group chat today. Not one word to Allah.",
+  "gold": [
+   "Not",
+   "one",
+   "word",
+   "to",
+   "Allah."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 28.15,
+   "t1": 36.02,
+   "text": "“We are closer to him than [his] jugular vein.”",
+   "ref": "Surah Qaf — 50:16"
+  }
+ ],
+ "end": {
+  "text": "312 messages in the group chat today. Not one word to Allah.",
+  "gold": "Tonight at Isha: phone down. Bring a friend.",
+  "t0": 50.11,
+  "goldT0": 51.41,
+  "t1": 57.23
+ },
+ "segments": [
+  {
+   "scene": "desert",
+   "dur": 27.85
+  },
+  {
+   "scene": "black",
+   "dur": 8.48
+  },
+  {
+   "scene": "mosque_ext",
+   "opts": {
+    "time": "night"
+   },
+   "dur": 13.49
+  },
+  {
+   "scene": "black",
+   "dur": 7.72
+  }
+ ],
+ "hud": [
+  {
+   "label": "GROUP CHAT TODAY",
+   "time": "312",
+   "sub": "WORDS TO ALLAH: 0",
+   "box": true,
+   "t0": 7.31,
+   "t1": 27.55
+  },
+  {
+   "label": "ISHA",
+   "time": "20:40",
+   "sub": "TOGETHER",
+   "box": true,
+   "t0": 36.62,
+   "t1": 49.51
+  }
+ ],
+ "captions": [
+  [
+   7.26,
+   14.24,
+   "8:15 p.m. A desert fire. Your best friend, two metres away."
+  ],
+  [
+   14.36,
+   17.78,
+   "Both of you typing. In the same group chat."
+  ],
+  [
+   17.9,
+   22.06,
+   "Then the fire cracks. He puts his phone face down."
+  ],
+  [
+   22.18,
+   27.43,
+   "He looks up at the stars: “When did we last pray together?”"
+  ],
+  [
+   36.72,
+   42.05,
+   "8:40 p.m. Two friends. One masjid. Isha."
+  ],
+  [
+   42.17,
+   49.39,
+   "The One closest to you was never in the chat. Waiting for one word."
+  ]
+ ],
+ "goldWords": [
+  "pray",
+  "together?”",
+  "One"
+ ],
+ "post": {
+  "caption": "312 messages in the group chat today. Not one word to Allah. 📱\n\n“We are closer to him than [his] jugular vein.” (50:16)\n\nTonight at Isha: phone down, and bring a friend with you. Tag the one you want to pray with. 🤍",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #brotherhood #isha #salah",
+  "youtube_title": "312 messages. Not one word to Allah. 📱 #islam #salah"
+ }
+}
