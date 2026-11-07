@@ -1,0 +1,132 @@
+{
+ "id": "2026-11-07-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "t0": 0.3,
+  "t1": 7.12,
+  "text": "Day 1 again. 9th time this year. Is Allah tired of you?",
+  "gold": [
+   "Is",
+   "Allah",
+   "tired",
+   "of",
+   "you?"
+  ]
+ },
+ "verses": [
+  {
+   "t0": 27.18,
+   "t1": 37.38,
+   "text": "“Do not despair of the mercy of Allah.”",
+   "ref": "Surah Az-Zumar — 39:53"
+  }
+ ],
+ "end": {
+  "text": "Day 1 again. 9th time this year. Is Allah tired of you?",
+  "gold": "Tonight at Isha: go back. Day 1 is still a day.",
+  "t0": 55.73,
+  "goldT0": 57.03,
+  "t1": 64.05
+ },
+ "segments": [
+  {
+   "scene": "train",
+   "opts": {},
+   "dur": 26.78
+  },
+  {
+   "scene": "black",
+   "dur": 11.1
+  },
+  {
+   "scene": "mosque_int",
+   "opts": {
+    "night": true,
+    "povBow": true,
+    "ruku": [
+     [
+      8.34,
+      13.81
+     ]
+    ]
+   },
+   "dur": 17.54
+  },
+  {
+   "scene": "black",
+   "dur": 9.03
+  }
+ ],
+ "hud": [
+  {
+   "label": "BEST STREAK",
+   "time": "23 DAYS",
+   "sub": "TODAY: DAY 0",
+   "t0": 7.17,
+   "t1": 26.48,
+   "box": true
+  },
+  {
+   "label": "TONIGHT",
+   "time": "DAY 1",
+   "sub": "ISHA · PRAYED",
+   "t0": 38.38,
+   "t1": 55.13,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   7.22,
+   13.04,
+   "5:52 p.m. The train home. Rain on the window."
+  ],
+  [
+   13.16,
+   17.35,
+   "Your reflection looks tired. You did it again."
+  ],
+  [
+   17.47,
+   21.88,
+   "You open your notes: “Day 1.” The ninth one."
+  ],
+  [
+   22.0,
+   26.36,
+   "And a voice whispers: why would He forgive you now?"
+  ],
+  [
+   38.48,
+   43.79,
+   "Isha. You walk in late. Wet jacket. Last row."
+  ],
+  [
+   43.91,
+   46.3,
+   "Nobody asks where you've been."
+  ],
+  [
+   46.42,
+   51.09,
+   "In sujood you whisper: “I'm back. Again.”"
+  ],
+  [
+   51.21,
+   55.01,
+   "He never closed the door. Not once."
+  ]
+ ],
+ "goldWords": [
+  "again.",
+  "back.",
+  "door."
+ ],
+ "post": {
+  "caption": "Day 1 again. 9th time this year. Is Allah tired of you? 🤍\n\n“Do not despair of the mercy of Allah.” (39:53)\n\nTonight at Isha: go back. Day 1 is still a day. He never closed the door.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #tawbah #repentance #mercy",
+  "youtube_title": "Day 1 again. Is Allah tired of you? 🤍 #islam #tawbah"
+ }
+}

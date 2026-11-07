@@ -1,0 +1,126 @@
+{
+ "id": "2026-11-07-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.34,
+  "text": "6 emails since Asr began. 0 minutes for Allah.",
+  "gold": [
+   "0",
+   "minutes",
+   "for",
+   "Allah."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 26.59,
+   "t1": 36.79,
+   "text": "“Establish prayer for My remembrance.”",
+   "ref": "Surah Ta-Ha — 20:14"
+  }
+ ],
+ "end": {
+  "text": "6 emails since Asr began. 0 minutes for Allah.",
+  "gold": "Now, before Maghrib: close the laptop. Pray Asr.",
+  "t0": 50.44,
+  "goldT0": 51.74,
+  "t1": 57.54
+ },
+ "segments": [
+  {
+   "scene": "office",
+   "opts": {
+    "screen": "mail"
+   },
+   "dur": 26.19
+  },
+  {
+   "scene": "black",
+   "dur": 11.1
+  },
+  {
+   "scene": "wudu",
+   "opts": {
+    "time": "day"
+   },
+   "dur": 12.85
+  },
+  {
+   "scene": "black",
+   "dur": 7.8
+  }
+ ],
+ "hud": [
+  {
+   "label": "EMAILS SENT SINCE ASR",
+   "time": "6",
+   "sub": "ASR: NOT YET",
+   "t0": 6.39,
+   "t1": 25.89,
+   "box": true
+  },
+  {
+   "label": "ASR",
+   "time": "4:52 PM",
+   "sub": "PRAYED · 7 MIN",
+   "t0": 37.79,
+   "t1": 49.84,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.44,
+   9.0,
+   "“Just this one,” you said. Six times."
+  ],
+  [
+   9.12,
+   14.12,
+   "4:41 p.m. Your coffee went cold an hour ago."
+  ],
+  [
+   14.24,
+   17.02,
+   "Your prayer mat is rolled up in the bottom drawer."
+  ],
+  [
+   17.14,
+   20.99,
+   "Then the window turns orange. The sun is going down."
+  ],
+  [
+   21.11,
+   25.77,
+   "Asr is slipping away. And nobody here would notice."
+  ],
+  [
+   37.89,
+   40.6,
+   "You close the laptop. Mid-sentence."
+  ],
+  [
+   40.72,
+   44.77,
+   "Cold water on your wrists. Your chest slows down."
+  ],
+  [
+   44.89,
+   49.72,
+   "Four rak'ahs. Seven minutes. The emails were still there."
+  ]
+ ],
+ "goldWords": [
+  "Asr",
+  "orange.",
+  "laptop."
+ ],
+ "post": {
+  "caption": "6 emails since Asr began. 0 minutes for Allah. 🤍\n\n“Establish prayer for My remembrance.” (20:14)\n\nNow, before Maghrib: close the laptop. Pray Asr. The emails will still be there.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #salah #asr #worklife",
+  "youtube_title": "6 emails since Asr. 0 minutes for Allah. 🤍 #islam #salah"
+ }
+}

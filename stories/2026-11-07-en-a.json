@@ -1,0 +1,123 @@
+{
+ "id": "2026-11-07-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.25,
+  "text": "232 days since Ramadan. Your Quran hasn't moved.",
+  "gold": [
+   "Your",
+   "Quran",
+   "hasn't",
+   "moved."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 29.01,
+   "t1": 39.21,
+   "text": "“So remember Me; I will remember you.”",
+   "ref": "Surah Al-Baqarah — 2:152"
+  }
+ ],
+ "end": {
+  "text": "232 days since Ramadan. Your Quran hasn't moved.",
+  "gold": "This morning: one page. Before your phone.",
+  "t0": 53.31,
+  "goldT0": 54.61,
+  "t1": 60.0
+ },
+ "segments": [
+  {
+   "scene": "study",
+   "opts": {
+    "reach": 0.45
+   },
+   "dur": 28.61
+  },
+  {
+   "scene": "black",
+   "dur": 11.1
+  },
+  {
+   "scene": "bed_morning",
+   "opts": {
+    "wake": false,
+    "clock": "09:58",
+    "sub": "Saturday"
+   },
+   "dur": 13.3
+  },
+  {
+   "scene": "black",
+   "dur": 7.39
+  }
+ ],
+ "hud": [
+  {
+   "label": "DAYS SINCE YOU OPENED IT",
+   "time": "232",
+   "sub": "PAGES READ: 0",
+   "t0": 6.3,
+   "t1": 28.31,
+   "box": true
+  },
+  {
+   "label": "THIS MORNING",
+   "time": "PAGE 1",
+   "sub": "BEFORE THE PHONE",
+   "t0": 40.21,
+   "t1": 52.71,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.35,
+   8.46,
+   "The dust kept count."
+  ],
+  [
+   8.58,
+   13.11,
+   "9:20 a.m. You're looking for your old charger."
+  ],
+  [
+   13.23,
+   19.33,
+   "Top shelf. Behind the books. Something soft with dust."
+  ],
+  [
+   19.45,
+   23.9,
+   "First page, in your dad's handwriting: your name."
+  ],
+  [
+   24.02,
+   28.19,
+   "Last Ramadan you promised Him: every single day."
+  ],
+  [
+   40.31,
+   44.84,
+   "You sit on the prayer mat. Wipe the cover with your sleeve."
+  ],
+  [
+   44.96,
+   52.59,
+   "Two minutes. It waited 232 days for two minutes."
+  ]
+ ],
+ "goldWords": [
+  "dust",
+  "Him:",
+  "name."
+ ],
+ "post": {
+  "caption": "232 days since Ramadan. Your Quran hasn't moved. 🤍\n\n“So remember Me; I will remember you.” (2:152)\n\nThis morning: one page. Before your phone. It's been waiting for you.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #readquran #ramadan #dhikr",
+  "youtube_title": "232 days since Ramadan. Your Quran hasn't moved. 🤍 #islam #quran"
+ }
+}
