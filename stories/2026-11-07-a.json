@@ -1,0 +1,126 @@
+{
+ "id": "2026-11-07-a",
+ "segments": [
+  {
+   "scene": "office",
+   "dur": 26.91,
+   "opts": {
+    "screen": "mail"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.3
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 14.12,
+   "opts": {
+    "night": true,
+    "povBow": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.02
+  }
+ ],
+ "hud": [
+  {
+   "label": "CANDIDATURES : 17",
+   "time": "21:40",
+   "sub": "REFUS : 17 · DUA : 0",
+   "t0": 5.38,
+   "t1": 26.61,
+   "box": true
+  },
+  {
+   "label": "ISHA",
+   "time": "21:58",
+   "sub": "DUA : 1",
+   "t0": 38.71,
+   "t1": 52.03,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.53,
+   7.78,
+   "Ta boîte mail tient les comptes."
+  ],
+  [
+   7.93,
+   13.1,
+   "21 h 40. Le bureau est vide. Ton café est froid."
+  ],
+  [
+   13.25,
+   16.12,
+   "Un nouveau mail : « Malheureusement… »"
+  ],
+  [
+   16.27,
+   21.54,
+   "Tu as tout refait. Le CV. La lettre. Même la photo."
+  ],
+  [
+   21.69,
+   26.61,
+   "Ton téléphone vibre. Isha. Tu l'avais oublié."
+  ],
+  [
+   38.31,
+   42.31,
+   "Tu fermes l'ordinateur. Tu descends à la mosquée du coin."
+  ],
+  [
+   42.46,
+   47.53,
+   "En sujud, tu Lui dis enfin ce que tu n'as dit à personne."
+  ],
+  [
+   47.68,
+   52.03,
+   "Demain, tu enverras la dix-huitième. Mais plus jamais seul."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 27.21,
+   "t1": 37.61,
+   "text": "« À côté de la difficulté est, certes, une facilité. »",
+   "ref": "Sourate Ash-Sharh — 94:5-6"
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.38,
+  "text": "17 candidatures envoyées. 0 demande à Allah.",
+  "gold": [
+   "allah."
+  ]
+ },
+ "end": {
+  "t0": 53.03,
+  "t1": 61.05,
+  "text": "17 candidatures envoyées. 0 demande à Allah.",
+  "goldT0": 54.53,
+  "gold": "Avant ta prochaine candidature : deux rak'at et une dua."
+ },
+ "goldWords": [
+  "isha.",
+  "sujud,",
+  "lui",
+  "seul.",
+  "allah.",
+  "dua."
+ ],
+ "post": {
+  "caption": "17 candidatures envoyées. 0 demande à Allah. 🤍\n\n« À côté de la difficulté est, certes, une facilité. » (94:5-6)\n\nTu as tout refait : le CV, la lettre, la photo. Mais tu ne Lui as rien demandé. Avant ta prochaine candidature : deux rak'at et une dua.",
+  "hashtags": "#rappel #islam #rappelislamique #dua #tawakkul #travail #muslim #imane",
+  "youtube_title": "17 candidatures. 0 demande à Allah. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

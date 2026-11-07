@@ -1,0 +1,131 @@
+{
+ "id": "2026-11-07-b",
+ "segments": [
+  {
+   "scene": "dinner",
+   "dur": 28.57,
+   "opts": {
+    "family": [
+     "mother"
+    ]
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.3
+  },
+  {
+   "scene": "park",
+   "dur": 12.28,
+   "opts": {
+    "time": "golden"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.22
+  }
+ ],
+ "hud": [
+  {
+   "label": "MÊME QUESTION : 4",
+   "time": "20:14",
+   "sub": "SOUPIRS : 4",
+   "t0": 5.47,
+   "t1": 28.27,
+   "box": true
+  },
+  {
+   "label": "MÊME QUESTION : 5",
+   "time": "17:32",
+   "sub": "TA RÉPONSE : DOUCE",
+   "t0": 40.37,
+   "t1": 51.85,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.62,
+   8.6,
+   "Allah, Lui, a tout entendu."
+  ],
+  [
+   8.75,
+   12.91,
+   "20 h 14. Un dîner. Juste elle et toi."
+  ],
+  [
+   13.06,
+   14.9,
+   "« Tu commences quand, ton nouveau travail ? »"
+  ],
+  [
+   15.05,
+   18.61,
+   "Tu l'as déjà dit. Trois fois. Tu lèves les yeux au ciel."
+  ],
+  [
+   18.76,
+   23.33,
+   "Elle pose sa fourchette. « Pardon. J'oublie tout, maintenant. »"
+  ],
+  [
+   23.48,
+   28.27,
+   "Ses mains tremblent un peu. Avant, elles te portaient."
+  ],
+  [
+   39.97,
+   45.56,
+   "Le lendemain, au parc. Vous marchez lentement. À son rythme."
+  ],
+  [
+   45.71,
+   48.54,
+   "« Tu commences quand, ton travail ? » Cinquième fois."
+  ],
+  [
+   48.69,
+   51.85,
+   "Tu souris. Et tu réponds comme si c'était la première."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 28.87,
+   "t1": 39.27,
+   "text": "« Allah est avec ceux qui sont endurants. »",
+   "ref": "Sourate Al-Baqara — 2:153"
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.47,
+  "text": "Ta mère a posé 4 fois la même question. Tu as soupiré 4 fois.",
+  "gold": [
+   "mère"
+  ]
+ },
+ "end": {
+  "t0": 52.85,
+  "t1": 61.07,
+  "text": "Ta mère a posé 4 fois la même question. Tu as soupiré 4 fois.",
+  "goldT0": 54.35,
+  "gold": "Aujourd'hui, réponds-lui avec douceur. Même à la cinquième fois."
+ },
+ "goldWords": [
+  "allah,",
+  "mère",
+  "douceur.",
+  "souris.",
+  "première."
+ ],
+ "post": {
+  "caption": "Ta mère a posé 4 fois la même question. Tu as soupiré 4 fois. 🤍\n\n« Allah est avec ceux qui sont endurants. » (2:153)\n\nAvant, ses mains te portaient. Aujourd'hui, c'est ta patience qu'elle attend. Réponds-lui avec douceur. Même à la cinquième fois.",
+  "hashtags": "#rappel #islam #rappelislamique #parents #mere #patience #sabr #muslim",
+  "youtube_title": "Ta mère a posé 4 fois la même question… 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

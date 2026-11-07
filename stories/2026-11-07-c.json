@@ -1,0 +1,128 @@
+{
+ "id": "2026-11-07-c",
+ "segments": [
+  {
+   "scene": "desert",
+   "dur": 27.26,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 11.3
+  },
+  {
+   "scene": "wudu",
+   "dur": 11.29,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.99
+  }
+ ],
+ "hud": [
+  {
+   "label": "« ÇA VA » : 11",
+   "time": "23:30",
+   "sub": "VRAI : 0",
+   "t0": 4.78,
+   "t1": 26.96,
+   "box": true
+  },
+  {
+   "label": "FAJR",
+   "time": "06:21",
+   "sub": "MASQUE : 0",
+   "t0": 39.06,
+   "t1": 49.55,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   4.93,
+   7.29,
+   "Même ton meilleur ami y a cru."
+  ],
+  [
+   7.44,
+   11.56,
+   "23 h 30. Le feu crépite. Ton ami te tend un thé."
+  ],
+  [
+   11.71,
+   15.19,
+   "« Et toi, ça va ? » « Ça va. » La onzième."
+  ],
+  [
+   15.34,
+   19.29,
+   "Dans tes notes, un message à personne : « Je n'en peux plus. »"
+  ],
+  [
+   19.44,
+   23.58,
+   "Ton ami s'endort. Le silence. Et des milliers d'étoiles."
+  ],
+  [
+   23.73,
+   26.96,
+   "Tu ne l'as dit à personne. Mais Lui, Il sait."
+  ],
+  [
+   38.66,
+   42.85,
+   "6 h 21. L'eau froide de l'aube sur tes mains."
+  ],
+  [
+   43.0,
+   46.16,
+   "En sujud, tu dis enfin : « Ça ne va pas. »"
+  ],
+  [
+   46.31,
+   49.55,
+   "Et pour la première fois, ça va un peu mieux."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 27.56,
+   "t1": 37.96,
+   "text": "« Nous sommes plus près de lui que sa veine jugulaire. »",
+   "ref": "Sourate Qâf — 50:16"
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.78,
+  "text": "Tu as dit « ça va » 11 fois aujourd'hui. Allah sait que non.",
+  "gold": [
+   "allah"
+  ]
+ },
+ "end": {
+  "t0": 50.55,
+  "t1": 57.54,
+  "text": "Tu as dit « ça va » 11 fois aujourd'hui. Allah sait que non.",
+  "goldT0": 52.05,
+  "gold": "Ce soir, dis-Lui la vérité. Deux minutes, sans masque."
+ },
+ "goldWords": [
+  "lui,",
+  "lui",
+  "il",
+  "sait.",
+  "vérité.",
+  "mieux."
+ ],
+ "post": {
+  "caption": "Tu as dit « ça va » 11 fois aujourd'hui. Allah sait que non. 🤍\n\n« Nous sommes plus près de lui que sa veine jugulaire. » (50:16)\n\nAvec les gens, on fait semblant. Avec Lui, pas besoin. Ce soir, dis-Lui la vérité. Deux minutes, sans masque.",
+  "hashtags": "#rappel #islam #rappelislamique #dua #coeur #allah #muslim #imane",
+  "youtube_title": "« Ça va. » 11 fois aujourd'hui. Allah sait que non. 🤍 #rappel"
+ },
+ "capBox": true,
+ "hookBox": true
+}
