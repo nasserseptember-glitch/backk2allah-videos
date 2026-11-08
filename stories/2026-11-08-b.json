@@ -1,0 +1,134 @@
+{
+ "id": "2026-11-08-b",
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.95,
+  "text": "2 min 50 devant Allah. Et tu pensais à tes messages.",
+  "gold": [
+   "allah."
+  ]
+ },
+ "segments": [
+  {
+   "scene": "wudu",
+   "dur": 25.33,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.6
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 16.47,
+   "opts": {
+    "night": true,
+    "rows": 2,
+    "ruku": [
+     [
+      9.5,
+      13.5
+     ]
+    ]
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.37
+  }
+ ],
+ "hud": [
+  {
+   "label": "DURÉE DE TA PRIÈRE",
+   "time": "2:50",
+   "sub": "PRÉSENT : 0 S",
+   "t0": 4.95,
+   "t1": 25.03,
+   "box": true
+  },
+  {
+   "label": "ISHA",
+   "time": "18:41",
+   "sub": "TÉLÉPHONE : À L'ENTRÉE",
+   "t0": 36.13,
+   "t1": 52.2,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.1,
+   8.52,
+   "16 h 31. Asr, vite, avant la réunion."
+  ],
+  [
+   8.67,
+   13.74,
+   "Un bras, puis l'autre. En dix secondes."
+  ],
+  [
+   13.89,
+   18.0,
+   "Allahu akbar. Et ta tête est déjà au bureau."
+  ],
+  [
+   18.15,
+   20.67,
+   "Sujud. Tu fais la liste des courses."
+  ],
+  [
+   20.82,
+   25.03,
+   "Salam. Quelle sourate as-tu récitée ? Tu ne sais plus."
+  ],
+  [
+   36.33,
+   39.95,
+   "Isha. Cette fois, le téléphone reste à l'entrée."
+  ],
+  [
+   40.1,
+   43.88,
+   "Tu ralentis. Chaque mot, tu l'entends."
+  ],
+  [
+   44.03,
+   48.55,
+   "Sujud. Et pour la première fois, tu es vraiment là."
+  ],
+  [
+   48.7,
+   52.1,
+   "Quatre minutes. Les plus calmes de ta journée."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 25.63,
+   "t1": 35.63,
+   "text": "« Accomplis la Salât pour te souvenir de Moi. »",
+   "ref": "Sourate Tâ-Hâ — 20:14"
+  }
+ ],
+ "end": {
+  "t0": 53.0,
+  "t1": 60.77,
+  "text": "2 min 50 devant Allah. Et tu pensais à tes messages.",
+  "goldT0": 54.5,
+  "gold": "À ta prochaine prière : une sourate, lentement. Pour Lui."
+ },
+ "goldWords": [
+  "là.",
+  "lentement.",
+  "l'entends."
+ ],
+ "post": {
+  "caption": "2 min 50 devant Allah. Et tu pensais à tes messages. 🤍\n\n« Accomplis la Salât pour te souvenir de Moi. » (20:14)\n\nLa prière n'est pas une case à cocher. C'est un rendez-vous avec ton Seigneur. À ta prochaine prière : une sourate, lentement. Pour Lui.",
+  "hashtags": "#rappel #islam #rappelislamique #salat #priere #khushu #muslim #asr",
+  "youtube_title": "2 min 50 devant Allah. Et tu pensais à tes messages. 🤍 #rappel #salat"
+ },
+ "capBox": true,
+ "hookBox": true
+}

@@ -1,0 +1,112 @@
+{
+ "id": "2026-11-08-c",
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.42,
+  "text": "48 vies parfaites ce soir. Et tu oublies ce qu'Allah t'a donné.",
+  "gold": [
+   "allah"
+  ]
+ },
+ "segments": [
+  {
+   "scene": "rooftop",
+   "dur": 23.99,
+   "opts": {
+    "phone": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.6
+  },
+  {
+   "scene": "kitchen",
+   "dur": 18.36,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.97
+  }
+ ],
+ "hud": [
+  {
+   "label": "STORIES VUES : 48",
+   "time": "23:40",
+   "sub": "ALHAMDULILLAH : 0",
+   "t0": 6.42,
+   "t1": 23.69,
+   "box": true
+  },
+  {
+   "label": "BIENFAITS COMPTÉS : 3",
+   "time": "06:10",
+   "sub": "STORIES : 0",
+   "t0": 34.79,
+   "t1": 52.75,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.57,
+   10.92,
+   "23 h 40. Sur le toit. Ton pouce ne s'arrête plus."
+  ],
+  [
+   11.07,
+   16.99,
+   "Une voiture. Un voyage. Un mariage. Pas les tiens."
+  ],
+  [
+   17.14,
+   23.69,
+   "Une notification. Maman : « Tu rentres ? Je t'ai gardé une assiette. »"
+  ],
+  [
+   34.99,
+   39.96,
+   "6 h 10. Après Fajr, la cuisine sent le thé."
+  ],
+  [
+   40.11,
+   47.3,
+   "Ta mère, les dattes, la vapeur. Personne ne filme ça."
+  ],
+  [
+   47.45,
+   52.65,
+   "Alhamdulillah. Et cette fois, tu le penses vraiment."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 24.29,
+   "t1": 34.29,
+   "text": "« Ton Seigneur ne t'a ni abandonné, ni détesté. »",
+   "ref": "Sourate Ad-Duhâ — 93:3"
+  }
+ ],
+ "end": {
+  "t0": 53.55,
+  "t1": 62.91,
+  "text": "48 vies parfaites ce soir. Et tu oublies ce qu'Allah t'a donné.",
+  "goldT0": 55.05,
+  "gold": "Ce soir, avant de scroller : nomme trois bienfaits. À Lui."
+ },
+ "goldWords": [
+  "alhamdulillah.",
+  "vivant,",
+  "prières."
+ ],
+ "post": {
+  "caption": "48 vies parfaites ce soir. Et tu oublies ce qu'Allah t'a donné. 🤍\n\n« Ton Seigneur ne t'a ni abandonné, ni détesté. » (93:3)\n\nLes stories montrent le meilleur de la vie des autres. Allah t'a donné la tienne. Ce soir, avant de scroller : nomme trois bienfaits.",
+  "hashtags": "#rappel #islam #rappelislamique #alhamdulillah #gratitude #famille #muslim #dunya",
+  "youtube_title": "48 vies parfaites ce soir. Et tu oublies ce qu'Allah t'a donné. 🤍 #rappel"
+ },
+ "capBox": true,
+ "hookBox": true
+}
