@@ -1,0 +1,116 @@
+{
+ "id": "2026-11-08-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.77,
+  "text": "You checked the forecast 8 times. Never the One who sends it.",
+  "gold": [
+   "One",
+   "who",
+   "sends",
+   "it."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 22.34,
+   "t1": 39.27,
+   "text": "“Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver. He will send [rain from] the sky upon you in [continuing] showers.”",
+   "ref": "Surah Nuh — 71:10-11"
+  }
+ ],
+ "end": {
+  "text": "You checked the forecast 8 times. Never the One who sends it.",
+  "gold": "Tonight, before Isha: Astaghfirullah, 100 times.",
+  "t0": 57.36,
+  "goldT0": 58.66,
+  "t1": 65.86
+ },
+ "segments": [
+  {
+   "scene": "car_night",
+   "opts": {
+    "clock": "17:04"
+   },
+   "dur": 22.04
+  },
+  {
+   "scene": "black",
+   "dur": 17.63
+  },
+  {
+   "scene": "wudu",
+   "opts": {
+    "time": "day"
+   },
+   "dur": 17.39
+  },
+  {
+   "scene": "black",
+   "dur": 9.1
+  }
+ ],
+ "hud": [
+  {
+   "label": "WEATHER APP TODAY",
+   "time": "8",
+   "sub": "ISTIGHFAR: 0",
+   "t0": 5.84,
+   "t1": 21.74,
+   "box": true
+  },
+  {
+   "label": "ISTIGHFAR",
+   "time": "100",
+   "sub": "MAGHRIB · PRAYED",
+   "t0": 40.07,
+   "t1": 56.76,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.89,
+   10.35,
+   "The rent. The interview. The silence since."
+  ],
+  [
+   10.47,
+   16.62,
+   "5:04 p.m. The ring road. Red lights for a mile."
+  ],
+  [
+   16.74,
+   21.62,
+   "Then the radio goes quiet. The adhan of Maghrib."
+  ],
+  [
+   40.17,
+   45.16,
+   "Home. Cold water on your hands. Then your face."
+  ],
+  [
+   45.28,
+   51.21,
+   "Three rak'ahs. Then: Astaghfirullah. A hundred times."
+  ],
+  [
+   51.33,
+   56.64,
+   "The rain still falls. But now it sounds like mercy."
+  ]
+ ],
+ "goldWords": [
+  "Maghrib.",
+  "Astaghfirullah.",
+  "mercy."
+ ],
+ "post": {
+  "caption": "You checked the forecast 8 times today. Never the One who sends it. 🤍\n\n“Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver. He will send [rain from] the sky upon you in [continuing] showers.” (71:10-11)\n\nTonight, before Isha: Astaghfirullah, 100 times. Let the rain sound like mercy.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #istighfar #astaghfirullah #maghrib",
+  "youtube_title": "8 weather checks. Never the One who sends rain. 🤍 #islam #istighfar"
+ }
+}

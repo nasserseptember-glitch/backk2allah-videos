@@ -1,0 +1,129 @@
+{
+ "id": "2026-11-08-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.87,
+  "text": "4 missed calls from Mum. Is “later” promised to you?",
+  "gold": [
+   "“later”",
+   "promised",
+   "to",
+   "you?"
+  ]
+ },
+ "verses": [
+  {
+   "t0": 28.16,
+   "t1": 38.36,
+   "text": "“Every soul will taste death.”",
+   "ref": "Surah Al-Imran — 3:185"
+  }
+ ],
+ "end": {
+  "text": "4 missed calls from Mum. Is “later” promised to you?",
+  "gold": "Call her this morning. Before your tea goes cold.",
+  "t0": 53.14,
+  "goldT0": 54.44,
+  "t1": 59.64
+ },
+ "segments": [
+  {
+   "scene": "kitchen",
+   "opts": {
+    "time": "dawn",
+    "mother": false
+   },
+   "dur": 27.86
+  },
+  {
+   "scene": "black",
+   "dur": 10.9
+  },
+  {
+   "scene": "street",
+   "opts": {
+    "dayFrom": 0,
+    "dayTo": 0.15,
+    "clock": "8:19"
+   },
+   "dur": 14.08
+  },
+  {
+   "scene": "black",
+   "dur": 7.1
+  }
+ ],
+ "hud": [
+  {
+   "label": "MISSED CALLS · MUM",
+   "time": "4",
+   "sub": "CALLED BACK: 0",
+   "t0": 5.94,
+   "t1": 27.56,
+   "box": true
+  },
+  {
+   "label": "CALL · MUM",
+   "time": "12:04",
+   "sub": "SHE LAUGHED TWICE",
+   "t0": 39.16,
+   "t1": 52.54,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.99,
+   9.34,
+   "Your phone keeps count. In red."
+  ],
+  [
+   9.46,
+   14.4,
+   "8:12 a.m. Sunday. The kettle starts to hiss."
+  ],
+  [
+   14.52,
+   19.69,
+   "You typed “busy, call you later.” Four times."
+  ],
+  [
+   19.81,
+   24.22,
+   "Then a voice note. Four seconds. Her voice."
+  ],
+  [
+   24.34,
+   27.44,
+   "“Nothing important. I just wanted to hear you.”"
+  ],
+  [
+   39.26,
+   42.69,
+   "You leave the tea. You press call."
+  ],
+  [
+   42.81,
+   46.39,
+   "She picks up on the first ring. As always."
+  ],
+  [
+   46.51,
+   52.42,
+   "Twelve minutes. She laughed twice. You'd forgotten that laugh."
+  ]
+ ],
+ "goldWords": [
+  "voice",
+  "note.",
+  "call."
+ ],
+ "post": {
+  "caption": "4 missed calls from Mum. Is “later” promised to you? 🤍\n\n“Every soul will taste death.” (3:185)\n\nCall her this morning. Before your tea goes cold. She only wanted to hear you.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #parents #mother #family",
+  "youtube_title": "4 missed calls from Mum. Is “later” promised? 🤍 #islam #parents"
+ }
+}

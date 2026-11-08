@@ -1,0 +1,129 @@
+{
+ "id": "2026-11-08-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.0,
+  "text": "19 complaints today. Not one “Alhamdulillah.”",
+  "gold": [
+   "Not",
+   "one",
+   "“Alhamdulillah.”"
+  ]
+ },
+ "verses": [
+  {
+   "t0": 26.84,
+   "t1": 37.04,
+   "text": "“Indeed, Allah is with the patient.”",
+   "ref": "Surah Al-Baqarah — 2:153"
+  }
+ ],
+ "end": {
+  "text": "19 complaints today. Not one “Alhamdulillah.”",
+  "gold": "Before Maghrib: name 5 blessings. Say Alhamdulillah.",
+  "t0": 50.86,
+  "goldT0": 52.16,
+  "t1": 58.39
+ },
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 5.2
+  },
+  {
+   "scene": "hospital",
+   "opts": {
+    "patient": "mother"
+   },
+   "dur": 21.34
+  },
+  {
+   "scene": "black",
+   "dur": 10.9
+  },
+  {
+   "scene": "park",
+   "opts": {
+    "time": "golden"
+   },
+   "dur": 13.12
+  },
+  {
+   "scene": "black",
+   "dur": 8.13
+  }
+ ],
+ "hud": [
+  {
+   "label": "COMPLAINTS TODAY",
+   "time": "19",
+   "sub": "ALHAMDULILLAH: 0",
+   "t0": 5.07,
+   "t1": 26.24,
+   "box": true
+  },
+  {
+   "label": "ALHAMDULILLAH",
+   "time": "1",
+   "sub": "THE FIRST OF MANY",
+   "t0": 37.84,
+   "t1": 50.26,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.12,
+   11.72,
+   "The traffic. The parking. The lift. Number nineteen."
+  ],
+  [
+   11.84,
+   16.68,
+   "3:40 p.m. Ward 2. Your aunt's bed by the window."
+  ],
+  [
+   16.8,
+   19.3,
+   "She can't lift her own cup anymore."
+  ],
+  [
+   19.42,
+   22.27,
+   "You hold it for her. She smiles at you."
+  ],
+  [
+   22.39,
+   26.12,
+   "“Alhamdulillah,” she whispers. “For all of it.”"
+  ],
+  [
+   37.94,
+   41.88,
+   "Outside, the leaves are falling. You walk slowly."
+  ],
+  [
+   42.0,
+   46.82,
+   "Two legs. Two lungs. A cold wind on your face."
+  ],
+  [
+   46.94,
+   50.14,
+   "For the first time today: “Alhamdulillah.”"
+  ]
+ ],
+ "goldWords": [
+  "“Alhamdulillah,”",
+  "“Alhamdulillah.”",
+  "smiles"
+ ],
+ "post": {
+  "caption": "19 complaints today. Not one “Alhamdulillah.” 🤍\n\n“Indeed, Allah is with the patient.” (2:153)\n\nBefore Maghrib: name 5 blessings you didn't earn. Say Alhamdulillah for each one.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #alhamdulillah #gratitude #sabr",
+  "youtube_title": "19 complaints today. Not one Alhamdulillah. 🤍 #islam #gratitude"
+ }
+}
