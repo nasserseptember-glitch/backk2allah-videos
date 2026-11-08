@@ -155,6 +155,75 @@ for sg in S['segments']:
         tt = a + 0.3
         while tt < b - 0.1:
             m = int(SR * 0.02); put(hp(rng.normal(0, 1, m), 2500) * env(m, 0.0005, 0.004) * 0.05, tt, pan=-0.5); tt += 1.0
+    elif sc == 'airport':  # big hall air, distant announcements chime, rolling suitcase, jet whine outside
+        out[:] += ((lp(BROWN, 220) * 0.035 + bp(PINK, 300, 2500) * 0.015) * w)[:, None]
+        for kk in range(max(1, int(d // 7))):
+            t0 = a + 1.0 + kk * 7
+            for j, f in enumerate([587.33, 739.99, 880.0]): put(verb(bell(f, 0.6), 0.6) * 0.03, t0 + j * 0.35)
+        n = int(SR * d); u = np.arange(n) / SR
+        put(bp(rng.normal(0, 1, n), 2500, 5000) * 0.006 * np.sin(np.pi * u / d), a)
+        tt = a + 1.5
+        while tt < b - 2:
+            m = int(SR * 1.6); put(bp(rng.normal(0, 1, m), 100, 900) * env(m, 0.3, 0.8) * 0.03, tt, pan=rng.uniform(-0.6, 0.6)); tt += rng.uniform(3, 5)
+    elif sc == 'bus_stop':  # rain on the shelter roof, tyres on wet road, bus brakes + door
+        if o.get('rain', True):
+            out[:] += ((bp(PINK, 800, 9000) * 0.06 + lp(BROWN, 200) * 0.03) * w)[:, None]
+            for kk in range(int(d * 25)):
+                m = int(SR * 0.006); put(hp(rng.normal(0, 1, m), 3000) * env(m, 0.0005, 0.002) * rng.uniform(0.02, 0.06), a + rng.random() * d, pan=rng.uniform(-0.8, 0.8))
+        else: out[:] += (lp(BROWN, 200) * 0.03 * w)[:, None]
+        for kk in range(int(d // 4)):
+            m = int(SR * 3.0); u = np.arange(m) / SR
+            put(bp(rng.normal(0, 1, m), 300, 4000) * np.exp(-((u - 1.5) / 0.6) ** 2) * 0.08, a + 0.5 + kk * 4 + rng.uniform(0, 1), pan=-0.4)
+        if o.get('bus') is not None:
+            bt = a + o['bus']; m = int(SR * 6); u = np.arange(m) / SR
+            put(lp(rng.normal(0, 1, m), 180) * (u / 6) ** 2 * 0.25 + np.sin(2 * np.pi * 55 * u) * (u / 6) ** 2 * 0.05, bt - 6, pan=-0.3)
+            m = int(SR * 0.9); put(bp(rng.normal(0, 1, m), 2500, 7000) * env(m, 0.01, 0.25) * 0.08, bt - 0.2, pan=-0.3)
+            m = int(SR * 0.7); put(bp(rng.normal(0, 1, m), 300, 3000) * env(m, 0.05, 0.2) * 0.07, bt + 0.8, pan=-0.3)
+    elif sc == 'library':  # deep quiet, page turns, a soft cough far away
+        out[:] += (lp(BROWN, 150) * 0.015 * w)[:, None]
+        if o.get('turn', True):
+            tt = a + 2.75
+            while tt < b - 0.3:
+                m = int(SR * 0.35); put(bp(rng.normal(0, 1, m), 1500, 8000) * env(m, 0.04, 0.09) * 0.05, tt); tt += 5
+        put(verb(bp(rng.normal(0, 1, int(SR * 0.25)), 300, 2000) * env(int(SR * 0.25), 0.01, 0.06), 0.6) * 0.015, a + d * 0.45, pan=0.5)
+    elif sc == 'gym':  # treadmill motor + belt, footfalls, air con
+        out[:] += ((bp(PINK, 90, 400) * 0.04 + bp(PINK, 2000, 6000) * 0.006) * w)[:, None]
+        out[:] += (np.sin(2 * np.pi * 120 * T) * 0.006 * w)[:, None]
+        if o.get('run', True):
+            tt = a + 0.3; k = 0
+            while tt < b - 0.2:
+                m = int(SR * 0.08); put(lp(rng.normal(0, 1, m), 500) * env(m, 0.002, 0.03) * 0.12, tt, pan=0.15 if k % 2 else -0.15); tt += 0.35; k += 1
+    elif sc == 'checkout':  # store hum, scanner beeps, belt motor, murmurs
+        out[:] += ((bp(PINK, 60, 200) * 0.03 + bp(PINK, 300, 2500) * 0.02) * w)[:, None]
+        tt = a + 1.0
+        while tt < b - 0.5:
+            m = int(SR * 0.12); u = np.arange(m) / SR; put(np.sin(2 * np.pi * 2400 * u) * env(m, 0.003, 0.05) * 0.05, tt, pan=0.2); tt += rng.uniform(1.0, 2.0)
+        pay = a + d * o.get('pay', 0.6) + d * 0.2
+        if pay < b:
+            m = int(SR * 0.4); u = np.arange(m) / SR; put((np.sin(2 * np.pi * 1760 * u) * (u < 0.15) + np.sin(2 * np.pi * 2200 * u) * (u > 0.2)) * 0.05, pay)
+    elif sc == 'classroom':  # silence, wall clock ticking, pen scratching
+        out[:] += (lp(BROWN, 180) * 0.015 * w)[:, None]
+        tt = a + 0.4
+        while tt < b - 0.1:
+            m = int(SR * 0.02); put(hp(rng.normal(0, 1, m), 2500) * env(m, 0.0005, 0.004) * 0.07, tt, pan=0.5); tt += 1.0
+        if o.get('write', True):
+            n = int(SR * d * 0.6); am = np.clip(np.sin(2 * np.pi * 1.1 * np.arange(n) / SR), 0, 1)
+            put(bp(rng.normal(0, 1, n), 2500, 8000) * am * 0.02, a)
+    elif sc == 'snow_street':  # muffled silence, soft wind, crunching steps in snow
+        out[:] += ((lp(BROWN, 120) * 0.03 + bp(PINK, 300, 1200) * 0.012 * (0.6 + 0.4 * np.sin(T * 0.3))) * w)[:, None]
+        if o.get('walk', True):
+            tt = a + 0.3; k = 0
+            while tt < b - 0.2:
+                m = int(SR * 0.22); put(bp(rng.normal(0, 1, m), 400, 4000) * env(m, 0.01, 0.06) * (rng.random(m) > 0.4) * 0.09, tt, pan=0.15 if k % 2 else -0.15); tt += 0.65; k += 1
+    elif sc == 'souk':  # crowd murmur, footsteps, a few hand claps/metal clinks of stalls
+        am = lp(np.abs(rng.normal(0, 1, N)), 4); am /= am.max()
+        out[:] += ((bp(PINK, 200, 2500) * 0.05 * (0.5 + am) + lp(BROWN, 200) * 0.03) * w)[:, None]
+        for kk in range(int(d * 1.2)):
+            put(verb(bell(rng.uniform(1800, 3200), 0.25), 0.4) * 0.012, a + 0.3 + rng.random() * (d - 0.6), pan=rng.uniform(-0.8, 0.8))
+        if o.get('walk', True):
+            tt = a + 0.3
+            while tt < b - 0.2:
+                m = int(SR * 0.1); put(lp(rng.normal(0, 1, m), 1200) * env(m, 0.002, 0.03) * 0.06, tt); tt += 0.6
     elif sc == 'black':
         out[:] += (lp(BROWN, 120) * 0.04 * win(a, b, 1.0, 1.0))[:, None]
     a = b

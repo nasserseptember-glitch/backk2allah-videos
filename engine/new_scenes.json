@@ -1,8 +1,44 @@
 {
- "week": "2026-11-02",
- "file": "engine/scenes3.js",
- "scenes": ["office", "train", "kitchen", "park", "hospital", "wudu", "desert", "study"],
+ "week": "2026-11-09",
+ "file": "engine/scenes4.js",
+ "scenes": [
+  "airport",
+  "bus_stop",
+  "library",
+  "gym",
+  "checkout",
+  "classroom",
+  "snow_street",
+  "souk"
+ ],
  "history": [
-  {"week": "2026-11-02", "file": "engine/scenes3.js", "scenes": ["office", "train", "kitchen", "park", "hospital", "wudu", "desert", "study"]}
+  {
+   "week": "2026-11-02",
+   "file": "engine/scenes3.js",
+   "scenes": [
+    "office",
+    "train",
+    "kitchen",
+    "park",
+    "hospital",
+    "wudu",
+    "desert",
+    "study"
+   ]
+  },
+  {
+   "week": "2026-11-09",
+   "file": "engine/scenes4.js",
+   "scenes": [
+    "airport",
+    "bus_stop",
+    "library",
+    "gym",
+    "checkout",
+    "classroom",
+    "snow_street",
+    "souk"
+   ]
+  }
  ]
 }

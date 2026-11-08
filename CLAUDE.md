@@ -132,6 +132,15 @@ Brand **Back2Allah ARB, blogId 7763307** (Instagram @back2allah_arb, TikTok @Bac
   - `wudu` — wastafel, stromend water, POV-handen (wudu). opts: `time: "dawn"|"day"`, `water: false`
   - `desert` — woestijn 's nachts, kampvuur, sterren en maan, vriend bij het vuur; camera kijkt op het einde omhoog naar de sterren. opts: `friend: false`
   - `study` — kamer met boekenkast; de Koran ligt stoffig bovenaan, de POV-hand neemt hem (40–75 % van het segment). Ideaal voor "Koran die stof verzamelt". opts: `reach` (fractie van het segment waarop de hand begint te reiken, standaard 0.25; nemen volgt 0.15 later, tot max. 95 %).
+  - *Decors week 2026-11-09 (`engine/scenes4.js`):*
+  - `airport` — gate in de luchthaven, groot raam met taxiënd vliegtuig, vertrekbord, wachtende reizigers met koffer, POV-hand met instapkaart (B12 06:40). opts: `time: "dawn"|"night"`, `plane: false|"still"`, `pass: false`
+  - `bus_stop` — wachten in een bushokje 's avonds in de regen, natte straat, passerende auto's, lantaarns; bus komt aan. opts: `bus` (s binnen het segment waarop de bus stopt, ±6 s aanrijden), `phone: true` (POV met telefoon), `rain: false`
+  - `library` — lange bibliotheek met hoge boekenkasten, groene leeslampen, lezers, raam aan het eind met stofdeeltjes; POV-handen bij een open boek, bladzijden draaien elke 5 s. opts: `time: "evening"`, `turn: false`
+  - `gym` — sportschool, rijen loopbanden voor een raam met zonsondergang, lopers, POV-handen aan de stang + display "32:14 / 5.2". opts: `time: "night"`, `run: false`, `hands: false`
+  - `checkout` — supermarktkassa, rollende band met boodschappen, kassierster (of `cashier: "man"`), klant voor je, kassascherm "47,90"; POV-hand reikt met bankkaart naar de terminal. opts: `pay` (fractie van het segment, standaard 0.6), `queue: false`, `cashier`
+  - `classroom` — examenlokaal overdag, leerlingen over hun blad gebogen, bord, wandklok met lopende wijzers; POV schrijft op het examenblad en kijkt dan op naar de klok. opts: `clock: "10:52"`, `fast: true` (klok loopt snel), `lookUp` (fractie, standaard 0.6), `write: false`
+  - `snow_street` — besneeuwde straat 's nachts, vallende sneeuw, warme lantaarns, adem-wolkjes, voetsporen van iemand die al voorging naar de moskee aan het eind (groene minaret). opts: `walk: false`, `mosque: false`
+  - `souk` — smalle marktstraat met luifels, kruidenbergjes, tapijten, koperen lampen, zwaaiende lantaarns en wandelende mensen. opts: `time: "dusk"|"day"`, `walk: false`
   - `black` — zwart scherm (voor vers of einde)
 - Tijden hieronder zijn **absolute seconden** vanaf het begin van de video.
 - `hook`: `{t0, t1, text, gold: [woorden in goud]}` (bovenaan)
