@@ -1,0 +1,127 @@
+{
+ "id": "2026-11-09-b",
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.54,
+  "text": "12 € de trop dans ta main. Personne n'a vu. Sauf Allah.",
+  "gold": [
+   "allah."
+  ]
+ },
+ "segments": [
+  {
+   "scene": "bus_stop",
+   "dur": 28.51,
+   "opts": {
+    "bus": 24.92
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.6
+  },
+  {
+   "scene": "checkout",
+   "dur": 13.8,
+   "opts": {
+    "pay": 0.4
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.03
+  }
+ ],
+ "hud": [
+  {
+   "label": "RENDU EN TROP",
+   "time": "12 €",
+   "sub": "TÉMOINS : 0",
+   "t0": 5.54,
+   "t1": 28.21,
+   "box": true
+  },
+  {
+   "label": "RENDU",
+   "time": "12 €",
+   "sub": "ALLAH A VU",
+   "t0": 39.51,
+   "t1": 52.71,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.69,
+   11.26,
+   "Arrêt du 71. 18 h 34. Il pleut depuis midi."
+  ],
+  [
+   11.41,
+   15.19,
+   "La caissière était fatiguée. Elle t'a rendu 14,10 €."
+  ],
+  [
+   15.34,
+   20.59,
+   "Tu devais recevoir 2,10 €. Tu as compté. Tu t'es tu."
+  ],
+  [
+   20.74,
+   23.57,
+   "Mais ces 12 € pèsent plus que tes courses."
+  ],
+  [
+   23.72,
+   28.21,
+   "Le bus arrive. Les portes s'ouvrent. Tu ne montes pas."
+  ],
+  [
+   39.31,
+   42.47,
+   "Caisse 4. Elle est encore là."
+  ],
+  [
+   42.62,
+   45.83,
+   "Tu tends les 12 €. « Vous vous êtes trompée. »"
+  ],
+  [
+   45.98,
+   49.3,
+   "Elle souffle. Sa caisse aurait manqué ce soir."
+  ],
+  [
+   49.45,
+   52.66,
+   "Tu rates un bus. Tu gardes un cœur propre."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 28.81,
+   "t1": 38.61,
+   "text": "« Allah aime ceux qui se repentent. »",
+   "ref": "Sourate Al-Baqara — 2:222"
+  }
+ ],
+ "end": {
+  "t0": 53.71,
+  "goldT0": 55.21,
+  "text": "12 € de trop dans ta main. Personne n'a vu. Sauf Allah.",
+  "gold": "Ce soir, rends ce qui n'est pas à toi. Même 1 €.",
+  "t1": 61.94
+ },
+ "goldWords": [
+  "propre.",
+  "trompée.",
+  "montes"
+ ],
+ "post": {
+  "caption": "12 € de trop dans ta main. Personne n'a vu. Sauf Allah. 🤍\n\n« Allah aime ceux qui se repentent. » (2:222)\n\nCe n'est jamais « pas grand-chose » quand Allah voit. Ce soir, rends ce qui n'est pas à toi. Même 1 €.",
+  "hashtags": "#rappel #islam #rappelislamique #honnetete #amana #muslim #tawba #halal",
+  "youtube_title": "12 € de trop. Personne n'a vu. Sauf Allah. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

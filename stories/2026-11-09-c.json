@@ -1,0 +1,120 @@
+{
+ "id": "2026-11-09-c",
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.5,
+  "text": "14 mois sans parler à ton frère. Pour 200 €.",
+  "gold": [
+   "frère."
+  ]
+ },
+ "segments": [
+  {
+   "scene": "library",
+   "dur": 30.53,
+   "opts": {
+    "time": "evening"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.6
+  },
+  {
+   "scene": "snow_street",
+   "dur": 13.15,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 9.34
+  }
+ ],
+ "hud": [
+  {
+   "label": "SANS NOUVELLES D'ILYAS",
+   "time": "14 MOIS",
+   "sub": "MONTANT : 200 €",
+   "t0": 5.5,
+   "t1": 30.23,
+   "box": true
+  },
+  {
+   "label": "MESSAGE À ILYAS",
+   "time": "20:41",
+   "sub": "ENVOYÉ",
+   "t0": 50.53,
+   "t1": 54.08,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.65,
+   9.37,
+   "Et chaque soir, tu demandes à Allah de te pardonner."
+  ],
+  [
+   9.52,
+   15.92,
+   "19 h 52. Bibliothèque. Dehors, il neige."
+  ],
+  [
+   16.07,
+   20.4,
+   "Ce livre de droit, c'est le sien. Tu ne l'as jamais rendu."
+  ],
+  [
+   20.55,
+   25.63,
+   "Première page, son écriture : « Courage, petit frère. »"
+  ],
+  [
+   25.78,
+   30.23,
+   "Tu tournes la page. Votre photo de l'Aïd tombe sur la table."
+  ],
+  [
+   41.33,
+   45.5,
+   "Dehors, des traces de pas mènent à la mosquée."
+  ],
+  [
+   45.65,
+   50.38,
+   "Les mains froides, tu murmures : « Ya Allah, rapproche-nous. »"
+  ],
+  [
+   50.53,
+   54.03,
+   "Puis tu écris : « Salam. Tu me manques. »"
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 30.83,
+   "t1": 40.63,
+   "text": "« Invoquez-Moi, Je vous répondrai. »",
+   "ref": "Sourate Ghâfir — 40:60"
+  }
+ ],
+ "end": {
+  "t0": 55.08,
+  "goldT0": 56.58,
+  "text": "14 mois sans parler à ton frère. Pour 200 €.",
+  "gold": "Fais une dua pour lui. Puis écris-lui. Ce soir.",
+  "t1": 63.62
+ },
+ "goldWords": [
+  "frère.",
+  "rapproche-nous.",
+  "manques."
+ ],
+ "post": {
+  "caption": "14 mois sans parler à ton frère. Pour 200 €. 🤍\n\n« Invoquez-Moi, Je vous répondrai. » (40:60)\n\nAucune somme ne vaut le silence entre deux frères. Fais une dua pour lui. Puis écris-lui. Ce soir.",
+  "hashtags": "#rappel #islam #rappelislamique #famille #pardon #dua #muslim #frere",
+  "youtube_title": "14 mois sans parler à ton frère. Pour 200 €. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

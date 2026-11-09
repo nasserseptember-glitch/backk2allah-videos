@@ -1,0 +1,128 @@
+{
+ "id": "2026-11-09-a",
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.76,
+  "text": "Passeport vérifié 5 fois. Et ton dernier voyage ?",
+  "gold": [
+   "dernier"
+  ]
+ },
+ "segments": [
+  {
+   "scene": "airport",
+   "dur": 28.87,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.6
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 13.84,
+   "opts": {
+    "rows": 1,
+    "ruku": [
+     [
+      5.35,
+      8.35
+     ]
+    ]
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.23
+  }
+ ],
+ "hud": [
+  {
+   "label": "BAGAGE POUR 3 H DE VOL",
+   "time": "23 KG",
+   "sub": "POUR L'AU-DELÀ : 0",
+   "t0": 5.76,
+   "t1": 28.57,
+   "box": true
+  },
+  {
+   "label": "BAGAGE POUR L'AU-DELÀ",
+   "time": "+1",
+   "sub": "FAJR À L'HEURE",
+   "t0": 39.87,
+   "t1": 53.11,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.91,
+   9.04,
+   "Tout est prêt pour un vol de 3 heures."
+  ],
+  [
+   9.19,
+   13.87,
+   "Valise : 23 kilos. Pesée deux fois hier soir."
+  ],
+  [
+   14.02,
+   19.75,
+   "À côté de toi, un vieil homme. Un petit sac. Un Coran."
+  ],
+  [
+   19.9,
+   24.39,
+   "Dernier appel pour son vol. Il se lève, serein."
+  ],
+  [
+   24.54,
+   28.57,
+   "Toi, pour le dernier voyage, tu n'as rien préparé."
+  ],
+  [
+   39.67,
+   43.67,
+   "Quarante minutes de retard. Tu trouves la salle de prière."
+  ],
+  [
+   43.82,
+   48.62,
+   "Fajr. Deux rak'at, ton sac à tes pieds."
+  ],
+  [
+   48.77,
+   53.06,
+   "Pour la première fois, tu prépares aussi l'autre voyage."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 29.17,
+   "t1": 38.97,
+   "text": "« Quiconque fait un bien fût-ce du poids d'un atome, le verra. »",
+   "ref": "Sourate Az-Zalzala — 99:7"
+  }
+ ],
+ "end": {
+  "t0": 54.11,
+  "goldT0": 55.61,
+  "text": "Passeport vérifié 5 fois. Et ton dernier voyage ?",
+  "gold": "Aujourd'hui, mets une bonne action dans ta valise.",
+  "t1": 61.54
+ },
+ "goldWords": [
+  "serein.",
+  "Fajr.",
+  "voyage."
+ ],
+ "post": {
+  "caption": "Passeport vérifié 5 fois. Et ton dernier voyage ? 🤍\n\n« Quiconque fait un bien fût-ce du poids d'un atome, le verra. » (99:7)\n\nPour 3 heures de vol, tu prépares tout. Pour le voyage qui ne revient pas, commence petit. Aujourd'hui, mets une bonne action dans ta valise.",
+  "hashtags": "#rappel #islam #rappelislamique #akhira #fajr #muslim #bonnesactions #voyage",
+  "youtube_title": "Passeport vérifié 5 fois. Et ton dernier voyage ? 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}
