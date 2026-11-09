@@ -1,0 +1,127 @@
+{
+ "id": "2026-11-09-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.77,
+  "text": "You revised 300 pages. You never asked Allah once.",
+  "gold": [
+   "Allah",
+   "once."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 27.83,
+   "t1": 38.23,
+   "text": "“For indeed, with hardship [will be] ease.”",
+   "ref": "Surah Ash-Sharh — 94:5"
+  }
+ ],
+ "end": {
+  "text": "You revised 300 pages. You never asked Allah once.",
+  "gold": "Before you study tonight: two rak'ahs, one du'a.",
+  "t0": 52.96,
+  "goldT0": 54.26,
+  "t1": 61.02
+ },
+ "segments": [
+  {
+   "scene": "classroom",
+   "opts": {
+    "clock": "10:52",
+    "fast": true
+   },
+   "dur": 27.53
+  },
+  {
+   "scene": "black",
+   "dur": 11.0
+  },
+  {
+   "scene": "library",
+   "opts": {
+    "time": "evening"
+   },
+   "dur": 13.83
+  },
+  {
+   "scene": "black",
+   "dur": 8.66
+  }
+ ],
+ "hud": [
+  {
+   "label": "PAGES REVISED",
+   "time": "300",
+   "sub": "DU'A FOR IT: 0",
+   "t0": 5.84,
+   "t1": 27.23,
+   "box": true
+  },
+  {
+   "label": "DU'A BEFORE STUDYING",
+   "time": "1",
+   "sub": "BISMILLAH · PAGE 1",
+   "t0": 38.83,
+   "t1": 52.06,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.87,
+   10.45,
+   "Exam hall. 10:52. 40 minutes left."
+  ],
+  [
+   10.57,
+   14.22,
+   "Question 4. You knew this last night."
+  ],
+  [
+   14.34,
+   18.42,
+   "Now your mind is blank. Your pen just shakes."
+  ],
+  [
+   18.54,
+   22.52,
+   "The clock gets louder. Everyone else keeps writing."
+  ],
+  [
+   22.64,
+   27.01,
+   "You close your eyes. “Ya Allah, make it easy.”"
+  ],
+  [
+   38.83,
+   43.43,
+   "That evening. The library. The next chapter open."
+  ],
+  [
+   43.55,
+   47.67,
+   "Before the first page, two hands raised to Him."
+  ],
+  [
+   47.79,
+   51.74,
+   "You still study. But you're no longer alone with it."
+  ]
+ ],
+ "goldWords": [
+  "“Ya",
+  "Allah,",
+  "easy.”",
+  "Him.",
+  "alone"
+ ],
+ "post": {
+  "caption": "You revised 300 pages. You never asked Allah once. 🤍\n\nStudy hard — and ask the One who opens minds.\n\n“For indeed, with hardship [will be] ease.” (94:5)\n\nBefore you study tonight: two rak'ahs, one du'a. You're not alone with it.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #exams #studentlife #dua #tawakkul",
+  "youtube_title": "300 pages revised. Not one du'a. 🤍 #islam #exams #dua"
+ }
+}

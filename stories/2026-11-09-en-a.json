@@ -1,0 +1,115 @@
+{
+ "id": "2026-11-09-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.81,
+  "text": "41 days, never missed the gym. Fajr? 2 out of 7.",
+  "gold": [
+   "Fajr?",
+   "2",
+   "out",
+   "of",
+   "7."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 29.48,
+   "t1": 41.04,
+   "text": "“Indeed, Allah loves those who are constantly repentant.”",
+   "ref": "Surah Al-Baqarah — 2:222"
+  }
+ ],
+ "end": {
+  "text": "41 days, never missed the gym. Fajr? 2 out of 7.",
+  "gold": "Tonight, set one alarm. For Fajr.",
+  "t0": 55.13,
+  "goldT0": 56.43,
+  "t1": 63.28
+ },
+ "segments": [
+  {
+   "scene": "gym",
+   "opts": {},
+   "dur": 29.18
+  },
+  {
+   "scene": "black",
+   "dur": 12.16
+  },
+  {
+   "scene": "mosque_ext",
+   "opts": {
+    "time": "dawn"
+   },
+   "dur": 13.18
+  },
+  {
+   "scene": "black",
+   "dur": 8.75
+  }
+ ],
+ "hud": [
+  {
+   "label": "GYM STREAK",
+   "time": "41 DAYS",
+   "sub": "FAJR THIS WEEK: 2/7",
+   "t0": 6.88,
+   "t1": 28.88,
+   "box": true
+  },
+  {
+   "label": "FAJR STREAK",
+   "time": "DAY 1",
+   "sub": "GOAL: 41 DAYS",
+   "t0": 41.64,
+   "t1": 54.23,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.91,
+   12.58,
+   "4:40 p.m. Treadmill four. Same spot as always."
+  ],
+  [
+   12.7,
+   18.01,
+   "32 minutes. Your lungs burn. You keep going."
+  ],
+  [
+   18.13,
+   23.4,
+   "Your watch buzzes: Maghrib. You almost swipe it away."
+  ],
+  [
+   23.52,
+   28.66,
+   "The man beside you steps off. Unrolls a small mat."
+  ],
+  [
+   41.64,
+   48.91,
+   "5:41 a.m. Your legs still ache. You walk anyway."
+  ],
+  [
+   49.03,
+   53.91,
+   "Day one of a new streak. The one that counts."
+  ]
+ ],
+ "goldWords": [
+  "Maghrib.",
+  "mat.",
+  "counts."
+ ],
+ "post": {
+  "caption": "41 days without missing the gym. Fajr? 2 out of 7. 🤍\n\nYou already have the discipline. Give it to the One who gave you the body.\n\n“Indeed, Allah loves those who are constantly repentant.” (2:222)\n\nTonight, set one alarm. For Fajr. Day one starts tomorrow.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #fajr #gym #salah #muslimgym",
+  "youtube_title": "41 days at the gym. 2 Fajrs this week. 🤍 #islam #fajr"
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "id": "2026-11-09-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.97,
+  "text": "20 minutes to save $3. $0 given for Allah.",
+  "gold": [
+   "$0",
+   "given",
+   "for",
+   "Allah."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 28.37,
+   "t1": 39.36,
+   "text": "“And whoever relies upon Allah - then He is sufficient for him.”",
+   "ref": "Surah At-Talaq — 65:3"
+  }
+ ],
+ "end": {
+  "text": "20 minutes to save $3. $0 given for Allah.",
+  "gold": "Before Isha tonight: give something. Even $3.",
+  "t0": 54.94,
+  "goldT0": 56.24,
+  "t1": 64.42
+ },
+ "segments": [
+  {
+   "scene": "souk",
+   "opts": {
+    "time": "dusk"
+   },
+   "dur": 28.07
+  },
+  {
+   "scene": "black",
+   "dur": 11.59
+  },
+  {
+   "scene": "street",
+   "opts": {
+    "dayFrom": 0.85,
+    "dayTo": 1,
+    "phone": false
+   },
+   "dur": 14.68
+  },
+  {
+   "scene": "black",
+   "dur": 10.08
+  }
+ ],
+ "hud": [
+  {
+   "label": "SAVED TODAY",
+   "time": "$3",
+   "sub": "SADAQA THIS MONTH: $0",
+   "t0": 7.04,
+   "t1": 27.77,
+   "box": true
+  },
+  {
+   "label": "SADAQA TODAY",
+   "time": "$3",
+   "sub": "THE SAME THREE DOLLARS",
+   "t0": 39.96,
+   "t1": 54.04,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   7.07,
+   11.72,
+   "A scarf for your mother. $18? Too much."
+  ],
+  [
+   11.84,
+   17.21,
+   "You walk away. He calls you back. $15."
+  ],
+  [
+   17.33,
+   22.23,
+   "At the gate, a boy with a tin box. “For the orphans.”"
+  ],
+  [
+   22.35,
+   27.55,
+   "Your hand finds your pocket. Then stops. “Next time.”"
+  ],
+  [
+   39.96,
+   43.37,
+   "You turn back. The boy is still there."
+  ],
+  [
+   43.49,
+   48.42,
+   "$3. The ones you fought for. Into the box."
+  ],
+  [
+   48.54,
+   53.72,
+   "Your pocket is lighter. Your chest, somehow, too."
+  ]
+ ],
+ "goldWords": [
+  "orphans.”",
+  "box.",
+  "lighter."
+ ],
+ "post": {
+  "caption": "20 minutes of haggling to save $3. $0 given for Allah this month. 🤍\n\nThe fear of “not enough” is loud. His promise is louder.\n\n“And whoever relies upon Allah - then He is sufficient for him.” (65:3)\n\nBefore Isha tonight: give something. Even $3.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #sadaqa #charity #tawakkul",
+  "youtube_title": "20 minutes to save $3. $0 for Allah. 🤍 #islam #sadaqa"
+ }
+}
