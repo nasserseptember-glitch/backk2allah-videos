@@ -1,0 +1,119 @@
+{
+ "id": "2026-11-10-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "200 views on your goodbye post. Not one du'a for the road.",
+  "gold": [
+   "Not",
+   "one",
+   "du'a",
+   "for",
+   "the",
+   "road."
+  ],
+  "t0": 0.3,
+  "t1": 6.82
+ },
+ "verses": [
+  {
+   "t0": 25.52,
+   "t1": 37.5,
+   "text": "“Indeed I am near. I respond to the invocation of the supplicant when he calls upon Me.”",
+   "ref": "Surah Al-Baqarah — 2:186"
+  }
+ ],
+ "end": {
+  "text": "200 views on your goodbye post. Not one du'a for the road.",
+  "gold": "This morning, before you leave the house: tell Him first.",
+  "t0": 58.66,
+  "goldT0": 59.96,
+  "t1": 67.5
+ },
+ "segments": [
+  {
+   "scene": "airport",
+   "opts": {
+    "time": "dawn"
+   },
+   "dur": 25.22
+  },
+  {
+   "scene": "black",
+   "dur": 12.88
+  },
+  {
+   "scene": "wudu",
+   "opts": {
+    "time": "day"
+   },
+   "dur": 20.16
+  },
+  {
+   "scene": "black",
+   "dur": 9.25
+  }
+ ],
+ "hud": [
+  {
+   "label": "STORY VIEWS",
+   "time": "200",
+   "sub": "DU'A FOR THE ROAD: 0",
+   "t0": 6.89,
+   "t1": 24.92,
+   "box": true
+  },
+  {
+   "label": "BEFORE BOARDING",
+   "time": "2 RAK'AHS",
+   "sub": "TOLD ALLAH: EVERYTHING",
+   "t0": 38.7,
+   "t1": 57.86,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.89,
+   14.11,
+   "6:02 a.m. Gate B12. A new city. A new job."
+  ],
+  [
+   14.23,
+   18.52,
+   "Your mother's voice note: “Did you say the travel du'a?”"
+  ],
+  [
+   18.64,
+   24.92,
+   "You didn't. Soon, 6,000 km from her. And you're scared."
+  ],
+  [
+   38.7,
+   43.95,
+   "The prayer room by Gate B9. Cold water on your wrists."
+  ],
+  [
+   44.07,
+   51.25,
+   "Two rak'ahs. Then you tell Him. The job. The fear. Her."
+  ],
+  [
+   51.37,
+   57.76,
+   "Boarding. Phone in your pocket. Heart, finally, quiet."
+  ]
+ ],
+ "goldWords": [
+  "du'a?”",
+  "scared.",
+  "Him.",
+  "quiet."
+ ],
+ "post": {
+  "caption": "200 views on your goodbye post. Not one du'a for the road. 🤍\n\nWe tell everyone we're leaving. We forget to tell the One who goes with us.\n\n“Indeed I am near. I respond to the invocation of the supplicant when he calls upon Me.” (2:186)\n\nThis morning, before you leave the house: tell Him first.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #dua #travel #tawakkul",
+  "youtube_title": "200 views on your goodbye post. 0 du'a for the road. 🤍 #islam #dua"
+ }
+}

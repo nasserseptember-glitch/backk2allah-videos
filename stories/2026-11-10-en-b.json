@@ -1,0 +1,124 @@
+{
+ "id": "2026-11-10-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "Card declined at $47.90. You asked everyone but Allah.",
+  "gold": [
+   "You",
+   "asked",
+   "everyone",
+   "but",
+   "Allah."
+  ],
+  "t0": 0.3,
+  "t1": 6.32
+ },
+ "verses": [
+  {
+   "t0": 29.36,
+   "t1": 36.75,
+   "text": "“So do not weaken and do not grieve.”",
+   "ref": "Surah Al-Imran — 3:139"
+  }
+ ],
+ "end": {
+  "text": "Card declined at $47.90. You asked everyone but Allah.",
+  "gold": "Before Maghrib today: pray Asr. Then tell Him your worry.",
+  "t0": 52.89,
+  "goldT0": 54.19,
+  "t1": 61.49
+ },
+ "segments": [
+  {
+   "scene": "checkout",
+   "opts": {
+    "pay": 0.25
+   },
+   "dur": 29.06
+  },
+  {
+   "scene": "black",
+   "dur": 8.29
+  },
+  {
+   "scene": "bus_stop",
+   "opts": {
+    "rain": false,
+    "phone": false,
+    "bus": 11
+   },
+   "dur": 15.14
+  },
+  {
+   "scene": "black",
+   "dur": 9.01
+  }
+ ],
+ "hud": [
+  {
+   "label": "MESSAGES SENT",
+   "time": "6",
+   "sub": "ASR: NOT PRAYED",
+   "t0": 6.39,
+   "t1": 28.76,
+   "box": true
+  },
+  {
+   "label": "ASR",
+   "time": "PRAYED",
+   "sub": "WORRY: GIVEN TO ALLAH",
+   "t0": 37.95,
+   "t1": 52.09,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.39,
+   13.01,
+   "3:41 p.m. Lane four. The card machine beeps twice."
+  ],
+  [
+   13.13,
+   18.5,
+   "“Declined.” The man behind you sighs. Your face burns."
+  ],
+  [
+   18.62,
+   24.19,
+   "Outside, you text your brother. Your friend. No reply."
+  ],
+  [
+   24.31,
+   28.76,
+   "Then your phone lights up: “Asr ends in 14 minutes.”"
+  ],
+  [
+   37.95,
+   41.82,
+   "At the bus stop, you pray Asr. Your bag at your feet."
+  ],
+  [
+   41.94,
+   47.29,
+   "Then you tell Him. Not just the $47.90. The fear beneath it."
+  ],
+  [
+   47.41,
+   51.99,
+   "The bus pulls in. Nothing's fixed yet. But you're not alone."
+  ]
+ ],
+ "goldWords": [
+  "14",
+  "Asr.",
+  "alone."
+ ],
+ "post": {
+  "caption": "Card declined at $47.90. You asked everyone but Allah. 🤍\n\nThe panic says: fix it now, alone. The prayer says: you were never alone.\n\n“So do not weaken and do not grieve.” (3:139)\n\nBefore Maghrib today: pray Asr. Then tell Him your worry.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #asr #salah #rizq",
+  "youtube_title": "Card declined at $47.90. You asked everyone but Allah. 🤍 #islam #salah"
+ }
+}

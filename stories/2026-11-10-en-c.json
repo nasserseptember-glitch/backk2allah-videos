@@ -1,0 +1,115 @@
+{
+ "id": "2026-11-10-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "3 Fridays missed for meetings. Allah called you to all 3.",
+  "gold": [
+   "Allah",
+   "called",
+   "you",
+   "to",
+   "all",
+   "3."
+  ],
+  "t0": 0.3,
+  "t1": 6.17
+ },
+ "verses": [
+  {
+   "t0": 26.69,
+   "t1": 42.57,
+   "text": "“O you who have believed, when [the adhan] is called for the prayer on the day of Jumu'ah [Friday], then proceed to the remembrance of Allah and leave trade.”",
+   "ref": "Surah Al-Jumu'ah — 62:9"
+  }
+ ],
+ "end": {
+  "text": "3 Fridays missed for meetings. Allah called you to all 3.",
+  "gold": "Tonight: open your calendar. Block Friday, 1 p.m. Jumu'ah.",
+  "t0": 60.97,
+  "goldT0": 62.27,
+  "t1": 70.98
+ },
+ "segments": [
+  {
+   "scene": "train",
+   "opts": {},
+   "dur": 26.39
+  },
+  {
+   "scene": "black",
+   "dur": 16.78
+  },
+  {
+   "scene": "snow_street",
+   "opts": {},
+   "dur": 17.4
+  },
+  {
+   "scene": "black",
+   "dur": 10.42
+  }
+ ],
+ "hud": [
+  {
+   "label": "FRIDAY MEETINGS",
+   "time": "3",
+   "sub": "JUMU'AH THIS MONTH: 1 / 4",
+   "t0": 6.24,
+   "t1": 26.09,
+   "box": true
+  },
+  {
+   "label": "FRIDAY",
+   "time": "13:00",
+   "sub": "JUMU'AH — WITH DAD",
+   "t0": 43.77,
+   "t1": 60.17,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.24,
+   12.83,
+   "Thursday, 7:12 p.m. The train home. Calendar open."
+  ],
+  [
+   12.95,
+   20.6,
+   "Tomorrow, 1 p.m.: “Q4 review.” Right over Jumu'ah. Again."
+  ],
+  [
+   20.72,
+   26.09,
+   "A text from your dad: “Jumu'ah tomorrow? I'll save you a spot.”"
+  ],
+  [
+   43.77,
+   48.78,
+   "You don't write “can't.” You move the meeting to 2:30."
+  ],
+  [
+   48.9,
+   55.27,
+   "Friday. Snow on the path. Footprints already ahead of you."
+  ],
+  [
+   55.39,
+   60.07,
+   "At the door, your dad. He saved you a spot."
+  ]
+ ],
+ "goldWords": [
+  "Again.",
+  "spot.”",
+  "2:30.",
+  "dad."
+ ],
+ "post": {
+  "caption": "3 Fridays missed for meetings. Allah called you to all 3. 🤍\n\nThe meeting can move. The call to Jumu'ah comes from the One who gave you the job.\n\n“O you who have believed, when [the adhan] is called for the prayer on the day of Jumu'ah [Friday], then proceed to the remembrance of Allah and leave trade.” (62:9)\n\nTonight: open your calendar. Block Friday, 1 p.m. Jumu'ah.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #jumuah #friday #salah",
+  "youtube_title": "3 Fridays missed for meetings. Allah called you to all 3. 🤍 #islam #jumuah"
+ }
+}
