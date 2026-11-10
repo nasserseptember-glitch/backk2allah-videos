@@ -1,0 +1,125 @@
+{
+ "id": "2026-11-10-c",
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.45,
+  "text": "3 prières en 9 minutes. Allah t'attend depuis midi.",
+  "gold": [
+   "midi."
+  ]
+ },
+ "segments": [
+  {
+   "scene": "snow_street",
+   "opts": {},
+   "dur": 33.28
+  },
+  {
+   "scene": "black",
+   "dur": 11.0
+  },
+  {
+   "scene": "mosque_int",
+   "opts": {
+    "night": true
+   },
+   "dur": 13.01
+  },
+  {
+   "scene": "black",
+   "dur": 9.01
+  }
+ ],
+ "hud": [
+  {
+   "label": "PRIÈRES EN RETARD",
+   "time": "3",
+   "sub": "DEPUIS 12:58",
+   "t0": 6.45,
+   "t1": 32.98,
+   "box": true
+  },
+  {
+   "label": "PRIÈRES RATTRAPÉES",
+   "time": "3 / 3",
+   "sub": "+ ISHA EN GROUPE",
+   "t0": 54.25,
+   "t1": 57.19,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.6,
+   9.9,
+   "Et tu comptais les expédier avant de dormir."
+  ],
+  [
+   10.05,
+   16.48,
+   "22 h 40. La neige. Tu rentres du dépôt, les doigts gelés."
+  ],
+  [
+   16.63,
+   19.62,
+   "Toute la journée, tu as dit : « Après ce colis. »"
+  ],
+  [
+   19.77,
+   24.61,
+   "Devant toi, des traces de pas dans la neige. Fraîches."
+  ],
+  [
+   24.76,
+   29.34,
+   "Quelqu'un est passé avant toi. Vers la mosquée. Pour Isha."
+  ],
+  [
+   29.49,
+   32.98,
+   "La lumière verte du minaret est encore allumée."
+  ],
+  [
+   44.48,
+   49.84,
+   "À l'intérieur, un vieil homme te fait signe : la rangée t'attend."
+  ],
+  [
+   49.99,
+   54.1,
+   "Tu rattrapes tes prières. Lentement, cette fois."
+  ],
+  [
+   54.25,
+   57.19,
+   "Ton cœur se réchauffe avant tes mains."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 33.88,
+   "t1": 43.88,
+   "text": "« La Salât préserve de la turpitude et du blâmable. »",
+   "ref": "Sourate Al-ʿAnkabût — 29:45"
+  }
+ ],
+ "end": {
+  "t0": 57.59,
+  "goldT0": 59.09,
+  "text": "3 prières en 9 minutes. Allah t'attend depuis midi.",
+  "gold": "Demain, Dhuhr à l'heure. Mets l'alarme maintenant.",
+  "t1": 65.9
+ },
+ "goldWords": [
+  "Isha.",
+  "Lentement,",
+  "réchauffe"
+ ],
+ "post": {
+  "caption": "3 prières en 9 minutes. Allah t'attend depuis midi. 🤍\n\n« La Salât préserve de la turpitude et du blâmable. » (29:45)\n\nLa prière n'est pas une case à cocher avant de dormir. C'est un rendez-vous. Demain, Dhuhr à l'heure. Mets l'alarme maintenant.",
+  "hashtags": "#rappel #islam #rappelislamique #salat #priere #muslim #dhuhr #isha",
+  "youtube_title": "3 prières en 9 minutes. Allah t'attend depuis midi. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

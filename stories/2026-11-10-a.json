@@ -1,0 +1,125 @@
+{
+ "id": "2026-11-10-a",
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.22,
+  "text": "5 km pour vider ta tête. 0 mot à Allah.",
+  "gold": [
+   "Allah."
+  ]
+ },
+ "segments": [
+  {
+   "scene": "gym",
+   "opts": {
+    "time": "night"
+   },
+   "dur": 34.75
+  },
+  {
+   "scene": "black",
+   "dur": 12.49
+  },
+  {
+   "scene": "wudu",
+   "opts": {},
+   "dur": 12.98
+  },
+  {
+   "scene": "black",
+   "dur": 8.37
+  }
+ ],
+ "hud": [
+  {
+   "label": "COURU CE SOIR",
+   "time": "5,2 KM",
+   "sub": "CONFIÉ À ALLAH : 0 MOT",
+   "t0": 6.22,
+   "t1": 34.45,
+   "box": true
+  },
+  {
+   "label": "CONFIÉ À ALLAH",
+   "time": "TOUT",
+   "sub": "21:52",
+   "t0": 56.35,
+   "t1": 60.12,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.37,
+   8.99,
+   "Tu cours pour ne pas penser."
+  ],
+  [
+   9.14,
+   15.21,
+   "21 h 14. Salle presque vide. Tapis numéro 6."
+  ],
+  [
+   15.36,
+   20.47,
+   "Dans ta poche, le mail de ce matin : « Fin de période d'essai. »"
+  ],
+  [
+   20.62,
+   23.44,
+   "Tu accélères. Ça ne part pas."
+  ],
+  [
+   23.59,
+   28.32,
+   "Puis ta jambe lâche. Tu t'arrêtes, le souffle coupé."
+  ],
+  [
+   28.47,
+   34.45,
+   "Dans l'écran noir, ton reflet. Fatigué de tout porter seul."
+  ],
+  [
+   47.44,
+   51.05,
+   "Au vestiaire, l'eau froide sur tes mains."
+  ],
+  [
+   51.2,
+   56.2,
+   "Tu dis enfin : « Ya Allah, c'est trop lourd pour moi. »"
+  ],
+  [
+   56.35,
+   60.12,
+   "Et pour la première fois ce soir, tu respires."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 35.35,
+   "t1": 46.84,
+   "text": "« Allah n'impose à aucune âme une charge supérieure à sa capacité. »",
+   "ref": "Sourate Al-Baqara — 2:286"
+  }
+ ],
+ "end": {
+  "t0": 60.52,
+  "goldT0": 62.02,
+  "text": "5 km pour vider ta tête. 0 mot à Allah.",
+  "gold": "Ce soir, deux minutes de dua. Dis-Lui tout.",
+  "t1": 68.19
+ },
+ "goldWords": [
+  "seul.",
+  "lourd",
+  "respires."
+ ],
+ "post": {
+  "caption": "5 km pour vider ta tête. 0 mot à Allah. 🤍\n\n« Allah n'impose à aucune âme une charge supérieure à sa capacité. » (2:286)\n\nCe que tu portes seul, Il peut le porter avec toi. Ce soir, deux minutes de dua. Dis-Lui tout.",
+  "hashtags": "#rappel #islam #rappelislamique #dua #epreuve #muslim #sport #tawakkul",
+  "youtube_title": "5 km pour vider ta tête. 0 mot à Allah. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

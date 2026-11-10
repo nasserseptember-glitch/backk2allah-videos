@@ -1,0 +1,127 @@
+{
+ "id": "2026-11-10-b",
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.39,
+  "text": "9 fois tu as juré : « la dernière ». Allah t'attend encore.",
+  "gold": [
+   "encore."
+  ]
+ },
+ "segments": [
+  {
+   "scene": "souk",
+   "opts": {
+    "time": "dusk"
+   },
+   "dur": 32.58
+  },
+  {
+   "scene": "black",
+   "dur": 11.0
+  },
+  {
+   "scene": "mosque_ext",
+   "opts": {
+    "time": "night"
+   },
+   "dur": 14.0
+  },
+  {
+   "scene": "black",
+   "dur": 8.62
+  }
+ ],
+ "hud": [
+  {
+   "label": "« C'ÉTAIT LA DERNIÈRE »",
+   "time": "9 FOIS",
+   "sub": "REVENU VERS ALLAH : 0",
+   "t0": 6.39,
+   "t1": 32.28,
+   "box": true
+  },
+  {
+   "label": "REVENU VERS ALLAH",
+   "time": "17:52",
+   "sub": "LA PORTE ÉTAIT OUVERTE",
+   "t0": 52.17,
+   "t1": 57.48,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.54,
+   9.91,
+   "Et chaque fois, tu as honte de revenir vers Lui."
+  ],
+  [
+   10.06,
+   15.54,
+   "17 h 38. Le souk. Les lampes s'allument une à une."
+  ],
+  [
+   15.69,
+   19.86,
+   "Tu marches vite. Tête baissée. Comme si on savait."
+  ],
+  [
+   20.01,
+   23.49,
+   "Le vendeur de dattes te sourit : « Ça va, mon frère ? »"
+  ],
+  [
+   23.64,
+   28.31,
+   "Tu dis oui. Et tu penses : « Pas moi. Pas après ça. »"
+  ],
+  [
+   28.46,
+   32.28,
+   "Puis l'adhan de Maghrib traverse toute la rue."
+  ],
+  [
+   43.78,
+   48.3,
+   "La porte de la mosquée est ouverte. Personne ne te demande rien."
+  ],
+  [
+   48.45,
+   52.02,
+   "Tu entres. Pas parfait. Juste revenu."
+  ],
+  [
+   52.17,
+   57.48,
+   "Ton front touche le sol. Et la honte devient espoir."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 33.18,
+   "t1": 43.18,
+   "text": "« Ne désespérez pas de la miséricorde d'Allah. »",
+   "ref": "Sourate Az-Zumar — 39:53"
+  }
+ ],
+ "end": {
+  "t0": 57.88,
+  "goldT0": 59.38,
+  "text": "9 fois tu as juré : « la dernière ». Allah t'attend encore.",
+  "gold": "Ce soir, avant de dormir : deux rakaʿât de tawba.",
+  "t1": 65.8
+ },
+ "goldWords": [
+  "Maghrib",
+  "revenu.",
+  "espoir."
+ ],
+ "post": {
+  "caption": "9 fois tu as juré : « la dernière ». Allah t'attend encore. 🤍\n\n« Ne désespérez pas de la miséricorde d'Allah. » (39:53)\n\nTu n'as pas besoin d'être parfait pour revenir. Ce soir, avant de dormir : deux rakaʿât de tawba.",
+  "hashtags": "#rappel #islam #rappelislamique #tawba #repentir #misericorde #muslim #allah",
+  "youtube_title": "9 fois « la dernière ». Allah t'attend encore. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}
