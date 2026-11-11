@@ -15,7 +15,7 @@
    "opts": {
     "pay": 0.85
    },
-   "dur": 28.82
+   "dur": 29.18
   },
   {
    "scene": "black",
@@ -26,7 +26,7 @@
    "opts": {
     "bus": 8
    },
-   "dur": 15.74
+   "dur": 14.47
   },
   {
    "scene": "black",
@@ -39,15 +39,15 @@
    "time": "47,90 €",
    "sub": "SADAQA : 0 €",
    "t0": 6.18,
-   "t1": 18.77,
+   "t1": 19.11,
    "box": true
   },
   {
    "label": "POUR ALLAH",
    "time": "3 €",
    "sub": "+ UN PAIN",
-   "t0": 46.85,
-   "t1": 55.17,
+   "t0": 46.13,
+   "t1": 54.25,
    "box": true
   }
  ],
@@ -59,49 +59,49 @@
   ],
   [
    14.6,
-   18.77,
-   "Devant toi, une vieille dame compte ses pièces. Deux fois."
+   19.11,
+   "Devant toi, un homme compte ses pièces. Deux fois."
   ],
   [
-   18.92,
-   22.61,
-   "Il lui manque 3 €. Elle repose le pain."
+   19.26,
+   22.97,
+   "Il lui manque 3 €. Il repose le pain."
   ],
   [
-   22.76,
-   28.42,
+   23.12,
+   28.78,
    "Ta carte est déjà dans ta main. Tu hésites. Et tu ne dis rien."
   ],
   [
-   40.42,
-   46.7,
-   "Dehors, il pleut. Elle attend le bus, son sac contre elle."
+   40.78,
+   45.98,
+   "Dehors, il pleut. Il attend le bus, son sac contre lui."
   ],
   [
-   46.85,
-   50.53,
-   "Tu cours lui tendre le pain. « C'est pour vous, madame. »"
+   46.13,
+   49.59,
+   "Tu cours lui tendre le pain. « C'est pour vous, monsieur. »"
   ],
   [
-   50.68,
-   55.17,
-   "Elle sourit. Ton panier n'a jamais été aussi léger."
+   49.74,
+   54.25,
+   "Il sourit. Ton panier n'a jamais été aussi léger."
   ]
  ],
  "verses": [
   {
-   "t0": 29.42,
-   "t1": 38.34,
+   "t0": 29.78,
+   "t1": 38.7,
    "text": "« La vie présente n'est que jouissance trompeuse. »",
    "ref": "Sourate Al-Hadîd — 57:20"
   }
  ],
  "end": {
-  "t0": 55.97,
-  "goldT0": 57.57,
+  "t0": 55.05,
+  "goldT0": 56.65,
   "text": "47,90 € pour ton panier. 0 € pour Allah.",
   "gold": "Ce soir, mets 5 € de côté. Demain, donne-les pour Lui.",
-  "t1": 65.5
+  "t1": 64.59
  },
  "goldWords": [
   "le pain.",
