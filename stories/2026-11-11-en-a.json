@@ -1,0 +1,147 @@
+{
+ "id": "2026-11-11-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "Two passport photos. 10 years apart. How many for Allah?",
+  "gold": [
+   "How",
+   "many",
+   "for",
+   "Allah?"
+  ],
+  "t0": 0.3,
+  "t1": 7.37
+ },
+ "verses": [
+  {
+   "t0": 45.05,
+   "t1": 55.95,
+   "text": "“So whoever does an atom's weight of good will see it.”",
+   "ref": "Surah Az-Zalzalah — 99:7"
+  }
+ ],
+ "end": {
+  "text": "Two passport photos. 10 years apart. How many for Allah?",
+  "gold": "This morning: two rak'ahs of Duha. Before the day runs off.",
+  "t0": 70.24,
+  "goldT0": 71.54,
+  "t1": 78.8
+ },
+ "segments": [
+  {
+   "scene": "kitchen",
+   "opts": {
+    "time": "dawn"
+   },
+   "dur": 25.98
+  },
+  {
+   "scene": "classroom",
+   "opts": {
+    "fast": true,
+    "lookUp": 0.62,
+    "clock": "10:52"
+   },
+   "dur": 18.66
+  },
+  {
+   "scene": "black",
+   "dur": 11.7
+  },
+  {
+   "scene": "bed_morning",
+   "opts": {
+    "wake": false,
+    "clock": "10:04"
+   },
+   "dur": 13.59
+  },
+  {
+   "scene": "black",
+   "dur": 8.86
+  }
+ ],
+ "hud": [
+  {
+   "label": "PASSPORT PHOTOS",
+   "time": "2016 → 2026",
+   "sub": "YEARS GIVEN TO ALLAH: ?",
+   "t0": 7.47,
+   "t1": 44.35,
+   "box": true
+  },
+  {
+   "label": "NEXT 10 YEARS",
+   "time": "DAY 1",
+   "sub": "DUHA: PRAYED",
+   "t0": 56.75,
+   "t1": 69.54,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   7.47,
+   13.34,
+   "7:40 a.m. The new passport lies next to the old one."
+  ],
+  [
+   13.46,
+   20.88,
+   "Old photo: 20, braces, big plans. New photo: 30."
+  ],
+  [
+   21.0,
+   25.56,
+   "Mum looks over your shoulder: “Where did ten years go?”"
+  ],
+  [
+   25.98,
+   30.76,
+   "At 20, in an exam hall, you made a promise."
+  ],
+  [
+   30.88,
+   34.31,
+   "“After my degree, I'll get serious with Allah.”"
+  ],
+  [
+   34.43,
+   40.28,
+   "Then the job. Then the flat. Then ten years."
+  ],
+  [
+   40.4,
+   44.23,
+   "The clock on the wall never waited. Not once."
+  ],
+  [
+   56.75,
+   60.72,
+   "You don't wait for 40. You roll out your mat."
+  ],
+  [
+   60.84,
+   65.06,
+   "Two rak'ahs of Duha. Sunlight on your hands."
+  ],
+  [
+   65.18,
+   69.42,
+   "The next ten years start here. With Him."
+  ]
+ ],
+ "goldWords": [
+  "10",
+  "Allah.”",
+  "Duha.",
+  "Him."
+ ],
+ "post": {
+  "caption": "Two passport photos. 10 years apart. How many for Allah? 🤍\n\nWe always say “after”: after the degree, after the job, after the flat. And the years don't wait.\n\n“So whoever does an atom's weight of good will see it.” (99:7)\n\nThis morning: two rak'ahs of Duha. Before the day runs off.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #duha #salah #time",
+  "youtube_title": "Two passport photos. 10 years apart. How many for Allah? 🤍 #islam #duha"
+ }
+}

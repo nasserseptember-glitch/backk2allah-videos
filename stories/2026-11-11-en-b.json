@@ -1,0 +1,144 @@
+{
+ "id": "2026-11-11-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "14 times you replayed his story. Not once did you thank Allah.",
+  "gold": [
+   "Not",
+   "once",
+   "thank",
+   "Allah."
+  ],
+  "t0": 0.3,
+  "t1": 6.51
+ },
+ "verses": [
+  {
+   "t0": 38.57,
+   "t1": 48.1,
+   "text": "“And what is the worldly life except the enjoyment of delusion.”",
+   "ref": "Surah Al-Hadid — 57:20"
+  }
+ ],
+ "end": {
+  "text": "14 times you replayed his story. Not once did you thank Allah.",
+  "gold": "Before Maghrib: make du'a for him. Then thank Allah for yours.",
+  "t0": 63.26,
+  "goldT0": 64.56,
+  "t1": 71.52
+ },
+ "segments": [
+  {
+   "scene": "street",
+   "opts": {
+    "dayFrom": 0.25,
+    "dayTo": 0.55,
+    "clock": "15:52"
+   },
+   "dur": 20.61
+  },
+  {
+   "scene": "gym",
+   "opts": {},
+   "dur": 17.56
+  },
+  {
+   "scene": "black",
+   "dur": 10.33
+  },
+  {
+   "scene": "park",
+   "opts": {
+    "time": "golden"
+   },
+   "dur": 14.45
+  },
+  {
+   "scene": "black",
+   "dur": 8.56
+  }
+ ],
+ "hud": [
+  {
+   "label": "HIS STORY — REPLAYS",
+   "time": "14",
+   "sub": "ALHAMDULILLAH: 0",
+   "t0": 6.61,
+   "t1": 37.87,
+   "box": true
+  },
+  {
+   "label": "DU'A FOR HIM",
+   "time": "1",
+   "sub": "ALHAMDULILLAH: FINALLY",
+   "t0": 48.9,
+   "t1": 62.56,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.61,
+   11.95,
+   "3:52 p.m. On the way to the gym. His story, again."
+  ],
+  [
+   12.07,
+   16.73,
+   "New car. New flat. Same age as you."
+  ],
+  [
+   16.85,
+   20.19,
+   "You pocket the phone. Your chest feels tight."
+  ],
+  [
+   20.61,
+   23.38,
+   "On the treadmill, you replay it in your head."
+  ],
+  [
+   23.5,
+   28.45,
+   "Next to you, an old man walks slowly. A brace on one leg."
+  ],
+  [
+   28.57,
+   33.62,
+   "He catches your eye and smiles: “Alhamdulillah, I can walk today.”"
+  ],
+  [
+   33.74,
+   37.75,
+   "Your legs are running. You never once counted that."
+  ],
+  [
+   48.9,
+   55.97,
+   "Walking home, you count yours. Legs. Lungs. A mum who calls."
+  ],
+  [
+   56.09,
+   59.7,
+   "Then the hardest part: a du'a for him."
+  ],
+  [
+   59.82,
+   62.44,
+   "And the tightness in your chest lets go."
+  ]
+ ],
+ "goldWords": [
+  "“Alhamdulillah,",
+  "running.",
+  "du'a",
+  "go."
+ ],
+ "post": {
+  "caption": "14 times you replayed his story. Not once did you thank Allah. 🤍\n\nComparison steals what you already have. An old man on a treadmill reminded me: some people pray just to walk.\n\n“And what is the worldly life except the enjoyment of delusion.” (57:20)\n\nBefore Maghrib: make du'a for him. Then thank Allah for yours.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #envy #alhamdulillah #gratitude",
+  "youtube_title": "14 times you replayed his story. Not once did you thank Allah. 🤍 #islam"
+ }
+}

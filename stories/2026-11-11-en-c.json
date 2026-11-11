@@ -1,0 +1,133 @@
+{
+ "id": "2026-11-11-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "Dad brought you here 300 Saturdays. How many du'as did he get?",
+  "gold": [
+   "How",
+   "many",
+   "du'as",
+   "did",
+   "he",
+   "get?"
+  ],
+  "t0": 0.3,
+  "t1": 7.51
+ },
+ "verses": [
+  {
+   "t0": 41.2,
+   "t1": 49.85,
+   "text": "“Call upon Me; I will respond to you.”",
+   "ref": "Surah Ghafir — 40:60"
+  }
+ ],
+ "end": {
+  "text": "Dad brought you here 300 Saturdays. How many du'as did he get?",
+  "gold": "Tonight at Isha: one du'a, just for him. Then call him.",
+  "t0": 66.76,
+  "goldT0": 68.06,
+  "t1": 76.43
+ },
+ "segments": [
+  {
+   "scene": "library",
+   "opts": {
+    "time": "evening"
+   },
+   "dur": 40.8
+  },
+  {
+   "scene": "black",
+   "dur": 9.45
+  },
+  {
+   "scene": "mosque_int",
+   "opts": {
+    "night": true
+   },
+   "dur": 16.21
+  },
+  {
+   "scene": "black",
+   "dur": 9.96
+  }
+ ],
+ "hud": [
+  {
+   "label": "SATURDAYS WITH DAD",
+   "time": "300",
+   "sub": "DU'AS FOR HIM: ?",
+   "t0": 7.61,
+   "t1": 40.5,
+   "box": true
+  },
+  {
+   "label": "TONIGHT'S DU'A",
+   "time": "DAD",
+   "sub": "FIRST NAME SAID",
+   "t0": 50.65,
+   "t1": 66.06,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   7.61,
+   14.48,
+   "5:40 p.m. The old library. First time in 15 years."
+  ],
+  [
+   14.6,
+   18.93,
+   "Same green lamps. Same smell of old paper."
+  ],
+  [
+   19.05,
+   25.32,
+   "Inside a children's book: a card. Your name, in his handwriting."
+  ],
+  [
+   25.44,
+   30.34,
+   "He's 68 now. His hands shake when he writes."
+  ],
+  [
+   30.46,
+   35.21,
+   "Your phone buzzes. “Dad: Did you eat today, son?”"
+  ],
+  [
+   35.33,
+   40.38,
+   "He still checks on you. Do you ever mention him to Allah?"
+  ],
+  [
+   50.65,
+   56.72,
+   "Isha at the mosque. After the salam, your hands rise."
+  ],
+  [
+   56.84,
+   61.46,
+   "The first name you say tonight is his."
+  ],
+  [
+   61.58,
+   65.94,
+   "Then you text back: “I ate, Dad. See you Saturday.”"
+  ]
+ ],
+ "goldWords": [
+  "handwriting.",
+  "Allah?",
+  "Saturday.”"
+ ],
+ "post": {
+  "caption": "Dad brought you here 300 Saturdays. How many du'as did he get? 🤍\n\nHe taught you to read. He still asks if you've eaten. The least we can do: name him in front of Allah.\n\n“Call upon Me; I will respond to you.” (40:60)\n\nTonight at Isha: one du'a, just for him. Then call him.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #dua #parents #father",
+  "youtube_title": "Dad brought you here 300 Saturdays. How many du'as did he get? 🤍 #islam #dua"
+ }
+}
