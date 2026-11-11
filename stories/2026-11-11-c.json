@@ -1,0 +1,118 @@
+{
+ "id": "2026-11-11-c",
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.18,
+  "text": "47,90 € pour ton panier. 0 € pour Allah.",
+  "gold": [
+   "0 €",
+   "Allah."
+  ]
+ },
+ "segments": [
+  {
+   "scene": "checkout",
+   "opts": {
+    "pay": 0.85
+   },
+   "dur": 28.82
+  },
+  {
+   "scene": "black",
+   "dur": 11.0
+  },
+  {
+   "scene": "bus_stop",
+   "opts": {
+    "bus": 8
+   },
+   "dur": 15.74
+  },
+  {
+   "scene": "black",
+   "dur": 10.24
+  }
+ ],
+ "hud": [
+  {
+   "label": "TON PANIER",
+   "time": "47,90 €",
+   "sub": "SADAQA : 0 €",
+   "t0": 6.18,
+   "t1": 18.77,
+   "box": true
+  },
+  {
+   "label": "POUR ALLAH",
+   "time": "3 €",
+   "sub": "+ UN PAIN",
+   "t0": 46.85,
+   "t1": 55.17,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.33,
+   14.45,
+   "19 h 30. Caisse 4. Chips, sodas, une pizza pour ce soir."
+  ],
+  [
+   14.6,
+   18.77,
+   "Devant toi, une vieille dame compte ses pièces. Deux fois."
+  ],
+  [
+   18.92,
+   22.61,
+   "Il lui manque 3 €. Elle repose le pain."
+  ],
+  [
+   22.76,
+   28.42,
+   "Ta carte est déjà dans ta main. Tu hésites. Et tu ne dis rien."
+  ],
+  [
+   40.42,
+   46.7,
+   "Dehors, il pleut. Elle attend le bus, son sac contre elle."
+  ],
+  [
+   46.85,
+   50.53,
+   "Tu cours lui tendre le pain. « C'est pour vous, madame. »"
+  ],
+  [
+   50.68,
+   55.17,
+   "Elle sourit. Ton panier n'a jamais été aussi léger."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 29.42,
+   "t1": 38.34,
+   "text": "« La vie présente n'est que jouissance trompeuse. »",
+   "ref": "Sourate Al-Hadîd — 57:20"
+  }
+ ],
+ "end": {
+  "t0": 55.97,
+  "goldT0": 57.57,
+  "text": "47,90 € pour ton panier. 0 € pour Allah.",
+  "gold": "Ce soir, mets 5 € de côté. Demain, donne-les pour Lui.",
+  "t1": 65.5
+ },
+ "goldWords": [
+  "le pain.",
+  "sourit.",
+  "léger."
+ ],
+ "post": {
+  "caption": "47,90 € pour ton panier. 0 € pour Allah. 🤍\n\n« La vie présente n'est que jouissance trompeuse. » (57:20)\n\nParfois, la sadaqa la plus lourde dans la balance coûte 3 €. Ce soir, mets 5 € de côté. Demain, donne-les pour Lui, en secret.",
+  "hashtags": "#rappel #islam #rappelislamique #sadaqa #aumone #generosite #muslim #dunya",
+  "youtube_title": "47,90 € pour ton panier. 0 € pour Allah. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

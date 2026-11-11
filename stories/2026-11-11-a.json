@@ -1,0 +1,120 @@
+{
+ "id": "2026-11-11-a",
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.63,
+  "text": "40 pages révisées cette nuit. Et 0 dua.",
+  "gold": [
+   "0",
+   "dua."
+  ]
+ },
+ "segments": [
+  {
+   "scene": "classroom",
+   "opts": {
+    "clock": "10:52",
+    "fast": true,
+    "lookUp": 0.62
+   },
+   "dur": 25.6
+  },
+  {
+   "scene": "black",
+   "dur": 11.65
+  },
+  {
+   "scene": "library",
+   "opts": {
+    "time": "evening"
+   },
+   "dur": 16.57
+  },
+  {
+   "scene": "black",
+   "dur": 10.21
+  }
+ ],
+ "hud": [
+  {
+   "label": "RÉVISÉ CETTE NUIT",
+   "time": "40 PAGES",
+   "sub": "DUA : 0",
+   "t0": 4.63,
+   "t1": 18.57,
+   "box": true
+  },
+  {
+   "label": "AVANT DE RÉVISER",
+   "time": "1 DUA",
+   "sub": "BISMILLAH",
+   "t0": 42.45,
+   "t1": 53.42,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   4.78,
+   11.43,
+   "10 h 52. Salle 104. « L'examen de ta vie », tu disais."
+  ],
+  [
+   11.58,
+   14.51,
+   "Question 3. Ta tête est vide."
+  ],
+  [
+   14.66,
+   18.57,
+   "Tu as tout prévu. Sauf de Lui demander."
+  ],
+  [
+   18.72,
+   25.2,
+   "Alors tu poses ton stylo. Et tu chuchotes : « Hasbiyallah. »"
+  ],
+  [
+   37.85,
+   42.3,
+   "Le soir, à la bibliothèque, tu ouvres le prochain chapitre."
+  ],
+  [
+   42.45,
+   47.43,
+   "Mais d'abord : « Bismillah. » Et une dua, les yeux fermés."
+  ],
+  [
+   47.58,
+   53.42,
+   "Les pages tournent. Ton cœur, lui, ne court plus."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 26.2,
+   "t1": 36.75,
+   "text": "« Et quiconque place sa confiance en Allah, Il lui suffit. »",
+   "ref": "Sourate At-Talâq — 65:3"
+  }
+ ],
+ "end": {
+  "t0": 54.22,
+  "goldT0": 55.82,
+  "text": "40 pages révisées cette nuit. Et 0 dua.",
+  "gold": "Avant ton prochain effort : Bismillah, et une dua. Aujourd'hui.",
+  "t1": 63.73
+ },
+ "goldWords": [
+  "Hasbiyallah.",
+  "Bismillah.",
+  "ne court plus."
+ ],
+ "post": {
+  "caption": "40 pages révisées cette nuit. Et 0 dua. 🤍\n\n« Et quiconque place sa confiance en Allah, Il lui suffit. » (65:3)\n\nTu peux tout préparer, mais le résultat est entre Ses mains. Avant ton prochain effort — examen, entretien, projet — dis Bismillah et fais une dua. Aujourd'hui.",
+  "hashtags": "#rappel #islam #rappelislamique #tawakkul #dua #muslim #examen #etudiant",
+  "youtube_title": "40 pages révisées cette nuit. Et 0 dua. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

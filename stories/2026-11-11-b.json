@@ -1,0 +1,118 @@
+{
+ "id": "2026-11-11-b",
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.23,
+  "text": "38 messages sur Karim. 0 dua pour lui.",
+  "gold": [
+   "0",
+   "dua"
+  ]
+ },
+ "segments": [
+  {
+   "scene": "office",
+   "opts": {
+    "screen": "mail"
+   },
+   "dur": 24.94
+  },
+  {
+   "scene": "black",
+   "dur": 13.94
+  },
+  {
+   "scene": "souk",
+   "opts": {
+    "time": "dusk"
+   },
+   "dur": 13.94
+  },
+  {
+   "scene": "black",
+   "dur": 7.85
+  }
+ ],
+ "hud": [
+  {
+   "label": "MESSAGES SUR KARIM",
+   "time": "38",
+   "sub": "DUA POUR LUI : 0",
+   "t0": 4.23,
+   "t1": 14.51,
+   "box": true
+  },
+  {
+   "label": "DUA POUR KARIM",
+   "time": "1",
+   "sub": "MESSAGES EFFACÉS : 38",
+   "t0": 44.27,
+   "t1": 52.43,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   4.38,
+   10.6,
+   "19 h 40. Tout le monde est parti. Toi, tu tapes encore."
+  ],
+  [
+   10.75,
+   14.51,
+   "Sa voix. Son retard. Sa chemise."
+  ],
+  [
+   14.66,
+   20.53,
+   "Et puis, une notification. Karim. En privé."
+  ],
+  [
+   20.68,
+   24.54,
+   "« Tu peux me couvrir demain ? Ma mère est à l'hôpital. »"
+  ],
+  [
+   39.49,
+   44.12,
+   "Sur le chemin, au marché, tu murmures : « Astaghfirullah. »"
+  ],
+  [
+   44.27,
+   48.56,
+   "Tu effaces tes messages. Et tu écris à Karim : « Je te couvre. »"
+  ],
+  [
+   48.71,
+   52.43,
+   "Ce soir, ta première dua est pour sa mère."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 25.54,
+   "t1": 38.39,
+   "text": "« Implorez le pardon de votre Seigneur, car Il est grand Pardonneur, pour qu'Il vous envoie du ciel des pluies abondantes. »",
+   "ref": "Sourate Nûh — 71:10-11"
+  }
+ ],
+ "end": {
+  "t0": 53.23,
+  "goldT0": 54.83,
+  "text": "38 messages sur Karim. 0 dua pour lui.",
+  "gold": "Ce soir, une dua pour celui dont tu as parlé.",
+  "t1": 60.38
+ },
+ "goldWords": [
+  "Astaghfirullah.",
+  "« Je te couvre. »",
+  "sa mère."
+ ],
+ "post": {
+  "caption": "38 messages sur Karim. 0 dua pour lui. 🤍\n\n« Implorez le pardon de votre Seigneur, car Il est grand Pardonneur, pour qu'Il vous envoie du ciel des pluies abondantes. » (71:10-11)\n\nOn ne sait jamais ce que vit celui dont on parle. Ce soir, efface ce que tu as dit, demande pardon à Allah, et fais une dua pour celui dont tu as parlé.",
+  "hashtags": "#rappel #islam #rappelislamique #medisance #ghiba #istighfar #dua #muslim",
+  "youtube_title": "38 messages sur Karim. 0 dua pour lui. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}
