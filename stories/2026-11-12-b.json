@@ -1,0 +1,130 @@
+{
+ "id": "2026-11-12-b",
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.16,
+  "text": "6 ans que tu remets Allah à « après les exams ».",
+  "gold": [
+   "6 ans",
+   "Allah"
+  ]
+ },
+ "segments": [
+  {
+   "scene": "classroom",
+   "opts": {
+    "clock": "10:52",
+    "fast": true,
+    "lookUp": 0.6
+   },
+   "dur": 29.7
+  },
+  {
+   "scene": "black",
+   "dur": 11.1
+  },
+  {
+   "scene": "wudu",
+   "opts": {
+    "time": "day"
+   },
+   "dur": 14.12
+  },
+  {
+   "scene": "black",
+   "dur": 7.78
+  }
+ ],
+ "hud": [
+  {
+   "label": "TEMPS RESTANT",
+   "time": "8 MIN",
+   "sub": "PRIÈRE : « PLUS TARD »",
+   "t0": 4.16,
+   "t1": 29.18,
+   "box": true
+  },
+  {
+   "label": "PREMIÈRE PRIÈRE",
+   "time": "12:40",
+   "sub": "PAS « APRÈS »",
+   "t0": 46.38,
+   "t1": 54.4,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   4.16,
+   10.26,
+   "Salle 204. Dernier examen. Ton stylo court tout seul."
+  ],
+  [
+   10.38,
+   14.51,
+   "Tu te l'es promis : après celui-là, tu commences à prier."
+  ],
+  [
+   14.63,
+   19.67,
+   "En première année, tu disais pareil. Et en deuxième. Et en troisième."
+  ],
+  [
+   19.79,
+   23.47,
+   "L'horloge avance. Le surveillant se lève."
+  ],
+  [
+   23.59,
+   26.68,
+   "« Posez vos stylos. » Pas une minute de plus."
+  ],
+  [
+   26.8,
+   29.18,
+   "Un jour, il n'y aura plus d'« après »."
+  ],
+  [
+   41.1,
+   46.26,
+   "12 h 40. Les lavabos de la fac. L'eau froide sur tes mains."
+  ],
+  [
+   46.38,
+   49.13,
+   "Tu ne sais pas encore tout. Tu commences quand même."
+  ],
+  [
+   49.25,
+   54.4,
+   "Ta première prière depuis longtemps. Pas parfaite. Mais aujourd'hui."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 30.2,
+   "t1": 40.2,
+   "text": "« Toute âme goûtera la mort. »",
+   "ref": "Sourate Âl ʿImrân — 3:185"
+  }
+ ],
+ "end": {
+  "t0": 55.22,
+  "goldT0": 56.82,
+  "text": "6 ans que tu remets Allah à « après les exams ».",
+  "gold": "N'attends plus « après ». Prie Isha ce soir.",
+  "t1": 62.3
+ },
+ "goldWords": [
+  "Posez vos stylos.",
+  "quand même.",
+  "aujourd'hui."
+ ],
+ "post": {
+  "caption": "6 ans que tu remets Allah à « après les exams ». 🤍\n\n« Toute âme goûtera la mort. » (3:185)\n\nIl n'y a pas de moment parfait pour commencer. Il y a aujourd'hui. N'attends plus « après » : prie Isha ce soir, même si ce n'est pas parfait.",
+  "hashtags": "#rappel #islam #rappelislamique #priere #salat #etudiant #muslim #examens",
+  "youtube_title": "6 ans que tu remets Allah à « après les exams ». 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

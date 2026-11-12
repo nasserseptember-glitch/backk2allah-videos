@@ -1,0 +1,121 @@
+{
+ "id": "2026-11-12-c",
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.41,
+  "text": "2 h 14 de musique aujourd'hui. Tu as entendu l'adhan ?",
+  "gold": [
+   "l'adhan ?"
+  ]
+ },
+ "segments": [
+  {
+   "scene": "gym",
+   "opts": {},
+   "dur": 31.82
+  },
+  {
+   "scene": "black",
+   "dur": 11.1
+  },
+  {
+   "scene": "mosque_ext",
+   "opts": {
+    "time": "night"
+   },
+   "dur": 15.96
+  },
+  {
+   "scene": "black",
+   "dur": 9.96
+  }
+ ],
+ "hud": [
+  {
+   "label": "ÉCOUTÉ AUJOURD'HUI",
+   "time": "2 H 14",
+   "sub": "DHIKR : 0 MIN",
+   "t0": 5.41,
+   "t1": 31.3,
+   "box": true
+  },
+  {
+   "label": "SUR LE CHEMIN",
+   "time": "33",
+   "sub": "SUBHANALLAH",
+   "t0": 46.23,
+   "t1": 58.36,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.41,
+   11.25,
+   "17 h. Tapis numéro 6. Le volume au maximum."
+  ],
+  [
+   11.37,
+   16.1,
+   "Un son. Puis un autre. Puis l'album entier."
+  ],
+  [
+   16.22,
+   20.8,
+   "Ton écouteur s'éteint. Batterie vide. Silence."
+  ],
+  [
+   20.92,
+   25.65,
+   "Et dans ce silence, au loin : l'adhan de Maghrib."
+  ],
+  [
+   25.77,
+   31.3,
+   "Ton cœur bat vite. Et pourtant, d'un coup, il s'apaise."
+  ],
+  [
+   43.22,
+   46.11,
+   "Tu ranges les écouteurs au fond de ta poche."
+  ],
+  [
+   46.23,
+   52.88,
+   "Sur le chemin, rien dans les oreilles. Juste tes pas. Et « SubhanAllah »."
+  ],
+  [
+   53.0,
+   58.36,
+   "33 fois. Ta tête n'a jamais été aussi calme."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 32.32,
+   "t1": 42.32,
+   "text": "« N'est-ce point par l'évocation d'Allah que se tranquillisent les cœurs ? »",
+   "ref": "Sourate Ar-Raʿd — 13:28"
+  }
+ ],
+ "end": {
+  "t0": 59.18,
+  "goldT0": 60.78,
+  "text": "2 h 14 de musique aujourd'hui. Tu as entendu l'adhan ?",
+  "gold": "Ce soir, retire tes écouteurs. 33 dhikr avant de dormir.",
+  "t1": 68.44
+ },
+ "goldWords": [
+  "Silence.",
+  "l'adhan de Maghrib.",
+  "SubhanAllah",
+  "calme."
+ ],
+ "post": {
+  "caption": "2 h 14 de musique aujourd'hui. Tu as entendu l'adhan ? 🤍\n\n« N'est-ce point par l'évocation d'Allah que se tranquillisent les cœurs ? » (13:28)\n\nParfois, il faut du silence pour entendre ce qui compte. Ce soir, retire tes écouteurs et fais 33 dhikr avant de dormir.",
+  "hashtags": "#rappel #islam #rappelislamique #dhikr #adhan #muslim #musique #paixducoeur",
+  "youtube_title": "2 h 14 de musique. Tu as entendu l'adhan ? 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

@@ -1,0 +1,124 @@
+{
+ "id": "2026-11-12-a",
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.0,
+  "text": "3 h 20 d'attente à l'aéroport. 0 page de Coran.",
+  "gold": [
+   "0 page",
+   "Coran."
+  ]
+ },
+ "segments": [
+  {
+   "scene": "airport",
+   "opts": {
+    "time": "dawn"
+   },
+   "dur": 30.72
+  },
+  {
+   "scene": "black",
+   "dur": 11.1
+  },
+  {
+   "scene": "study",
+   "opts": {
+    "reach": 0.3
+   },
+   "dur": 17.3
+  },
+  {
+   "scene": "black",
+   "dur": 9.17
+  }
+ ],
+ "hud": [
+  {
+   "label": "VOL RETARDÉ",
+   "time": "3 H 20",
+   "sub": "CORAN : 0 PAGE",
+   "t0": 5.0,
+   "t1": 30.2,
+   "box": true
+  },
+  {
+   "label": "CE SOIR",
+   "time": "1 PAGE",
+   "sub": "POUR ALLAH",
+   "t0": 46.67,
+   "t1": 58.6,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.0,
+   10.01,
+   "6 h 40. Vol retardé. Tu as tout le temps du monde."
+  ],
+  [
+   10.13,
+   13.9,
+   "Une vidéo. Puis une autre. Puis cent."
+  ],
+  [
+   14.02,
+   20.4,
+   "Ta batterie tombe à 4 %. L'écran devient noir."
+  ],
+  [
+   20.52,
+   27.35,
+   "À côté de toi, un vieil homme ouvre un petit Coran. Ses lèvres bougent doucement."
+  ],
+  [
+   27.47,
+   30.2,
+   "Et toi, tu te souviens où est le tien ?"
+  ],
+  [
+   42.12,
+   46.55,
+   "Le soir, chez toi. Il est là-haut, sous la poussière."
+  ],
+  [
+   46.67,
+   51.22,
+   "Sur la première page, ton prénom. Écrit par ta mère."
+  ],
+  [
+   51.34,
+   58.6,
+   "Tu souffles la poussière. Une page. Juste une. Et ton cœur respire."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 31.22,
+   "t1": 41.22,
+   "text": "« Souvenez-vous de Moi, Je vous récompenserai. »",
+   "ref": "Sourate Al-Baqara — 2:152"
+  }
+ ],
+ "end": {
+  "t0": 59.42,
+  "goldT0": 61.02,
+  "text": "3 h 20 d'attente à l'aéroport. 0 page de Coran.",
+  "gold": "Ce soir, ouvre-le. Une page avant de dormir.",
+  "t1": 67.89
+ },
+ "goldWords": [
+  "petit Coran.",
+  "prénom.",
+  "Une page.",
+  "respire."
+ ],
+ "post": {
+  "caption": "3 h 20 d'attente à l'aéroport. 0 page de Coran. 🤍\n\n« Souvenez-vous de Moi, Je vous récompenserai. » (2:152)\n\nIl attend sur ton étagère, avec ton prénom sur la première page. Ce soir, souffle la poussière et lis une seule page avant de dormir.",
+  "hashtags": "#rappel #islam #rappelislamique #coran #quran #muslim #dhikr #voyage",
+  "youtube_title": "3 h 20 d'attente. 0 page de Coran. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}
