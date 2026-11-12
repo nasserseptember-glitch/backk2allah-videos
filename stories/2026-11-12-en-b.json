@@ -1,0 +1,134 @@
+{
+ "id": "2026-11-12-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "-4°C. 6 minutes to the mosque. “Too cold” for Allah?",
+  "gold": [
+   "“Too",
+   "cold”",
+   "for",
+   "Allah?"
+  ],
+  "t0": 0.3,
+  "t1": 6.16
+ },
+ "end": {
+  "text": "-4°C. 6 minutes to the mosque. “Too cold” for Allah?",
+  "gold": "Today at Maghrib: put your coat on. Walk the 6 minutes.",
+  "t0": 58.03,
+  "goldT0": 59.23,
+  "t1": 65.17
+ },
+ "verses": [
+  {
+   "t0": 28.85,
+   "t1": 38.14,
+   "text": "“Allah does not charge a soul except [with that within] its capacity.”",
+   "ref": "Surah Al-Baqarah — 2:286"
+  }
+ ],
+ "segments": [
+  {
+   "scene": "snow_street",
+   "dur": 28.45
+  },
+  {
+   "scene": "black",
+   "dur": 10.19
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 19.09,
+   "opts": {
+    "night": true,
+    "ruku": [
+     [
+      12.5,
+      16.5
+     ]
+    ]
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.74
+  }
+ ],
+ "hud": [
+  {
+   "label": "OUTSIDE",
+   "time": "-4°C",
+   "sub": "TO THE MOSQUE: 6 MIN",
+   "t0": 6.26,
+   "t1": 28.15,
+   "box": true
+  },
+  {
+   "label": "MAGHRIB",
+   "time": "IN THE ROW",
+   "sub": "WALKED: 6 MIN",
+   "t0": 39.14,
+   "t1": 57.43,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.26,
+   10.47,
+   "You almost stayed in. Again. Fifth night this week."
+  ],
+  [
+   10.57,
+   16.26,
+   "Outside: fresh footprints. Small steps. A walking stick."
+  ],
+  [
+   16.36,
+   19.82,
+   "Someone old already went. In this cold."
+  ],
+  [
+   19.92,
+   23.37,
+   "You follow them. Your breath turns to clouds."
+  ],
+  [
+   23.47,
+   27.75,
+   "The green minaret. The footprints stop at its door."
+  ],
+  [
+   39.14,
+   44.85,
+   "Inside: warm carpet. Old Yusuf, snow still on his shoulders."
+  ],
+  [
+   44.95,
+   48.84,
+   "He's 81. He nods at the space beside him."
+  ],
+  [
+   48.94,
+   53.51,
+   "Shoulder to shoulder. Allahu akbar."
+  ],
+  [
+   53.61,
+   57.13,
+   "It was never too hard. It was six minutes."
+  ]
+ ],
+ "goldWords": [
+  "walking",
+  "stick.",
+  "door."
+ ],
+ "post": {
+  "caption": "-4°C. 6 minutes to the mosque. “Too cold” for Allah? ❄️\n\nSomeone older than you already walked there tonight. The cold was never the real reason.\n\n“Allah does not charge a soul except [with that within] its capacity.” (2:286)\n\nToday at Maghrib: put your coat on. Walk the 6 minutes.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #masjid #salah #maghrib",
+  "youtube_title": "-4°C. 6 minutes to the mosque. “Too cold” for Allah? ❄️ #islam #salah"
+ }
+}

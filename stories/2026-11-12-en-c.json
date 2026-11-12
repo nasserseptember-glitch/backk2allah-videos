@@ -1,0 +1,131 @@
+{
+ "id": "2026-11-12-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "9 voice notes about her today. Allah heard all 9.",
+  "gold": [
+   "Allah",
+   "heard",
+   "all",
+   "9."
+  ],
+  "t0": 0.3,
+  "t1": 5.87
+ },
+ "end": {
+  "text": "9 voice notes about her today. Allah heard all 9.",
+  "gold": "Tonight, before you sleep: delete them. Say one good thing about her.",
+  "t0": 65.54,
+  "goldT0": 66.74,
+  "t1": 74.15
+ },
+ "verses": [
+  {
+   "t0": 32.48,
+   "t1": 41.97,
+   "text": "“Indeed, prayer prohibits immorality and wrongdoing.”",
+   "ref": "Surah Al-Ankabut — 29:45"
+  }
+ ],
+ "segments": [
+  {
+   "scene": "souk",
+   "dur": 32.08,
+   "opts": {
+    "time": "dusk"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.39
+  },
+  {
+   "scene": "rooftop",
+   "dur": 22.77,
+   "opts": {
+    "phone": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.21
+  }
+ ],
+ "hud": [
+  {
+   "label": "VOICE NOTES ABOUT SARA",
+   "time": "9",
+   "sub": "SAID TO HER FACE: 0",
+   "t0": 5.97,
+   "t1": 31.78,
+   "box": true
+  },
+  {
+   "label": "VOICE NOTES DELETED",
+   "time": "9/9",
+   "sub": "KIND WORDS: 1",
+   "t0": 42.97,
+   "t1": 64.94,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.97,
+   12.72,
+   "The market at dusk. Your thumb on the mic. Note 10."
+  ],
+  [
+   12.82,
+   16.11,
+   "“You won't believe what Sara did at the wedding…”"
+  ],
+  [
+   16.21,
+   21.96,
+   "Then, at the spice stall: Sara. She sees you first."
+  ],
+  [
+   22.06,
+   27.21,
+   "She smiles. Buys you mint tea. Asks about your mum."
+  ],
+  [
+   27.31,
+   31.38,
+   "The tea is warm. Your phone feels heavy."
+  ],
+  [
+   42.97,
+   47.28,
+   "After Isha, on the roof. You open the chat."
+  ],
+  [
+   47.38,
+   54.03,
+   "Delete for everyone. One. Two. All nine."
+  ],
+  [
+   54.13,
+   58.94,
+   "Then a new message to Sara: “Thank you for the tea.”"
+  ],
+  [
+   59.04,
+   64.64,
+   "Below, the city is quiet. So, finally, are you."
+  ]
+ ],
+ "goldWords": [
+  "first.",
+  "heavy.",
+  "tea.”"
+ ],
+ "post": {
+  "caption": "9 voice notes about her today. Allah heard all 9. 🤍\n\nThe people we talk about are often the ones who'd buy us tea. Guard your tongue before it costs you.\n\n“Indeed, prayer prohibits immorality and wrongdoing.” (29:45)\n\nTonight, before you sleep: delete them. Say one good thing about her.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #backbiting #tongue #gheebah",
+  "youtube_title": "9 voice notes about her today. Allah heard all 9. 🤍 #islam #backbiting"
+ }
+}

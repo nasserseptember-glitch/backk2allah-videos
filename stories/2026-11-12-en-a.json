@@ -1,0 +1,132 @@
+{
+ "id": "2026-11-12-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "3:12 a.m. Six worries on repeat. Not one told to Allah.",
+  "gold": [
+   "Not",
+   "one",
+   "told",
+   "to",
+   "Allah."
+  ],
+  "t0": 0.3,
+  "t1": 8.25
+ },
+ "end": {
+  "text": "3:12 a.m. Six worries on repeat. Not one told to Allah.",
+  "gold": "Today, set an alarm: 20 minutes before Fajr. Tell Him everything.",
+  "t0": 72.15,
+  "goldT0": 73.35,
+  "t1": 81.25
+ },
+ "verses": [
+  {
+   "t0": 34.0,
+   "t1": 48.56,
+   "text": "“They used to sleep but little of the night, and in the hours before dawn they would ask forgiveness.”",
+   "ref": "Surah Adh-Dhariyat — 51:17-18"
+  }
+ ],
+ "segments": [
+  {
+   "scene": "bus_stop",
+   "dur": 33.6,
+   "opts": {
+    "phone": true,
+    "bus": 29.78
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 15.46
+  },
+  {
+   "scene": "wudu",
+   "dur": 22.79,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.7
+  }
+ ],
+ "hud": [
+  {
+   "label": "WORRIES ON REPEAT",
+   "time": "6",
+   "sub": "TOLD TO ALLAH: 0",
+   "t0": 8.35,
+   "t1": 33.3,
+   "box": true
+  },
+  {
+   "label": "BEFORE FAJR",
+   "time": "4:05",
+   "sub": "TOLD TO ALLAH: 6/6",
+   "t0": 49.56,
+   "t1": 71.55,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   8.35,
+   12.48,
+   "The night bus is late. Your shift ended at 2."
+  ],
+  [
+   12.58,
+   17.61,
+   "Rent is due Monday. The car needs fixing. Again."
+  ],
+  [
+   17.71,
+   22.65,
+   "You check your bank app. Then again. Then again."
+  ],
+  [
+   22.75,
+   28.18,
+   "Then you remember your grandfather. He never slept through this hour."
+  ],
+  [
+   28.28,
+   32.9,
+   "The bus pulls in. Empty. Twenty minutes home."
+  ],
+  [
+   49.56,
+   55.42,
+   "4:05 a.m. Cold water on your wrists. Wudu."
+  ],
+  [
+   55.52,
+   60.81,
+   "Two rak'ahs in the dark. Your forehead on the floor."
+  ],
+  [
+   60.91,
+   66.26,
+   "You tell Him all six. Out loud. Then: Astaghfirullah."
+  ],
+  [
+   66.36,
+   71.25,
+   "The rent is still due. But you're not carrying it alone."
+  ]
+ ],
+ "goldWords": [
+  "grandfather.",
+  "alone."
+ ],
+ "post": {
+  "caption": "3:12 a.m. Six worries on repeat. Not one told to Allah. 🤍\n\nThe hours before dawn aren't only for worrying. They're for talking to the One who can carry it all.\n\n“They used to sleep but little of the night, and in the hours before dawn they would ask forgiveness.” (51:17-18)\n\nToday, set an alarm: 20 minutes before Fajr. Tell Him everything.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #tahajjud #anxiety #fajr",
+  "youtube_title": "3:12 a.m. Six worries on repeat. Not one told to Allah. 🤍 #islam #tahajjud"
+ }
+}
