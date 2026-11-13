@@ -1,0 +1,122 @@
+{
+ "id": "2026-11-13-b",
+ "segments": [
+  {
+   "scene": "kitchen",
+   "dur": 28.79,
+   "opts": {
+    "time": "night",
+    "mother": false
+   }
+  },
+  {
+   "scene": "snow_street",
+   "dur": 13.92
+  },
+  {
+   "scene": "black",
+   "dur": 12.24
+  },
+  {
+   "scene": "black",
+   "dur": 9.11
+  }
+ ],
+ "captions": [
+  [
+   4.78,
+   9.49,
+   "Pour le boulot, la salle, le train. Pas pour Lui."
+  ],
+  [
+   9.61,
+   14.88,
+   "6 h 04. La cuisine est froide. Tu bois un verre d'eau."
+  ],
+  [
+   15.0,
+   19.93,
+   "Fajr est à 6 h 19. Ton lit t'appelle plus fort."
+  ],
+  [
+   20.05,
+   23.58,
+   "Par la fenêtre, quelqu'un avance dans la neige."
+  ],
+  [
+   23.7,
+   28.54,
+   "Le voisin du troisième. 81 ans. Il va à la mosquée."
+  ],
+  [
+   28.91,
+   32.45,
+   "Tu enfiles ton manteau. Tes pas dans les siens."
+  ],
+  [
+   32.57,
+   37.51,
+   "Le froid mord. Ton cœur, lui, se réveille."
+  ],
+  [
+   37.63,
+   42.46,
+   "Devant toi, le minaret. La porte est ouverte."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 43.21,
+   "t1": 54.55,
+   "text": "« Ils dormaient peu, la nuit, et aux dernières heures de la nuit ils imploraient le pardon. »",
+   "ref": "Sourate Adh-Dhâriyât — 51:17-18"
+  }
+ ],
+ "hud": [
+  {
+   "label": "ALARMES CETTE SEMAINE 23",
+   "time": "06:04",
+   "sub": "FAJR : 0",
+   "box": true,
+   "t0": 4.66,
+   "t1": 28.39
+  },
+  {
+   "label": "ALARME N° 24",
+   "time": "06:19",
+   "sub": "FAJR",
+   "box": true,
+   "t0": 29.19,
+   "t1": 42.31
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.66,
+  "text": "23 alarmes cette semaine. Aucune pour Fajr.",
+  "gold": [
+   "23",
+   "Fajr."
+  ]
+ },
+ "end": {
+  "t0": 55.25,
+  "t1": 63.76,
+  "text": "23 alarmes cette semaine. Aucune pour Fajr.",
+  "goldT0": 57.05,
+  "gold": "Ce soir, règle l’alarme n° 24 : Fajr."
+ },
+ "goldWords": [
+  "Lui.",
+  "réveille.",
+  "ouverte.",
+  "mosquée."
+ ],
+ "post": {
+  "caption": "23 alarmes cette semaine. Aucune pour Fajr. 🤍\n\n« Ils dormaient peu, la nuit, et aux dernières heures de la nuit ils imploraient le pardon. » (51:17-18)\n\nQuelqu'un a déjà laissé ses traces dans la neige pour Lui. Ce soir, règle l'alarme n° 24 : Fajr.",
+  "hashtags": "#rappel #islam #rappelislamique #fajr #priere #salat #muslim #hiver",
+  "youtube_title": "23 alarmes cette semaine. Aucune pour Fajr. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

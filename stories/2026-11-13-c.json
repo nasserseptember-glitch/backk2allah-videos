@@ -1,0 +1,113 @@
+{
+ "id": "2026-11-13-c",
+ "segments": [
+  {
+   "scene": "bus_stop",
+   "dur": 27.81,
+   "opts": {
+    "phone": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.8
+  },
+  {
+   "scene": "rooftop",
+   "dur": 15.68,
+   "opts": {
+    "phone": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.5
+  }
+ ],
+ "captions": [
+  [
+   7.76,
+   12.55,
+   "Ce matin, ton contrat s'est arrêté. Personne ne le sait."
+  ],
+  [
+   12.67,
+   20.39,
+   "Lui dort. Elle est occupée. Lui a « vu », sans répondre."
+  ],
+  [
+   20.52,
+   27.56,
+   "1 %. L'écran s'éteint. Il ne reste que toi… et Lui."
+  ],
+  [
+   37.73,
+   43.24,
+   "Pas de tonalité. Pas de messagerie. Il écoute déjà."
+  ],
+  [
+   43.36,
+   49.07,
+   "Tu Lui dis tout. Le contrat, la peur, demain."
+  ],
+  [
+   49.19,
+   53.04,
+   "Rien n'est réglé. Mais tu n'es plus seul."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 28.31,
+   "t1": 37.21,
+   "text": "« Nous sommes plus près de lui que sa veine jugulaire. »",
+   "ref": "Sourate Qâf — 50:16"
+  }
+ ],
+ "hud": [
+  {
+   "label": "APPELS SORTANTS 6",
+   "time": "23:40",
+   "sub": "RÉPONSES : 0",
+   "box": true,
+   "t0": 7.64,
+   "t1": 27.41
+  },
+  {
+   "label": "APPEL EN COURS",
+   "time": "00:12",
+   "sub": "SANS RÉSEAU. SANS ATTENTE.",
+   "box": true,
+   "t0": 38.01,
+   "t1": 52.89
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 7.64,
+  "text": "214 contacts. 0 réponse. Et Allah, tu L'as appelé ?",
+  "gold": [
+   "214",
+   "Allah"
+  ]
+ },
+ "end": {
+  "t0": 53.59,
+  "t1": 62.49,
+  "text": "214 contacts. 0 réponse. Et Allah, tu L'as appelé ?",
+  "goldT0": 55.39,
+  "gold": "Ce soir, avant de dormir, lève les mains. Parle-Lui."
+ },
+ "goldWords": [
+  "Lui.",
+  "déjà.",
+  "seul."
+ ],
+ "post": {
+  "caption": "214 contacts. 0 réponse. Et Allah, tu L'as appelé ? 🤍\n\n« Nous sommes plus près de lui que sa veine jugulaire. » (50:16)\n\nPas de tonalité, pas de messagerie : Il écoute déjà. Ce soir, avant de dormir, lève les mains et parle-Lui.",
+  "hashtags": "#rappel #islam #rappelislamique #dua #solitude #allah #muslim #espoir",
+  "youtube_title": "214 contacts. 0 réponse. Et Allah, tu L'as appelé ? 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

@@ -1,0 +1,129 @@
+{
+ "id": "2026-11-13-a",
+ "segments": [
+  {
+   "scene": "souk",
+   "dur": 26.86,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 14.02
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 14.1,
+   "opts": {
+    "rows": 3,
+    "ruku": [
+     [
+      8.7,
+      12.0
+     ]
+    ]
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.87
+  }
+ ],
+ "captions": [
+  [
+   6.44,
+   9.31,
+   "Ton stand est plein. Ta caisse aussi."
+  ],
+  [
+   9.43,
+   14.22,
+   "Un client. Puis un autre. Puis une file."
+  ],
+  [
+   14.34,
+   17.63,
+   "Au loin, l'appel du vendredi s'élève."
+  ],
+  [
+   17.75,
+   21.13,
+   "« Juste celui-là, après j’y vais », tu te dis."
+  ],
+  [
+   21.25,
+   26.61,
+   "Ton voisin baisse son rideau. Il te sourit, et s'en va."
+  ],
+  [
+   41.0,
+   45.08,
+   "Tu poses un tissu sur tes épices. Et tu cours."
+  ],
+  [
+   45.2,
+   49.64,
+   "Dernier rang. Essoufflé. Mais là."
+  ],
+  [
+   49.76,
+   54.73,
+   "Le rizq ne se perd jamais en allant vers Celui qui le donne."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 27.36,
+   "t1": 40.48,
+   "text": "« Ô vous qui avez cru ! Quand on appelle à la Salât du jour du Vendredi, accourez à l'invocation d'Allah et laissez tout négoce. »",
+   "ref": "Sourate Al-Jumuʿa — 62:9"
+  }
+ ],
+ "hud": [
+  {
+   "label": "VENTES CE MATIN 31",
+   "time": "12:55",
+   "sub": "JUMU'A : DANS 10 MIN",
+   "box": true,
+   "t0": 6.32,
+   "t1": 26.46
+  },
+  {
+   "label": "STAND FERMÉ",
+   "time": "13:04",
+   "sub": "JUMU'A : PRÉSENT",
+   "box": true,
+   "t0": 41.28,
+   "t1": 54.58
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.32,
+  "text": "Vendredi, 12 h 55. Encore un client… ou Jumu'a ?",
+  "gold": [
+   "Jumu'a"
+  ]
+ },
+ "end": {
+  "t0": 55.28,
+  "t1": 63.55,
+  "text": "Vendredi, 12 h 55. Encore un client… ou Jumu'a ?",
+  "goldT0": 57.08,
+  "gold": "Ferme tout à 12 h 50. Aujourd’hui, va à Jumu’a."
+ },
+ "goldWords": [
+  "vendredi",
+  "Celui",
+  "donne.",
+  "là."
+ ],
+ "post": {
+  "caption": "Vendredi, 12 h 55. Encore un client… ou Jumu'a ? 🤍\n\n« Ô vous qui avez cru ! Quand on appelle à la Salât du jour du Vendredi, accourez à l'invocation d'Allah et laissez tout négoce. » (62:9)\n\nLe rizq ne se perd jamais en allant vers Celui qui le donne. Aujourd'hui, ferme tout à 12 h 50 et va à Jumu'a.",
+  "hashtags": "#rappel #islam #rappelislamique #jumuah #vendredi #salat #rizq #muslim",
+  "youtube_title": "Vendredi, 12 h 55. Encore un client… ou Jumu'a ? 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}
