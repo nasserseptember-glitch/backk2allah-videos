@@ -1,0 +1,124 @@
+{
+ "id": "2026-11-13-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "40 minutes staring at a delay. 3 minutes for Fajr.",
+  "gold": [
+   "3",
+   "for",
+   "Fajr."
+  ],
+  "t0": 0.3,
+  "t1": 7.34
+ },
+ "end": {
+  "text": "40 minutes staring at a delay. 3 minutes for Fajr.",
+  "gold": "Your next prayer is Dhuhr. Give it ten slow minutes.",
+  "t0": 73.43,
+  "goldT0": 74.63,
+  "t1": 82.73
+ },
+ "verses": [
+  {
+   "text": "“Unquestionably, by the remembrance of Allah hearts are assured.”",
+   "ref": "Surah Ar-Ra'd — 13:28",
+   "t0": 41.19,
+   "t1": 52.67
+  }
+ ],
+ "segments": [
+  {
+   "scene": "airport",
+   "dur": 40.89,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 12.17
+  },
+  {
+   "scene": "wudu",
+   "dur": 20.07,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.9
+  }
+ ],
+ "hud": [
+  {
+   "label": "FLIGHT DELAYED",
+   "time": "40 MIN",
+   "sub": "FAJR: 3 MIN",
+   "t0": 7.44,
+   "t1": 40.59,
+   "box": true
+  },
+  {
+   "label": "DHUHR",
+   "time": "7 MIN",
+   "sub": "PHONE: IN THE BAG",
+   "t0": 53.47,
+   "t1": 72.83,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   7.44,
+   14.77,
+   "Gate B12. 6:40. You prayed in a corner. Fast."
+  ],
+  [
+   14.87,
+   20.03,
+   "Three minutes. Eyes on the gate the whole time."
+  ],
+  [
+   20.13,
+   24.19,
+   "Then the board flips: DELAYED."
+  ],
+  [
+   24.29,
+   31.41,
+   "You refresh. You sigh. You stare. Forty minutes."
+  ],
+  [
+   31.51,
+   40.49,
+   "Beside you, an old man is still praying. Slowly. As if no one is waiting."
+  ],
+  [
+   53.47,
+   61.3,
+   "Noon. You've landed. Cold water. No rush this time."
+  ],
+  [
+   61.4,
+   67.37,
+   "Four rak'ahs of Dhuhr. You let every word land."
+  ],
+  [
+   67.47,
+   72.63,
+   "Seven minutes. The calmest part of your whole trip."
+  ]
+ ],
+ "goldWords": [
+  "Slowly.",
+  "land."
+ ],
+ "post": {
+  "caption": "40 minutes staring at a delay. 3 minutes for Fajr. 🤍\n\nWe rush the one appointment that never gets cancelled — and wait patiently for everything else.\n\n“Unquestionably, by the remembrance of Allah hearts are assured.” (13:28)\n\nYour next prayer is Dhuhr. Give it ten slow minutes.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #salah #khushu #dhuhr",
+  "youtube_title": "40 minutes staring at a delay. 3 minutes for Fajr. 🤍 #islam #salah"
+ }
+}

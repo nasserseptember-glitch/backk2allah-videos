@@ -1,0 +1,128 @@
+{
+ "id": "2026-11-13-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "9 days, no one has seen Uncle Karim. Allah has.",
+  "gold": [
+   "Allah"
+  ],
+  "t0": 0.3,
+  "t1": 7.82
+ },
+ "end": {
+  "text": "9 days, no one has seen Uncle Karim. Allah has.",
+  "gold": "Tonight, before Isha: knock on one door.",
+  "t0": 67.96,
+  "goldT0": 69.16,
+  "t1": 76.42
+ },
+ "verses": [
+  {
+   "text": "“So whoever does an atom's weight of good will see it.”",
+   "ref": "Surah Az-Zalzalah — 99:7",
+   "t0": 38.84,
+   "t1": 48.66
+  }
+ ],
+ "segments": [
+  {
+   "scene": "gym",
+   "dur": 19.96,
+   "opts": {
+    "time": "night"
+   }
+  },
+  {
+   "scene": "snow_street",
+   "dur": 18.58,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.52
+  },
+  {
+   "scene": "kitchen",
+   "dur": 18.6,
+   "opts": {
+    "time": "night",
+    "mother": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.06
+  }
+ ],
+ "hud": [
+  {
+   "label": "EPISODES THIS WEEK",
+   "time": "9",
+   "sub": "KNOCKS ON HIS DOOR: 0",
+   "t0": 7.92,
+   "t1": 38.24,
+   "box": true
+  },
+  {
+   "label": "KNOCKS ON HIS DOOR",
+   "time": "1",
+   "sub": "EPISODES: PAUSED",
+   "t0": 49.46,
+   "t1": 67.36,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   7.92,
+   13.78,
+   "Treadmill, 8 p.m. Episode 9 on your phone."
+  ],
+  [
+   13.88,
+   19.56,
+   "9 episodes this week. You know every character's name."
+  ],
+  [
+   19.96,
+   25.57,
+   "Walking home in the snow. His house is next to yours."
+  ],
+  [
+   25.67,
+   31.6,
+   "Every winter, his footprints went to the mosque first."
+  ],
+  [
+   31.7,
+   38.14,
+   "Tonight, the snow at his door is untouched. 9 days."
+  ],
+  [
+   49.46,
+   55.17,
+   "Your kitchen. Soup on the stove. Dates in a bag."
+  ],
+  [
+   55.27,
+   61.83,
+   "You knock. A long wait. Then a weak voice: “Who is it?”"
+  ],
+  [
+   61.93,
+   67.16,
+   "He's been ill all week. Tonight, he's not alone."
+  ]
+ ],
+ "goldWords": [
+  "untouched.",
+  "alone."
+ ],
+ "post": {
+  "caption": "9 days, no one has seen Uncle Karim. Allah has. 🤍\n\nSometimes the good deed waiting for you is one door away.\n\n“So whoever does an atom's weight of good will see it.” (99:7)\n\nTonight, before Isha: knock on one door.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #neighbour #kindness #gooddeeds",
+  "youtube_title": "9 days, no one has seen Uncle Karim. Allah has. 🤍 #islam #kindness"
+ }
+}

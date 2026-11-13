@@ -1,0 +1,131 @@
+{
+ "id": "2026-11-13-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "4 minutes in a queue, you lost it. Allah waited years for you.",
+  "gold": [
+   "Allah",
+   "waited",
+   "years"
+  ],
+  "t0": 0.3,
+  "t1": 7.08
+ },
+ "end": {
+  "text": "4 minutes in a queue, you lost it. Allah waited years for you.",
+  "gold": "Before Maghrib today: say one “I'm sorry.”",
+  "t0": 65.07,
+  "goldT0": 66.27,
+  "t1": 72.25
+ },
+ "verses": [
+  {
+   "text": "“Indeed, Allah is with the patient.”",
+   "ref": "Surah Al-Baqarah — 2:153",
+   "t0": 34.02,
+   "t1": 43.82
+  }
+ ],
+ "segments": [
+  {
+   "scene": "checkout",
+   "dur": 33.72,
+   "opts": {
+    "pay": 0.82
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "bus_stop",
+   "dur": 20.55,
+   "opts": {
+    "phone": false,
+    "bus": 13.0
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.78
+  }
+ ],
+ "hud": [
+  {
+   "label": "QUEUE TIME",
+   "time": "4:12",
+   "sub": "PATIENCE: 0",
+   "t0": 7.18,
+   "t1": 33.42,
+   "box": true
+  },
+  {
+   "label": "BUSES MISSED",
+   "time": "1",
+   "sub": "“SORRY”: SAID",
+   "t0": 44.62,
+   "t1": 64.47,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   7.18,
+   14.14,
+   "17:10. One milk, one bread. Six people ahead."
+  ],
+  [
+   14.24,
+   18.94,
+   "The cashier is new. She scans the same item twice."
+  ],
+  [
+   19.04,
+   23.06,
+   "You sigh. Loudly. “Can we hurry up?”"
+  ],
+  [
+   23.16,
+   28.68,
+   "Her hands start shaking. Her badge says: “First day.”"
+  ],
+  [
+   28.78,
+   33.32,
+   "You pay. You don't look at her. You leave."
+  ],
+  [
+   44.62,
+   49.98,
+   "At the bus stop. Rain. Her face won't leave you."
+  ],
+  [
+   50.08,
+   54.96,
+   "Astaghfirullah. Once. Then again, slower."
+  ],
+  [
+   55.06,
+   59.62,
+   "The bus comes. You let it go. You walk back in."
+  ],
+  [
+   59.72,
+   64.27,
+   "“Sorry about earlier. You're doing fine.” She smiles."
+  ]
+ ],
+ "goldWords": [
+  "“First",
+  "day.”",
+  "smiles."
+ ],
+ "post": {
+  "caption": "4 minutes in a queue, you lost it. Allah waited years for you. 🤍\n\nThe patience He shows us every day is the patience we can give the person in front of us.\n\n“Indeed, Allah is with the patient.” (2:153)\n\nBefore Maghrib today: say one “I'm sorry.”",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #patience #sabr #anger",
+  "youtube_title": "4 minutes in a queue, you lost it. Allah waited years for you. 🤍 #islam #sabr"
+ }
+}
