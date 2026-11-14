@@ -1,0 +1,122 @@
+{
+ "id": "2026-11-14-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "8 minutes left on the exam. How many left in your life?",
+  "gold": [
+   "life?"
+  ],
+  "t0": 0.3,
+  "t1": 5.81
+ },
+ "verses": [
+  {
+   "text": "“Every soul will taste death.”",
+   "ref": "Surah Al-Imran — 3:185",
+   "t0": 28.29,
+   "t1": 38.29
+  }
+ ],
+ "end": {
+  "text": "8 minutes left on the exam. How many left in your life?",
+  "gold": "Pray Asr now, before the sun sets.",
+  "t0": 53.73,
+  "goldT0": 54.93,
+  "t1": 60.25
+ },
+ "segments": [
+  {
+   "scene": "classroom",
+   "dur": 27.99,
+   "opts": {
+    "clock": "10:52",
+    "fast": true,
+    "lookUp": 0.41
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.6
+  },
+  {
+   "scene": "wudu",
+   "dur": 14.84,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 7.12
+  }
+ ],
+ "hud": [
+  {
+   "label": "EXAM · TIME LEFT",
+   "time": "08:00",
+   "sub": "YOUR LIFE: ?",
+   "t0": 5.91,
+   "t1": 27.59,
+   "box": true
+  },
+  {
+   "label": "TIME LEFT FOR ASR",
+   "time": "0:48",
+   "sub": "ENOUGH. GO.",
+   "t0": 38.99,
+   "t1": 53.03,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.91,
+   11.33,
+   "Final exam. Room 4. Three questions still blank."
+  ],
+  [
+   11.43,
+   15.38,
+   "The clock on the wall moves faster than your pen."
+  ],
+  [
+   15.48,
+   19.21,
+   "You'd give anything for five more minutes."
+  ],
+  [
+   19.31,
+   23.73,
+   "“Pens down.” Half your page is still empty."
+  ],
+  [
+   23.83,
+   27.69,
+   "One day, no one will say “five minutes left.”"
+  ],
+  [
+   38.99,
+   44.09,
+   "Home. 4 p.m. Asr is already in."
+  ],
+  [
+   44.19,
+   47.53,
+   "This time, you don't wait for the last minute."
+  ],
+  [
+   47.63,
+   53.03,
+   "Cold water on your hands. You still have time. Today."
+  ]
+ ],
+ "goldWords": [
+  "empty.",
+  "time."
+ ],
+ "post": {
+  "caption": "8 minutes left on the exam. How many left in your life? 🤍\n\nIn an exam, we beg for five more minutes. In life, we still have them, today.\n\n“Every soul will taste death.” (3:185)\n\nPray Asr now, before the sun sets.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #salah #asr #akhirah",
+  "youtube_title": "8 minutes left on the exam. How many left in your life? 🤍 #islam #salah"
+ }
+}

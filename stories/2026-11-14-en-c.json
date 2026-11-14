@@ -1,0 +1,129 @@
+{
+ "id": "2026-11-14-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "$10 too much in your change. No one saw. Allah did.",
+  "gold": [
+   "Allah"
+  ],
+  "t0": 0.3,
+  "t1": 7.85
+ },
+ "verses": [
+  {
+   "text": "“We are closer to him than [his] jugular vein.”",
+   "ref": "Surah Qaf — 50:16",
+   "t0": 32.57,
+   "t1": 42.57
+  }
+ ],
+ "end": {
+  "text": "$10 too much in your change. No one saw. Allah did.",
+  "gold": "Make one thing right tonight, before Isha.",
+  "t0": 66.62,
+  "goldT0": 67.82,
+  "t1": 73.82
+ },
+ "segments": [
+  {
+   "scene": "street",
+   "dur": 32.27,
+   "opts": {
+    "dayFrom": 0.85,
+    "dayTo": 1,
+    "phone": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.6
+  },
+  {
+   "scene": "checkout",
+   "dur": 23.45,
+   "opts": {
+    "pay": 0.26
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.8
+  }
+ ],
+ "hud": [
+  {
+   "label": "CHANGE IN YOUR HAND",
+   "time": "$12.10",
+   "sub": "SHOULD BE: $2.10",
+   "t0": 7.95,
+   "t1": 31.87,
+   "box": true
+  },
+  {
+   "label": "RETURNED",
+   "time": "$10.00",
+   "sub": "WITNESS: ALLAH",
+   "t0": 43.27,
+   "t1": 65.92,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   7.95,
+   12.93,
+   "Two streets from the supermarket. You count the change."
+  ],
+  [
+   13.03,
+   17.93,
+   "$12.10. It should be $2.10."
+  ],
+  [
+   18.03,
+   21.9,
+   "“Her mistake, not mine,” you tell yourself."
+  ],
+  [
+   22.0,
+   27.1,
+   "Tonight she'll count her till. It'll be $10 short."
+  ],
+  [
+   27.2,
+   31.97,
+   "No camera saw it. But you were never alone."
+  ],
+  [
+   43.27,
+   48.89,
+   "You walk back in. Same lane. Same tired smile."
+  ],
+  [
+   48.99,
+   53.95,
+   "You hold out the ten: “I think this is yours.”"
+  ],
+  [
+   54.05,
+   59.13,
+   "She exhales: “You don't know what you just saved me.”"
+  ],
+  [
+   59.23,
+   65.92,
+   "You walk out $10 lighter. Your heart, much lighter."
+  ]
+ ],
+ "goldWords": [
+  "alone.",
+  "lighter."
+ ],
+ "post": {
+  "caption": "$10 too much in your change. No one saw. Allah did. 🤍\n\nHonesty is what you do when you think no one is watching. But He always is, and He is near.\n\n“We are closer to him than [his] jugular vein.” (50:16)\n\nMake one thing right tonight, before Isha.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #honesty #amanah #taqwa",
+  "youtube_title": "$10 too much in your change. No one saw. Allah did. 🤍 #islam #honesty"
+ }
+}

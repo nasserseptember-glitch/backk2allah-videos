@@ -1,0 +1,132 @@
+{
+ "id": "2026-11-14-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "4,812 steps this morning. Not one SubhanAllah.",
+  "gold": [
+   "SubhanAllah."
+  ],
+  "t0": 0.3,
+  "t1": 7.72
+ },
+ "verses": [
+  {
+   "text": "“So remember Me; I will remember you.”",
+   "ref": "Surah Al-Baqarah — 2:152",
+   "t0": 40.77,
+   "t1": 50.86
+  }
+ ],
+ "end": {
+  "text": "4,812 steps this morning. Not one SubhanAllah.",
+  "gold": "33 SubhanAllah on your way home. This morning.",
+  "t0": 69.24,
+  "goldT0": 70.44,
+  "t1": 78.73
+ },
+ "segments": [
+  {
+   "scene": "park",
+   "dur": 20.24,
+   "opts": {}
+  },
+  {
+   "scene": "souk",
+   "dur": 20.23,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.69
+  },
+  {
+   "scene": "train",
+   "dur": 17.78,
+   "opts": {
+    "phone": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.09
+  }
+ ],
+ "hud": [
+  {
+   "label": "STEPS THIS MORNING",
+   "time": "4,812",
+   "sub": "SUBHANALLAH: 0",
+   "t0": 7.82,
+   "t1": 40.07,
+   "box": true
+  },
+  {
+   "label": "SUBHANALLAH",
+   "time": "33",
+   "sub": "ON THE WAY HOME",
+   "t0": 51.56,
+   "t1": 68.54,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   7.82,
+   14.96,
+   "Saturday, 9:14. Earbuds in. Third podcast."
+  ],
+  [
+   15.06,
+   19.94,
+   "Your watch buzzes. Step goal almost reached."
+  ],
+  [
+   20.24,
+   24.9,
+   "The market. You count prices, not blessings."
+  ],
+  [
+   25.0,
+   28.93,
+   "The old spice seller hands you your change."
+  ],
+  [
+   29.03,
+   34.64,
+   "His lips keep moving. Beads slide through his fingers."
+  ],
+  [
+   34.74,
+   40.17,
+   "He smiles: “Remember Allah, son. It's free.”"
+  ],
+  [
+   51.56,
+   56.28,
+   "On the tram home, your earbuds stay in your pocket."
+  ],
+  [
+   56.38,
+   61.79,
+   "Your thumb on each finger. SubhanAllah. Again."
+  ],
+  [
+   61.89,
+   68.54,
+   "33. Your heart is quieter than it has been in weeks."
+  ]
+ ],
+ "goldWords": [
+  "free.”",
+  "quieter"
+ ],
+ "post": {
+  "caption": "4,812 steps this morning. Not one SubhanAllah. 🤍\n\nThe old man at the market was right: remembering Allah is free, and it costs you nothing but a moment.\n\n“So remember Me; I will remember you.” (2:152)\n\n33 SubhanAllah on your way home. This morning.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #dhikr #subhanallah #remembrance",
+  "youtube_title": "4,812 steps this morning. Not one SubhanAllah. 🤍 #islam #dhikr"
+ }
+}
