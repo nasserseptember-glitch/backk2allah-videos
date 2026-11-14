@@ -1,0 +1,139 @@
+{
+ "id": "2026-11-14-a",
+ "segments": [
+  {
+   "scene": "checkout",
+   "dur": 16.72,
+   "opts": {
+    "pay": 0.55
+   }
+  },
+  {
+   "scene": "library",
+   "dur": 13.05
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "wudu",
+   "dur": 13.06,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.46
+  }
+ ],
+ "captions": [
+  [
+   5.99,
+   8.49,
+   "Tu as regardé l'heure 11 fois."
+  ],
+  [
+   8.64,
+   11.55,
+   "8 minutes de file pour un sandwich."
+  ],
+  [
+   11.7,
+   16.27,
+   "Une notification : Dhuhr. Tu la balaies du pouce."
+  ],
+  [
+   17.02,
+   21.53,
+   "Retour à la bibliothèque. Les livres t'attendent."
+  ],
+  [
+   21.68,
+   25.14,
+   "Ton voisin ferme son ordinateur sans bruit."
+  ],
+  [
+   25.29,
+   29.32,
+   "Il sort un petit tapis et part entre deux rayons."
+  ],
+  [
+   40.67,
+   44.28,
+   "Tu te lèves. L'eau froide sur tes mains."
+  ],
+  [
+   44.43,
+   48.21,
+   "Cinq minutes. Le monde n'a pas bougé."
+  ],
+  [
+   48.36,
+   52.88,
+   "Il te reste 29 minutes. Et le cœur léger."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 30.27,
+   "t1": 39.77,
+   "text": "« Accomplis la Salât pour te souvenir de Moi. »",
+   "ref": "Sourate Tâ-Hâ — 20:14"
+  }
+ ],
+ "hud": [
+  {
+   "label": "PAUSE DE MIDI 50 MIN",
+   "sub": "POUR ALLAH : 0 MIN",
+   "box": true,
+   "t0": 5.79,
+   "t1": 29.47,
+   "clock": [
+    "12:34",
+    "13:02"
+   ]
+  },
+  {
+   "label": "PAUSE DE MIDI",
+   "sub": "POUR ALLAH : 5 MIN",
+   "box": true,
+   "t0": 40.47,
+   "t1": 53.03,
+   "clock": [
+    "13:14",
+    "13:21"
+   ]
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.79,
+  "text": "50 minutes de pause. Et pas 5 pour Allah ?",
+  "gold": [
+   "50",
+   "Allah"
+  ]
+ },
+ "end": {
+  "t0": 53.73,
+  "t1": 61.49,
+  "text": "50 minutes de pause. Et pas 5 pour Allah ?",
+  "goldT0": 55.53,
+  "gold": "Aujourd'hui à midi : 5 minutes. Rien que pour Lui."
+ },
+ "goldWords": [
+  "Lui.",
+  "léger.",
+  "Moi.",
+  "5"
+ ],
+ "post": {
+  "caption": "50 minutes de pause. Et pas 5 pour Allah ? 🤍\n\n« Accomplis la Salât pour te souvenir de Moi. » (20:14)\n\nLa file, le sandwich, les livres… et Dhuhr qui passe. Aujourd'hui à midi, donne-Lui 5 minutes. Il te restera du temps, et le cœur léger.",
+  "hashtags": "#rappel #islam #rappelislamique #salat #dhuhr #priere #muslim #etudiant",
+  "youtube_title": "50 minutes de pause. Et pas 5 pour Allah ? 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

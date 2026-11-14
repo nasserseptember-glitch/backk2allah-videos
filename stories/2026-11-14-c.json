@@ -1,0 +1,135 @@
+{
+ "id": "2026-11-14-c",
+ "segments": [
+  {
+   "scene": "office",
+   "dur": 16.62,
+   "opts": {
+    "screen": "mail",
+    "typing": false
+   }
+  },
+  {
+   "scene": "bus_stop",
+   "dur": 14.53,
+   "opts": {
+    "phone": true,
+    "bus": 12
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.69
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 11.03,
+   "opts": {
+    "night": true,
+    "rows": 1,
+    "povBow": true,
+    "ruku": [
+     [
+      1.2,
+      8.2
+     ]
+    ]
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.64
+  }
+ ],
+ "captions": [
+  [
+   5.73,
+   9.43,
+   "Le mail commence toujours pareil : « Malheureusement… »"
+  ],
+  [
+   9.58,
+   16.17,
+   "Ton CV, relu cent fois. Ta cravate, achetée pour l'entretien."
+  ],
+  [
+   16.92,
+   22.23,
+   "Sous l'abri, la pluie. Tu relis le mail. Encore."
+  ],
+  [
+   22.38,
+   25.61,
+   "Ta mère écrit : « Alors ? » Tu ne réponds pas."
+  ],
+  [
+   25.76,
+   30.7,
+   "Le bus passe devant la mosquée. La porte est encore ouverte."
+  ],
+  [
+   43.24,
+   48.78,
+   "Le front au sol, tu Lui dis tout. Même le 7e « non »."
+  ],
+  [
+   48.93,
+   53.42,
+   "Tu te relèves. Demain, tu enverras la 8e."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 31.65,
+   "t1": 42.34,
+   "text": "« À côté de la difficulté est, certes, une facilité. »",
+   "ref": "Sourate Ash-Sharh — 94:5-6"
+  }
+ ],
+ "hud": [
+  {
+   "label": "CANDIDATURES CE MOIS 7",
+   "sub": "RÉPONSES : 7 × NON",
+   "box": true,
+   "t0": 5.53,
+   "t1": 30.85,
+   "time": "21:40"
+  },
+  {
+   "label": "CANDIDATURE N° 8",
+   "sub": "CONFIÉE À ALLAH",
+   "box": true,
+   "t0": 43.04,
+   "t1": 53.57,
+   "time": "22:15"
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.53,
+  "text": "7e refus ce mois-ci. Tu crois qu'Allah t'a oublié ?",
+  "gold": [
+   "7e",
+   "Allah"
+  ]
+ },
+ "end": {
+  "t0": 54.27,
+  "t1": 64.21,
+  "text": "7e refus ce mois-ci. Tu crois qu'Allah t'a oublié ?",
+  "goldT0": 56.07,
+  "gold": "Ce soir, en sujûd, dis-Lui tout. Demain, réessaie."
+ },
+ "goldWords": [
+  "Lui",
+  "8e.",
+  "tout."
+ ],
+ "post": {
+  "caption": "7e refus ce mois-ci. Tu crois qu'Allah t'a oublié ? 🤍\n\n« À côté de la difficulté est, certes, une facilité. » (94:5-6)\n\nCe soir, en sujûd, dis-Lui tout. Même le 7e « non ». Et demain, envoie la 8e.",
+  "hashtags": "#rappel #islam #rappelislamique #espoir #tawakkul #travail #muslim #sabr",
+  "youtube_title": "7e refus ce mois-ci. Tu crois qu'Allah t'a oublié ? 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

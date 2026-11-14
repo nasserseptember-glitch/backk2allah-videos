@@ -1,0 +1,127 @@
+{
+ "id": "2026-11-14-b",
+ "segments": [
+  {
+   "scene": "hospital",
+   "dur": 24.23,
+   "opts": {
+    "patient": "father"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "snow_street",
+   "dur": 14.61
+  },
+  {
+   "scene": "black",
+   "dur": 8.06
+  }
+ ],
+ "captions": [
+  [
+   4.73,
+   7.23,
+   "Tu as relu ses analyses 30 fois."
+  ],
+  [
+   7.38,
+   11.04,
+   "Tu as tout demandé au médecin. Tout tapé sur Google."
+  ],
+  [
+   11.19,
+   16.88,
+   "Le bip du moniteur. Encore. Et encore."
+  ],
+  [
+   17.03,
+   19.8,
+   "Puis sa main serre la tienne."
+  ],
+  [
+   19.95,
+   23.78,
+   "Il ouvre les yeux. Il murmure : « Tu as prié ? »"
+  ],
+  [
+   35.13,
+   39.67,
+   "Dehors, la neige. La mosquée est au bout de la rue."
+  ],
+  [
+   39.82,
+   43.33,
+   "Quelqu'un est déjà passé. Tu suis ses pas."
+  ],
+  [
+   43.48,
+   48.89,
+   "Ce soir, tu Lui confies ton père. Et ta patience."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 24.73,
+   "t1": 34.23,
+   "text": "« Allah est avec ceux qui sont endurants. »",
+   "ref": "Sourate Al-Baqara — 2:153"
+  }
+ ],
+ "hud": [
+  {
+   "label": "À SON CHEVET 4H20",
+   "sub": "DUA : 0",
+   "box": true,
+   "t0": 4.53,
+   "t1": 23.93,
+   "clock": [
+    "19:40",
+    "19:52"
+   ]
+  },
+  {
+   "label": "VERS ISHA",
+   "sub": "PAPA, CONFIÉ À ALLAH",
+   "box": true,
+   "t0": 34.93,
+   "t1": 49.04,
+   "clock": [
+    "20:02",
+    "20:05"
+   ]
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.53,
+  "text": "4 h 20 à son chevet. Pas une minute pour Allah ?",
+  "gold": [
+   "4",
+   "20",
+   "Allah"
+  ]
+ },
+ "end": {
+  "t0": 49.74,
+  "t1": 57.1,
+  "text": "4 h 20 à son chevet. Pas une minute pour Allah ?",
+  "goldT0": 51.54,
+  "gold": "Ce soir, à Isha, confie-Lui ceux que tu aimes."
+ },
+ "goldWords": [
+  "tienne.",
+  "patience.",
+  "Lui"
+ ],
+ "post": {
+  "caption": "4 h 20 à son chevet. Pas une minute pour Allah ? 🤍\n\n« Allah est avec ceux qui sont endurants. » (2:153)\n\nTu as tout demandé aux médecins. Ce soir, à Isha, demande-Lui. Confie-Lui ceux que tu aimes.",
+  "hashtags": "#rappel #islam #rappelislamique #patience #sabr #dua #parents #muslim",
+  "youtube_title": "4 h 20 à son chevet. Pas une minute pour Allah ? 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}
