@@ -1,0 +1,130 @@
+{
+ "id": "2026-11-15-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "6 years of “next year.” Allah is still calling.",
+  "gold": [
+   "Allah",
+   "still",
+   "calling."
+  ],
+  "t0": 0.3,
+  "t1": 6.3
+ },
+ "verses": [
+  {
+   "text": "“Do not despair of the mercy of Allah.”",
+   "ref": "Surah Az-Zumar — 39:53",
+   "t0": 35.31,
+   "t1": 45.31
+  }
+ ],
+ "end": {
+  "text": "6 years of “next year.” Allah is still calling.",
+  "gold": "Today, before Maghrib: pray Asr. Don't wait for next year.",
+  "t0": 65.07,
+  "goldT0": 66.27,
+  "t1": 73.84
+ },
+ "segments": [
+  {
+   "scene": "bus_stop",
+   "dur": 34.71,
+   "opts": {
+    "bus": 24.73
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.2
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 18.86,
+   "opts": {
+    "ruku": [
+     [
+      10.79,
+      15.59
+     ]
+    ],
+    "povBow": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.56
+  }
+ ],
+ "hud": [
+  {
+   "label": "“NEXT YEAR” SAID",
+   "time": "6",
+   "sub": "PRAYERS STARTED: 0",
+   "t0": 6.4,
+   "t1": 34.01,
+   "box": true
+  },
+  {
+   "label": "PRAYERS STARTED",
+   "time": "1",
+   "sub": "TODAY, NOT NEXT YEAR",
+   "t0": 46.41,
+   "t1": 64.17,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.4,
+   12.26,
+   "4:05 p.m. Rain. The bus stop across from the mosque."
+  ],
+  [
+   12.36,
+   17.84,
+   "Your notes app. Every New Year, one line: “Start praying.”"
+  ],
+  [
+   17.94,
+   23.13,
+   "Across the street, the adhan for Asr. You look at your shoes."
+  ],
+  [
+   23.23,
+   28.93,
+   "The bus pulls in. “Next year,” you whisper. Again."
+  ],
+  [
+   29.03,
+   34.31,
+   "There's always a next bus. Not always a next year."
+  ],
+  [
+   46.41,
+   51.37,
+   "You let the bus go. You cross the street, soaking wet."
+  ],
+  [
+   51.47,
+   56.9,
+   "Last row. You don't remember every word. You pray anyway."
+  ],
+  [
+   57.0,
+   64.37,
+   "Your first sujood in six years. It feels like coming home."
+  ]
+ ],
+ "goldWords": [
+  "year.",
+  "home."
+ ],
+ "post": {
+  "caption": "6 years of “next year.” Allah is still calling. 🤍\n\nThere's always a next bus. There isn't always a next year. The adhan across the street was calling you, too.\n\n“Do not despair of the mercy of Allah.” (39:53)\n\nToday, before Maghrib: pray Asr. Don't wait for next year.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #salah #asr #startpraying #mercy",
+  "youtube_title": "6 years of “next year.” Allah is still calling. 🤍 #islam #salah"
+ }
+}

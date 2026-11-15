@@ -1,0 +1,121 @@
+{
+ "id": "2026-11-15-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "11 months on your shelf. Allah's words, unopened.",
+  "gold": [
+   "Allah's",
+   "words,"
+  ],
+  "t0": 0.3,
+  "t1": 6.57
+ },
+ "verses": [
+  {
+   "text": "“Unquestionably, by the remembrance of Allah hearts are assured.”",
+   "ref": "Surah Ar-Ra'd — 13:28",
+   "t0": 40.24,
+   "t1": 52.3
+  }
+ ],
+ "end": {
+  "text": "11 months on your shelf. Allah's words, unopened.",
+  "gold": "This morning: one page. Before you open your phone.",
+  "t0": 73.12,
+  "goldT0": 74.32,
+  "t1": 81.51
+ },
+ "segments": [
+  {
+   "scene": "library",
+   "dur": 39.64,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 13.26
+  },
+  {
+   "scene": "study",
+   "dur": 19.92,
+   "opts": {
+    "reach": 0.1
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.19
+  }
+ ],
+ "hud": [
+  {
+   "label": "NOTIFICATIONS READ TODAY",
+   "time": "214",
+   "sub": "PAGES OF QURAN: 0",
+   "t0": 6.67,
+   "t1": 38.94,
+   "box": true
+  },
+  {
+   "label": "PAGES OF QURAN",
+   "time": "1",
+   "sub": "BEFORE THE PHONE",
+   "t0": 53.4,
+   "t1": 72.22,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.67,
+   13.34,
+   "Sunday, 9:20. The city library. Three hours of notes."
+  ],
+  [
+   13.44,
+   20.29,
+   "Next to you, an old man. A small Quran, its cover worn soft."
+  ],
+  [
+   20.39,
+   27.23,
+   "Your phone lights up. 214 notifications. You read them all."
+  ],
+  [
+   27.33,
+   32.56,
+   "He closes his Quran, kisses it, and smiles at you."
+  ],
+  [
+   32.66,
+   39.24,
+   "And you remember yours. Top shelf. Your name on the first page."
+  ],
+  [
+   53.4,
+   60.71,
+   "Home. The shelf. A thin line of dust on green leather."
+  ],
+  [
+   60.81,
+   66.23,
+   "You wipe it with your sleeve. Your name, in your mother's handwriting."
+  ],
+  [
+   66.33,
+   72.42,
+   "One page. Your voice shakes. Then it doesn't."
+  ]
+ ],
+ "goldWords": [
+  "smiles",
+  "doesn't."
+ ],
+ "post": {
+  "caption": "11 months on your shelf. Allah's words, unopened. 📖\n\nAn old man in the library read every line with his finger. Yours still has your name on the first page — and a thin line of dust.\n\n“Unquestionably, by the remembrance of Allah hearts are assured.” (13:28)\n\nThis morning: one page. Before you open your phone.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #readquran #quranjournal #mushaf #onepageaday",
+  "youtube_title": "11 months on your shelf. Allah's words, unopened. 📖 #islam #quran"
+ }
+}

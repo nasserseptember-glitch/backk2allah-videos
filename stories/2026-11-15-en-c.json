@@ -1,0 +1,127 @@
+{
+ "id": "2026-11-15-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "“I'll pray for you” — 6 times this week. Prayed: 0.",
+  "gold": [
+   "Prayed:",
+   "0."
+  ],
+  "t0": 0.3,
+  "t1": 6.99
+ },
+ "verses": [
+  {
+   "text": "“Call upon Me; I will respond to you.”",
+   "ref": "Surah Ghafir — 40:60",
+   "t0": 39.4,
+   "t1": 49.4
+  }
+ ],
+ "end": {
+  "text": "“I'll pray for you” — 6 times this week. Prayed: 0.",
+  "gold": "Tonight at Isha: six names. Say each one to Allah.",
+  "t0": 68.43,
+  "goldT0": 69.63,
+  "t1": 78.17
+ },
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 7.19
+  },
+  {
+   "scene": "airport",
+   "dur": 31.61,
+   "opts": {
+    "time": "night",
+    "pass": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.2
+  },
+  {
+   "scene": "rooftop",
+   "dur": 18.13,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.54
+  }
+ ],
+ "hud": [
+  {
+   "label": "“I'LL PRAY FOR YOU”",
+   "time": "6",
+   "sub": "DU'AS MADE: 0",
+   "t0": 7.39,
+   "t1": 38.1,
+   "box": true
+  },
+  {
+   "label": "DU'AS MADE",
+   "time": "6",
+   "sub": "ONE FOR EACH NAME",
+   "t0": 50.5,
+   "t1": 67.53,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   7.39,
+   14.2,
+   "Terminal 2, gate B12. Your best friend flies home tonight."
+  ],
+  [
+   14.29,
+   20.19,
+   "His mum is in intensive care. He hasn't slept in two days."
+  ],
+  [
+   20.29,
+   25.58,
+   "At the gate, he hugs you too long. “Pray for her, bro.”"
+  ],
+  [
+   25.68,
+   30.37,
+   "“Of course,” you say. Like the five other times this week."
+  ],
+  [
+   30.47,
+   38.4,
+   "Boarding. He turns back once. His eyes say: please. Really."
+  ],
+  [
+   50.5,
+   55.78,
+   "Your rooftop. His plane blinks across the dark sky."
+  ],
+  [
+   55.88,
+   62.16,
+   "Hands raised. You say his mother's name. Then the five other names."
+  ],
+  [
+   62.26,
+   67.73,
+   "You text him: “I prayed for her. Just now. I'll keep going.”"
+  ]
+ ],
+ "goldWords": [
+  "Really.",
+  "Just",
+  "now."
+ ],
+ "post": {
+  "caption": "“I'll pray for you” — 6 times this week. Prayed: 0. 🤲\n\nWe say it so easily. Someone, somewhere, is counting on it.\n\n“Call upon Me; I will respond to you.” (40:60)\n\nTonight at Isha: six names. Say each one to Allah.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #dua #duaforothers #friendship #brotherhood",
+  "youtube_title": "“I'll pray for you” — 6 times this week. Prayed: 0. 🤲 #islam #dua"
+ }
+}
