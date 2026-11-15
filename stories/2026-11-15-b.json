@@ -1,0 +1,121 @@
+{
+ "id": "2026-11-15-b",
+ "segments": [
+  {
+   "scene": "gym",
+   "dur": 28.79
+  },
+  {
+   "scene": "black",
+   "dur": 10.6
+  },
+  {
+   "scene": "mosque_ext",
+   "dur": 13.41,
+   "opts": {
+    "time": "night"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.25
+  }
+ ],
+ "captions": [
+  [
+   5.05,
+   9.77,
+   "Tu n'as jamais raté. Même crevé. Même malade."
+  ],
+  [
+   9.89,
+   14.35,
+   "La prière ? Un Fajr raté, et tu as tout lâché."
+  ],
+  [
+   14.47,
+   19.07,
+   "« C'est fichu », tu t'es dit. C'était il y a deux mois."
+  ],
+  [
+   19.19,
+   24.41,
+   "Ton pote, sur le tapis d'à côté : « Raté hier ? Tu reviens. »"
+  ],
+  [
+   24.53,
+   28.52,
+   "Pour ton corps, tu le sais. Pour Allah, tu l'avais oublié."
+  ],
+  [
+   39.84,
+   43.41,
+   "Isha. Le sac de sport encore sur l'épaule."
+  ],
+  [
+   43.53,
+   46.92,
+   "Pas besoin d'une série parfaite. Juste aujourd'hui."
+  ],
+  [
+   47.04,
+   52.53,
+   "Jour 1. Encore. La porte n'a jamais été fermée."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 29.09,
+   "t1": 38.59,
+   "text": "« Ne vous laissez pas abattre, ne vous affligez pas. »",
+   "ref": "Sourate Âl ʿImrân — 3:139"
+  }
+ ],
+ "hud": [
+  {
+   "label": "SÉRIE SALLE",
+   "time": "41 JOURS",
+   "sub": "SÉRIE PRIÈRE : 0",
+   "t0": 0.2,
+   "t1": 28.49,
+   "box": true
+  },
+  {
+   "label": "SÉRIE PRIÈRE",
+   "time": "JOUR 1",
+   "sub": "ISHA",
+   "t0": 39.59,
+   "t1": 52.5,
+   "box": true
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.9,
+  "text": "41 jours de salle d'affilée. Ta prière a tenu 3 jours.",
+  "gold": [
+   "41",
+   "prière"
+  ]
+ },
+ "end": {
+  "t0": 53.1,
+  "t1": 59.9,
+  "text": "41 jours de salle d'affilée. Ta prière a tenu 3 jours.",
+  "goldT0": 54.6,
+  "gold": "Ce soir, Isha. Jour 1. Demain, jour 2."
+ },
+ "goldWords": [
+  "allah,",
+  "encore.",
+  "aujourd'hui.",
+  "fermée."
+ ],
+ "post": {
+  "caption": "41 jours de salle d'affilée. Ta prière a tenu 3 jours. 🤍\n\n« Ne vous laissez pas abattre, ne vous affligez pas. » (3:139)\n\nTu as raté une prière et tu t'es dit « c'est fichu » ? À la salle, tu reviens toujours. Avec Allah aussi. Ce soir, Isha. Jour 1. Demain, jour 2.",
+  "hashtags": "#rappel #islam #rappelislamique #salat #priere #muslim #sport #isha",
+  "youtube_title": "41 jours de salle. Ta prière a tenu 3 jours. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

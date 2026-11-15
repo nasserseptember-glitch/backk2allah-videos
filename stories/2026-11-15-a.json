@@ -1,0 +1,128 @@
+{
+ "id": "2026-11-15-a",
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 6.35
+  },
+  {
+   "scene": "souk",
+   "dur": 21.3,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.6
+  },
+  {
+   "scene": "wudu",
+   "dur": 13.73,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.95
+  }
+ ],
+ "captions": [
+  [
+   6.8,
+   11.07,
+   "Tu avais 6 ans. Tu as lâché la main de ta mère."
+  ],
+  [
+   11.19,
+   15.58,
+   "Aujourd'hui, le même souk. La même odeur de cumin."
+  ],
+  [
+   15.7,
+   18.02,
+   "Une petite main attrape ta manche."
+  ],
+  [
+   18.14,
+   23.1,
+   "Il crie : « Maman ! » Une seule fois. Elle accourt déjà."
+  ],
+  [
+   23.22,
+   27.38,
+   "Et toi ? 4 ans que tu n'appelles plus Allah."
+  ],
+  [
+   38.7,
+   43.18,
+   "Tu rentres. Le robinet coule, tu fais tes ablutions."
+  ],
+  [
+   43.3,
+   47.8,
+   "Deux rakʿa. Et tu L'appelles, comme cet enfant."
+  ],
+  [
+   47.92,
+   51.71,
+   "Tu n'as pas eu à courir. Il était déjà tout proche."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 27.95,
+   "t1": 37.45,
+   "text": "« Je suis tout proche : Je réponds à l'appel de celui qui Me prie quand il Me prie. »",
+   "ref": "Sourate Al-Baqara — 2:186"
+  }
+ ],
+ "hud": [
+  {
+   "label": "PERDU AU SOUK",
+   "time": "4 MIN",
+   "sub": "LOIN D'ALLAH : 4 ANS",
+   "t0": 6.55,
+   "t1": 27.35,
+   "box": true
+  },
+  {
+   "label": "LOIN D'ALLAH",
+   "time": "0 MIN",
+   "sub": "DEUX RAKʿA CE MATIN",
+   "t0": 38.45,
+   "t1": 51.68,
+   "box": true
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.05,
+  "text": "Perdu 4 minutes au souk, tu pleurais. 4 ans loin d'Allah ?",
+  "gold": [
+   "4",
+   "Allah"
+  ]
+ },
+ "end": {
+  "t0": 52.28,
+  "t1": 59.78,
+  "text": "Perdu 4 minutes au souk, tu pleurais. 4 ans loin d'Allah ?",
+  "goldT0": 53.78,
+  "gold": "Ce matin, appelle-Le : deux rakʿa et une dua."
+ },
+ "goldWords": [
+  "allah.",
+  "l'appelles,",
+  "proche.",
+  "appelle-le"
+ ],
+ "post": {
+  "caption": "Perdu 4 minutes au souk, tu pleurais. 4 ans loin d'Allah ? 🤍\n\n« Je suis tout proche : Je réponds à l'appel de celui qui Me prie quand il Me prie. » (2:186)\n\nUn enfant perdu crie une seule fois, et sa mère accourt. Et toi, depuis quand tu ne L'appelles plus ? Ce matin, deux rakʿa et une dua. Il est déjà tout proche.",
+  "hashtags": "#rappel #islam #rappelislamique #dua #salat #muslim #souk #allah",
+  "youtube_title": "Perdu 4 minutes au souk. 4 ans loin d'Allah ? 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

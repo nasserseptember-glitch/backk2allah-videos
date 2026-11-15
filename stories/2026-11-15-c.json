@@ -1,0 +1,120 @@
+{
+ "id": "2026-11-15-c",
+ "segments": [
+  {
+   "scene": "street",
+   "dur": 13.59,
+   "opts": {
+    "dayFrom": 0.75,
+    "dayTo": 0.95,
+    "clock": "17:12"
+   }
+  },
+  {
+   "scene": "checkout",
+   "dur": 26.06,
+   "opts": {
+    "pay": 0.32
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.6
+  },
+  {
+   "scene": "black",
+   "dur": 10.06
+  }
+ ],
+ "captions": [
+  [
+   8.05,
+   13.32,
+   "17 h 12. Courses rapides, écouteurs dans les oreilles."
+  ],
+  [
+   14.04,
+   18.15,
+   "Devant toi, un client crie pour 50 centimes."
+  ],
+  [
+   18.27,
+   21.2,
+   "Elle s'excuse. Et elle sourit quand même."
+  ],
+  [
+   21.32,
+   25.65,
+   "Ton tour. Tu tends ta carte sans lever les yeux."
+  ],
+  [
+   25.77,
+   30.16,
+   "Elle murmure : « Bonne soirée. » Personne ne répond."
+  ],
+  [
+   30.28,
+   34.77,
+   "Tu enlèves un écouteur : « Merci. Qu'Allah te facilite. »"
+  ],
+  [
+   34.89,
+   39.38,
+   "Elle lève les yeux. Son premier vrai sourire de la journée."
+  ]
+ ],
+ "verses": [
+  {
+   "t0": 39.95,
+   "t1": 49.45,
+   "text": "« Quiconque fait un bien fût-ce du poids d'un atome, le verra. »",
+   "ref": "Sourate Az-Zalzala — 99:7"
+  }
+ ],
+ "hud": [
+  {
+   "label": "CLIENTS AUJOURD'HUI",
+   "time": "214",
+   "sub": "« MERCI » REÇUS : 0",
+   "t0": 13.79,
+   "t1": 30.08,
+   "box": true
+  },
+  {
+   "label": "CLIENTS AUJOURD'HUI",
+   "time": "215",
+   "sub": "« MERCI » REÇUS : 1",
+   "t0": 30.28,
+   "t1": 39.35,
+   "box": true
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 7.9,
+  "text": "214 clients aujourd'hui. Pas un merci. Allah, Lui, a tout vu.",
+  "gold": [
+   "214",
+   "Allah"
+  ]
+ },
+ "end": {
+  "t0": 50.55,
+  "t1": 60.16,
+  "text": "214 clients aujourd'hui. Pas un merci. Allah, Lui, a tout vu.",
+  "goldT0": 52.05,
+  "gold": "Demain, regarde la caissière. Dis merci, et une dua pour elle."
+ },
+ "goldWords": [
+  "merci.",
+  "allah",
+  "sourire"
+ ],
+ "post": {
+  "caption": "214 clients aujourd'hui. Pas un merci. Allah, Lui, a tout vu. 🤍\n\n« Quiconque fait un bien fût-ce du poids d'un atome, le verra. » (99:7)\n\nUn merci. Une dua. Dix secondes pour quelqu'un que personne ne regarde. Demain, regarde la caissière, dis merci et fais une dua pour elle.",
+  "hashtags": "#rappel #islam #rappelislamique #bonteaction #sadaqa #muslim #gentillesse #dua",
+  "youtube_title": "214 clients. Pas un merci. Allah a tout vu. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}
