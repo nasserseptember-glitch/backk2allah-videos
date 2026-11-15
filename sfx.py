@@ -224,6 +224,67 @@ for sg in S['segments']:
             tt = a + 0.3
             while tt < b - 0.2:
                 m = int(SR * 0.1); put(lp(rng.normal(0, 1, m), 1200) * env(m, 0.002, 0.03) * 0.06, tt); tt += 0.6
+    elif sc == 'courtyard':  # fountain splashing, pigeons cooing, soft steps on marble
+        out[:] += ((bp(PINK, 600, 7000) * 0.05 + lp(BROWN, 200) * 0.02) * w)[:, None]
+        for kk in range(int(d * 0.6)):
+            m = int(SR * 0.9); u = np.arange(m) / SR; f0 = rng.uniform(280, 360)
+            s = np.sin(2 * np.pi * (f0 + 40 * np.sin(2 * np.pi * 3 * u)) * u) * np.sin(np.pi * u / u[-1]) ** 2 * (0.5 + 0.5 * np.sin(2 * np.pi * 7 * u))
+            put(lp(s, 900) * 0.025, a + 0.3 + rng.random() * (d - 1.2), pan=rng.uniform(-0.7, 0.7))
+        if o.get('walk', True):
+            tt = a + 0.4
+            while tt < b - 0.2:
+                m = int(SR * 0.08); put(bp(rng.normal(0, 1, m), 300, 2500) * env(m, 0.002, 0.025) * 0.05, tt); tt += 0.7
+    elif sc == 'mountain':  # gusting wind, a far bird call
+        gust = 0.5 + 0.5 * np.sin(T * 0.35) * np.sin(T * 0.13 + 1)
+        out[:] += ((bp(PINK, 150, 1800) * 0.07 * (0.4 + gust) + lp(BROWN, 90) * 0.04) * w)[:, None]
+        for kk in range(max(1, int(d // 6))):
+            m = int(SR * 0.5); u = np.arange(m) / SR
+            put(verb(np.sin(2 * np.pi * (2200 - 900 * u / u[-1]) * u) * np.sin(np.pi * u / u[-1]) ** 2, 0.6) * 0.012, a + 1 + kk * 6 + rng.random() * 2, pan=rng.uniform(-0.8, 0.8))
+    elif sc == 'cemetery':  # soft breeze in leaves, sparse birds, deep quiet
+        out[:] += ((bp(PINK, 1500, 7000) * 0.015 * (0.5 + 0.5 * np.sin(T * 0.5)) + lp(BROWN, 150) * 0.02) * w)[:, None]
+        for kk in range(int(d * 0.8)):
+            f0 = rng.uniform(3000, 4800); m = int(SR * rng.uniform(0.06, 0.14)); u = np.arange(m) / SR
+            put(verb(np.sin(2 * np.pi * (f0 + rng.uniform(-800, 800) * u / u[-1]) * u) * np.sin(np.pi * u / u[-1]) ** 2, 0.4) * 0.012, a + 0.5 + rng.random() * (d - 1), pan=rng.uniform(-0.9, 0.9))
+    elif sc == 'waiting_room':  # ventilation, murmurs, paper, call chime when the number changes
+        out[:] += ((bp(PINK, 80, 300) * 0.03 + bp(PINK, 400, 2000) * 0.012) * w)[:, None]
+        for kk in range(int(d // 3)):
+            m = int(SR * 0.3); put(bp(rng.normal(0, 1, m), 2000, 8000) * env(m, 0.02, 0.06) * 0.02, a + 0.5 + rng.random() * (d - 1), pan=rng.uniform(-0.5, 0.5))
+        ct = a + d * o.get('call', 0.7)
+        if ct < b:
+            for j, f in enumerate([880.0, 698.46]): put(verb(bell(f, 0.7), 0.5) * 0.05, ct + j * 0.45)
+    elif sc == 'kids_room':  # very quiet room, slow child breathing
+        out[:] += (lp(BROWN, 120) * 0.015 * w)[:, None]
+        tt = a + 0.6
+        while tt < b - 1.5:
+            m = int(SR * 1.4); u = np.arange(m) / SR
+            put(bp(rng.normal(0, 1, m), 300, 1800) * np.sin(np.pi * u / u[-1]) ** 2 * 0.018, tt); tt += 3.5
+    elif sc == 'football':  # stadium crowd swell, ball kicks, a referee whistle
+        am = lp(np.abs(rng.normal(0, 1, N)), 0.6); am /= am.max()
+        out[:] += ((bp(PINK, 250, 3000) * 0.06 * (0.4 + am) + lp(BROWN, 150) * 0.03) * w)[:, None]
+        if o.get('play', True):
+            for kk in range(int(d // 2)):
+                m = int(SR * 0.15); u = np.arange(m) / SR
+                put(lp(np.sin(2 * np.pi * 90 * u) * env(m, 0.001, 0.03) + rng.normal(0, 1, m) * env(m, 0.001, 0.01), 1500) * 0.1, a + 0.8 + kk * 2 + rng.random(), pan=rng.uniform(-0.4, 0.4))
+            m = int(SR * 0.6); u = np.arange(m) / SR
+            put(np.sin(2 * np.pi * (2900 + 120 * np.sin(2 * np.pi * 30 * u)) * u) * env(m, 0.01, 0.25) * 0.03, a + d * 0.55, pan=0.3)
+    elif sc == 'river':  # flowing water with gurgles, birds, oar dips
+        out[:] += ((bp(PINK, 300, 3500) * 0.05 * (0.7 + 0.3 * np.sin(T * 0.8)) + lp(BROWN, 150) * 0.03) * w)[:, None]
+        for kk in range(int(d * 3)):
+            m = int(SR * 0.08); u = np.arange(m) / SR
+            put(np.sin(2 * np.pi * rng.uniform(300, 900) * (1 + 2 * u) * u) * env(m, 0.005, 0.03) * 0.015, a + rng.random() * d, pan=rng.uniform(0.1, 0.9))
+        if o.get('boat', True):
+            tt = a + 1.0
+            while tt < b - 0.5:
+                m = int(SR * 0.4); put(bp(rng.normal(0, 1, m), 400, 3000) * env(m, 0.01, 0.12) * 0.03, tt, pan=0.6); tt += 3.9
+    elif sc == 'construction':  # machinery hum, hammer clangs, crane motor, far traffic
+        out[:] += ((bp(PINK, 60, 250) * 0.05 + bp(PINK, 300, 2000) * 0.02) * w)[:, None]
+        for kk in range(int(d * 0.8)):
+            for rep in range(3):
+                m = int(SR * 0.3); u = np.arange(m) / SR
+                put((np.sin(2 * np.pi * 1250 * u) + 0.5 * np.sin(2 * np.pi * 2710 * u)) * env(m, 0.001, 0.05) * 0.025, a + 0.5 + kk * 1.25 + rep * 0.38, pan=0.5)
+        if o.get('crane', True):
+            m = int(SR * d); u = np.arange(m) / SR
+            put(np.sin(2 * np.pi * (180 + 10 * np.sin(u * 0.4)) * u) * 0.006 * np.sin(np.pi * u / d), a, pan=-0.5)
     elif sc == 'black':
         out[:] += (lp(BROWN, 120) * 0.04 * win(a, b, 1.0, 1.0))[:, None]
     a = b

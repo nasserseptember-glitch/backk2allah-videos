@@ -141,6 +141,15 @@ Brand **Back2Allah ARB, blogId 7763307** (Instagram @back2allah_arb, TikTok @Bac
   - `classroom` — examenlokaal overdag, leerlingen over hun blad gebogen, bord, wandklok met lopende wijzers; POV schrijft op het examenblad en kijkt dan op naar de klok. opts: `clock: "10:52"`, `fast: true` (klok loopt snel), `lookUp` (fractie, standaard 0.6), `write: false`
   - `snow_street` — besneeuwde straat 's nachts, vallende sneeuw, warme lantaarns, adem-wolkjes, voetsporen van iemand die al voorging naar de moskee aan het eind (groene minaret). opts: `walk: false`, `mosque: false`
   - `souk` — smalle marktstraat met luifels, kruidenbergjes, tapijten, koperen lampen, zwaaiende lantaarns en wandelende mensen. opts: `time: "dusk"|"day"`, `walk: false`
+  - *Decors week 2026-11-16 (`engine/scenes5.js`):*
+  - `courtyard` — binnenplaats van een moskee: marmeren tegels, fontein met springend water en kraantjes (man doet wudu), arcades met bogen en lantaarns, groene koepel + minaret, duiven op de grond en in de lucht, mensen lopen naar de verlichte deur; camera wandelt langzaam. opts: `time: "dawn"|"day"|"night"`, `walk: false`
+  - `mountain` — bergtop bij zonsopgang boven een zee van wolken, besneeuwde toppen, zon komt op, steenmannetje, gebedskleed gericht naar de zon; camera wandelt naar de rand en kijkt op. opts: `walk: false`, `mat: false`
+  - `cemetery` — begraafplaats overdag: rijen eenvoudige graven met grafsteentjes, cipressen en olijfbomen, vers graf vóór je, vallende blaadjes, verre bezoekster; POV-handen gaan omhoog in dua. opts: `time: "golden"`, `dua` (fractie, standaard 0.4; `false` = geen handen)
+  - `waiting_room` — wachtzaal (ziekenhuis/administratie): rijen stoelen, rood LED-nummerbord, tv, klok, onthaal; POV-handen met ticket. Op `call` springt het bord naar jouw nummer (flits + gong). opts: `ticket: "A052"`, `now: "A047"`, `call` (fractie, standaard 0.7)
+  - `kids_room` — kinderkamer 's nachts: kind slaapt (ademt), sterrenprojector tovert sterren op plafond en muren, maan door het raam, knuffelbeer, speelgoed; POV-hand stopt het dekentje in. Ideaal voor ouders/kinderen/opvoeding. opts: `stars: false`, `tuck` (fractie, standaard 0.4), `hand: false`
+  - `football` — voetbalveld onder schijnwerpers: spelers rond een bal, tribune met publiek, scorebord "2 78' 1", camera op de bank langs de lijn. opts: `time: "day"` (zonsondergang), `play: false` (leeg veld)
+  - `river` — rivier bij mistige dageraad: stromend water met glinstering, riet, wilgen, roeibootje met oude man, stenen brug in de verte; wandelen langs de oever. opts: `time: "day"`, `walk: false` (zittend aan de oever), `boat: false`
+  - `construction` — bouwwerf bij zonsondergang: betonskelet met steigers, draaiende torenkraan met slingerende last, arbeiders met helm, betonmolen, minaret aan de horizon; POV-handen in werkhandschoenen. opts: `time: "day"`, `crane: false`, `gloves: false`, `minaret: false`
   - `black` — zwart scherm (voor vers of einde)
 - Tijden hieronder zijn **absolute seconden** vanaf het begin van de video.
 - `hook`: `{t0, t1, text, gold: [woorden in goud]}` (bovenaan)
