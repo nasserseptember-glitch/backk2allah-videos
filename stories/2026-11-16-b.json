@@ -1,0 +1,126 @@
+{
+ "id": "2026-11-16-b",
+ "segments": [
+  {
+   "scene": "waiting_room",
+   "dur": 25.95,
+   "opts": {
+    "ticket": "A052",
+    "now": "A044",
+    "call": 0.879
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.1
+  },
+  {
+   "scene": "courtyard",
+   "dur": 14.56,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.87
+  }
+ ],
+ "hook": {
+  "text": "8 numéros avant ton résultat. Et Allah, tu Lui as parlé ?",
+  "gold": [
+   "8",
+   "allah,"
+  ],
+  "t0": 0.3,
+  "t1": 5.88
+ },
+ "hud": [
+  {
+   "label": "NUMÉRO APPELÉ",
+   "time": "A044",
+   "sub": "TON TICKET : A052",
+   "t0": 0.2,
+   "t1": 22.91,
+   "box": true
+  },
+  {
+   "label": "RÉSULTAT DANS",
+   "time": "1 MOIS",
+   "sub": "DHUHR · 2 RAKʿAS",
+   "t0": 37.25,
+   "t1": 51.31,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.0,
+   9.39,
+   "Tu as tout lu sur internet. Surtout le pire."
+  ],
+  [
+   9.49,
+   13.5,
+   "Ta jambe tremble. Ton pouce scrolle sans rien voir."
+  ],
+  [
+   13.6,
+   18.25,
+   "À côté, un vieil homme égrène son chapelet. Calme."
+  ],
+  [
+   18.35,
+   22.91,
+   "Il murmure : « Il sait déjà, mon fils. Parle-Lui. »"
+  ],
+  [
+   23.01,
+   25.55,
+   "A052. C'est toi."
+  ],
+  [
+   37.45,
+   42.06,
+   "Le médecin : « On refait des examens. On verra. »"
+  ],
+  [
+   42.16,
+   46.74,
+   "L'eau froide sur tes mains. Tes épaules redescendent."
+  ],
+  [
+   46.84,
+   51.21,
+   "Tu ne sais toujours rien. Mais tu ne portes plus ça seul."
+  ]
+ ],
+ "verses": [
+  {
+   "text": "« Allah n'impose à aucune âme une charge supérieure à sa capacité. »",
+   "ref": "Sourate Al-Baqara — 2:286",
+   "t0": 26.25,
+   "t1": 36.75
+  }
+ ],
+ "end": {
+  "t0": 51.91,
+  "goldT0": 53.11,
+  "text": "8 numéros avant ton résultat. Et Allah, tu Lui as parlé ?",
+  "gold": "Avant le prochain résultat : deux rakʿas. Aujourd'hui.",
+  "t1": 59.28
+ },
+ "goldWords": [
+  "parle-lui.",
+  "calme.",
+  "seul.",
+  "allah"
+ ],
+ "post": {
+  "caption": "8 numéros avant ton résultat. Et Allah, tu Lui as parlé ? 🤍\n\n« Allah n'impose à aucune âme une charge supérieure à sa capacité. » (2:286)\n\nTu attends un résultat, une réponse, une nouvelle ? Il sait déjà. Parle-Lui. Avant le prochain résultat : deux rakʿas, aujourd'hui.",
+  "hashtags": "#rappel #islam #rappelislamique #tawakkul #dua #salat #muslim #patience",
+  "youtube_title": "8 numéros avant ton résultat. Et Allah, tu Lui as parlé ? 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

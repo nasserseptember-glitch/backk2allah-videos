@@ -1,0 +1,123 @@
+{
+ "id": "2026-11-16-c",
+ "segments": [
+  {
+   "scene": "construction",
+   "dur": 27.49,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.4
+  },
+  {
+   "scene": "car_night",
+   "dur": 13.63,
+   "opts": {
+    "rain": false,
+    "clock": "18:52"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.79
+  }
+ ],
+ "hook": {
+  "text": "11 petits mensonges aujourd'hui. Allah les a tous entendus.",
+  "gold": [
+   "11",
+   "allah"
+  ],
+  "t0": 0.3,
+  "t1": 6.09
+ },
+ "hud": [
+  {
+   "label": "MENSONGES AUJOURD'HUI",
+   "time": "11",
+   "sub": "« DES PETITS »",
+   "t0": 0.2,
+   "t1": 27.19,
+   "box": true
+  },
+  {
+   "label": "VÉRITÉS CE SOIR",
+   "time": "2",
+   "sub": "MENSONGES RÉPARÉS",
+   "t0": 38.09,
+   "t1": 51.22,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.21,
+   11.08,
+   "Au client : « Ce sera fini vendredi. » Tu sais que non."
+  ],
+  [
+   11.18,
+   15.33,
+   "Au patron : « Le béton est arrivé. » Il ne l'est pas."
+  ],
+  [
+   15.43,
+   19.75,
+   "À ta femme : « Je suis sur la route. » Tu n'as pas bougé."
+  ],
+  [
+   19.85,
+   24.24,
+   "Au loin, l'adhan de Maghrib traverse le chantier."
+  ],
+  [
+   24.34,
+   27.09,
+   "Et chaque mot de ta journée te revient."
+  ],
+  [
+   38.29,
+   43.6,
+   "Au client : « Ce sera lundi. Je vous ai menti. Pardon. »"
+  ],
+  [
+   43.7,
+   47.25,
+   "Puis ta femme : « Je pars seulement maintenant. »"
+  ],
+  [
+   47.35,
+   51.12,
+   "La vérité pèse moins lourd que tu croyais."
+  ]
+ ],
+ "verses": [
+  {
+   "text": "« Allah aime ceux qui se repentent. »",
+   "ref": "Sourate Al-Baqara — 2:222",
+   "t0": 27.79,
+   "t1": 37.59
+  }
+ ],
+ "end": {
+  "t0": 51.82,
+  "goldT0": 53.02,
+  "text": "11 petits mensonges aujourd'hui. Allah les a tous entendus.",
+  "gold": "Ce soir, répare un mensonge. Un seul.",
+  "t1": 59.11
+ },
+ "goldWords": [
+  "pardon.",
+  "vérité",
+  "maghrib",
+  "allah"
+ ],
+ "post": {
+  "caption": "11 petits mensonges aujourd'hui. Allah les a tous entendus. 🤍\n\n« Allah aime ceux qui se repentent. » (2:222)\n\nAu client, au patron, à ta femme… « des petits ». Ce soir, répare un mensonge. Un seul. La vérité pèse moins lourd que tu crois.",
+  "hashtags": "#rappel #islam #rappelislamique #mensonge #sincerite #tawba #muslim #maghrib",
+  "youtube_title": "11 petits mensonges aujourd'hui. Allah les a tous entendus. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}
