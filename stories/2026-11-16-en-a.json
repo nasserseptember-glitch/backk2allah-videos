@@ -1,0 +1,132 @@
+{
+ "id": "2026-11-16-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "She knows 25 cartoon songs. Not one word about Allah.",
+  "gold": [
+   "Allah."
+  ],
+  "t0": 0.3,
+  "t1": 8.24
+ },
+ "verses": [
+  {
+   "text": "“Your Lord has not taken leave of you, [O Muhammad], nor has He detested [you].”",
+   "ref": "Surah Ad-Duha — 93:3",
+   "t0": 42.14,
+   "t1": 53.37
+  }
+ ],
+ "end": {
+  "text": "She knows 25 cartoon songs. Not one word about Allah.",
+  "gold": "Today, teach her one line of Al-Fatihah. Just one.",
+  "t0": 81.55,
+  "goldT0": 82.75,
+  "t1": 89.87
+ },
+ "segments": [
+  {
+   "scene": "kids_room",
+   "dur": 41.84,
+   "opts": {
+    "tuck": 0.3
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 12.03
+  },
+  {
+   "scene": "courtyard",
+   "dur": 27.38,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.12
+  }
+ ],
+ "hud": [
+  {
+   "label": "CARTOON SONGS SHE KNOWS",
+   "time": "25",
+   "sub": "WORDS ABOUT ALLAH: 0",
+   "t0": 8.34,
+   "t1": 41.14,
+   "box": true
+  },
+  {
+   "label": "WORDS FOR ALLAH",
+   "time": "2",
+   "sub": "AND COUNTING",
+   "t0": 54.17,
+   "t1": 80.55,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   8.34,
+   14.48,
+   "You counted tonight. Twenty-five. You taught her most of them."
+  ],
+  [
+   14.58,
+   20.89,
+   "9:40 p.m. Stars turn slowly on her ceiling."
+  ],
+  [
+   20.98,
+   26.79,
+   "You tuck the blanket under her chin. She hums the theme song."
+  ],
+  [
+   26.89,
+   33.17,
+   "Then she opens her eyes: “Daddy, who made the stars?”"
+  ],
+  [
+   33.27,
+   37.06,
+   "You open your mouth. Nothing comes."
+  ],
+  [
+   37.16,
+   41.44,
+   "You haven't said His name out loud in months."
+  ],
+  [
+   54.17,
+   62.34,
+   "Next morning. Her small hand in yours. The mosque fountain."
+  ],
+  [
+   62.44,
+   69.76,
+   "You show her the water. Hands, mouth, face. She giggles."
+  ],
+  [
+   69.86,
+   75.21,
+   "“Bismillah,” you say. “Bismillah,” she repeats."
+  ],
+  [
+   75.31,
+   80.85,
+   "Two words. The first you've ever taught her for Allah."
+  ]
+ ],
+ "goldWords": [
+  "Nothing",
+  "Allah."
+ ],
+ "post": {
+  "caption": "She knows 25 cartoon songs. Not one word about Allah. 🌙\n\n9:40 p.m., stars turning on her ceiling, and she asks: “Daddy, who made the stars?” — and you have no words ready.\n\n“Your Lord has not taken leave of you.” (93:3)\n\nToday, teach her one line of Al-Fatihah. Just one.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #muslimparents #muslimkids #islamicparenting #bismillah",
+  "youtube_title": "She knows 25 cartoon songs. Not one word about Allah. 🌙 #islam #muslimparents"
+ }
+}

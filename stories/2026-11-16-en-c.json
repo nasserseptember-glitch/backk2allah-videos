@@ -1,0 +1,130 @@
+{
+ "id": "2026-11-16-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "You said “sorry” 12 times at work today. Allah? Not once.",
+  "gold": [
+   "Allah?"
+  ],
+  "t0": 0.3,
+  "t1": 7.45
+ },
+ "verses": [
+  {
+   "text": "“Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver. He will send [rain from] the sky upon you in [continuing] showers.”",
+   "ref": "Surah Nuh — 71:10-11",
+   "t0": 70.51,
+   "t1": 88.49
+  }
+ ],
+ "end": {
+  "text": "You said “sorry” 12 times at work today. Allah? Not once.",
+  "gold": "Tonight, before you sleep: Astaghfirullah. 12 times.",
+  "t0": 89.29,
+  "goldT0": 90.49,
+  "t1": 98.45
+ },
+ "segments": [
+  {
+   "scene": "construction",
+   "dur": 44.76,
+   "opts": {}
+  },
+  {
+   "scene": "river",
+   "dur": 25.45,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 18.78
+  },
+  {
+   "scene": "black",
+   "dur": 9.96
+  }
+ ],
+ "hud": [
+  {
+   "label": "“SORRY” SAID TODAY",
+   "time": "12",
+   "sub": "TO ALLAH: 0",
+   "t0": 7.55,
+   "t1": 44.06,
+   "box": true
+  },
+  {
+   "label": "ASTAGHFIRULLAH",
+   "time": "12",
+   "sub": "TO ALLAH",
+   "t0": 45.06,
+   "t1": 69.51,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   7.55,
+   12.87,
+   "To the client. The foreman. The driver you kept waiting."
+  ],
+  [
+   12.97,
+   19.43,
+   "5:10 p.m. The crane swings the last load of the day."
+  ],
+  [
+   19.53,
+   25.63,
+   "The concrete is late again. Your phone buzzes: “Unacceptable.”"
+  ],
+  [
+   25.73,
+   32.28,
+   "“Sorry. I'm so sorry. It won't happen again.” Number twelve."
+  ],
+  [
+   32.38,
+   38.93,
+   "Then, above the scaffolding, a minaret catches the last light."
+  ],
+  [
+   39.03,
+   44.36,
+   "And you wonder: when did I last say sorry to Him?"
+  ],
+  [
+   45.06,
+   51.3,
+   "The walk home. The river, slow and quiet."
+  ],
+  [
+   51.4,
+   57.18,
+   "You stop. Gloves in your pocket. Dust still on your hands."
+  ],
+  [
+   57.28,
+   62.96,
+   "“Astaghfirullah.” Once. Your throat tightens."
+  ],
+  [
+   63.06,
+   69.81,
+   "Twelve times. Softer each time. Lighter each time."
+  ]
+ ],
+ "goldWords": [
+  "minaret",
+  "Lighter"
+ ],
+ "post": {
+  "caption": "You said “sorry” 12 times at work today. Allah? Not once. 🏗️\n\nTo the client, the foreman, the driver. Then a minaret caught the last light above the scaffolding — and you wondered when you last said sorry to Him.\n\n“Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver.” (71:10)\n\nTonight, before you sleep: Astaghfirullah. 12 times.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #astaghfirullah #istighfar #tawbah #forgiveness",
+  "youtube_title": "You said “sorry” 12 times today. Allah? Not once. 🏗️ #islam #astaghfirullah"
+ }
+}

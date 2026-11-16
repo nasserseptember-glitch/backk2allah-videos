@@ -1,0 +1,136 @@
+{
+ "id": "2026-11-16-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "90 minutes on your feet. Not 4 for Maghrib?",
+  "gold": [
+   "Maghrib?"
+  ],
+  "t0": 0.3,
+  "t1": 5.34
+ },
+ "verses": [
+  {
+   "text": "“Establish prayer for My remembrance.”",
+   "ref": "Surah Ta-Ha — 20:14",
+   "t0": 46.95,
+   "t1": 54.36
+  }
+ ],
+ "end": {
+  "text": "90 minutes on your feet. Not 4 for Maghrib?",
+  "gold": "Maghrib is soon. Be on your feet for it.",
+  "t0": 72.63,
+  "goldT0": 73.83,
+  "t1": 78.07
+ },
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 5.54
+  },
+  {
+   "scene": "football",
+   "dur": 41.11,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.21
+  },
+  {
+   "scene": "wudu",
+   "dur": 17.47,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6.24
+  }
+ ],
+ "hud": [
+  {
+   "label": "ON YOUR FEET",
+   "time": "90 MIN",
+   "sub": "FOR MAGHRIB: 0 MIN",
+   "t0": 5.84,
+   "t1": 45.95,
+   "box": true
+  },
+  {
+   "label": "MAGHRIB",
+   "time": "4 MIN",
+   "sub": "ON TIME",
+   "t0": 55.16,
+   "t1": 71.63,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.84,
+   10.7,
+   "Your voice is gone. You shouted every single minute."
+  ],
+  [
+   10.8,
+   16.39,
+   "Sunday league final. 4:40 p.m. You're on the bench."
+  ],
+  [
+   16.49,
+   23.09,
+   "2–1. Seventy-eighth minute. The whole bench is standing."
+  ],
+  [
+   23.19,
+   28.58,
+   "From the street behind the stand, faintly: Allahu akbar."
+  ],
+  [
+   28.68,
+   33.84,
+   "Old Yusuf, the kit man, spreads his jacket behind the bench."
+  ],
+  [
+   33.94,
+   39.71,
+   "He prays. You keep shouting. “After the whistle,” you tell yourself."
+  ],
+  [
+   39.81,
+   46.25,
+   "The whistle. Photos. The car. Maghrib is gone."
+  ],
+  [
+   55.16,
+   60.18,
+   "Next Sunday. Half-time. The cold tap in the changing room."
+  ],
+  [
+   60.28,
+   65.58,
+   "Water on your hands. A hoarse whisper: Bismillah."
+  ],
+  [
+   65.68,
+   71.93,
+   "This time you stand beside Yusuf. Four minutes. The match can wait."
+  ]
+ ],
+ "goldWords": [
+  "akbar.",
+  "wait."
+ ],
+ "post": {
+  "caption": "90 minutes on your feet. Not 4 for Maghrib? ⚽\n\nThe adhan drifted over the stand in the 78th minute. Old Yusuf prayed behind the bench. You kept shouting — “after the whistle.”\n\n“Establish prayer for My remembrance.” (20:14)\n\nMaghrib is soon. Be on your feet for it.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #salah #maghrib #muslimfootball #prayontime",
+  "youtube_title": "90 minutes on your feet. Not 4 for Maghrib? ⚽ #islam #salah"
+ }
+}
