@@ -1,0 +1,133 @@
+{
+ "id": "2026-11-17-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "47 minutes waiting for your results. Not one word to Allah.",
+  "gold": [
+   "Allah."
+  ],
+  "t0": 0.3,
+  "t1": 7.47
+ },
+ "end": {
+  "text": "47 minutes waiting for your results. Not one word to Allah.",
+  "gold": "Before Dhuhr today: two rak'ahs. Just to say thank you.",
+  "t0": 86.59,
+  "goldT0": 87.79,
+  "t1": 95.85
+ },
+ "verses": [
+  {
+   "text": "“For indeed, with hardship [will be] ease.”",
+   "ref": "Surah Ash-Sharh — 94:5",
+   "t0": 49.11,
+   "t1": 59.85
+  }
+ ],
+ "segments": [
+  {
+   "scene": "waiting_room",
+   "dur": 48.81,
+   "opts": {
+    "ticket": "A052",
+    "now": "A047",
+    "call": 0.751
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.44
+  },
+  {
+   "scene": "mountain",
+   "dur": 26.34,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 9.56
+  }
+ ],
+ "hud": [
+  {
+   "label": "WAITING FOR RESULTS",
+   "time": "47 MIN",
+   "sub": "WORDS TO ALLAH: 0",
+   "box": true,
+   "t0": 7.57,
+   "t1": 48.31
+  },
+  {
+   "label": "WORDS TO ALLAH TODAY",
+   "time": "33",
+   "sub": "ONE PER BREATH",
+   "box": true,
+   "t0": 60.85,
+   "t1": 86.09
+  }
+ ],
+ "captions": [
+  [
+   7.57,
+   14.82,
+   "Your ticket says A052. The board says A047."
+  ],
+  [
+   14.92,
+   23.77,
+   "8:05 a.m. Plastic chair. The paper is soft from your thumb."
+  ],
+  [
+   23.87,
+   29.68,
+   "You check the clock. Then your phone. Then the clock."
+  ],
+  [
+   29.78,
+   36.55,
+   "The old man beside you is whispering. His lips never stop."
+  ],
+  [
+   36.65,
+   41.5,
+   "Ding. A052. Your number."
+  ],
+  [
+   41.6,
+   48.41,
+   "Only now, walking to the door, you whisper: “Ya Allah.”"
+  ],
+  [
+   60.85,
+   65.14,
+   "The results were clear. Nothing wrong."
+  ],
+  [
+   65.24,
+   73.77,
+   "Next morning, you climb before sunrise. Legs burning. Lungs full."
+  ],
+  [
+   73.87,
+   78.92,
+   "Every breath up the hill: “Alhamdulillah.”"
+  ],
+  [
+   79.02,
+   86.19,
+   "You called Him in the hardship. Now you thank Him in the ease."
+  ]
+ ],
+ "goldWords": [
+  "Allah.”",
+  "Alhamdulillah.”",
+  "ease."
+ ],
+ "post": {
+  "caption": "47 minutes waiting for your results. Not one word to Allah. 🌙\n\nTicket A052. The board says A047. You check the clock, your phone, the clock — and only when your number is called do you whisper “Ya Allah.”\n\n“For indeed, with hardship [will be] ease.” (94:5)\n\nBefore Dhuhr today: two rak'ahs. Just to say thank you.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #alhamdulillah #gratitude #shukr #dua",
+  "youtube_title": "47 minutes waiting for your results. Not one word to Allah. 🌙 #islam #shukr"
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "id": "2026-11-17-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "$84 on takeout this week. $0 given for Allah.",
+  "gold": [
+   "Allah."
+  ],
+  "t0": 0.3,
+  "t1": 7.07
+ },
+ "end": {
+  "text": "$84 on takeout this week. $0 given for Allah.",
+  "gold": "Tonight, before Isha: give the price of one meal.",
+  "t0": 87.19,
+  "goldT0": 88.39,
+  "t1": 96.33
+ },
+ "verses": [
+  {
+   "text": "“And what is the worldly life except the enjoyment of delusion.”",
+   "ref": "Surah Al-Hadid — 57:20",
+   "t0": 47.35,
+   "t1": 58.89
+  }
+ ],
+ "segments": [
+  {
+   "scene": "souk",
+   "dur": 47.05,
+   "opts": {
+    "time": "dusk"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 12.24
+  },
+  {
+   "scene": "courtyard",
+   "dur": 27.9,
+   "opts": {
+    "time": "night"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.44
+  }
+ ],
+ "hud": [
+  {
+   "label": "TAKEOUT THIS WEEK",
+   "time": "$84",
+   "sub": "SADAQA: $0",
+   "box": true,
+   "t0": 7.17,
+   "t1": 46.55
+  },
+  {
+   "label": "GIVEN FOR ALLAH",
+   "time": "$17",
+   "sub": "+ 2 LOAVES",
+   "box": true,
+   "t0": 59.89,
+   "t1": 86.69
+  }
+ ],
+ "captions": [
+  [
+   7.17,
+   14.54,
+   "5:10 p.m. The souk smells of cumin and warm bread."
+  ],
+  [
+   14.64,
+   21.21,
+   "Your phone buzzes: “Your order is on its way.” Order number five."
+  ],
+  [
+   21.31,
+   28.88,
+   "Saffron. Honey. A new wallet. You don't even check the price."
+  ],
+  [
+   28.98,
+   35.19,
+   "At the corner, an old man counts coins for one loaf."
+  ],
+  [
+   35.29,
+   40.5,
+   "He's twenty cents short. The baker shakes his head."
+  ],
+  [
+   40.6,
+   46.65,
+   "Then the adhan rises over the stalls. You stop."
+  ],
+  [
+   59.89,
+   67.82,
+   "After Maghrib. The fountain, the lanterns, the box by the door."
+  ],
+  [
+   67.92,
+   75.21,
+   "You fold in the price of one takeout. Small, so no one sees."
+  ],
+  [
+   75.31,
+   81.64,
+   "On your way out: two loaves. One for the old man at the corner."
+  ],
+  [
+   81.74,
+   86.79,
+   "Your wallet is lighter. Your chest is too."
+  ]
+ ],
+ "goldWords": [
+  "stop.",
+  "lighter.",
+  "too."
+ ],
+ "post": {
+  "caption": "$84 on takeout this week. $0 given for Allah. 🌙\n\n5:10 p.m. in the souk: your fifth order is on its way, while an old man at the corner is twenty cents short for one loaf.\n\n“And what is the worldly life except the enjoyment of delusion.” (57:20)\n\nTonight, before Isha: give the price of one meal.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #sadaqa #charity #giving #dunya",
+  "youtube_title": "$84 on takeout this week. $0 given for Allah. 🌙 #islam #sadaqa"
+ }
+}

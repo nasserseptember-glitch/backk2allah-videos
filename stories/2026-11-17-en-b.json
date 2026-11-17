@@ -1,0 +1,137 @@
+{
+ "id": "2026-11-17-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "730 days since Grandma left. You asked Allah for her twice.",
+  "gold": [
+   "twice."
+  ],
+  "t0": 0.3,
+  "t1": 8.39
+ },
+ "end": {
+  "text": "730 days since Grandma left. You asked Allah for her twice.",
+  "gold": "Before Maghrib today: one du'a for her. Say her name.",
+  "t0": 82.17,
+  "goldT0": 83.37,
+  "t1": 90.43
+ },
+ "verses": [
+  {
+   "text": "“Indeed I am near. I respond to the invocation of the supplicant when he calls upon Me.”",
+   "ref": "Surah Al-Baqarah — 2:186",
+   "t0": 45.65,
+   "t1": 58.75
+  }
+ ],
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 8.79
+  },
+  {
+   "scene": "river",
+   "dur": 36.56,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 13.8
+  },
+  {
+   "scene": "cemetery",
+   "dur": 23.02,
+   "opts": {
+    "time": "golden",
+    "dua": 0.223
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.56
+  }
+ ],
+ "hud": [
+  {
+   "label": "DAYS SINCE SHE LEFT",
+   "time": "730",
+   "sub": "DU'AS FOR HER: 2",
+   "box": true,
+   "t0": 9.39,
+   "t1": 44.85
+  },
+  {
+   "label": "DU'AS FOR HER",
+   "time": "3",
+   "sub": "TOMORROW: 4",
+   "box": true,
+   "t0": 59.75,
+   "t1": 81.67
+  }
+ ],
+ "captions": [
+  [
+   9.39,
+   14.12,
+   "Her river. Every Sunday, she walked you here."
+  ],
+  [
+   14.22,
+   18.79,
+   "Her coat pocket always had dates in it. For you."
+  ],
+  [
+   18.89,
+   24.86,
+   "She made du'a for you out loud. You used to roll your eyes."
+  ],
+  [
+   24.96,
+   31.45,
+   "Then the funeral. Then work. Then two years."
+  ],
+  [
+   31.55,
+   39.12,
+   "Today an old man in a boat lifts his hand to you. Like she did."
+  ],
+  [
+   39.22,
+   44.95,
+   "Twenty years she prayed for you. You stopped at two."
+  ],
+  [
+   59.75,
+   64.68,
+   "You take the long way. Third row, under the olive tree."
+  ],
+  [
+   64.78,
+   69.79,
+   "You raise your hands. Your voice shakes on her name."
+  ],
+  [
+   69.89,
+   75.58,
+   "“Ya Allah, forgive her. Fill her grave with light.”"
+  ],
+  [
+   75.68,
+   81.77,
+   "She asked Him for you for twenty years. Now it's your turn."
+  ]
+ ],
+ "goldWords": [
+  "light.”",
+  "turn."
+ ],
+ "post": {
+  "caption": "730 days since Grandma left. You asked Allah for her twice. 🌙\n\nShe walked you along her river every Sunday, dates in her coat pocket, making du'a for you out loud. Twenty years she prayed for you. You stopped at two.\n\n“Indeed I am near. I respond to the invocation of the supplicant when he calls upon Me.” (2:186)\n\nBefore Maghrib today: one du'a for her. Say her name.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #dua #grandma #family #duaforthedeceased",
+  "youtube_title": "730 days since Grandma left. You asked Allah for her twice. 🌙 #islam #dua"
+ }
+}
