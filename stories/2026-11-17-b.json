@@ -1,0 +1,122 @@
+{
+ "id": "2026-11-17-b",
+ "segments": [
+  {
+   "scene": "mountain",
+   "dur": 28.66,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "courtyard",
+   "dur": 11.92,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.58
+  }
+ ],
+ "hook": {
+  "text": "47 photos du lever du soleil. Pas une seule dua.",
+  "gold": [
+   "47",
+   "dua."
+  ],
+  "t0": 0.3,
+  "t1": 4.93
+ },
+ "verses": [
+  {
+   "text": "« Invoquez-Moi, Je vous répondrai. »",
+   "ref": "Sourate Ghâfir — 40:60",
+   "t0": 28.96,
+   "t1": 38.86
+  }
+ ],
+ "hud": [
+  {
+   "label": "PHOTOS DU LEVER",
+   "time": "47",
+   "sub": "DUA : 0",
+   "t0": 0.2,
+   "t1": 28.26,
+   "box": true
+  },
+  {
+   "label": "DUA AUJOURD'HUI",
+   "time": "1",
+   "sub": "PHOTOS : 0",
+   "t0": 39.96,
+   "t1": 50.68,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.03,
+   8.59,
+   "5 h 40. Trois heures de montée dans le noir."
+  ],
+  [
+   8.69,
+   12.64,
+   "Le soleil sort des nuages. Tu sors ton téléphone."
+  ],
+  [
+   12.74,
+   17.84,
+   "Une photo. Puis une autre. Puis 47."
+  ],
+  [
+   17.94,
+   21.8,
+   "Batterie : 1 %. L'écran s'éteint dans ta main."
+  ],
+  [
+   21.9,
+   28.26,
+   "Le silence. Toi, le vent, et Celui qui a fait tout ça."
+  ],
+  [
+   39.36,
+   44.24,
+   "Midi. En bas, la cour de la mosquée du village."
+  ],
+  [
+   44.34,
+   47.59,
+   "Pas de photo cette fois. Juste tes mains levées."
+  ],
+  [
+   47.69,
+   50.58,
+   "Tu Lui demandes ce que tu n'as jamais osé poster."
+  ]
+ ],
+ "end": {
+  "t0": 51.08,
+  "goldT0": 52.28,
+  "text": "47 photos du lever du soleil. Pas une seule dua.",
+  "gold": "Ce soir, avant la photo : lève les mains. Deux minutes.",
+  "t1": 58.56
+ },
+ "goldWords": [
+  "silence.",
+  "celui",
+  "levées.",
+  "lui"
+ ],
+ "post": {
+  "caption": "47 photos du lever du soleil. Pas une seule dua. 🤍\n\n« Invoquez-Moi, Je vous répondrai. » (40:60)\n\nTu as tout photographié. Mais tu as oublié de parler à Celui qui a fait tout ça. Ce soir, avant la photo : lève les mains. Deux minutes.",
+  "hashtags": "#rappel #islam #rappelislamique #dua #gratitude #alhamdulillah #muslim #dhikr",
+  "youtube_title": "47 photos du lever du soleil. Pas une seule dua. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

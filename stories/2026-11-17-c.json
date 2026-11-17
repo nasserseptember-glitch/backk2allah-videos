@@ -1,0 +1,118 @@
+{
+ "id": "2026-11-17-c",
+ "segments": [
+  {
+   "scene": "cemetery",
+   "dur": 30.37,
+   "opts": {
+    "dua": 0.62
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 11.66,
+   "opts": {
+    "night": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.24
+  }
+ ],
+ "hook": {
+  "text": "34 ans. Lui aussi disait « je prierai plus tard ».",
+  "gold": [
+   "34",
+   "tard"
+  ],
+  "t0": 0.3,
+  "t1": 5.23
+ },
+ "verses": [
+  {
+   "text": "« Ne désespérez pas de la miséricorde d'Allah. »",
+   "ref": "Sourate Az-Zumar — 39:53",
+   "t0": 30.67,
+   "t1": 40.57
+  }
+ ],
+ "hud": [
+  {
+   "label": "IL AVAIT",
+   "time": "34 ANS",
+   "sub": "« JE PRIERAI PLUS TARD »",
+   "t0": 0.2,
+   "t1": 29.97,
+   "box": true
+  },
+  {
+   "label": "PREMIÈRE PRIÈRE",
+   "time": "ISHA",
+   "sub": "« PLUS TARD » : CE SOIR",
+   "t0": 41.67,
+   "t1": 52.13,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.33,
+   11.24,
+   "Karim. Ton ami de la fac. Hier, il t'envoyait encore un mème."
+  ],
+  [
+   11.34,
+   15.42,
+   "Sa phrase revient : « Je prierai quand je serai posé. »"
+  ],
+  [
+   15.52,
+   19.17,
+   "C'était aussi la tienne. Mot pour mot."
+  ],
+  [
+   19.27,
+   24.88,
+   "L'imam lève les mains. Les tiennes suivent, elles tremblent."
+  ],
+  [
+   24.98,
+   29.97,
+   "Une pensée te serre : « Et si, pour moi, c'était trop tard ? »"
+  ],
+  [
+   41.07,
+   47.15,
+   "Le soir même, Isha. Tu entres sans savoir comment commencer."
+  ],
+  [
+   47.25,
+   52.03,
+   "Ton front sur le sol. Toi, tu as encore ce soir."
+  ]
+ ],
+ "end": {
+  "t0": 52.53,
+  "goldT0": 53.73,
+  "text": "34 ans. Lui aussi disait « je prierai plus tard ».",
+  "gold": "Ton « plus tard », c'est ce soir. Isha, à l'heure.",
+  "t1": 59.67
+ },
+ "goldWords": [
+  "tienne.",
+  "isha.",
+  "soir."
+ ],
+ "post": {
+  "caption": "34 ans. Lui aussi disait « je prierai plus tard ». 🤍\n\n« Ne désespérez pas de la miséricorde d'Allah. » (39:53)\n\nIl n'est pas trop tard pour toi. Tant que tu respires, la porte est ouverte. Ton « plus tard », c'est ce soir : Isha, à l'heure.",
+  "hashtags": "#rappel #islam #rappelislamique #salat #isha #repentir #muslim #mort",
+  "youtube_title": "34 ans. Lui aussi disait « je prierai plus tard ». 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

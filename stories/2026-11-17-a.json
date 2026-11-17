@@ -1,0 +1,116 @@
+{
+ "id": "2026-11-17-a",
+ "segments": [
+  {
+   "scene": "train",
+   "dur": 28.4,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "river",
+   "dur": 13.42,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 7.19
+  }
+ ],
+ "hook": {
+  "text": "63 messages lus ce matin. 5 appels de ta mère ignorés.",
+  "gold": [
+   "63",
+   "5",
+   "mère"
+  ],
+  "t0": 0.3,
+  "t1": 5.49
+ },
+ "verses": [
+  {
+   "text": "« La vie présente n'est que jouissance trompeuse. »",
+   "ref": "Sourate Al-Hadîd — 57:20",
+   "t0": 28.7,
+   "t1": 38.6
+  }
+ ],
+ "hud": [
+  {
+   "label": "MESSAGES LUS",
+   "time": "63",
+   "sub": "APPELS DE MAMAN : 5 MANQUÉS",
+   "t0": 0.2,
+   "t1": 28.0,
+   "box": true
+  },
+  {
+   "label": "EN LIGNE AVEC MAMAN",
+   "time": "12 MIN",
+   "sub": "MESSAGES LUS : 0",
+   "t0": 39.7,
+   "t1": 51.92,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.59,
+   11.59,
+   "Métro de 7 h 12. Ton pouce descend. Descend encore."
+  ],
+  [
+   11.69,
+   17.28,
+   "Son nom s'affiche : « Maman ». Tu glisses. « Plus tard. »"
+  ],
+  [
+   17.38,
+   23.33,
+   "C'est son 5e appel. Elle appelle pour rien. Pour t'entendre."
+  ],
+  [
+   23.43,
+   28.0,
+   "Un vocal arrive : « Je fais dua pour toi à chaque Fajr. »"
+  ],
+  [
+   39.1,
+   44.46,
+   "Tu descends un arrêt plus tôt. Le long de l'eau, tu la rappelles."
+  ],
+  [
+   44.56,
+   48.71,
+   "Elle décroche à la première sonnerie. « Tout va bien ? »"
+  ],
+  [
+   48.81,
+   51.82,
+   "« Oui, maman. Je voulais juste t'entendre. »"
+  ]
+ ],
+ "end": {
+  "t0": 52.32,
+  "goldT0": 53.52,
+  "text": "63 messages lus ce matin. 5 appels de ta mère ignorés.",
+  "gold": "Appelle-la. Avant midi. Et fais dua pour elle.",
+  "t1": 59.41
+ },
+ "goldWords": [
+  "maman",
+  "fajr.",
+  "entendre.",
+  "dua"
+ ],
+ "post": {
+  "caption": "63 messages lus ce matin. 5 appels de ta mère ignorés. 🤍\n\n« La vie présente n'est que jouissance trompeuse. » (57:20)\n\nElle n'appelle pas pour rien. Elle appelle pour t'entendre, et elle fait dua pour toi chaque Fajr. Appelle-la avant midi. Et fais dua pour elle.",
+  "hashtags": "#rappel #islam #rappelislamique #parents #mère #dua #muslim #birrulwalidayn",
+  "youtube_title": "63 messages lus. 5 appels de ta mère ignorés. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}
