@@ -1,0 +1,130 @@
+{
+ "id": "2026-11-18-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "4 times you yelled at him. 0 times you said “Astaghfirullah.”",
+  "gold": [
+   "“Astaghfirullah.”"
+  ],
+  "t0": 0.3,
+  "t1": 7.65
+ },
+ "verses": [
+  {
+   "text": "“Indeed, Allah loves those who are constantly repentant.”",
+   "ref": "Surah Al-Baqarah — 2:222",
+   "t0": 38.09,
+   "t1": 48.59
+  }
+ ],
+ "end": {
+  "text": "4 times you yelled at him. 0 times you said “Astaghfirullah.”",
+  "gold": "Tonight, before he sleeps: say sorry. To him, then to Allah.",
+  "t0": 76.52,
+  "goldT0": 77.72,
+  "t1": 86.96
+ },
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 8.05
+  },
+  {
+   "scene": "football",
+   "dur": 29.74,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 11.4
+  },
+  {
+   "scene": "kids_room",
+   "dur": 26.82,
+   "opts": {
+    "tuck": 0.3
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.35
+  }
+ ],
+ "hud": [
+  {
+   "label": "YELLED AT HIM THIS WEEK",
+   "time": "4",
+   "sub": "SORRY SAID: 0",
+   "box": true,
+   "t0": 8.35,
+   "t1": 37.29
+  },
+  {
+   "label": "SORRY SAID TONIGHT",
+   "time": "2",
+   "sub": "ONE TO HIM · ONE TO ALLAH",
+   "box": true,
+   "t0": 49.49,
+   "t1": 75.52
+  }
+ ],
+ "captions": [
+  [
+   8.35,
+   11.23,
+   "Today was number four."
+  ],
+  [
+   11.33,
+   18.79,
+   "5:40 p.m. Floodlights. He's eight. His first real match."
+  ],
+  [
+   18.89,
+   24.32,
+   "He misses an easy pass. You shout his name. Loud."
+  ],
+  [
+   24.42,
+   29.74,
+   "The whole bench turns around. He stares at the grass."
+  ],
+  [
+   29.84,
+   37.29,
+   "In the car he whispers: “Sorry, Dad.” He's the one saying sorry."
+  ],
+  [
+   49.49,
+   55.87,
+   "9:10 p.m. He's asleep. Stars on the ceiling."
+  ],
+  [
+   55.97,
+   60.94,
+   "You tuck his blanket in. You whisper: “I'm sorry.”"
+  ],
+  [
+   61.04,
+   68.35,
+   "Then, by his bed: “Astaghfirullah. Make me gentle, Ya Allah.”"
+  ],
+  [
+   68.45,
+   75.51,
+   "Tomorrow you may slip again. And again, you'll turn back."
+  ]
+ ],
+ "goldWords": [
+  "sorry.",
+  "gentle,",
+  "back."
+ ],
+ "post": {
+  "caption": "4 times you yelled at him. 0 times you said “Astaghfirullah.” 🌙\n\nHis first real match. One missed pass, and you shouted his name in front of the whole bench. In the car, he was the one saying sorry.\n\n“Indeed, Allah loves those who are constantly repentant.” (2:222)\n\nTonight, before he sleeps: say sorry. To him, then to Allah.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #tawbah #astaghfirullah #parenting #muslimdad",
+  "youtube_title": "4 times you yelled at him. 0 times you said “Astaghfirullah.” 🌙 #islam #tawbah"
+ }
+}

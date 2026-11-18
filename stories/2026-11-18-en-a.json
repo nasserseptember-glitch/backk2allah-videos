@@ -1,0 +1,131 @@
+{
+ "id": "2026-11-18-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "38 applications sent. Not one du'a for the job.",
+  "gold": [
+   "du'a"
+  ],
+  "t0": 0.3,
+  "t1": 6.39
+ },
+ "verses": [
+  {
+   "text": "“And whoever relies upon Allah - then He is sufficient for him.”",
+   "ref": "Surah At-Talaq — 65:3",
+   "t0": 43.96,
+   "t1": 54.75
+  }
+ ],
+ "end": {
+  "text": "38 applications sent. Not one du'a for the job.",
+  "gold": "Before your next application: two rak'ahs. This morning.",
+  "t0": 82.38,
+  "goldT0": 83.58,
+  "t1": 90.39
+ },
+ "segments": [
+  {
+   "scene": "library",
+   "dur": 43.66,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 11.7
+  },
+  {
+   "scene": "courtyard",
+   "dur": 26.52,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.91
+  }
+ ],
+ "hud": [
+  {
+   "label": "APPLICATIONS SENT",
+   "time": "38",
+   "sub": "DU'AS FOR IT: 0",
+   "box": true,
+   "t0": 6.49,
+   "t1": 43.16
+  },
+  {
+   "label": "BEFORE APPLICATION 39",
+   "time": "2 RAK'AHS",
+   "sub": "DU'AS FOR IT: 1",
+   "box": true,
+   "t0": 55.65,
+   "t1": 81.38
+  }
+ ],
+ "captions": [
+  [
+   6.49,
+   9.41,
+   "Your inbox keeps the count."
+  ],
+  [
+   9.51,
+   16.79,
+   "9:40 a.m. Public library. Your coffee went cold an hour ago."
+  ],
+  [
+   16.89,
+   23.08,
+   "Cover letter. Send. Refresh. Another one."
+  ],
+  [
+   23.18,
+   27.94,
+   "“We regret to inform you…” Number thirty-eight."
+  ],
+  [
+   28.04,
+   36.29,
+   "Across the table, an old man closes his Mushaf. He looks so calm."
+  ],
+  [
+   36.39,
+   43.16,
+   "You trusted your CV, your contacts, your luck. Not Him."
+  ],
+  [
+   55.65,
+   61.03,
+   "You close the laptop. The mosque is two streets away."
+  ],
+  [
+   61.13,
+   67.2,
+   "Cold water from the fountain. Your hands stop shaking."
+  ],
+  [
+   67.3,
+   74.3,
+   "Two rak'ahs. Then, finally: “Ya Allah, choose for me.”"
+  ],
+  [
+   74.4,
+   81.38,
+   "You still send number thirty-nine. But now it's in His hands."
+  ]
+ ],
+ "goldWords": [
+  "Him.",
+  "me.”",
+  "hands."
+ ],
+ "post": {
+  "caption": "38 applications sent. Not one du'a for the job. 🌙\n\n9:40 a.m. in the library, cold coffee, rejection number thirty-eight. You trusted your CV, your contacts, your luck — everything except Him.\n\n“And whoever relies upon Allah - then He is sufficient for him.” (65:3)\n\nBefore your next application: two rak'ahs. This morning.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #tawakkul #dua #jobsearch #rizq",
+  "youtube_title": "38 applications sent. Not one du'a for the job. 🌙 #islam #tawakkul"
+ }
+}

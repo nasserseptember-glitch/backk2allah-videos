@@ -1,0 +1,131 @@
+{
+ "id": "2026-11-18-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "1,200 metres for a sunrise. 3 days was your limit for Fajr.",
+  "gold": [
+   "Fajr."
+  ],
+  "t0": 0.3,
+  "t1": 6.85
+ },
+ "verses": [
+  {
+   "text": "“So do not weaken and do not grieve.”",
+   "ref": "Surah Al-Imran — 3:139",
+   "t0": 41.07,
+   "t1": 51.57
+  }
+ ],
+ "end": {
+  "text": "1,200 metres for a sunrise. 3 days was your limit for Fajr.",
+  "gold": "Right now: set your alarm for Fajr. Day one, again.",
+  "t0": 73.62,
+  "goldT0": 74.82,
+  "t1": 81.26
+ },
+ "segments": [
+  {
+   "scene": "mountain",
+   "dur": 40.77,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 11.4
+  },
+  {
+   "scene": "wudu",
+   "dur": 20.95,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.53
+  }
+ ],
+ "hud": [
+  {
+   "label": "CLIMBED BEFORE SUNRISE",
+   "time": "1,200 M",
+   "sub": "FAJR STREAK: 3 DAYS",
+   "box": true,
+   "t0": 6.95,
+   "t1": 40.27
+  },
+  {
+   "label": "FAJR STREAK",
+   "time": "DAY 1",
+   "sub": "AGAIN — AND THAT'S OK",
+   "box": true,
+   "t0": 52.47,
+   "t1": 72.62
+  }
+ ],
+ "captions": [
+  [
+   6.95,
+   9.95,
+   "Your watch tracked every metre."
+  ],
+  [
+   10.05,
+   16.62,
+   "4:30 a.m. alarm. Headlamp on. No snooze. Not once."
+  ],
+  [
+   16.72,
+   21.18,
+   "Last week you set an alarm too. For Fajr."
+  ],
+  [
+   21.28,
+   28.09,
+   "Day one. Day two. Day three. Then: “I'm too tired.”"
+  ],
+  [
+   28.19,
+   32.82,
+   "Now the sun breaks over the clouds. Everyone films it."
+  ],
+  [
+   32.92,
+   40.27,
+   "And you think: He made all this. I couldn't give Him ten minutes."
+  ],
+  [
+   52.47,
+   58.65,
+   "Next morning, 6:10. No mountain. Just your bathroom sink."
+  ],
+  [
+   58.75,
+   63.48,
+   "Cold water on your face. Day one. Again."
+  ],
+  [
+   63.58,
+   67.89,
+   "No streak to protect. Just Him, waiting for you."
+  ],
+  [
+   67.99,
+   72.62,
+   "You fell on day three. He never stopped calling."
+  ]
+ ],
+ "goldWords": [
+  "minutes.",
+  "Again.",
+  "calling."
+ ],
+ "post": {
+  "caption": "1,200 metres for a sunrise. 3 days was your limit for Fajr. 🌙\n\n4:30 a.m., headlamp on, no snooze — for a mountain. For Fajr you made it to day three. He made that sunrise. And He never stopped calling.\n\n“So do not weaken and do not grieve.” (3:139)\n\nRight now: set your alarm for Fajr. Day one, again.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #fajr #salah #startagain #prayer",
+  "youtube_title": "1,200 metres for a sunrise. 3 days was your limit for Fajr. 🌙 #islam #fajr"
+ }
+}
