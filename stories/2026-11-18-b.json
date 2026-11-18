@@ -1,0 +1,129 @@
+{
+ "id": "2026-11-18-b",
+ "segments": [
+  {
+   "scene": "dinner",
+   "dur": 26.22,
+   "opts": {
+    "family": [
+     "father",
+     "mother",
+     "sibling"
+    ]
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 12.54
+  },
+  {
+   "scene": "construction",
+   "dur": 13.7,
+   "opts": {
+    "time": "day",
+    "gloves": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6.69
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.99,
+  "text": "45 minutes à table sur Yanis. Il n'était même pas là.",
+  "gold": [
+   "45",
+   "yanis."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 26.52,
+   "t1": 38.36,
+   "text": "« Implorez le pardon de votre Seigneur, car Il est grand Pardonneur, pour qu'Il vous envoie du ciel des pluies abondantes. »",
+   "ref": "Sourate Nûh — 71:10-11"
+  }
+ ],
+ "hud": [
+  {
+   "label": "À TABLE SUR YANIS",
+   "time": "45 MIN",
+   "sub": "DUA POUR LUI : 0",
+   "t0": 0.2,
+   "t1": 25.92,
+   "box": true
+  },
+  {
+   "label": "AVEC YANIS",
+   "time": "45 MIN",
+   "sub": "CE SOIR : SON NOM DANS TA DUA",
+   "t0": 39.06,
+   "t1": 52.26,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.09,
+   8.02,
+   "Allah, Lui, était là."
+  ],
+  [
+   8.12,
+   12.92,
+   "Son divorce. Ses dettes. « Il a toujours été comme ça. »"
+  ],
+  [
+   13.02,
+   15.82,
+   "Tu rajoutes une histoire. Tout le monde rit."
+  ],
+  [
+   15.92,
+   22.64,
+   "Ton téléphone vibre. Yanis : « Salam cousin, tu me manques. »"
+  ],
+  [
+   22.74,
+   25.92,
+   "Ta fourchette s'arrête. Ta bouche aussi."
+  ],
+  [
+   39.06,
+   42.58,
+   "Le lendemain midi, tu vas au chantier où il travaille."
+  ],
+  [
+   42.68,
+   46.2,
+   "Tu lui apportes un café. Il sourit, surpris."
+  ],
+  [
+   46.3,
+   52.06,
+   "Ce soir, tu demandes pardon. Et tu dis son nom dans ta dua."
+  ]
+ ],
+ "end": {
+  "t0": 52.86,
+  "text": "45 minutes sur Yanis. Et une minute pour lui en dua ?",
+  "goldT0": 54.06,
+  "gold": "Demande pardon. Puis fais dua pour lui, ce soir.",
+  "t1": 58.85
+ },
+ "goldWords": [
+  "allah,",
+  "pardon.",
+  "dua.",
+  "manques."
+ ],
+ "post": {
+  "caption": "45 minutes à table sur Yanis. Il n'était même pas là. 🤍\n\n« Implorez le pardon de votre Seigneur, car Il est grand Pardonneur… » (71:10)\n\nCelui dont on parle à table est souvent celui qui a le plus besoin de nos duas. Demande pardon, puis fais dua pour lui ce soir.",
+  "hashtags": "#rappel #islam #rappelislamique #ghiba #medisance #istighfar #dua #muslim",
+  "youtube_title": "45 minutes à table sur Yanis. Il n'était même pas là. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

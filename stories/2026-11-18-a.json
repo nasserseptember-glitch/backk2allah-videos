@@ -1,0 +1,119 @@
+{
+ "id": "2026-11-18-a",
+ "segments": [
+  {
+   "scene": "river",
+   "dur": 30.4,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "courtyard",
+   "dur": 10.46,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.14
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.52,
+  "text": "20 000 respirations aujourd'hui. Pas un seul merci.",
+  "gold": [
+   "20",
+   "000",
+   "merci."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 30.7,
+   "t1": 40.5,
+   "text": "« Souvenez-vous de Moi, Je vous récompenserai. »",
+   "ref": "Sourate Al-Baqara — 2:152"
+  }
+ ],
+ "hud": [
+  {
+   "label": "RESPIRATIONS AUJOURD'HUI",
+   "time": "20 000",
+   "sub": "AL-HAMDULILLAH : 0",
+   "t0": 0.2,
+   "t1": 30.1,
+   "box": true
+  },
+  {
+   "label": "AL-HAMDULILLAH",
+   "time": "33",
+   "sub": "AVANT 8 H",
+   "t0": 41.2,
+   "t1": 51.16,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.62,
+   8.18,
+   "Et tu te plains depuis le réveil."
+  ],
+  [
+   8.28,
+   12.58,
+   "7 h 05, au bord de l'eau. Tu marches vers la gare."
+  ],
+  [
+   12.68,
+   18.4,
+   "Un vocal à ton frère : café froid, train en retard, ciel gris."
+  ],
+  [
+   18.5,
+   23.03,
+   "Sur l'eau, un vieil homme rame. Ses mains tremblent."
+  ],
+  [
+   23.13,
+   30.1,
+   "Il s'arrête, lève les yeux au ciel et murmure : « Al-hamdulillah. »"
+  ],
+  [
+   41.2,
+   47.43,
+   "33 fois : « Al-hamdulillah. » Le café est toujours froid."
+  ],
+  [
+   47.53,
+   50.96,
+   "Mais ton cœur, lui, s'est réchauffé."
+  ]
+ ],
+ "end": {
+  "t0": 51.76,
+  "text": "20 000 respirations aujourd'hui. Combien de merci ?",
+  "goldT0": 52.96,
+  "gold": "Dis 33 fois Al-hamdulillah. Avant midi.",
+  "t1": 58.2
+ },
+ "goldWords": [
+  "al-hamdulillah.",
+  "merci.",
+  "merci,",
+  "réchauffé.",
+  "souffle."
+ ],
+ "post": {
+  "caption": "20 000 respirations aujourd'hui. Pas un seul merci. 🤍\n\n« Souvenez-vous de Moi, Je vous récompenserai. » (2:152)\n\nLe café peut rester froid. Ton cœur, lui, se réchauffe quand tu dis merci. Dis 33 fois Al-hamdulillah avant midi.",
+  "hashtags": "#rappel #islam #rappelislamique #alhamdulillah #gratitude #dhikr #muslim #shukr",
+  "youtube_title": "20 000 respirations aujourd'hui. Pas un seul merci. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

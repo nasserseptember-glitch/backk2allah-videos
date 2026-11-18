@@ -1,0 +1,128 @@
+{
+ "id": "2026-11-18-c",
+ "segments": [
+  {
+   "scene": "kids_room",
+   "dur": 28.95,
+   "opts": {
+    "tuck": 0.8
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "wudu",
+   "dur": 4.33,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "kids_room",
+   "dur": 9.19,
+   "opts": {
+    "hand": false,
+    "tuck": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6.88
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.91,
+  "text": "3 épisodes ce soir. Isha t'attend depuis 18 h 40.",
+  "gold": [
+   "3",
+   "isha"
+  ]
+ },
+ "verses": [
+  {
+   "t0": 29.25,
+   "t1": 39.05,
+   "text": "« N'est-ce point par l'évocation d'Allah que se tranquillisent les cœurs ? »",
+   "ref": "Sourate Ar-Raʿd — 13:28"
+  }
+ ],
+ "hud": [
+  {
+   "label": "ÉPISODES CE SOIR",
+   "time": "3",
+   "sub": "ISHA : PAS ENCORE",
+   "t0": 0.2,
+   "t1": 28.65,
+   "box": true
+  },
+  {
+   "label": "ISHA",
+   "time": "22:58",
+   "sub": "ÉCRAN ÉTEINT",
+   "t0": 39.75,
+   "t1": 52.77,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.01,
+   11.76,
+   "« Encore un. Le dernier. » Tu le dis à chaque fois."
+  ],
+  [
+   11.86,
+   17.16,
+   "22 h 47. Allongé près de ta fille, « juste cinq minutes »."
+  ],
+  [
+   17.26,
+   20.99,
+   "Elle ouvre un œil : « Papa… tu as prié Isha ? »"
+  ],
+  [
+   21.09,
+   28.65,
+   "Au pied du lit, son petit tapis. Plié. Elle, elle a prié."
+  ],
+  [
+   39.75,
+   43.38,
+   "Tu éteins l'écran. L'eau froide sur tes mains."
+  ],
+  [
+   43.48,
+   47.97,
+   "4 rak'a. Lentes. Sans regarder l'heure."
+  ],
+  [
+   48.07,
+   52.57,
+   "L'épisode 4 peut attendre. Ta prière, non."
+  ]
+ ],
+ "end": {
+  "t0": 53.37,
+  "text": "3 épisodes ce soir. Et Isha, tu l'as priée ?",
+  "goldT0": 54.57,
+  "gold": "Éteins l'écran. Prie Isha. Maintenant.",
+  "t1": 59.55
+ },
+ "goldWords": [
+  "isha",
+  "isha ?",
+  "prié.",
+  "pose.",
+  "non."
+ ],
+ "post": {
+  "caption": "3 épisodes ce soir. Isha t'attend depuis 18 h 40. 🤍\n\n« N'est-ce point par l'évocation d'Allah que se tranquillisent les cœurs ? » (13:28)\n\nL'épisode suivant peut attendre. Ta prière, non. Éteins l'écran et prie Isha maintenant.",
+  "hashtags": "#rappel #islam #rappelislamique #isha #salat #priere #series #muslim",
+  "youtube_title": "3 épisodes ce soir. Isha t'attend depuis 18 h 40. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}
