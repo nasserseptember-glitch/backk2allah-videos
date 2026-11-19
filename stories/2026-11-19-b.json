@@ -1,0 +1,123 @@
+{
+ "id": "2026-11-19-b",
+ "segments": [
+  {
+   "scene": "football",
+   "dur": 27.64,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 11.1
+  },
+  {
+   "scene": "bus_stop",
+   "dur": 13.12,
+   "opts": {
+    "bus": 9.2
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6.24
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.88,
+  "text": "9 matchs avec les mêmes chaussettes. 0 dua avant d'entrer.",
+  "gold": [
+   "9",
+   "0"
+  ]
+ },
+ "verses": [
+  {
+   "t0": 27.94,
+   "t1": 38.44,
+   "text": "« Et quiconque place sa confiance en Allah, Il lui suffit. »",
+   "ref": "Sourate At-Talâq — 65:3"
+  }
+ ],
+ "hud": [
+  {
+   "label": "MÊMES CHAUSSETTES",
+   "time": "9",
+   "sub": "DUA AVANT LE MATCH : 0",
+   "t0": 0.2,
+   "t1": 27.34,
+   "box": true
+  },
+  {
+   "label": "DUA AVANT LE MATCH",
+   "time": "1",
+   "sub": "CONFIANCE EN ALLAH",
+   "t0": 39.04,
+   "t1": 51.56,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   4.98,
+   9.52,
+   "Tes chaussettes pas lavées. Ton bracelet. Ta chanson."
+  ],
+  [
+   9.62,
+   14.6,
+   "78e minute, 2-1. Le recruteur est en tribune."
+  ],
+  [
+   14.7,
+   18.91,
+   "Tu touches ton bracelet. Comme s'il pouvait t'aider."
+  ],
+  [
+   19.01,
+   23.22,
+   "Puis tu vois ton père, en tribune. Les mains levées."
+  ],
+  [
+   23.32,
+   27.34,
+   "Lui ne croit pas aux chaussettes. Il fait dua pour toi."
+  ],
+  [
+   39.04,
+   42.8,
+   "Arrêt de bus, sous la pluie. Le match est fini."
+  ],
+  [
+   42.9,
+   47.24,
+   "La réponse du club, ce sera demain. Tu as fait ta part."
+  ],
+  [
+   47.34,
+   51.46,
+   "Tu murmures : « Hasbiyallah. » Et ton cœur se pose."
+  ]
+ ],
+ "end": {
+  "t0": 52.16,
+  "text": "9 matchs avec tes chaussettes. Et ta confiance en Allah ?",
+  "goldT0": 53.26,
+  "gold": "Avant ton prochain match : deux rak'a et une dua.",
+  "t1": 57.9
+ },
+ "goldWords": [
+  "dua",
+  "toi.",
+  "part.",
+  "pose.",
+  "hasbiyallah."
+ ],
+ "post": {
+  "caption": "9 matchs avec les mêmes chaussettes. 0 dua avant d'entrer. ⚽🤍\n\n« Et quiconque place sa confiance en Allah, Il lui suffit. » (65:3)\n\nFais ta part, puis confie le reste à Allah. Avant ton prochain match : deux rak'a et une dua.",
+  "hashtags": "#rappel #islam #rappelislamique #tawakkul #dua #football #muslim #confiance",
+  "youtube_title": "9 matchs avec les mêmes chaussettes. 0 dua avant d'entrer. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

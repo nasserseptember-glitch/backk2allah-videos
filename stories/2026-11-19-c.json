@@ -1,0 +1,124 @@
+{
+ "id": "2026-11-19-c",
+ "segments": [
+  {
+   "scene": "cemetery",
+   "dur": 25.57,
+   "opts": {
+    "time": "golden",
+    "dua": 0.8
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.1
+  },
+  {
+   "scene": "study",
+   "dur": 16.78,
+   "opts": {
+    "reach": 0.15
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6.67
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.42,
+  "text": "Son Coran, offert il y a 12 ans. Ouvert 0 fois.",
+  "gold": [
+   "12",
+   "0"
+  ]
+ },
+ "verses": [
+  {
+   "t0": 25.87,
+   "t1": 36.37,
+   "text": "« Ton Seigneur ne t'a ni abandonné, ni détesté. »",
+   "ref": "Sourate Ad-Duhâ — 93:3"
+  }
+ ],
+ "hud": [
+  {
+   "label": "CORAN DE GRAND-PÈRE",
+   "time": "12 ANS",
+   "sub": "OUVERT : 0 FOIS",
+   "t0": 0.2,
+   "t1": 25.27,
+   "box": true
+  },
+  {
+   "label": "CE SOIR",
+   "time": "1 PAGE",
+   "sub": "POUR LUI ET POUR TOI",
+   "t0": 36.97,
+   "t1": 53.15,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.52,
+   10.47,
+   "Un an déjà. Devant sa tombe, les mains vides."
+  ],
+  [
+   10.57,
+   13.29,
+   "Ton grand-père te l'avait offert pour tes 10 ans."
+  ],
+  [
+   13.39,
+   16.27,
+   "« Lis-le pour moi, quand je ne serai plus là. »"
+  ],
+  [
+   16.37,
+   21.7,
+   "Tu veux lui réciter quelque chose. Tu ne connais que la Fatiha."
+  ],
+  [
+   21.8,
+   25.27,
+   "Tu la récites quand même. La voix qui tremble."
+  ],
+  [
+   36.97,
+   43.43,
+   "Le soir, l'étagère du haut. La poussière sur la couverture."
+  ],
+  [
+   43.53,
+   47.73,
+   "Première page, son écriture : « Pour mon petit-fils. »"
+  ],
+  [
+   47.83,
+   53.05,
+   "Tu l'ouvres. Une page. Pour toi, et pour lui."
+  ]
+ ],
+ "end": {
+  "t0": 53.75,
+  "text": "12 ans sur l'étagère. Et ce soir ?",
+  "goldT0": 54.85,
+  "gold": "Ouvre ton Coran. Une page. Ce soir.",
+  "t1": 59.92
+ },
+ "goldWords": [
+  "fatiha.",
+  "tremble.",
+  "petit-fils."
+ ],
+ "post": {
+  "caption": "Son Coran, offert il y a 12 ans. Ouvert 0 fois. 🤍\n\n« Ton Seigneur ne t'a ni abandonné, ni détesté. » (93:3)\n\nIl n'est jamais trop tard pour ouvrir le Livre d'Allah. Ouvre ton Coran ce soir. Une seule page. Pour toi, et pour ceux que tu as perdus.",
+  "hashtags": "#rappel #islam #rappelislamique #coran #quran #dua #famille #muslim",
+  "youtube_title": "Son Coran, offert il y a 12 ans. Ouvert 0 fois. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

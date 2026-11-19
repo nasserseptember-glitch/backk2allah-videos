@@ -1,0 +1,127 @@
+{
+ "id": "2026-11-19-a",
+ "segments": [
+  {
+   "scene": "waiting_room",
+   "dur": 25.64,
+   "opts": {
+    "ticket": "C071",
+    "now": "C058",
+    "call": 0.63
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.1
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 14.27,
+   "opts": {
+    "povBow": true,
+    "ruku": [
+     [
+      6.42,
+      9.99
+     ]
+    ]
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.12
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.88,
+  "text": "58 minutes pour un guichet. 2 minutes pour ta prière ?",
+  "gold": [
+   "58",
+   "2"
+  ]
+ },
+ "verses": [
+  {
+   "t0": 25.94,
+   "t1": 36.44,
+   "text": "« Nous sommes plus près de lui que sa veine jugulaire. »",
+   "ref": "Sourate Qâf — 50:16"
+  }
+ ],
+ "hud": [
+  {
+   "label": "ATTENTE AU GUICHET",
+   "time": "58 MIN",
+   "sub": "TA PRIÈRE : 2 MIN",
+   "t0": 0.2,
+   "t1": 25.34,
+   "box": true
+  },
+  {
+   "label": "DHUHR",
+   "time": "12 MIN",
+   "sub": "SANS REGARDER L'HEURE",
+   "t0": 37.04,
+   "t1": 50.71,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   5.98,
+   11.2,
+   "Préfecture, 9 h 12. Ton ticket serré dans la main."
+  ],
+  [
+   11.3,
+   16.08,
+   "Ce matin, Fajr : deux minutes. L'esprit déjà ici."
+  ],
+  [
+   16.18,
+   21.81,
+   "« Numéro 71, guichet 4. » Tu te lèves d'un bond."
+  ],
+  [
+   21.91,
+   25.34,
+   "Et quand Allah t'appelle, cinq fois par jour ?"
+  ],
+  [
+   37.04,
+   41.14,
+   "Dhuhr. Cette fois, ton téléphone reste éteint."
+  ],
+  [
+   41.24,
+   44.7,
+   "Tu ne comptes plus les minutes. Tu Lui parles."
+  ],
+  [
+   44.8,
+   50.61,
+   "Ce matin, tu attendais un guichet. Lui t'attendait."
+  ]
+ ],
+ "end": {
+  "t0": 51.31,
+  "text": "58 minutes pour un guichet. Et pour Allah ?",
+  "goldT0": 52.41,
+  "gold": "Prie Dhuhr lentement. Dix minutes. Aujourd'hui.",
+  "t1": 57.93
+ },
+ "goldWords": [
+  "allah",
+  "dhuhr",
+  "parles.",
+  "t'attendait."
+ ],
+ "post": {
+  "caption": "58 minutes pour un guichet. 2 minutes pour ta prière ? 🤍\n\n« Nous sommes plus près de lui que sa veine jugulaire. » (50:16)\n\nTu sais attendre un numéro sans bouger. Offre à Allah la même patience : prie Dhuhr lentement aujourd'hui, dix minutes, téléphone éteint.",
+  "hashtags": "#rappel #islam #rappelislamique #salat #priere #khushu #dhuhr #muslim",
+  "youtube_title": "58 minutes pour un guichet. 2 minutes pour ta prière ? 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}
