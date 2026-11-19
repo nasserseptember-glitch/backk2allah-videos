@@ -1,0 +1,136 @@
+{
+ "id": "2026-11-19-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "Allah gave you one mother. 5 missed calls today.",
+  "gold": [
+   "mother."
+  ],
+  "t0": 0.3,
+  "t1": 5.05
+ },
+ "end": {
+  "text": "Allah gave you one mother. 5 missed calls today.",
+  "gold": "Before Maghrib today: call her. No reason needed.",
+  "t0": 67.36,
+  "goldT0": 68.76,
+  "t1": 75.38
+ },
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 5.35
+  },
+  {
+   "scene": "waiting_room",
+   "dur": 26.94,
+   "opts": {
+    "ticket": "A52",
+    "now": "A47",
+    "call": 0.9
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.4
+  },
+  {
+   "scene": "street",
+   "dur": 23.37,
+   "opts": {
+    "dayFrom": 0.6,
+    "dayTo": 1,
+    "clock": "14:22"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.52
+  }
+ ],
+ "hud": [
+  {
+   "label": "MISSED CALLS — MUM",
+   "time": "5",
+   "sub": "CALLED BACK: 0",
+   "box": true,
+   "t0": 5.55,
+   "t1": 31.9
+  },
+  {
+   "label": "CALL WITH MUM",
+   "time": "14:22",
+   "sub": "MISSED CALLS: 0",
+   "box": true,
+   "t0": 43.9,
+   "t1": 66.66
+  }
+ ],
+ "captions": [
+  [
+   5.65,
+   12.64,
+   "Town hall. Ticket A52. They're still on A47."
+  ],
+  [
+   12.74,
+   18.01,
+   "Your phone buzzes again. “Mum.” You press decline."
+  ],
+  [
+   18.11,
+   23.1,
+   "You type: “busy, call you later.” Later never comes."
+  ],
+  [
+   23.2,
+   28.26,
+   "An old woman beside you sighs: “My son never calls.”"
+  ],
+  [
+   28.36,
+   31.8,
+   "Her eyes look exactly like your mother's."
+  ],
+  [
+   44.0,
+   48.67,
+   "Outside, you call back. She answers on the first ring."
+  ],
+  [
+   48.77,
+   54.02,
+   "“Nothing important,” she says. “I just missed your voice.”"
+  ],
+  [
+   54.12,
+   61.14,
+   "Fourteen minutes. Her knees, the neighbours, your childhood."
+  ],
+  [
+   61.24,
+   66.56,
+   "The smallest good deed of your week. Allah saw every minute."
+  ]
+ ],
+ "verses": [
+  {
+   "text": "“So whoever does an atom's weight of good will see it.”",
+   "ref": "Surah Az-Zalzalah — 99:7",
+   "t0": 32.6,
+   "t1": 41.75
+  }
+ ],
+ "goldWords": [
+  "decline.",
+  "voice.”",
+  "minute."
+ ],
+ "post": {
+  "caption": "Allah gave you one mother. 5 missed calls today. 🌙\n\nA queue at the town hall, ticket A52, and you press decline on “Mum” — again. Then an old woman next to you sighs: “My son never calls.”\n\n“So whoever does an atom's weight of good will see it.” (99:7)\n\nBefore Maghrib today: call her. No reason needed.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #parents #mother #birrulwalidayn #family",
+  "youtube_title": "Allah gave you one mother. 5 missed calls today. 🌙 #islam #parents"
+ }
+}

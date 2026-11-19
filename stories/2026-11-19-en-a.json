@@ -1,0 +1,126 @@
+{
+ "id": "2026-11-19-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "16 hours, 2 jobs. You think Allah forgot you?",
+  "gold": [
+   "Allah"
+  ],
+  "t0": 0.3,
+  "t1": 6.57
+ },
+ "end": {
+  "text": "16 hours, 2 jobs. You think Allah forgot you?",
+  "gold": "On your break today: two rak'ahs. Tell Him you're tired.",
+  "t0": 71.7,
+  "goldT0": 73.1,
+  "t1": 80.56
+ },
+ "segments": [
+  {
+   "scene": "river",
+   "dur": 36.65,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 12.59
+  },
+  {
+   "scene": "train",
+   "dur": 22.16,
+   "opts": {
+    "phone": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.36
+  }
+ ],
+ "hud": [
+  {
+   "label": "SLEEP LAST NIGHT",
+   "time": "4:50",
+   "sub": "SHIFTS TODAY: 2",
+   "box": true,
+   "t0": 6.67,
+   "t1": 36.25
+  },
+  {
+   "label": "BREAK BEFORE JOB 2",
+   "time": "15 MIN",
+   "sub": "FOR ALLAH: 5 MIN",
+   "box": true,
+   "t0": 49.44,
+   "t1": 71.0
+  }
+ ],
+ "captions": [
+  [
+   6.67,
+   11.68,
+   "5:40 a.m. Your shift starts at six."
+  ],
+  [
+   11.78,
+   17.45,
+   "Mist over the river. Your legs still ache from yesterday."
+  ],
+  [
+   17.55,
+   23.38,
+   "Rent. Your little brother's school fees. Mum's medicine."
+  ],
+  [
+   23.48,
+   28.91,
+   "On the bridge, you whisper: “Maybe He forgot me.”"
+  ],
+  [
+   29.01,
+   36.15,
+   "An old man rows past, whispering “Alhamdulillah” with every stroke."
+  ],
+  [
+   49.54,
+   54.45,
+   "Allah knew your load before you ever carried it."
+  ],
+  [
+   54.55,
+   58.9,
+   "On the train to job two, you close your eyes."
+  ],
+  [
+   59.0,
+   64.65,
+   "No speech. Just: “Ya Allah, You know I'm tired.”"
+  ],
+  [
+   64.75,
+   70.9,
+   "Same rent. Same shifts. But you're not carrying it alone."
+  ]
+ ],
+ "verses": [
+  {
+   "text": "“Allah does not charge a soul except [with that within] its capacity.”",
+   "ref": "Surah Al-Baqarah — 2:286",
+   "t0": 36.95,
+   "t1": 48.44
+  }
+ ],
+ "goldWords": [
+  "forgot",
+  "tired.”",
+  "alone."
+ ],
+ "post": {
+  "caption": "16 hours, 2 jobs. You think Allah forgot you? 🌙\n\n5:40 a.m. on the bridge, legs aching, rent and fees and medicine on your shoulders. You whisper: “Maybe He forgot me.” He didn't. He knew your load before you ever carried it.\n\n“Allah does not charge a soul except [with that within] its capacity.” (2:286)\n\nOn your break today: two rak'ahs. Tell Him you're tired.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #tawakkul #sabr #hardwork #exhausted",
+  "youtube_title": "16 hours, 2 jobs. You think Allah forgot you? 🌙 #islam #sabr"
+ }
+}

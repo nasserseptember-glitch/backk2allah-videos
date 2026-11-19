@@ -1,0 +1,133 @@
+{
+ "id": "2026-11-19-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "Your boss gets 465 minutes tomorrow. Allah, 45?",
+  "gold": [
+   "Allah,",
+   "45?"
+  ],
+  "t0": 0.3,
+  "t1": 8.95
+ },
+ "end": {
+  "text": "Your boss gets 465 minutes tomorrow. Allah, 45?",
+  "gold": "Tonight: text your boss. Ask for Jumu'ah.",
+  "t0": 84.73,
+  "goldT0": 86.13,
+  "t1": 92.13
+ },
+ "segments": [
+  {
+   "scene": "construction",
+   "dur": 44.13,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 19.77
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 20.53,
+   "opts": {
+    "ruku": [
+     [
+      15.5,
+      19.5
+     ]
+    ],
+    "rows": 4
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.89
+  }
+ ],
+ "hud": [
+  {
+   "label": "FRIDAY SHIFT",
+   "time": "7:00–15:00",
+   "sub": "JUMU'AH: NOT ASKED",
+   "box": true,
+   "t0": 9.05,
+   "t1": 43.73
+  },
+  {
+   "label": "FRIDAY 13:00",
+   "time": "JUMU'AH",
+   "sub": "45 MIN — FOR ALLAH",
+   "box": true,
+   "t0": 64.1,
+   "t1": 84.03
+  }
+ ],
+ "captions": [
+  [
+   9.05,
+   16.65,
+   "Thursday, 5:52 p.m. The crane stops. Helmets come off."
+  ],
+  [
+   16.75,
+   23.12,
+   "Tomorrow is Friday. Again, you won't ask for the hour."
+  ],
+  [
+   23.22,
+   28.3,
+   "“The foreman won't like it.” You've said that for months."
+  ],
+  [
+   28.4,
+   33.92,
+   "Then Yusuf, the new guy, walks straight up to him."
+  ],
+  [
+   34.02,
+   38.76,
+   "“Tomorrow at one, I'm at Jumu'ah. I'll make up the time.”"
+  ],
+  [
+   38.86,
+   43.63,
+   "The foreman just nods. That's all it ever took."
+  ],
+  [
+   64.2,
+   72.15,
+   "Friday, 1:10 p.m. Dust still on your boots, you join the row."
+  ],
+  [
+   72.25,
+   78.66,
+   "The hands that carried bricks all week, raised: “Allahu Akbar.”"
+  ],
+  [
+   78.76,
+   83.93,
+   "Forty-five minutes. The wall still went up that day."
+  ]
+ ],
+ "verses": [
+  {
+   "text": "“O you who have believed, when [the adhan] is called for the prayer on the day of Jumu'ah [Friday], then proceed to the remembrance of Allah and leave trade.”",
+   "ref": "Surah Al-Jumu'ah — 62:9",
+   "t0": 44.43,
+   "t1": 63.1
+  }
+ ],
+ "goldWords": [
+  "nods.",
+  "Akbar.”",
+  "day."
+ ],
+ "post": {
+  "caption": "Your boss gets 465 minutes tomorrow. Allah, 45? 🌙\n\nThursday, 5:52 p.m. on the site. Tomorrow is Friday and — again — you won't ask for the hour. Then the new guy just asks. The foreman nods. That's all it ever took.\n\n“O you who have believed, when [the adhan] is called for the prayer on the day of Jumu'ah [Friday], then proceed to the remembrance of Allah and leave trade.” (62:9)\n\nTonight: text your boss. Ask for Jumu'ah.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #jumuah #friday #jummah #salah",
+  "youtube_title": "Your boss gets 465 minutes tomorrow. Allah, 45? 🌙 #islam #jumuah"
+ }
+}
