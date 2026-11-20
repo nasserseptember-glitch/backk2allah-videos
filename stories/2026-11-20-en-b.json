@@ -1,0 +1,133 @@
+{
+ "id": "2026-11-20-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "20 minutes talking about Bilal. Not one du'a for him.",
+  "gold": [
+   "du'a",
+   "him."
+  ],
+  "t0": 0.3,
+  "t1": 6.26
+ },
+ "verses": [
+  {
+   "text": "“We are closer to him than [his] jugular vein.”",
+   "ref": "Surah Qaf — 50:16",
+   "t0": 38.64,
+   "t1": 48.44
+  }
+ ],
+ "end": {
+  "text": "20 minutes talking about Bilal. Not one du'a for him.",
+  "gold": "Before Maghrib today: one du'a for someone you talked about.",
+  "t0": 72.02,
+  "goldT0": 73.42,
+  "t1": 80.32
+ },
+ "segments": [
+  {
+   "scene": "gym",
+   "dur": 38.34,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "cemetery",
+   "dur": 22.88,
+   "opts": {
+    "dua": 0.28
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.0
+  }
+ ],
+ "hud": [
+  {
+   "label": "TALKED ABOUT BILAL",
+   "time": "20 MIN",
+   "sub": "DU'A FOR HIM: 0",
+   "t0": 6.36,
+   "t1": 37.94,
+   "box": true
+  },
+  {
+   "label": "SUNDAY · JANAZAH",
+   "time": "1 DU'A",
+   "sub": "FOR BILAL'S FATHER",
+   "t0": 49.34,
+   "t1": 71.32,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.36,
+   12.67,
+   "Saturday, 4:40 p.m. Treadmill seven, next to Tariq."
+  ],
+  [
+   12.77,
+   16.92,
+   "“Did you hear what Bilal did?” And you're off."
+  ],
+  [
+   17.02,
+   22.54,
+   "His job. His car. His father's old taxi."
+  ],
+  [
+   22.64,
+   27.84,
+   "Twenty minutes. You add the best lines. Tariq laughs."
+  ],
+  [
+   27.94,
+   32.59,
+   "Your phone buzzes. Bilal's dad passed away this morning."
+  ],
+  [
+   32.69,
+   37.94,
+   "The treadmill keeps going. But Allah heard every word."
+  ],
+  [
+   49.44,
+   55.14,
+   "Sunday. Bilal stands by the fresh grave. You stand next to him."
+  ],
+  [
+   55.24,
+   60.92,
+   "You raise your hands. This time, his name means something else."
+  ],
+  [
+   61.02,
+   66.65,
+   "“O Allah, forgive his father. Make it easy for Bilal.”"
+  ],
+  [
+   66.75,
+   71.32,
+   "No one hears it. Only the One who heard the rest."
+  ]
+ ],
+ "goldWords": [
+  "buzzes.",
+  "word.",
+  "hands.",
+  "Bilal.”"
+ ],
+ "post": {
+  "caption": "20 minutes talking about Bilal. Not one du'a for him. 🌙\n\nSaturday on the treadmill: his job, his car, his father's old taxi. You add the best lines. Then your phone buzzes — Bilal's dad passed away this morning. Nobody heard you. Allah heard every word.\n\n“We are closer to him than [his] jugular vein.” (50:16)\n\nBefore Maghrib today: one du'a for someone you talked about.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #backbiting #gheebah #dua #brotherhood",
+  "youtube_title": "20 minutes talking about Bilal. Not one du'a for him. 🌙 #islam #dua"
+ }
+}

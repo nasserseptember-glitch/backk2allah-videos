@@ -1,0 +1,133 @@
+{
+ "id": "2026-11-20-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "14 floors in 2 years. What have you built for Allah?",
+  "gold": [
+   "for",
+   "Allah?"
+  ],
+  "t0": 0.3,
+  "t1": 7.3
+ },
+ "verses": [
+  {
+   "text": "“Every soul will taste death.”",
+   "ref": "Surah Al-Imran — 3:185",
+   "t0": 48.5,
+   "t1": 58.3
+  }
+ ],
+ "end": {
+  "text": "14 floors in 2 years. What have you built for Allah?",
+  "gold": "Tonight at Isha: two extra rak'ahs. Build what stays.",
+  "t0": 78.25,
+  "goldT0": 79.65,
+  "t1": 87.84
+ },
+ "segments": [
+  {
+   "scene": "office",
+   "dur": 28.73,
+   "opts": {
+    "screen": "mail"
+   }
+  },
+  {
+   "scene": "car_night",
+   "dur": 19.47,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "courtyard",
+   "dur": 19.25,
+   "opts": {
+    "time": "night"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.29
+  }
+ ],
+ "hud": [
+  {
+   "label": "TOWER B · HANDOVER",
+   "time": "14 FLOORS",
+   "sub": "FOR THE AKHIRAH: ?",
+   "t0": 7.4,
+   "t1": 28.33,
+   "box": true
+  },
+  {
+   "label": "MAGHRIB",
+   "time": "+2 RAK'AHS",
+   "sub": "BUILT TO STAY",
+   "t0": 59.2,
+   "t1": 77.55,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   7.4,
+   15.28,
+   "6:02 p.m. One last email: “Tower B — handover approved.”"
+  ],
+  [
+   15.38,
+   22.52,
+   "Two years. Every beam, every delay, every late night."
+  ],
+  [
+   22.62,
+   28.33,
+   "Your name on the plaque. It will stand for a hundred years."
+  ],
+  [
+   29.33,
+   35.64,
+   "Driving home in the rain. The tower lights up behind you."
+  ],
+  [
+   35.74,
+   41.62,
+   "Then your phone, on the dashboard: the adhan for Maghrib."
+  ],
+  [
+   41.72,
+   47.8,
+   "A hundred years of concrete. You won't be here for most of them."
+  ],
+  [
+   59.3,
+   64.19,
+   "You stop at the mosque. Your helmet stays in the car."
+  ],
+  [
+   64.29,
+   70.46,
+   "Three rak'ahs with the row. Then two more, just for Him."
+  ],
+  [
+   70.56,
+   77.55,
+   "No plaque. No handover. But this one, you take with you."
+  ]
+ ],
+ "goldWords": [
+  "Maghrib.",
+  "Him."
+ ],
+ "post": {
+  "caption": "14 floors in 2 years. What have you built for Allah? 🌙\n\n6:02 p.m. “Tower B — handover approved.” Your name on the plaque, for a hundred years. Then, driving home in the rain, the adhan for Maghrib — and you realise you won't be here for most of those years.\n\n“Every soul will taste death.” (3:185)\n\nTonight at Isha: two extra rak'ahs. Build what stays.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #akhirah #salah #legacy #workandfaith",
+  "youtube_title": "14 floors in 2 years. What have you built for Allah? 🌙 #islam #akhirah"
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "id": "2026-11-20-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "You got up 4 times for her tonight. Not once for Allah.",
+  "gold": [
+   "once",
+   "Allah."
+  ],
+  "t0": 0.3,
+  "t1": 6.6
+ },
+ "verses": [
+  {
+   "text": "“They used to sleep but little of the night, and in the hours before dawn they would ask forgiveness.”",
+   "ref": "Surah Adh-Dhariyat — 51:17-18",
+   "t0": 44.79,
+   "t1": 60.0
+  }
+ ],
+ "end": {
+  "text": "You got up 4 times for her tonight. Not once for Allah.",
+  "gold": "Tonight, when you get up for her: stay two minutes for Him.",
+  "t0": 79.14,
+  "goldT0": 80.54,
+  "t1": 87.86
+ },
+ "segments": [
+  {
+   "scene": "kids_room",
+   "dur": 44.49,
+   "opts": {
+    "tuck": 0.312
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 15.92
+  },
+  {
+   "scene": "wudu",
+   "dur": 18.44,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.42
+  }
+ ],
+ "hud": [
+  {
+   "label": "TONIGHT · UP FOR HER",
+   "time": "4×",
+   "sub": "FOR ALLAH: 0",
+   "t0": 6.7,
+   "t1": 44.09,
+   "box": true
+  },
+  {
+   "label": "4:06 A.M.",
+   "time": "2 RAK'AHS",
+   "sub": "FOR ALLAH: 1",
+   "t0": 60.9,
+   "t1": 78.44,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.7,
+   13.8,
+   "3:52 a.m. A small cough. You're on your feet before you think."
+  ],
+  [
+   13.9,
+   20.63,
+   "Blanket back up. Her breathing slows. Stars on the ceiling."
+  ],
+  [
+   20.73,
+   27.27,
+   "First time at midnight. Then one. Then two. Now this."
+  ],
+  [
+   27.37,
+   32.44,
+   "You'd get up a hundred times for her. Without a word."
+  ],
+  [
+   32.54,
+   38.53,
+   "Then you see the window. The whole street is asleep."
+  ],
+  [
+   38.63,
+   44.09,
+   "Just you. Awake. In the last hours of the night."
+  ],
+  [
+   61.0,
+   65.58,
+   "So this time, you don't go straight back to bed."
+  ],
+  [
+   65.68,
+   71.7,
+   "Cold water on your hands. Two quiet rak'ahs in the dark."
+  ],
+  [
+   71.8,
+   78.44,
+   "Same tired eyes. But tonight, you got up for Him too."
+  ]
+ ],
+ "goldWords": [
+  "window.",
+  "asleep.",
+  "Him",
+  "too."
+ ],
+ "post": {
+  "caption": "You got up 4 times for her tonight. Not once for Allah. 🌙\n\n3:52 a.m. A small cough, and you're on your feet before you think. You'd get up a hundred times for her. Then you notice the window: the whole street asleep. Just you, awake, in the last hours of the night.\n\n“They used to sleep but little of the night, and in the hours before dawn they would ask forgiveness.” (51:17-18)\n\nTonight, when you get up for her: stay two minutes for Him.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #tahajjud #qiyam #muslimparents #dua",
+  "youtube_title": "You got up 4 times for her tonight. Not once for Allah. 🌙 #islam #tahajjud"
+ }
+}
