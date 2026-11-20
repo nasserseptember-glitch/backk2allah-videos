@@ -1,0 +1,118 @@
+{
+ "id": "2026-11-20-a",
+ "segments": [
+  {
+   "scene": "construction",
+   "dur": 26.43
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "mosque_ext",
+   "dur": 14.78,
+   "opts": {
+    "time": "night"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6.1
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.93,
+  "text": "4 ans à bâtir ta maison. Et ta prière, elle tient debout ?",
+  "gold": [
+   "prière,"
+  ]
+ },
+ "verses": [
+  {
+   "t0": 26.73,
+   "t1": 36.63,
+   "text": "« Accomplis la Salât pour te souvenir de Moi. »",
+   "ref": "Sourate Tâ-Hâ — 20:14"
+  }
+ ],
+ "hud": [
+  {
+   "label": "CHANTIER",
+   "time": "4 ANS",
+   "sub": "MAGHRIB : PAS LE TEMPS",
+   "t0": 0.2,
+   "t1": 26.13,
+   "box": true
+  },
+  {
+   "label": "MAGHRIB",
+   "time": "16:52",
+   "sub": "TRUELLE POSÉE",
+   "t0": 37.23,
+   "t1": 51.41,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   7.03,
+   13.19,
+   "Chaque samedi depuis 4 ans. Le chantier, du matin au soir."
+  ],
+  [
+   13.29,
+   18.62,
+   "16 h 48. L’adhan de Maghrib, au loin."
+  ],
+  [
+   18.72,
+   23.03,
+   "Moussa, le maçon, pose sa truelle. Il part prier."
+  ],
+  [
+   23.13,
+   26.08,
+   "Et toi : « Vas-y, je finis le mur. »"
+  ],
+  [
+   37.23,
+   40.67,
+   "Ce soir-là, tu poses la truelle à ton tour."
+  ],
+  [
+   40.77,
+   45.13,
+   "Du ciment encore sous les ongles. Tu le rattrapes."
+  ],
+  [
+   45.23,
+   51.31,
+   "Ta maison peut attendre cinq minutes. Allah, Lui, t’attendait."
+  ]
+ ],
+ "end": {
+  "t0": 52.01,
+  "text": "Ta maison monte. Et ta prière ?",
+  "goldT0": 53.21,
+  "gold": "Pose tout à l’adhan. Dès le prochain.",
+  "t1": 57.56
+ },
+ "goldWords": [
+  "allah",
+  "allah,",
+  "prière",
+  "prier.",
+  "truelle",
+  "tour.",
+  "t’attendait."
+ ],
+ "post": {
+  "caption": "4 ans à bâtir ta maison. Et ta prière, elle tient debout ? 🤍\n\n« Accomplis la Salât pour te souvenir de Moi. » (20:14)\n\nTa maison peut attendre cinq minutes. Au prochain adhan, pose tout et va prier.",
+  "hashtags": "#rappel #islam #rappelislamique #salat #priere #maghrib #muslim #dunya",
+  "youtube_title": "4 ans à bâtir ta maison. Et ta prière, elle tient debout ? 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

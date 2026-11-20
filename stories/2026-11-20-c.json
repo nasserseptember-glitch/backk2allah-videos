@@ -1,0 +1,126 @@
+{
+ "id": "2026-11-20-c",
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 10.37
+  },
+  {
+   "scene": "river",
+   "dur": 18.15
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "car_night",
+   "dur": 14.89,
+   "opts": {
+    "clock": "21:14"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.16
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.95,
+  "text": "731 jours sans un mot à ton frère. Pour 5 minutes de dispute.",
+  "gold": [
+   "frère."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 28.82,
+   "t1": 38.72,
+   "text": "« Toute âme goûtera la mort. »",
+   "ref": "Sourate Âl ʿImrân — 3:185"
+  }
+ ],
+ "hud": [
+  {
+   "label": "SANS LUI PARLER",
+   "time": "731 J",
+   "sub": "DERNIER MESSAGE : VU",
+   "t0": 0.2,
+   "t1": 28.22,
+   "box": true
+  },
+  {
+   "label": "VERS CHEZ LUI",
+   "time": "21:14",
+   "sub": "40 MIN",
+   "t0": 39.32,
+   "t1": 53.61,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   7.05,
+   10.27,
+   "Son nom est toujours dans tes favoris."
+  ],
+  [
+   10.37,
+   15.37,
+   "Ce matin, tu longes la rivière. Celle de votre enfance."
+  ],
+  [
+   15.47,
+   20.46,
+   "Vous pêchiez ici, lui et toi. Il te portait sur son dos."
+  ],
+  [
+   20.56,
+   24.79,
+   "Un message de ta mère : « Ton frère est à l’hôpital. »"
+  ],
+  [
+   24.89,
+   28.17,
+   "« Rien de grave. Il a demandé de tes nouvelles. »"
+  ],
+  [
+   39.32,
+   45.34,
+   "21 h 14. Tu prends la voiture. 40 minutes jusqu’à lui."
+  ],
+  [
+   45.44,
+   49.2,
+   "Tu cherches des phrases. Tu n’en trouves aucune."
+  ],
+  [
+   49.3,
+   53.51,
+   "Alors juste : « Salam, akhi. Pardonne-moi. »"
+  ]
+ ],
+ "end": {
+  "t0": 54.21,
+  "text": "731 jours. Combien encore ?",
+  "goldT0": 55.41,
+  "gold": "Appelle-le. Ce soir. Dis juste : salam.",
+  "t1": 60.82
+ },
+ "goldWords": [
+  "allah",
+  "frère",
+  "frère.",
+  "pardonne-moi.",
+  "akhi.",
+  "dos."
+ ],
+ "post": {
+  "caption": "731 jours sans un mot à ton frère. Pour 5 minutes de dispute. 🤍\n\n« Toute âme goûtera la mort. » (3:185)\n\nN’attends pas qu’il soit trop tard. Appelle-le ce soir. Dis juste : salam.",
+  "hashtags": "#rappel #islam #rappelislamique #famille #frere #pardon #muslim #liensdeparente",
+  "youtube_title": "731 jours sans un mot à ton frère. Pour 5 minutes de dispute. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

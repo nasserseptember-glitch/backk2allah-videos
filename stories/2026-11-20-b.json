@@ -1,0 +1,127 @@
+{
+ "id": "2026-11-20-b",
+ "segments": [
+  {
+   "scene": "airport",
+   "dur": 27.81,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "mountain",
+   "dur": 14.33
+  },
+  {
+   "scene": "black",
+   "dur": 6.36
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.66,
+  "text": "2 h d’avance pour ton vol. Et Fajr, il attendra ?",
+  "gold": [
+   "fajr,"
+  ]
+ },
+ "verses": [
+  {
+   "t0": 28.11,
+   "t1": 38.01,
+   "text": "« À côté de la difficulté est, certes, une facilité. »",
+   "ref": "Sourate Ash-Sharh — 94:5-6"
+  }
+ ],
+ "hud": [
+  {
+   "label": "EMBARQUEMENT",
+   "time": "06:40",
+   "sub": "FAJR : PAS ENCORE PRIÉ",
+   "t0": 0.2,
+   "t1": 27.51,
+   "box": true
+  },
+  {
+   "label": "FAJR",
+   "time": "06:05",
+   "sub": "PRIÉ À L’HEURE",
+   "t0": 38.61,
+   "t1": 52.34,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   4.76,
+   8.46,
+   "Porte B12. Embarquement à 6 h 40."
+  ],
+  [
+   8.56,
+   11.68,
+   "Fajr est entré à 6 h 18. Tu le sais."
+  ],
+  [
+   11.78,
+   14.44,
+   "« Je prierai en arrivant. » Comme toujours."
+  ],
+  [
+   14.54,
+   18.17,
+   "Une story de l’avion. Puis une autre."
+  ],
+  [
+   18.27,
+   21.72,
+   "À côté de toi, un vieil homme pose sa veste au sol."
+  ],
+  [
+   21.82,
+   27.46,
+   "Il prie. Là, entre les valises. Personne ne le regarde."
+  ],
+  [
+   38.61,
+   42.45,
+   "Le lendemain, 6 h 05. Tu as mis un réveil."
+  ],
+  [
+   42.55,
+   46.61,
+   "Le tapis dans le sac. Face à la montagne."
+  ],
+  [
+   46.71,
+   52.24,
+   "Deux rak’as avant le soleil. Rien n’a jamais été aussi simple."
+  ]
+ ],
+ "end": {
+  "t0": 52.94,
+  "text": "Tu cours pour ton vol. Et pour Fajr ?",
+  "goldT0": 54.14,
+  "gold": "Demain, prie Fajr à l’heure. Où que tu sois.",
+  "t1": 58.75
+ },
+ "goldWords": [
+  "allah",
+  "fajr",
+  "prie.",
+  "simple.",
+  "réveil.",
+  "soleil."
+ ],
+ "post": {
+  "caption": "2 h d’avance pour ton vol. Et Fajr, il attendra ? 🤍\n\n« À côté de la difficulté est, certes, une facilité. » (94:5-6)\n\nAllah a rendu la prière facile, même en voyage. Demain, prie Fajr à l’heure, où que tu sois.",
+  "hashtags": "#rappel #islam #rappelislamique #fajr #salat #voyage #muslim #priere",
+  "youtube_title": "2 h d’avance pour ton vol. Et Fajr, il attendra ? 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}
