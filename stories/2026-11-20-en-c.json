@@ -4,130 +4,123 @@
  "hookBox": true,
  "capBox": true,
  "hook": {
-  "text": "14 floors in 2 years. What have you built for Allah?",
+  "text": "9 complaints today. Not one Alhamdulillah.",
   "gold": [
-   "for",
-   "Allah?"
+   "Alhamdulillah."
   ],
   "t0": 0.3,
-  "t1": 7.3
+  "t1": 5.79
  },
  "verses": [
   {
-   "text": "“Every soul will taste death.”",
-   "ref": "Surah Al-Imran — 3:185",
-   "t0": 48.5,
-   "t1": 58.3
+   "text": "“So remember Me; I will remember you.”",
+   "ref": "Surah Al-Baqarah — 2:152",
+   "t0": 46.94,
+   "t1": 57.71
   }
  ],
  "end": {
-  "text": "14 floors in 2 years. What have you built for Allah?",
-  "gold": "Tonight at Isha: two extra rak'ahs. Build what stays.",
-  "t0": 78.25,
-  "goldT0": 79.65,
-  "t1": 87.84
+  "text": "9 complaints today. Not one Alhamdulillah.",
+  "gold": "Tonight, before you sleep: nine Alhamdulillahs. One for each complaint.",
+  "t0": 78.12,
+  "goldT0": 79.52,
+  "t1": 88.75
  },
  "segments": [
   {
-   "scene": "office",
-   "dur": 28.73,
-   "opts": {
-    "screen": "mail"
-   }
-  },
-  {
-   "scene": "car_night",
-   "dur": 19.47,
+   "scene": "football",
+   "dur": 46.64,
    "opts": {}
   },
   {
    "scene": "black",
-   "dur": 10.5
+   "dur": 11.46
   },
   {
    "scene": "courtyard",
-   "dur": 19.25,
+   "dur": 19.71,
    "opts": {
     "time": "night"
    }
   },
   {
    "scene": "black",
-   "dur": 10.29
+   "dur": 11.33
   }
  ],
  "hud": [
   {
-   "label": "TOWER B · HANDOVER",
-   "time": "14 FLOORS",
-   "sub": "FOR THE AKHIRAH: ?",
-   "t0": 7.4,
-   "t1": 28.33,
+   "label": "COMPLAINTS TODAY",
+   "time": "9",
+   "sub": "ALHAMDULILLAH: 0",
+   "t0": 5.89,
+   "t1": 46.24,
    "box": true
   },
   {
-   "label": "MAGHRIB",
-   "time": "+2 RAK'AHS",
-   "sub": "BUILT TO STAY",
-   "t0": 59.2,
-   "t1": 77.55,
+   "label": "ON THE WAY TO ISHA",
+   "time": "9×",
+   "sub": "ALHAMDULILLAH",
+   "t0": 58.61,
+   "t1": 77.42,
    "box": true
   }
  ],
  "captions": [
   [
-   7.4,
-   15.28,
-   "6:02 p.m. One last email: “Tower B — handover approved.”"
+   5.89,
+   13.66,
+   "Friday, 6:10 p.m. Five-a-side, cold rain, floodlights on."
   ],
   [
-   15.38,
-   22.52,
-   "Two years. Every beam, every delay, every late night."
+   13.76,
+   21.11,
+   "The traffic. The boss. The cold. The ref. Your knee."
   ],
   [
-   22.62,
-   28.33,
-   "Your name on the plaque. It will stand for a hundred years."
+   21.21,
+   26.77,
+   "Number nine: “Why does this always happen to me?”"
   ],
   [
-   29.33,
-   35.64,
-   "Driving home in the rain. The tower lights up behind you."
+   26.87,
+   32.2,
+   "You slip. You sit on the wet grass, out of breath."
   ],
   [
-   35.74,
-   41.62,
-   "Then your phone, on the dashboard: the adhan for Maghrib."
+   32.3,
+   39.44,
+   "Two legs that ran all evening. Lungs that never asked."
   ],
   [
-   41.72,
-   47.8,
-   "A hundred years of concrete. You won't be here for most of them."
+   39.54,
+   46.24,
+   "Eyes that saw every goal. And not one word of thanks."
   ],
   [
-   59.3,
-   64.19,
-   "You stop at the mosque. Your helmet stays in the car."
+   58.71,
+   64.12,
+   "On the way to Isha, still limping, you start counting."
   ],
   [
-   64.29,
-   70.46,
-   "Three rak'ahs with the row. Then two more, just for Him."
+   64.22,
+   70.67,
+   "Alhamdulillah for the legs. For the rain. For the breath."
   ],
   [
-   70.56,
-   77.55,
-   "No plaque. No handover. But this one, you take with you."
+   70.77,
+   77.42,
+   "Nine times. The knee still hurts. The heart doesn't."
   ]
  ],
  "goldWords": [
-  "Maghrib.",
-  "Him."
+  "breath.",
+  "thanks.",
+  "doesn't."
  ],
  "post": {
-  "caption": "14 floors in 2 years. What have you built for Allah? 🌙\n\n6:02 p.m. “Tower B — handover approved.” Your name on the plaque, for a hundred years. Then, driving home in the rain, the adhan for Maghrib — and you realise you won't be here for most of those years.\n\n“Every soul will taste death.” (3:185)\n\nTonight at Isha: two extra rak'ahs. Build what stays.",
-  "hashtags": "#islamicreminder #islam #muslim #quran #deen #akhirah #salah #legacy #workandfaith",
-  "youtube_title": "14 floors in 2 years. What have you built for Allah? 🌙 #islam #akhirah"
+  "caption": "9 complaints today. Not one Alhamdulillah. 🌙\n\nThe traffic. The boss. The cold. The ref. Your knee. Then you slip and sit on the wet grass, out of breath — two legs that ran all evening, lungs that never asked, eyes that saw every goal. And not one word of thanks.\n\n“So remember Me; I will remember you.” (2:152)\n\nTonight, before you sleep: nine Alhamdulillahs. One for each complaint.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #alhamdulillah #gratitude #shukr #dhikr",
+  "youtube_title": "9 complaints today. Not one Alhamdulillah. 🌙 #islam #alhamdulillah"
  }
 }
