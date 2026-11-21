@@ -1,0 +1,125 @@
+{
+ "id": "2026-11-21-c",
+ "segments": [
+  {
+   "scene": "football",
+   "dur": 32.73,
+   "opts": {
+    "play": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.13
+  },
+  {
+   "scene": "mosque_ext",
+   "dur": 8.09,
+   "opts": {
+    "time": "night"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6.56
+  }
+ ],
+ "hook": {
+  "text": "30 ans ce soir. 10 957 jours. Combien pour Allah ?",
+  "gold": [
+   "allah ?"
+  ],
+  "t0": 0.3,
+  "t1": 8.25
+ },
+ "verses": [
+  {
+   "text": "« Je suis tout proche : Je réponds à l'appel de celui qui Me prie quand il Me prie. »",
+   "ref": "Sourate Al-Baqara — 2:186",
+   "t0": 33.03,
+   "t1": 43.56
+  }
+ ],
+ "hud": [
+  {
+   "label": "JOURS VÉCUS",
+   "time": "10 957",
+   "sub": "POUR ALLAH : ?",
+   "box": true,
+   "t0": 0.2,
+   "t1": 32.33
+  },
+  {
+   "label": "ISHA",
+   "time": "20:07",
+   "sub": "30 ANS, JOUR 1",
+   "box": true,
+   "t0": 44.06,
+   "t1": 51.55
+  }
+ ],
+ "captions": [
+  [
+   8.35,
+   12.46,
+   "19 h 40. Le gâteau t’attend chez ta mère."
+  ],
+  [
+   12.56,
+   15.16,
+   "Mais tu t’arrêtes au stade de ton enfance."
+  ],
+  [
+   15.26,
+   21.25,
+   "Les projecteurs. La ligne blanche. Le banc, toujours le même."
+  ],
+  [
+   21.35,
+   26.08,
+   "Ici, à 12 ans, tu disais : « À 30 ans, je prierai. »"
+  ],
+  [
+   26.18,
+   30.32,
+   "Au loin, l’adhan d’Isha monte au-dessus des toits."
+  ],
+  [
+   30.42,
+   32.63,
+   "Comme si quelqu’un t’appelait par ton nom."
+  ],
+  [
+   44.16,
+   48.39,
+   "Tu laisses la voiture. Tu marches vers la lumière."
+  ],
+  [
+   48.49,
+   51.85,
+   "Ta première prière à 30 ans. Pas la dernière."
+  ]
+ ],
+ "end": {
+  "text": "30 ans. Et les prochains, pour qui ?",
+  "gold": "Ce soir, avant le gâteau : Isha.",
+  "t0": 52.25,
+  "goldT0": 53.45,
+  "t1": 58.41
+ },
+ "goldWords": [
+  "allah",
+  "isha.",
+  "isha",
+  "lumière.",
+  "nom.",
+  "proche"
+ ],
+ "post": {
+  "caption": "30 ans ce soir. 10 957 jours. Combien pour Allah ? 🤍\n\n« Je suis tout proche : Je réponds à l'appel de celui qui Me prie quand il Me prie. » (2:186)\n\n« Plus tard » est déjà là. Ce soir, avant le gâteau : Isha.",
+  "hashtags": "#rappel #islam #rappelislamique #priere #isha #anniversaire #muslim #temps",
+  "youtube_title": "30 ans ce soir. 10 957 jours. Combien pour Allah ? 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

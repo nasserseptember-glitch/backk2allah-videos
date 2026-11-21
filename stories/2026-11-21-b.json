@@ -1,0 +1,124 @@
+{
+ "id": "2026-11-21-b",
+ "segments": [
+  {
+   "scene": "souk",
+   "dur": 29.22,
+   "opts": {
+    "time": "dusk"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.4
+  },
+  {
+   "scene": "courtyard",
+   "dur": 12.21,
+   "opts": {
+    "time": "night"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6.4
+  }
+ ],
+ "hook": {
+  "text": "25 minutes à marchander 6 €. Et pour Allah, combien ?",
+  "gold": [
+   "allah,"
+  ],
+  "t0": 0.3,
+  "t1": 5.31
+ },
+ "verses": [
+  {
+   "text": "« Quiconque fait un bien fût-ce du poids d'un atome, le verra. »",
+   "ref": "Sourate Az-Zalzala — 99:7",
+   "t0": 29.52,
+   "t1": 39.32
+  }
+ ],
+ "hud": [
+  {
+   "label": "MARCHANDAGE 25 MIN",
+   "time": "12 €",
+   "sub": "SADAQA : 0 €",
+   "box": true,
+   "t0": 0.2,
+   "t1": 28.82
+  },
+  {
+   "label": "SADAQA",
+   "time": "6 €",
+   "sub": "EN SECRET",
+   "box": true,
+   "t0": 39.82,
+   "t1": 51.43
+  }
+ ],
+ "captions": [
+  [
+   5.41,
+   12.32,
+   "Une lanterne en cuivre. Il dit 18. Tu dis 10."
+  ],
+  [
+   12.42,
+   16.83,
+   "Il cède à 12. Tu souris : gagné."
+  ],
+  [
+   16.93,
+   21.08,
+   "Ses mains sont fendues. Son fils compte la monnaie."
+  ],
+  [
+   21.18,
+   26.12,
+   "Au coin, un garçon vend des mouchoirs. « Pas de monnaie », tu dis."
+  ],
+  [
+   26.22,
+   29.12,
+   "Les 6 € gagnés pèsent dans ta poche."
+  ],
+  [
+   39.92,
+   44.76,
+   "Isha. Dans la cour, la caisse pour les repas des pauvres."
+  ],
+  [
+   44.86,
+   48.37,
+   "Tu glisses les 6 €. Personne ne voit."
+  ],
+  [
+   48.47,
+   51.73,
+   "Personne, sauf Lui. Et c’est assez."
+  ]
+ ],
+ "end": {
+  "text": "25 minutes pour 6 €. Et pour Lui ?",
+  "gold": "Ce soir, donne ce que tu as gagné. En secret.",
+  "t0": 52.13,
+  "goldT0": 53.33,
+  "t1": 58.13
+ },
+ "goldWords": [
+  "allah",
+  "lui.",
+  "lui",
+  "atome,",
+  "secret."
+ ],
+ "post": {
+  "caption": "25 minutes à marchander 6 €. Et pour Allah, combien ? 🤍\n\n« Quiconque fait un bien fût-ce du poids d'un atome, le verra. » (99:7)\n\nCe que tu as gagné aujourd'hui, donne-le ce soir. En secret. Allah voit l'atome.",
+  "hashtags": "#rappel #islam #rappelislamique #sadaqa #aumone #generosite #muslim #souk",
+  "youtube_title": "25 minutes à marchander 6 €. Et pour Allah, combien ? 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}

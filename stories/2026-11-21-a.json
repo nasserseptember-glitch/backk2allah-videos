@@ -1,0 +1,120 @@
+{
+ "id": "2026-11-21-a",
+ "segments": [
+  {
+   "scene": "kids_room",
+   "dur": 25.73,
+   "opts": {
+    "tuck": 0.42
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 13.76
+  },
+  {
+   "scene": "wudu",
+   "dur": 11.58,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.54
+  }
+ ],
+ "hook": {
+  "text": "52 minutes à fixer le plafond. Pas une avec Allah.",
+  "gold": [
+   "allah."
+  ],
+  "t0": 0.3,
+  "t1": 6.58
+ },
+ "verses": [
+  {
+   "text": "« Ils dormaient peu, la nuit, et aux dernières heures de la nuit ils imploraient le pardon. »",
+   "ref": "Sourate Adh-Dhâriyât — 51:17-18",
+   "t0": 26.03,
+   "t1": 39.19
+  }
+ ],
+ "hud": [
+  {
+   "label": "ÉVEILLÉ DEPUIS 52 MIN",
+   "time": "03:14",
+   "sub": "AVEC ALLAH : 0 MIN",
+   "box": true,
+   "t0": 0.2,
+   "t1": 25.33
+  },
+  {
+   "label": "DERNIER TIERS DE LA NUIT",
+   "time": "03:41",
+   "sub": "AVEC ALLAH : 10 MIN",
+   "box": true,
+   "t0": 39.69,
+   "t1": 50.67
+  }
+ ],
+ "captions": [
+  [
+   6.68,
+   10.64,
+   "Le loyer. Le contrat qui s’arrête en décembre."
+  ],
+  [
+   10.74,
+   13.54,
+   "Tu te lèves. Tu vas voir ta fille."
+  ],
+  [
+   13.64,
+   18.66,
+   "Tu remontes sa couverture. Elle soupire, confiante."
+  ],
+  [
+   18.76,
+   22.94,
+   "Elle dort tranquille, parce qu’elle sait que tu veilles."
+  ],
+  [
+   23.04,
+   25.63,
+   "Et toi, qui veille sur toi ?"
+  ],
+  [
+   39.79,
+   43.78,
+   "3 h 41. L’eau froide sur tes mains."
+  ],
+  [
+   43.88,
+   50.97,
+   "Deux rak‘as. Puis tu Lui confies tout : le loyer, le contrat, elle."
+  ]
+ ],
+ "end": {
+  "text": "52 minutes pour tes soucis. Et pour Lui ?",
+  "gold": "Cette nuit, lève-toi. Dix minutes, rien que pour Lui.",
+  "t0": 51.37,
+  "goldT0": 52.57,
+  "t1": 58.51
+ },
+ "goldWords": [
+  "allah",
+  "lui",
+  "lui.",
+  "fille.",
+  "toi ?",
+  "pardon."
+ ],
+ "post": {
+  "caption": "52 minutes à fixer le plafond. Pas une avec Allah. 🤍\n\n« Ils dormaient peu, la nuit, et aux dernières heures de la nuit ils imploraient le pardon. » (51:17-18)\n\nTes soucis, confie-les à Celui qui ne dort jamais. Cette nuit, lève-toi : dix minutes, rien que pour Lui.",
+  "hashtags": "#rappel #islam #rappelislamique #tahajjud #qiyam #dua #muslim #nuit",
+  "youtube_title": "52 minutes à fixer le plafond. Pas une avec Allah. 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true
+}
