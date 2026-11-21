@@ -1,0 +1,137 @@
+{
+ "id": "2026-11-21-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "You waited 2 hours for a number. Allah got 3 days.",
+  "gold": [
+   "3",
+   "days."
+  ],
+  "t0": 0.3,
+  "t1": 6.38
+ },
+ "end": {
+  "text": "You waited 2 hours for a number. Allah got 3 days.",
+  "gold": "This afternoon, in your next sujood: ask Him again. The same du’a.",
+  "t0": 68.63,
+  "goldT0": 70.03,
+  "t1": 77.82
+ },
+ "verses": [
+  {
+   "text": "“Indeed, Allah is with the patient.”",
+   "ref": "Surah Al-Baqarah — 2:153",
+   "t0": 40.62,
+   "t1": 49.13
+  }
+ ],
+ "segments": [
+  {
+   "scene": "waiting_room",
+   "dur": 40.32,
+   "opts": {
+    "ticket": "A052",
+    "now": "A047",
+    "call": 0.83
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 17.41,
+   "opts": {
+    "povBow": true,
+    "ruku": [
+     [
+      1.4,
+      3.9
+     ]
+    ]
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.89
+  }
+ ],
+ "hud": [
+  {
+   "label": "WAITING",
+   "time": "1:58",
+   "sub": "DU’A: GAVE UP ON DAY 3",
+   "t0": 6.48,
+   "t1": 39.92,
+   "box": true
+  },
+  {
+   "label": "DU’A FOR YOUR BROTHER",
+   "time": "DAY 4",
+   "sub": "STILL ASKING",
+   "t0": 51.42,
+   "t1": 67.83,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   6.48,
+   12.97,
+   "Tuesday, 2:10 p.m. Town hall. Ticket A052."
+  ],
+  [
+   13.07,
+   18.34,
+   "The board says A047. You’ve been here since noon."
+  ],
+  [
+   18.44,
+   23.06,
+   "You don’t leave. You don’t complain. You wait."
+  ],
+  [
+   23.16,
+   28.7,
+   "In your notes, a du’a from August: “Guide my brother home.”"
+  ],
+  [
+   28.8,
+   33.79,
+   "You said it three nights. Nothing changed. You stopped."
+  ],
+  [
+   33.89,
+   39.82,
+   "A052. Your turn came — because you stayed."
+  ],
+  [
+   51.42,
+   56.5,
+   "Asr. Last row. Your forehead on the carpet."
+  ],
+  [
+   56.6,
+   63.65,
+   "The same du’a. Night four. Then five. Then six."
+  ],
+  [
+   63.75,
+   67.73,
+   "This time, you don’t leave the line."
+  ]
+ ],
+ "goldWords": [
+  "stayed.",
+  "line.",
+  "six."
+ ],
+ "post": {
+  "caption": "You waited 2 hours for a number. Allah got 3 days. 🤲\n\nTicket A052. The board says A047. You don’t leave, you don’t complain — you wait. But the du’a in your notes, “Guide my brother home,” you said three nights. Then you stopped.\n\n“Indeed, Allah is with the patient.” (2:153)\n\nThis afternoon, in your next sujood: ask Him again. The same du’a.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #dua #patience #sabr #asr",
+  "youtube_title": "You waited 2 hours for a number. Allah got 3 days. 🤲 #islam #dua"
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-21-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "3 p.m.: his funeral. 9 p.m.: episode 4.",
+  "gold": [
+   "funeral."
+  ],
+  "t0": 0.3,
+  "t1": 7.02
+ },
+ "end": {
+  "text": "3 p.m.: his funeral. 9 p.m.: episode 4.",
+  "gold": "Tonight at Isha: pray it as if it were your last.",
+  "t0": 79.94,
+  "goldT0": 81.34,
+  "t1": 87.99
+ },
+ "verses": [
+  {
+   "text": "“Every soul will taste death.”",
+   "ref": "Surah Al-Imran — 3:185",
+   "t0": 51.6,
+   "t1": 59.69
+  }
+ ],
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 7.32
+  },
+  {
+   "scene": "cemetery",
+   "dur": 25.15,
+   "opts": {
+    "dua": 0.45
+   }
+  },
+  {
+   "scene": "train",
+   "dur": 18.83,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "mosque_ext",
+   "dur": 17.74,
+   "opts": {
+    "time": "night"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.75
+  }
+ ],
+ "hud": [
+  {
+   "label": "HIS AGE",
+   "time": "34",
+   "sub": "YOURS: 33",
+   "t0": 7.92,
+   "t1": 32.07,
+   "box": true
+  },
+  {
+   "label": "SAME DAY",
+   "time": "21:04",
+   "sub": "EPISODE 4 · ISHA: NOT YET",
+   "t0": 33.07,
+   "t1": 50.9,
+   "box": true
+  },
+  {
+   "label": "TONIGHT · ISHA",
+   "time": "4",
+   "sub": "RAK’AHS · PHONE OFF",
+   "t0": 62.4,
+   "t1": 79.14,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   7.92,
+   11.52,
+   "Same day. Same you."
+  ],
+  [
+   11.62,
+   18.19,
+   "Yusuf from work. 34. His heart just stopped."
+  ],
+  [
+   18.29,
+   26.37,
+   "Fresh earth. Your hands up: “Ya Allah, forgive him.”"
+  ],
+  [
+   26.47,
+   31.97,
+   "You promise yourself: from today, I change."
+  ],
+  [
+   33.07,
+   39.27,
+   "9 p.m. The train home. Phone in your hand."
+  ],
+  [
+   39.37,
+   44.47,
+   "Episode 4 starts on its own. You let it."
+  ],
+  [
+   44.57,
+   50.8,
+   "Then, at the top of your chats: Yusuf — “See you Monday, bro.”"
+  ],
+  [
+   62.4,
+   67.79,
+   "You get off one stop early. The mosque is still lit."
+  ],
+  [
+   67.89,
+   74.57,
+   "Four rak’ahs. No phone. Every word, slowly."
+  ],
+  [
+   74.67,
+   79.04,
+   "Not a big change. A real one."
+  ]
+ ],
+ "goldWords": [
+  "change.",
+  "bro.”",
+  "one."
+ ],
+ "post": {
+  "caption": "3 p.m.: his funeral. 9 p.m.: episode 4. 🤍\n\nYusuf from work. 34. Fresh earth, your hands up, and a promise: from today, I change. By 9 p.m. the next episode starts on its own — until his last message appears at the top of your chats: “See you Monday, bro.”\n\n“Every soul will taste death.” (3:185)\n\nTonight at Isha: pray it as if it were your last.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #death #akhirah #isha #salah",
+  "youtube_title": "3 p.m.: his funeral. 9 p.m.: episode 4. 🤍 #islam #reminder"
+ }
+}

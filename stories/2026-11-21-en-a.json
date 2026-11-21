@@ -1,0 +1,124 @@
+{
+ "id": "2026-11-21-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "11 headlines before breakfast. Not one word for Allah.",
+  "gold": [
+   "Allah."
+  ],
+  "t0": 0.3,
+  "t1": 7.22
+ },
+ "end": {
+  "text": "11 headlines before breakfast. Not one word for Allah.",
+  "gold": "This morning, before any headline: ten minutes with Allah.",
+  "t0": 76.7,
+  "goldT0": 78.1,
+  "t1": 85.86
+ },
+ "verses": [
+  {
+   "text": "“Unquestionably, by the remembrance of Allah hearts are assured.”",
+   "ref": "Surah Ar-Ra'd — 13:28",
+   "t0": 46.77,
+   "t1": 58.3
+  }
+ ],
+ "segments": [
+  {
+   "scene": "river",
+   "dur": 46.47,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 12.23
+  },
+  {
+   "scene": "mountain",
+   "dur": 17.6,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 9.86
+  }
+ ],
+ "hud": [
+  {
+   "label": "HEADLINES BEFORE 8 A.M.",
+   "time": "11",
+   "sub": "DHIKR: 0",
+   "t0": 7.32,
+   "t1": 46.07,
+   "box": true
+  },
+  {
+   "label": "BEFORE THE NEWS",
+   "time": "10 MIN",
+   "sub": "WITH ALLAH",
+   "t0": 59.3,
+   "t1": 75.9,
+   "box": true
+  }
+ ],
+ "captions": [
+  [
+   7.32,
+   14.88,
+   "Saturday, 7:20 a.m. A walk by the river to clear your head."
+  ],
+  [
+   14.98,
+   21.96,
+   "Earbuds in. War. Prices. A crash on the motorway."
+  ],
+  [
+   22.06,
+   26.69,
+   "Your heart is racing, and you haven’t even had coffee."
+  ],
+  [
+   26.79,
+   34.27,
+   "An old man rows past. Slowly. No phone. No hurry."
+  ],
+  [
+   34.37,
+   39.99,
+   "A leaf lands on the water. It doesn’t fight the current."
+  ],
+  [
+   40.09,
+   45.97,
+   "You take the earbuds out. For the first time — silence."
+  ],
+  [
+   59.3,
+   64.51,
+   "You climb the hill. Phone face down in your pocket."
+  ],
+  [
+   64.61,
+   71.17,
+   "SubhanAllah with each step. Alhamdulillah at the top."
+  ],
+  [
+   71.27,
+   75.8,
+   "The news hasn’t changed. Your heart has."
+  ]
+ ],
+ "goldWords": [
+  "current.",
+  "silence.",
+  "has."
+ ],
+ "post": {
+  "caption": "11 headlines before breakfast. Not one word for Allah. 🌿\n\nEarbuds in. War. Prices. A crash on the motorway. Your heart is racing before your first coffee — while an old man rows past on the river, slowly, no phone, no hurry.\n\n“Unquestionably, by the remembrance of Allah hearts are assured.” (13:28)\n\nThis morning, before any headline: ten minutes with Allah.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #dhikr #anxiety #peace #morningadhkar",
+  "youtube_title": "11 headlines before breakfast. Not one word for Allah. 🌿 #islam #dhikr"
+ }
+}
