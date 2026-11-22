@@ -1,0 +1,122 @@
+{
+ "id": "2026-11-22-a",
+ "segments": [
+  {
+   "scene": "gym",
+   "dur": 27.11,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.0
+  },
+  {
+   "scene": "mountain",
+   "dur": 16.01,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 7.65
+  }
+ ],
+ "captions": [
+  [
+   5.4,
+   10.61,
+   "18 h 50. Tapis n° 4. Le son à fond."
+  ],
+  [
+   10.71,
+   14.94,
+   "Une chanson. Puis une autre. Puis un podcast."
+  ],
+  [
+   15.04,
+   19.98,
+   "Puis un bip : batterie 1 %. Plus rien."
+  ],
+  [
+   20.08,
+   23.74,
+   "Juste ton souffle. Et ton cœur qui cogne."
+  ],
+  [
+   23.84,
+   26.71,
+   "Depuis quand tu ne t’es pas entendu penser ?"
+  ],
+  [
+   37.51,
+   41.81,
+   "Le lendemain, à l’aube, tu montes sans écouteurs."
+  ],
+  [
+   41.91,
+   49.02,
+   "Le vent. Le soleil qui se lève. Et toi : « SubhanAllah. »"
+  ],
+  [
+   49.12,
+   52.72,
+   "Dix minutes. Rien que Lui et toi."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "ÉCOUTEURS AUJOURD’HUI",
+   "time": "4H07",
+   "sub": "SILENCE AVEC ALLAH : 0 MIN",
+   "t0": 0.2,
+   "t1": 26.81,
+   "box": true
+  },
+  {
+   "label": "SANS ÉCOUTEURS",
+   "time": "10 MIN",
+   "sub": "RIEN QUE LUI ET TOI",
+   "t0": 37.31,
+   "t1": 52.82,
+   "box": true
+  }
+ ],
+ "verses": [
+  {
+   "text": "« La vie présente n'est que jouissance trompeuse. »",
+   "ref": "Sourate Al-Hadîd — 57:20",
+   "t0": 27.41,
+   "t1": 36.39
+  }
+ ],
+ "goldWords": [
+  "allah",
+  "silence.",
+  "subhanallah.",
+  "lui",
+  "penser"
+ ],
+ "post": {
+  "caption": "4 h d’écouteurs aujourd’hui. Et pour Allah : 0 minute. 🤍\n\n« La vie présente n'est que jouissance trompeuse. » (57:20)\n\nTon cœur a besoin de silence pour L’entendre. Aujourd’hui : 10 minutes sans écouteurs, avec Lui.",
+  "hashtags": "#rappel #islam #rappelislamique #dhikr #silence #muslim #coran #dunya",
+  "youtube_title": "4 h d’écouteurs aujourd’hui. Et pour Allah : 0 minute 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true,
+ "hook": {
+  "text": "4 h d’écouteurs aujourd’hui. Et pour Allah : 0 minute.",
+  "gold": [
+   "allah",
+   "0",
+   "minute."
+  ],
+  "t0": 0.3,
+  "t1": 5.3
+ },
+ "end": {
+  "text": "4 heures pour le bruit. Et pour Lui ?",
+  "gold": "Aujourd’hui : 10 minutes sans écouteurs. Avec Lui.",
+  "t0": 53.42,
+  "goldT0": 54.72,
+  "t1": 60.47
+ }
+}

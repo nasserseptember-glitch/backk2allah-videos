@@ -1,0 +1,129 @@
+{
+ "id": "2026-11-22-b",
+ "segments": [
+  {
+   "scene": "waiting_room",
+   "dur": 28.45,
+   "opts": {
+    "ticket": "B014",
+    "now": "B009",
+    "call": 0.83
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.0
+  },
+  {
+   "scene": "hospital",
+   "dur": 14.91,
+   "opts": {
+    "patient": "father"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6.93
+  }
+ ],
+ "captions": [
+  [
+   6.22,
+   10.53,
+   "Le ticket B014 tremble un peu dans ta main."
+  ],
+  [
+   10.63,
+   15.72,
+   "Toujours une raison : le travail, la route, « demain »."
+  ],
+  [
+   15.82,
+   19.83,
+   "Sur l’écran : B009. Encore cinq avant toi."
+  ],
+  [
+   19.93,
+   23.54,
+   "L’infirmière a dit : « Il vous demande chaque soir. »"
+  ],
+  [
+   23.64,
+   28.05,
+   "Ding. B014. C’est ton tour."
+  ],
+  [
+   38.85,
+   44.13,
+   "Chambre 214. Sa main est plus fine que dans ton souvenir."
+  ],
+  [
+   44.23,
+   48.29,
+   "Il sourit : « Alhamdulillah, tu es là. »"
+  ],
+  [
+   48.39,
+   52.96,
+   "Tu restes. Tu lis Al-Fatiha tout bas, pour lui."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "À L’HÔPITAL DEPUIS",
+   "time": "12 JOURS",
+   "sub": "TES VISITES : 1",
+   "t0": 0.2,
+   "t1": 28.15,
+   "box": true
+  },
+  {
+   "label": "CHAMBRE 214",
+   "time": "18:20",
+   "sub": "JOUR 13 : TU ES LÀ",
+   "t0": 38.65,
+   "t1": 53.06,
+   "box": true
+  }
+ ],
+ "verses": [
+  {
+   "text": "« Ne vous laissez pas abattre, ne vous affligez pas. »",
+   "ref": "Sourate Âl ʿImrân — 3:139",
+   "t0": 28.75,
+   "t1": 37.79
+  }
+ ],
+ "goldWords": [
+  "soir.",
+  "alhamdulillah,",
+  "al-fatiha",
+  "tour."
+ ],
+ "post": {
+  "caption": "Ton père, 12 jours à l’hôpital. Toi, 1 seule visite. 🤍\n\n« Ne vous laissez pas abattre, ne vous affligez pas. » (3:139)\n\nIl n’est pas trop tard pour être là. Ce soir, appelle-le. Demain, va le voir.",
+  "hashtags": "#rappel #islam #rappelislamique #parents #birrulwalidayn #muslim #famille #hopital",
+  "youtube_title": "Ton père, 12 jours à l’hôpital. Toi, 1 seule visite 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true,
+ "hook": {
+  "text": "Ton père, 12 jours à l’hôpital. Toi, 1 seule visite.",
+  "gold": [
+   "12",
+   "jours",
+   "1",
+   "seule",
+   "visite."
+  ],
+  "t0": 0.3,
+  "t1": 6.12
+ },
+ "end": {
+  "text": "Qui t’attend encore ? Tu viens quand ?",
+  "gold": "Ce soir, appelle-le. Demain, va le voir.",
+  "t0": 53.66,
+  "goldT0": 54.96,
+  "t1": 59.99
+ }
+}

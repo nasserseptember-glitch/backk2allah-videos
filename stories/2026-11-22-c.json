@@ -1,0 +1,124 @@
+{
+ "id": "2026-11-22-c",
+ "segments": [
+  {
+   "scene": "river",
+   "dur": 28.72,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.0
+  },
+  {
+   "scene": "courtyard",
+   "dur": 14.88,
+   "opts": {
+    "time": "night"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6.82
+  }
+ ],
+ "captions": [
+  [
+   5.56,
+   9.76,
+   "16 h 30. Tu marches vite le long de la rivière."
+  ],
+  [
+   9.86,
+   14.31,
+   "Ta sœur. Un mot de trop au déjeuner du dimanche."
+  ],
+  [
+   14.41,
+   18.63,
+   "Tu tapes. Tu envoies. Tu tapes encore."
+  ],
+  [
+   18.73,
+   22.42,
+   "Puis : « Vu ». Elle ne répond plus."
+  ],
+  [
+   22.52,
+   28.32,
+   "Sur l’eau, un vieil homme rame. Lentement. Sans colère."
+  ],
+  [
+   39.12,
+   43.76,
+   "Maghrib. L’eau froide de la fontaine sur ton visage."
+  ],
+  [
+   43.86,
+   48.85,
+   "Après la prière, un seul message : « Pardonne-moi. »"
+  ],
+  [
+   48.95,
+   53.2,
+   "Trois petits points. Puis : « Moi aussi. »"
+  ]
+ ],
+ "hud": [
+  {
+   "label": "MESSAGES EN COLÈRE",
+   "time": "17",
+   "sub": "ASTAGHFIRULLAH : 0",
+   "t0": 0.2,
+   "t1": 28.42,
+   "box": true
+  },
+  {
+   "label": "MESSAGE ENVOYÉ",
+   "time": "1",
+   "sub": "« PARDONNE-MOI »",
+   "t0": 38.92,
+   "t1": 53.3,
+   "box": true
+  }
+ ],
+ "verses": [
+  {
+   "text": "« Allah est avec ceux qui sont endurants. »",
+   "ref": "Sourate Al-Baqara — 2:153",
+   "t0": 29.02,
+   "t1": 36.84
+  }
+ ],
+ "goldWords": [
+  "astaghfirullah",
+  "pardonne-moi.",
+  "aussi.",
+  "colère."
+ ],
+ "post": {
+  "caption": "17 messages en colère. Pas un seul « astaghfirullah ». 🤍\n\n« Allah est avec ceux qui sont endurants. » (2:153)\n\nLa colère dure une minute, la rupture des années. Ce soir, avant de dormir : un pardon.",
+  "hashtags": "#rappel #islam #rappelislamique #patience #colere #famille #muslim #pardon",
+  "youtube_title": "17 messages en colère. Pas un seul « astaghfirullah » 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true,
+ "hook": {
+  "text": "17 messages en colère. Pas un seul « astaghfirullah ».",
+  "gold": [
+   "17",
+   "astaghfirullah"
+  ],
+  "t0": 0.3,
+  "t1": 5.46
+ },
+ "end": {
+  "text": "17 messages en colère. Et le prochain ?",
+  "gold": "Ce soir, avant de dormir : un pardon.",
+  "t0": 53.9,
+  "goldT0": 55.2,
+  "t1": 60.12
+ }
+}
