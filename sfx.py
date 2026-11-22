@@ -285,6 +285,52 @@ for sg in S['segments']:
         if o.get('crane', True):
             m = int(SR * d); u = np.arange(m) / SR
             put(np.sin(2 * np.pi * (180 + 10 * np.sin(u * 0.4)) * u) * 0.006 * np.sin(np.pi * u / d), a, pan=-0.5)
+    elif sc == 'bakery':  # oven fire roar + crackles, dough slaps, quiet early room
+        out[:] += ((lp(BROWN, 180) * 0.05 + bp(PINK, 200, 1200) * 0.02) * w)[:, None]
+        for kk in range(int(d * 4)):
+            m = int(SR * 0.03); put(hp(rng.normal(0, 1, m), 1500) * env(m, 0.001, 0.006) * rng.uniform(0.02, 0.06), a + rng.random() * d, pan=-0.3)
+        if o.get('knead', True):
+            tt = a + 0.4
+            while tt < b - 0.3:
+                m = int(SR * 0.12); put(lp(rng.normal(0, 1, m), 700) * env(m, 0.003, 0.03) * 0.05, tt); tt += 1.21
+    elif sc == 'cafe':  # crowd chatter, spoon on tea glass, a scooter passing
+        am = lp(np.abs(rng.normal(0, 1, N)), 2); am /= am.max()
+        out[:] += ((bp(PINK, 250, 2500) * 0.045 * (0.6 + 0.6 * am) + lp(BROWN, 120) * 0.02) * w)[:, None]
+        for kk in range(int(d // 1.6)):
+            put(verb(bell(rng.uniform(2800, 3600), 0.08), 0.3) * 0.03, a + 0.3 + rng.random() * (d - 0.6), pan=rng.uniform(-0.6, 0.6))
+        for kk in range(int(d // 5.6) + 1):
+            m = int(SR * 3); u = np.arange(m) / SR
+            put(bp(np.sign(np.sin(2 * np.pi * (70 + 8 * u) * u)) * 1.0, 80, 900) * np.exp(-((u - 1.5) / 0.6) ** 2) * 0.03, a + 0.2 + kk * 5.6, pan=0.4)
+    elif sc == 'ferry':  # engine rumble, sea wash, wind, gull cries
+        am = lp(np.abs(rng.normal(0, 1, N)), 0.4); am /= am.max()
+        out[:] += ((lp(BROWN, 90) * 0.07 + bp(PINK, 200, 2500) * 0.05 * (0.5 + am) + bp(PINK, 1500, 6000) * 0.012) * w)[:, None]
+        if o.get('gulls', True):
+            for kk in range(int(d // 3)):
+                m = int(SR * 0.35); u = np.arange(m) / SR
+                put(verb(np.sin(2 * np.pi * (1400 - 500 * u / u[-1]) * u + 3 * np.sin(2 * np.pi * 40 * u)) * env(m, 0.02, 0.12), 0.4) * 0.02, a + 0.8 + kk * 3 + rng.random(), pan=rng.uniform(0.2, 0.9))
+    elif sc == 'orchard':  # breeze in leaves, olives pattering on nets, birds
+        out[:] += ((bp(PINK, 1200, 6000) * 0.02 * (0.6 + 0.4 * np.sin(T * 0.6)) + lp(BROWN, 150) * 0.02) * w)[:, None]
+        for kk in range(int(d * 5)):
+            m = int(SR * 0.02); put(bp(rng.normal(0, 1, m), 800, 4000) * env(m, 0.001, 0.005) * 0.04, a + rng.random() * d, pan=rng.uniform(0.1, 0.6))
+        for kk in range(int(d * 0.6)):
+            f0 = rng.uniform(2500, 4200); m = int(SR * rng.uniform(0.06, 0.12)); u = np.arange(m) / SR
+            put(verb(np.sin(2 * np.pi * (f0 + rng.uniform(-600, 600) * u / u[-1]) * u) * np.sin(np.pi * u / u[-1]) ** 2, 0.4) * 0.012, a + 0.5 + rng.random() * (d - 1), pan=rng.uniform(-0.9, 0.9))
+    elif sc == 'laundromat':  # washer drums churning, fluorescent hum, rain on the glass
+        churn = 0.6 + 0.4 * np.sin(2 * np.pi * T * 0.8) ** 2 if o.get('spin', True) else 0.5
+        out[:] += ((lp(BROWN, 140) * 0.06 * churn + bp(PINK, 400, 2000) * 0.015 * churn + bp(PINK, 2000, 8000) * 0.01) * w)[:, None]
+        out[:] += ((np.sin(2 * np.pi * 100 * T) * 0.004) * w)[:, None]
+        for kk in range(int(d * 0.7)):
+            m = int(SR * 0.15); put(lp(rng.normal(0, 1, m), 400) * env(m, 0.005, 0.04) * 0.04, a + rng.random() * d, pan=-0.6)
+    elif sc == 'mina':  # soft crowd murmur, footsteps on asphalt, wind
+        out[:] += ((bp(PINK, 200, 1800) * 0.035 + bp(PINK, 800, 5000) * 0.012 * (0.6 + 0.4 * np.sin(T * 0.4)) + lp(BROWN, 120) * 0.02) * w)[:, None]
+        for kk in range(int(d * 2.5)):
+            m = int(SR * 0.08); put(lp(rng.normal(0, 1, m), 1200) * env(m, 0.002, 0.02) * 0.03, a + rng.random() * d, pan=rng.uniform(-0.6, 0.6))
+    elif sc == 'balcony':  # evening city: distant traffic, swifts screaming, a far dog, breeze
+        out[:] += ((lp(BROWN, 200) * 0.04 + bp(PINK, 300, 2500) * 0.025) * w)[:, None]
+        for kk in range(int(d * 0.5)):
+            for rep in range(3):
+                m = int(SR * 0.09); u = np.arange(m) / SR
+                put(np.sin(2 * np.pi * (6000 + 800 * np.sin(2 * np.pi * 60 * u)) * u) * np.sin(np.pi * u / u[-1]) ** 2 * 0.006, a + 0.5 + kk * 2 + rep * 0.12 + rng.random() * 0.5, pan=rng.uniform(-0.8, 0.8))
     elif sc == 'black':
         out[:] += (lp(BROWN, 120) * 0.04 * win(a, b, 1.0, 1.0))[:, None]
     a = b

@@ -1,15 +1,14 @@
 {
- "week": "2026-11-16",
- "file": "engine/scenes5.js",
+ "week": "2026-11-23",
+ "file": "engine/scenes6.js",
  "scenes": [
-  "courtyard",
-  "mountain",
-  "cemetery",
-  "waiting_room",
-  "kids_room",
-  "football",
-  "river",
-  "construction"
+  "bakery",
+  "cafe",
+  "ferry",
+  "orchard",
+  "laundromat",
+  "mina",
+  "balcony"
  ],
  "history": [
   {
@@ -38,6 +37,20 @@
     "classroom",
     "snow_street",
     "souk"
+   ]
+  },
+  {
+   "week": "2026-11-16",
+   "file": "engine/scenes5.js",
+   "scenes": [
+    "courtyard",
+    "mountain",
+    "cemetery",
+    "waiting_room",
+    "kids_room",
+    "football",
+    "river",
+    "construction"
    ]
   }
  ]
