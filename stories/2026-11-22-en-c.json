@@ -1,0 +1,132 @@
+{
+ "id": "2026-11-22-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "You know 22 players by name. How many of Allah’s names?",
+  "gold": [
+   "Allah’s",
+   "names?"
+  ],
+  "t0": 0.3,
+  "t1": 7.27
+ },
+ "verses": [
+  {
+   "text": "“Do not despair of the mercy of Allah.”",
+   "ref": "Surah Az-Zumar — 39:53",
+   "t0": 44.67,
+   "t1": 55.85
+  }
+ ],
+ "end": {
+  "text": "You know 22 players by name. How many of Allah’s names?",
+  "gold": "Tonight after Maghrib: learn one name of Allah. Just one.",
+  "t0": 79.63,
+  "goldT0": 81.23,
+  "t1": 89.49
+ },
+ "segments": [
+  {
+   "scene": "bus_stop",
+   "dur": 22.6,
+   "opts": {
+    "rain": false,
+    "phone": true
+   }
+  },
+  {
+   "scene": "football",
+   "dur": 21.77,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 11.78
+  },
+  {
+   "scene": "snow_street",
+   "dur": 22.98,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.55
+  }
+ ],
+ "hud": [
+  {
+   "label": "PLAYERS YOU KNOW BY NAME",
+   "time": "22",
+   "sub": "NAMES OF ALLAH: 2",
+   "t0": 7.37,
+   "box": true,
+   "t1": 43.97
+  },
+  {
+   "label": "LEARNED TONIGHT",
+   "time": "AL-GHAFUR",
+   "sub": "THE FORGIVING",
+   "t0": 56.75,
+   "box": true,
+   "t1": 78.83
+  }
+ ],
+ "captions": [
+  [
+   7.37,
+   15.49,
+   "Saturday, 10:40 p.m. The bus stop. Your voice is gone."
+  ],
+  [
+   15.59,
+   22.1,
+   "Ninety minutes singing his name. Every word by heart."
+  ],
+  [
+   22.6,
+   28.51,
+   "Earlier. Minute 78. He steps up for the penalty."
+  ],
+  [
+   28.61,
+   33.65,
+   "He misses. And 40,000 voices turn on him."
+  ],
+  [
+   33.75,
+   38.18,
+   "One mistake, and they forget everything he gave."
+  ],
+  [
+   38.28,
+   43.87,
+   "You think of your own mistakes. Who would still take you back?"
+  ],
+  [
+   56.75,
+   64.02,
+   "Sunday night, walking to Isha. A new name on your lips."
+  ],
+  [
+   64.12,
+   71.05,
+   "Al-Ghafur. The One who forgives. Again, and again."
+  ],
+  [
+   71.15,
+   78.44,
+   "22 players. 99 names. Tonight, you’ve started."
+  ]
+ ],
+ "goldWords": [
+  "Al-Ghafur.",
+  "started."
+ ],
+ "post": {
+  "caption": "You know 22 players by name. How many of Allah’s names? ⚽\n\nMinute 78. He misses the penalty — and 40,000 voices turn on him. One mistake, and they forget everything he gave. Who would still take you back after yours?\n\n“Do not despair of the mercy of Allah.” (39:53)\n\nTonight after Maghrib: learn one name of Allah. Start with Al-Ghafur — the One who forgives.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #asmaulhusna #namesofallah #football #mercy",
+  "youtube_title": "You know 22 players by name. How many of Allah’s names? ⚽ #islam #asmaulhusna"
+ }
+}

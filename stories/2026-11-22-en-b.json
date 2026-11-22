@@ -1,0 +1,126 @@
+{
+ "id": "2026-11-22-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "46 searches about one decision. Not one question to Allah.",
+  "gold": [
+   "Allah."
+  ],
+  "t0": 0.3,
+  "t1": 8.01
+ },
+ "verses": [
+  {
+   "text": "“Call upon Me; I will respond to you.”",
+   "ref": "Surah Ghafir — 40:60",
+   "t0": 42.13,
+   "t1": 52.53
+  }
+ ],
+ "end": {
+  "text": "46 searches about one decision. Not one question to Allah.",
+  "gold": "This afternoon: two rak’ahs. Then ask Him.",
+  "t0": 70.4,
+  "goldT0": 72.0,
+  "t1": 77.62
+ },
+ "segments": [
+  {
+   "scene": "mountain",
+   "dur": 41.83,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 11.0
+  },
+  {
+   "scene": "park",
+   "dur": 17.07,
+   "opts": {
+    "walk": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.92
+  }
+ ],
+ "hud": [
+  {
+   "label": "JOB SEARCHES",
+   "time": "46",
+   "sub": "ISTIKHARA: 0",
+   "t0": 8.11,
+   "box": true,
+   "t1": 41.43
+  },
+  {
+   "label": "ISTIKHARA",
+   "time": "2 RAK’AHS",
+   "sub": "THEN TRUST HIM",
+   "t0": 53.43,
+   "box": true,
+   "t1": 69.6
+  }
+ ],
+ "captions": [
+  [
+   8.11,
+   15.23,
+   "5:50 a.m., halfway up. A job offer in another city."
+  ],
+  [
+   15.33,
+   20.84,
+   "You asked Google. Then Reddit. Then nine friends."
+  ],
+  [
+   20.94,
+   26.65,
+   "Nine opinions. Nine directions. Still lost."
+  ],
+  [
+   26.75,
+   30.67,
+   "At the top, the sun breaks through the clouds."
+  ],
+  [
+   30.77,
+   37.72,
+   "So big. So quiet. And you realise who you never asked."
+  ],
+  [
+   37.82,
+   41.33,
+   "You raise your hands. Your voice shakes."
+  ],
+  [
+   53.43,
+   58.82,
+   "That afternoon: two rak’ahs. Then the du’a of istikhara."
+  ],
+  [
+   58.92,
+   64.79,
+   "No lightning. No dream. Just a heart that’s calm again."
+  ],
+  [
+   64.89,
+   69.2,
+   "Whatever He chooses, you’re no longer choosing alone."
+  ]
+ ],
+ "goldWords": [
+  "clouds.",
+  "asked.",
+  "alone."
+ ],
+ "post": {
+  "caption": "46 searches about one decision. Not one question to Allah. ⛰️\n\nA job offer in another city. You asked Google, Reddit, nine friends — nine opinions, nine directions, still lost. Then, at the top of the mountain, you finally ask the One who knows.\n\n“Call upon Me; I will respond to you.” (40:60)\n\nThis afternoon: two rak’ahs of istikhara. Then ask Him.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #istikhara #dua #tawakkul #decision",
+  "youtube_title": "46 searches about one decision. Not one question to Allah. #istikhara #islam"
+ }
+}

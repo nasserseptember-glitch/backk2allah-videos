@@ -1,0 +1,133 @@
+{
+ "id": "2026-11-22-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "14 floors built this year. Not one sujood for Allah.",
+  "gold": [
+   "Allah."
+  ],
+  "t0": 0.3,
+  "t1": 7.81
+ },
+ "verses": [
+  {
+   "text": "“Establish prayer for My remembrance.”",
+   "ref": "Surah Ta-Ha — 20:14",
+   "t0": 49.01,
+   "t1": 59.41
+  }
+ ],
+ "end": {
+  "text": "14 floors built this year. Not one sujood for Allah.",
+  "gold": "Today at Dhuhr: gloves off. Six minutes for Him.",
+  "t0": 80.06,
+  "goldT0": 81.66,
+  "t1": 89.77
+ },
+ "segments": [
+  {
+   "scene": "construction",
+   "dur": 48.71,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.0
+  },
+  {
+   "scene": "wudu",
+   "dur": 19.85,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.41
+  }
+ ],
+ "hud": [
+  {
+   "label": "FLOORS BUILT THIS YEAR",
+   "time": "14",
+   "sub": "DHUHR ON SITE: 0",
+   "t0": 7.91,
+   "box": true,
+   "t1": 48.31
+  },
+  {
+   "label": "DHUHR · 1:15 P.M.",
+   "time": "6 MIN",
+   "sub": "FOR ALLAH",
+   "t0": 60.31,
+   "box": true,
+   "t1": 79.26
+  }
+ ],
+ "captions": [
+  [
+   7.91,
+   16.11,
+   "Tuesday, 1:10 p.m. Fourteenth floor. The concrete is still wet."
+  ],
+  [
+   16.21,
+   22.37,
+   "The crane swings. The foreman shouts. You keep going."
+  ],
+  [
+   22.47,
+   27.67,
+   "“I’ll pray tonight. All of it.” Like every day."
+  ],
+  [
+   27.77,
+   33.27,
+   "Then, from the minaret on the horizon: the adhan."
+  ],
+  [
+   33.37,
+   37.62,
+   "Down below, Yusuf takes off his gloves."
+  ],
+  [
+   37.72,
+   43.42,
+   "A piece of cardboard. Facing the qibla. Sujood."
+  ],
+  [
+   43.52,
+   48.21,
+   "Six minutes. Then he’s back on the scaffold."
+  ],
+  [
+   60.31,
+   66.41,
+   "The next day, 1:15. You take off your gloves too."
+  ],
+  [
+   66.51,
+   72.21,
+   "Cold water from the site tap. Cement on your wrists."
+  ],
+  [
+   72.31,
+   78.86,
+   "The building will fall one day. This sujood stays with Him."
+  ]
+ ],
+ "goldWords": [
+  "adhan.",
+  "Sujood.",
+  "Him."
+ ],
+ "post": {
+  "caption": "14 floors built this year. Not one sujood for Allah. 🏗️\n\nTuesday, 1:10 p.m. Fourteenth floor. “I’ll pray tonight, all of it.” Then the adhan rises from a minaret on the horizon — and Yusuf, down below, takes off his gloves and prays on a piece of cardboard. Six minutes.\n\n“Establish prayer for My remembrance.” (20:14)\n\nToday at Dhuhr: gloves off. Six minutes for Him.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #salah #dhuhr #workingmuslim #prayer",
+  "youtube_title": "14 floors built this year. Not one sujood for Allah. 🏗️ #islam #salah"
+ }
+}
