@@ -1,0 +1,142 @@
+{
+ "id": "2026-11-23-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "goldWords": [
+  "“Astaghfirullah…",
+  "“I’m",
+  "sorry.”",
+  "“Astaghfirullah.”",
+  "clean."
+ ],
+ "post": {
+  "caption": "38 minutes for your laundry. 0 for your heart. 🧺\n\nSunday, 11:20 p.m. Machine number 4. The shirt you wore at dinner — and what you said to your brother — still on you. A woman folds her clothes, whispering “astaghfirullah” with every fold. Your shirt will come out clean. You won’t.\n\n“Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver.” (71:10)\n\nThis evening at Maghrib: one apology. Then 100 “Astaghfirullah.”",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #istighfar #tawbah #astaghfirullah #maghrib",
+  "youtube_title": "38 minutes for your laundry. 0 for your heart. 🧺 #islam #istighfar"
+ },
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 5.85
+  },
+  {
+   "scene": "laundromat",
+   "dur": 33.67,
+   "opts": {
+    "phone": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 16.14
+  },
+  {
+   "scene": "balcony",
+   "dur": 19.51,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.07
+  }
+ ],
+ "captions": [
+  [
+   6.15,
+   12.34,
+   "Sunday, 11:20 p.m. Machine number 4. The drum turns."
+  ],
+  [
+   12.44,
+   15.31,
+   "That shirt. The one you wore at dinner tonight."
+  ],
+  [
+   15.41,
+   19.33,
+   "What you said to your brother. It’s still on you."
+  ],
+  [
+   19.43,
+   24.88,
+   "You scroll. You check the timer. 23 minutes left."
+  ],
+  [
+   24.98,
+   29.38,
+   "The light flickers. A woman folds her clothes, whispering."
+  ],
+  [
+   29.48,
+   35.16,
+   "“Astaghfirullah… astaghfirullah…” With every fold."
+  ],
+  [
+   35.26,
+   38.92,
+   "Your shirt will come out clean. You won’t."
+  ],
+  [
+   55.96,
+   61.38,
+   "Next day. Maghrib. Your balcony, the tea going cold."
+  ],
+  [
+   61.48,
+   64.38,
+   "Your brother’s number. You call. “I’m sorry.”"
+  ],
+  [
+   64.48,
+   69.48,
+   "Then, quietly, a hundred times: “Astaghfirullah.”"
+  ],
+  [
+   69.58,
+   74.57,
+   "The sun goes down. And something in you comes clean."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "WASH CYCLE · MACHINE 4",
+   "time": "38 MIN",
+   "sub": "ISTIGHFAR: 0",
+   "t0": 6.15,
+   "t1": 39.22,
+   "box": true
+  },
+  {
+   "label": "MAGHRIB · YOUR BALCONY",
+   "time": "100×",
+   "sub": "ASTAGHFIRULLAH",
+   "t0": 55.96,
+   "t1": 74.87,
+   "box": true
+  }
+ ],
+ "verses": [
+  {
+   "text": "“Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver. He will send [rain from] the sky upon you in [continuing] showers.”",
+   "ref": "Surah Nuh — 71:10-11",
+   "t0": 39.82,
+   "t1": 55.26
+  }
+ ],
+ "hook": {
+  "text": "38 minutes for your laundry. 0 for your heart.",
+  "gold": [
+   "heart."
+  ],
+  "t0": 0.3,
+  "t1": 5.55
+ },
+ "end": {
+  "text": "38 minutes for your laundry. 0 for your heart.",
+  "gold": "This evening at Maghrib: one apology. Then 100 “Astaghfirullah.”",
+  "t0": 75.47,
+  "goldT0": 77.07,
+  "t1": 84.94
+ }
+}

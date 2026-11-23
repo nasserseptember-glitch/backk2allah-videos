@@ -1,0 +1,136 @@
+{
+ "id": "2026-11-23-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "goldWords": [
+  "ahead.”",
+  "ahead.",
+  "trip.”"
+ ],
+ "post": {
+  "caption": "2 suitcases for a 5-day trip. What have you packed for Allah? 🧳\n\nThursday, 5:40 p.m. The ferry to your grandfather. Two bags full of chargers, gifts and shoes you won’t even wear. An old man at the rail with one small bag and a tasbih: “My bag is light. I sent the rest ahead.”\n\n“And what is the worldly life except the enjoyment of delusion.” (57:20)\n\nTonight, before Isha: one good deed no one will see.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #akhirah #sadaqah #gooddeeds #travel",
+  "youtube_title": "2 suitcases for a 5-day trip. What have you packed for Allah? 🧳 #islam"
+ },
+ "segments": [
+  {
+   "scene": "ferry",
+   "dur": 52.88,
+   "opts": {
+    "time": "sunset"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.42
+  },
+  {
+   "scene": "orchard",
+   "dur": 22.22,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.13
+  }
+ ],
+ "captions": [
+  [
+   7.1,
+   15.41,
+   "Thursday, 5:40 p.m. The ferry to your grandfather. 40 minutes across."
+  ],
+  [
+   15.51,
+   21.11,
+   "Two bags. Chargers, gifts, shoes you won’t even wear."
+  ],
+  [
+   21.21,
+   26.52,
+   "Gulls follow the boat. You film them for your story."
+  ],
+  [
+   26.62,
+   34.0,
+   "An old man at the rail. One small bag. A tasbih in his hand."
+  ],
+  [
+   34.1,
+   40.77,
+   "The horn. “Arriving in ten minutes.” Everyone grabs their things."
+  ],
+  [
+   40.87,
+   47.06,
+   "He smiles. “My bag is light. I sent the rest ahead.”"
+  ],
+  [
+   47.16,
+   52.28,
+   "You look at your two bags. Then at your empty hands."
+  ],
+  [
+   64.6,
+   70.58,
+   "Morning. Grandpa’s olive grove. He planted it at twenty."
+  ],
+  [
+   70.68,
+   75.46,
+   "“The first trees fed other people,” he says. “Not me.”"
+  ],
+  [
+   75.56,
+   79.2,
+   "“That’s how you pack for the long trip.”"
+  ],
+  [
+   79.3,
+   85.91,
+   "Your hands are full of olives now. You know what to send ahead."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "LUGGAGE · 5-DAY TRIP",
+   "time": "2 BAGS",
+   "sub": "FOR THE AKHIRAH: ?",
+   "t0": 7.1,
+   "t1": 52.58,
+   "box": true
+  },
+  {
+   "label": "SENT AHEAD TODAY",
+   "time": "1",
+   "sub": "DEED NO ONE SEES",
+   "t0": 64.6,
+   "t1": 86.21,
+   "box": true
+  }
+ ],
+ "verses": [
+  {
+   "text": "“And what is the worldly life except the enjoyment of delusion.”",
+   "ref": "Surah Al-Hadid — 57:20",
+   "t0": 53.18,
+   "t1": 63.9
+  }
+ ],
+ "hook": {
+  "text": "2 suitcases for a 5-day trip. What have you packed for Allah?",
+  "gold": [
+   "Allah?"
+  ],
+  "t0": 0.3,
+  "t1": 7.0
+ },
+ "end": {
+  "text": "2 suitcases for a 5-day trip. What have you packed for Allah?",
+  "gold": "Tonight, before Isha: one good deed no one will see.",
+  "t0": 86.81,
+  "goldT0": 88.41,
+  "t1": 96.34
+ }
+}
