@@ -1,0 +1,119 @@
+{
+ "id": "2026-11-23-b",
+ "segments": [
+  {
+   "scene": "laundromat",
+   "dur": 30.57,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "balcony",
+   "dur": 11.37,
+   "opts": {
+    "time": "night",
+    "tea": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 6.5
+  }
+ ],
+ "captions": [
+  [
+   6.55,
+   12.68,
+   "23 h 10. La laverie est vide. Le tambour tourne."
+  ],
+  [
+   12.78,
+   16.45,
+   "Ta chemise blanche. La tache de café de ce midi."
+  ],
+  [
+   16.55,
+   20.08,
+   "Comme ta journée. Ce mensonge au travail."
+  ],
+  [
+   20.18,
+   25.8,
+   "Bip. Tu sors la chemise. Blanche. Comme neuve."
+  ],
+  [
+   25.9,
+   30.17,
+   "Si un tissu peut redevenir blanc, pourquoi pas toi ?"
+  ],
+  [
+   41.67,
+   46.45,
+   "Deux rakats. Tes mains levées. Tu Lui dis tout."
+  ],
+  [
+   46.55,
+   51.94,
+   "Dehors, rien n’a changé. Dedans, c’est plus léger."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "LESSIVES CETTE ANNÉE",
+   "time": "46",
+   "sub": "TAWBA : 0",
+   "t0": 0.2,
+   "t1": 30.47,
+   "box": true
+  },
+  {
+   "label": "TAWBA CE SOIR",
+   "time": "2",
+   "sub": "RAKATS",
+   "t0": 41.27,
+   "t1": 52.34,
+   "box": true
+  }
+ ],
+ "verses": [
+  {
+   "text": "« Allah aime ceux qui se repentent. »",
+   "ref": "Sourate Al-Baqara — 2:222",
+   "t0": 30.77,
+   "t1": 40.77
+  }
+ ],
+ "goldWords": [
+  "blanche.",
+  "blanc,",
+  "léger.",
+  "lui",
+  "allah"
+ ],
+ "post": {
+  "caption": "46 lessives cette année. Et ton cœur, lavé quand ? 🤍\n\n« Allah aime ceux qui se repentent. » (2:222)\n\nUn tissu peut redevenir blanc. Toi aussi. Ce soir, avant minuit : deux rakats de tawba.",
+  "hashtags": "#rappel #islam #rappelislamique #tawba #repentir #coeur #muslim #priere",
+  "youtube_title": "46 lessives cette année. Et ton cœur, lavé quand ? 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true,
+ "hook": {
+  "text": "46 lessives cette année. Et ton cœur, lavé quand ?",
+  "gold": [
+   "46",
+   "cœur,"
+  ],
+  "t0": 0.3,
+  "t1": 6.45
+ },
+ "end": {
+  "text": "46 lessives. Et ton cœur ?",
+  "gold": "Ce soir, avant minuit : deux rakats de tawba.",
+  "t0": 52.74,
+  "goldT0": 53.74,
+  "t1": 58.94
+ }
+}

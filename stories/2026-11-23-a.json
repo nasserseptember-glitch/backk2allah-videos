@@ -1,0 +1,118 @@
+{
+ "id": "2026-11-23-a",
+ "segments": [
+  {
+   "scene": "bakery",
+   "dur": 28.55,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 11.39
+  },
+  {
+   "scene": "wudu",
+   "dur": 12.93,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.33
+  }
+ ],
+ "captions": [
+  [
+   5.76,
+   9.35,
+   "Trois ans que tu pétris avant tout le monde."
+  ],
+  [
+   9.45,
+   15.96,
+   "6 h 41. L’adhan de Fajr passe par la fenêtre."
+  ],
+  [
+   16.06,
+   20.26,
+   "Les mains dans la pâte, tu te dis : « Après la fournée. »"
+  ],
+  [
+   20.36,
+   23.91,
+   "Le vieux boulanger, lui, pose sa pelle."
+  ],
+  [
+   24.01,
+   28.15,
+   "« Le pain peut attendre dix minutes. Pas Lui. »"
+  ],
+  [
+   40.54,
+   45.86,
+   "Tu rinces la farine. L’eau froide sur tes bras."
+  ],
+  [
+   45.96,
+   52.38,
+   "Ce matin, Fajr à l’heure. Le pain a attendu."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "RÉVEILS À 3 H 50",
+   "time": "1 095",
+   "sub": "FAJR À L’HEURE : 0",
+   "t0": 0.2,
+   "t1": 28.45,
+   "box": true
+  },
+  {
+   "label": "FAJR",
+   "time": "6:41",
+   "sub": "À L’HEURE",
+   "t0": 40.14,
+   "t1": 52.78,
+   "box": true
+  }
+ ],
+ "verses": [
+  {
+   "text": "« Allah n'impose à aucune âme une charge supérieure à sa capacité. »",
+   "ref": "Sourate Al-Baqara — 2:286",
+   "t0": 28.75,
+   "t1": 39.64
+  }
+ ],
+ "goldWords": [
+  "fajr",
+  "lui.",
+  "attendu.",
+  "allah"
+ ],
+ "post": {
+  "caption": "Debout à 3 h 50 pour le pain. Et pour Fajr ? 🤍\n\n« Allah n'impose à aucune âme une charge supérieure à sa capacité. » (2:286)\n\nTu sais déjà te lever. Demain, à l’adhan de Fajr : pose tout. Dix minutes pour Lui.",
+  "hashtags": "#rappel #islam #rappelislamique #fajr #priere #travail #muslim #salat",
+  "youtube_title": "Debout à 3 h 50 pour le pain. Et pour Fajr ? 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true,
+ "hook": {
+  "text": "Debout à 3 h 50 pour le pain. Et pour Fajr ?",
+  "gold": [
+   "3",
+   "50",
+   "Fajr"
+  ],
+  "t0": 0.3,
+  "t1": 5.66
+ },
+ "end": {
+  "text": "Debout à 3 h 50 pour le pain. Et pour Lui ?",
+  "gold": "Demain, à l’adhan de Fajr : pose tout. Dix minutes pour Lui.",
+  "t0": 53.18,
+  "goldT0": 54.18,
+  "t1": 62.2
+ }
+}

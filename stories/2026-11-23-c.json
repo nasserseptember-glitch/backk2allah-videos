@@ -1,0 +1,120 @@
+{
+ "id": "2026-11-23-c",
+ "segments": [
+  {
+   "scene": "ferry",
+   "dur": 28.66,
+   "opts": {
+    "time": "sunset"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 12.03,
+   "opts": {
+    "night": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.49
+  }
+ ],
+ "captions": [
+  [
+   5.01,
+   11.2,
+   "19 h 20. Le ferry vers le bled. La côte approche."
+  ],
+  [
+   11.3,
+   15.11,
+   "L’adhan de Maghrib arrive par-dessus l’eau."
+  ],
+  [
+   15.21,
+   18.92,
+   "Sur le pont, un vieil homme déplie son tapis."
+  ],
+  [
+   19.02,
+   23.57,
+   "Il se pousse un peu. « Viens, il y a de la place. »"
+  ],
+  [
+   23.67,
+   28.26,
+   "Tu murmures : « Pas moi. C’est trop tard pour moi. »"
+  ],
+  [
+   39.76,
+   47.47,
+   "Ta première prière en sept ans. La Fatiha revient, mot par mot."
+  ],
+  [
+   47.57,
+   50.69,
+   "Personne ne t’a demandé où tu étais."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "ANNÉES SANS PRIER",
+   "time": "7",
+   "sub": "« TROP TARD »",
+   "t0": 0.2,
+   "t1": 28.56,
+   "box": true
+  },
+  {
+   "label": "ISHA",
+   "time": "20:52",
+   "sub": "PREMIÈRE PRIÈRE EN 7 ANS",
+   "t0": 39.36,
+   "t1": 51.09,
+   "box": true
+  }
+ ],
+ "verses": [
+  {
+   "text": "« Ne désespérez pas de la miséricorde d'Allah. »",
+   "ref": "Sourate Az-Zumar — 39:53",
+   "t0": 28.86,
+   "t1": 38.86
+  }
+ ],
+ "goldWords": [
+  "place.",
+  "fatiha",
+  "prière",
+  "allah"
+ ],
+ "post": {
+  "caption": "7 ans sans prier. « Trop tard pour moi. » 🤍\n\n« Ne désespérez pas de la miséricorde d'Allah. » (39:53)\n\nCe n’est jamais trop tard pour revenir. Ce soir, à Isha : une seule prière. Recommence.",
+  "hashtags": "#rappel #islam #rappelislamique #priere #retour #misericorde #muslim #salat",
+  "youtube_title": "7 ans sans prier. « Trop tard pour moi. » 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hookBox": true,
+ "hook": {
+  "text": "7 ans sans prier. « Trop tard pour moi. »",
+  "gold": [
+   "7",
+   "Trop",
+   "tard"
+  ],
+  "t0": 0.3,
+  "t1": 4.91
+ },
+ "end": {
+  "text": "7 ans sans prier. Et ce soir ?",
+  "gold": "Ce soir, à Isha : une seule prière. Recommence.",
+  "t0": 51.49,
+  "goldT0": 52.49,
+  "t1": 59.68
+ }
+}
