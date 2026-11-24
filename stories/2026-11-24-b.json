@@ -1,0 +1,121 @@
+{
+ "id": "2026-11-24-b",
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.55,
+  "text": "2 300 olives ramassées. Combien de « alhamdulillah » ?",
+  "gold": [
+   "2",
+   "300",
+   "« alhamdulillah »"
+  ]
+ },
+ "verses": [
+  {
+   "text": "« Souvenez-vous de Moi, Je vous récompenserai. »",
+   "ref": "Sourate Al-Baqara — 2:152",
+   "t0": 31.3,
+   "t1": 41.3
+  }
+ ],
+ "end": {
+  "text": "2 300 olives. Et tes « alhamdulillah » ?",
+  "gold": "Ce soir, après Isha : 33 fois « alhamdulillah ».",
+  "t0": 53.27,
+  "goldT0": 54.27,
+  "t1": 60.31
+ },
+ "segments": [
+  {
+   "scene": "orchard",
+   "dur": 31.0,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "dinner",
+   "dur": 11.36,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 7.75
+  }
+ ],
+ "captions": [
+  [
+   6.65,
+   12.67,
+   "8 h 40. Le verger de ton grand-père. Le dos te brûle."
+  ],
+  [
+   12.77,
+   17.87,
+   "Tu râles. Le froid, les mains collantes, le réseau."
+  ],
+  [
+   17.97,
+   23.65,
+   "Lui, 81 ans, ramasse chaque olive, une par une."
+  ],
+  [
+   23.75,
+   27.52,
+   "À chaque poignée, tu l’entends : « Alhamdulillah. »"
+  ],
+  [
+   27.62,
+   30.5,
+   "« Elles auraient pu ne pas pousser », dit-il."
+  ],
+  [
+   41.8,
+   45.09,
+   "Le soir, l’huile nouvelle sur le pain chaud."
+  ],
+  [
+   45.19,
+   48.38,
+   "Tout le monde est là. Tu comptes enfin ce que tu as."
+  ],
+  [
+   48.48,
+   52.37,
+   "Une bouchée. Un « alhamdulillah ». À voix haute."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "OLIVES RAMASSÉES",
+   "time": "2 300",
+   "sub": "ALHAMDULILLAH : 0",
+   "t0": 0.2,
+   "t1": 30.9,
+   "box": true
+  },
+  {
+   "label": "CE SOIR APRÈS ISHA",
+   "time": "33",
+   "sub": "× ALHAMDULILLAH",
+   "t0": 41.7,
+   "t1": 52.77,
+   "box": true
+  }
+ ],
+ "goldWords": [
+  "alhamdulillah.",
+  "alhamdulillah",
+  "pousser",
+  "allah"
+ ],
+ "capBox": true,
+ "hookBox": true,
+ "post": {
+  "caption": "2 300 olives ramassées. Combien de « alhamdulillah » ? 🫒\n\n« Souvenez-vous de Moi, Je vous récompenserai. » (2:152)\n\nTout ce que tu as aurait pu ne pas être. Ce soir, après Isha : 33 fois « alhamdulillah ».",
+  "hashtags": "#rappel #islam #rappelislamique #alhamdulillah #gratitude #dhikr #muslim #famille",
+  "youtube_title": "2 300 olives. Combien de « alhamdulillah » ? 🫒 #rappel #islam"
+ }
+}

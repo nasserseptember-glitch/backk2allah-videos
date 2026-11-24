@@ -1,0 +1,131 @@
+{
+ "id": "2026-11-24-a",
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.25,
+  "text": "1 h 40 à parler de Karim. Pas un mot pour Allah.",
+  "gold": [
+   "1",
+   "h",
+   "40",
+   "Allah."
+  ]
+ },
+ "verses": [
+  {
+   "text": "« La Salât préserve de la turpitude et du blâmable. »",
+   "ref": "Sourate Al-ʿAnkabût — 29:45",
+   "t0": 35.6,
+   "t1": 46.18
+  }
+ ],
+ "end": {
+  "text": "1 h 40 à parler de lui. Et à Allah ?",
+  "gold": "Ce soir, fais une dua pour lui. Une seule.",
+  "t0": 55.49,
+  "goldT0": 56.49,
+  "t1": 61.36
+ },
+ "segments": [
+  {
+   "scene": "cafe",
+   "dur": 35.3,
+   "opts": {
+    "time": "dusk",
+    "friends": 3
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.07
+  },
+  {
+   "scene": "snow_street",
+   "dur": 8.72,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 6.57
+  }
+ ],
+ "captions": [
+  [
+   6.35,
+   11.98,
+   "18 h 50. Terrasse du café. Le thé refroidit."
+  ],
+  [
+   12.08,
+   15.66,
+   "Karim n’est pas là. Alors on parle de lui."
+  ],
+  [
+   15.76,
+   20.62,
+   "Son divorce. Ses dettes. Tu rajoutes un détail."
+  ],
+  [
+   20.72,
+   23.44,
+   "Tout le monde rit. Toi aussi."
+  ],
+  [
+   23.54,
+   27.85,
+   "Ton téléphone vibre. Karim : « Je vous rejoins ? »"
+  ],
+  [
+   27.95,
+   32.08,
+   "Le rire s’arrête. Personne ne répond."
+  ],
+  [
+   32.18,
+   34.8,
+   "Au loin, l’adhan d’Isha."
+  ],
+  [
+   46.68,
+   49.92,
+   "Tu te lèves. Tu marches vers la mosquée."
+  ],
+  [
+   50.02,
+   54.59,
+   "Dans le froid, tu lui écris : « Viens, on t’attend. »"
+  ]
+ ],
+ "hud": [
+  {
+   "label": "PARLÉ DE KARIM",
+   "time": "1H40",
+   "sub": "DHIKR : 0 MIN",
+   "t0": 0.2,
+   "t1": 35.2,
+   "box": true
+  },
+  {
+   "label": "MESSAGE À KARIM",
+   "time": "19:02",
+   "sub": "« VIENS, ON T’ATTEND »",
+   "t0": 46.58,
+   "t1": 54.99,
+   "box": true
+  }
+ ],
+ "goldWords": [
+  "allah",
+  "isha.",
+  "mosquée.",
+  "attend.",
+  "dua"
+ ],
+ "capBox": true,
+ "hookBox": true,
+ "post": {
+  "caption": "1 h 40 à parler de Karim. Pas un mot pour Allah. 🤍\n\n« La Salât préserve de la turpitude et du blâmable. » (29:45)\n\nCe qu'on ne dit pas devant lui, on ne le dit plus. Ce soir, fais une dua pour lui. Une seule.",
+  "hashtags": "#rappel #islam #rappelislamique #medisance #ghiba #langue #muslim #fraternite",
+  "youtube_title": "1 h 40 à parler de lui. Et à Allah ? 🤍 #rappel #islam"
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "id": "2026-11-24-c",
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.1,
+  "text": "« L’an prochain, le Hajj. » Tu le dis depuis 8 ans.",
+  "gold": [
+   "8",
+   "ans.",
+   "Hajj."
+  ]
+ },
+ "verses": [
+  {
+   "text": "« Invoquez-Moi, Je vous répondrai. »",
+   "ref": "Sourate Ghâfir — 40:60",
+   "t0": 26.64,
+   "t1": 36.64
+  }
+ ],
+ "end": {
+  "text": "8 ans de « l’an prochain ». Et cette année ?",
+  "gold": "Ce soir : fais la dua. Et mets 10 € de côté.",
+  "t0": 53.03,
+  "goldT0": 54.03,
+  "t1": 59.66
+ },
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 5.4
+  },
+  {
+   "scene": "office",
+   "dur": 20.94,
+   "opts": {
+    "screen": "mail",
+    "typing": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "mina",
+   "dur": 15.78,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 7.33
+  }
+ ],
+ "captions": [
+  [
+   5.7,
+   14.05,
+   "23 h 40. Bureau vide. Un onglet ouvert : « Hajj 2027 »."
+  ],
+  [
+   14.15,
+   18.61,
+   "Tu regardes le prix. Tu fermes l’onglet. Encore."
+  ],
+  [
+   18.71,
+   22.68,
+   "Un message de ta mère : « Ton père en rêvait aussi. »"
+  ],
+  [
+   22.78,
+   25.84,
+   "Il disait « l’an prochain », lui aussi."
+  ],
+  [
+   37.14,
+   43.0,
+   "Tu fermes les yeux. Des milliers en blanc. Tous égaux."
+  ],
+  [
+   43.1,
+   47.39,
+   "Tu lèves les mains : « Ô Allah, écris-le pour moi. »"
+  ],
+  [
+   47.49,
+   52.13,
+   "Puis tu ouvres un compte. Tu l’appelles : « Hajj »."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "HAJJ « L’AN PROCHAIN »",
+   "time": "8 ANS",
+   "sub": "BILLET : 0",
+   "t0": 5.6,
+   "t1": 26.24,
+   "box": true
+  },
+  {
+   "label": "COMPTE « HAJJ »",
+   "time": "10 €",
+   "sub": "INTENTION : FAITE",
+   "t0": 37.04,
+   "t1": 52.53,
+   "box": true
+  }
+ ],
+ "goldWords": [
+  "allah,",
+  "allah",
+  "égaux.",
+  "hajj",
+  "moi."
+ ],
+ "capBox": true,
+ "hookBox": true,
+ "post": {
+  "caption": "« L'an prochain, le Hajj. » Tu le dis depuis 8 ans. 🕋\n\n« Invoquez-Moi, Je vous répondrai. » (40:60)\n\nNe laisse pas « l'an prochain » devenir jamais. Ce soir : fais la dua. Et mets 10 € de côté.",
+  "hashtags": "#rappel #islam #rappelislamique #hajj #dua #intention #muslim #makkah",
+  "youtube_title": "« L’an prochain, le Hajj. » Depuis 8 ans. 🕋 #rappel #islam"
+ }
+}
