@@ -1,0 +1,163 @@
+{
+ "id": "2026-11-24-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "goldWords": [
+  "“Here",
+  "son",
+  "prays.”",
+  "“Allahu",
+  "akbar.”"
+ ],
+ "post": {
+  "caption": "Dad saved 11 years for Hajj. You’ve skipped salah for 11 days. 🤍\n\n6:05 p.m., a bus stop in the rain. Your mum sends a photo she found in the cupboard: Mina, 2014. Dad in two white sheets, smiling. On the back, in his handwriting: “Here I asked Allah for one thing: that my son prays.”\n\n“Indeed, Allah loves those who are constantly repentant.” (2:222)\n\nTonight at Isha: come back. One prayer is enough to start.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #salah #tawbah #hajj #isha",
+  "youtube_title": "Dad saved 11 years for Hajj. You skipped salah 11 days. 🤍 #islam #salah"
+ },
+ "hook": {
+  "text": "Dad saved 11 years for Hajj. You’ve skipped salah for 11 days.",
+  "gold": [
+   "11",
+   "days."
+  ],
+  "t0": 0.3,
+  "t1": 7.58
+ },
+ "verses": [
+  {
+   "text": "“Indeed, Allah loves those who are constantly repentant.”",
+   "ref": "Surah Al-Baqarah — 2:222",
+   "t0": 55.4,
+   "t1": 65.88
+  }
+ ],
+ "end": {
+  "text": "Dad saved 11 years for Hajj. You’ve skipped salah for 11 days.",
+  "gold": "Tonight at Isha: come back. One prayer is enough to start.",
+  "t0": 89.56,
+  "goldT0": 91.16,
+  "t1": 99.33
+ },
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 7.88
+  },
+  {
+   "scene": "bus_stop",
+   "dur": 11.53,
+   "opts": {
+    "phone": true
+   }
+  },
+  {
+   "scene": "mina",
+   "dur": 35.39,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 11.68
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 22.48,
+   "opts": {
+    "night": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.77
+  }
+ ],
+ "captions": [
+  [
+   8.18,
+   13.91,
+   "6:05 p.m. The bus stop. Rain on the glass."
+  ],
+  [
+   14.01,
+   18.81,
+   "Your mum sends a photo. “Look what I found in the cupboard.”"
+  ],
+  [
+   19.71,
+   26.04,
+   "Mina, 2014. Dad in two white sheets, smiling."
+  ],
+  [
+   26.14,
+   32.26,
+   "Three million people. No titles. No brands. Just white."
+  ],
+  [
+   32.36,
+   39.53,
+   "He saved one coin at a time. 11 years, for this road."
+  ],
+  [
+   39.63,
+   42.84,
+   "On the back of the photo, in his handwriting:"
+  ],
+  [
+   42.94,
+   48.55,
+   "“Here I asked Allah for one thing: that my son prays.”"
+  ],
+  [
+   48.65,
+   54.2,
+   "11 years for that road. And you, 11 days away."
+  ],
+  [
+   66.78,
+   72.04,
+   "7:10 p.m. Isha. The masjid by the bus stop."
+  ],
+  [
+   72.14,
+   77.43,
+   "Row three. Shoes off. Your hands still cold from the rain."
+  ],
+  [
+   77.53,
+   83.68,
+   "“Allahu akbar.” Eleven days end in two words."
+  ],
+  [
+   83.78,
+   88.36,
+   "After, you call Dad. He hears it in your voice."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "LAST SALAH",
+   "time": "11 DAYS",
+   "sub": "6:05 P.M.",
+   "t0": 8.18,
+   "t1": 18.81,
+   "box": true
+  },
+  {
+   "label": "MINA · 2014",
+   "time": "11 YEARS",
+   "sub": "OF SAVING",
+   "t0": 19.71,
+   "t1": 54.2,
+   "box": true
+  },
+  {
+   "label": "ISHA · ROW 3",
+   "time": "DAY 1",
+   "sub": "BACK",
+   "t0": 66.78,
+   "t1": 88.36,
+   "box": true
+  }
+ ]
+}

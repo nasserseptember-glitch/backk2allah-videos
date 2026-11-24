@@ -1,0 +1,161 @@
+{
+ "id": "2026-11-24-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "goldWords": [
+  "adhan.",
+  "“come",
+  "success.”",
+  "dark.",
+  "first."
+ ],
+ "post": {
+  "caption": "You unlocked your phone 96 times today. Allah called you 5. 📱\n\n7:12 a.m. on the metro, unlock number 4. 5:04 p.m. on your balcony, unlock number 96 — and from the green dome across the roofs, the adhan. Two calls at once. Only one says “come to success.”\n\n“Indeed I am near. I respond to the invocation of the supplicant when he calls upon Me.” (2:186)\n\nThis Maghrib, when the adhan starts: phone face down. Go.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #salah #adhan #maghrib #screentime",
+  "youtube_title": "96 unlocks today. Allah called you 5 times. 📱 #islam #salah"
+ },
+ "hook": {
+  "text": "You unlocked your phone 96 times today. Allah called you 5.",
+  "gold": [
+   "Allah",
+   "5."
+  ],
+  "t0": 0.3,
+  "t1": 6.13
+ },
+ "verses": [
+  {
+   "text": "“Indeed I am near. I respond to the invocation of the supplicant when he calls upon Me.”",
+   "ref": "Surah Al-Baqarah — 2:186",
+   "t0": 48.41,
+   "t1": 61.89
+  }
+ ],
+ "end": {
+  "text": "You unlocked your phone 96 times today. Allah called you 5.",
+  "gold": "This Maghrib, when the adhan starts: phone face down. Go.",
+  "t0": 75.25,
+  "goldT0": 76.85,
+  "t1": 84.55
+ },
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 6.43
+  },
+  {
+   "scene": "train",
+   "dur": 18.78,
+   "opts": {}
+  },
+  {
+   "scene": "balcony",
+   "dur": 22.6,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 14.68
+  },
+  {
+   "scene": "wudu",
+   "dur": 12.16,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.3
+  }
+ ],
+ "captions": [
+  [
+   6.73,
+   12.37,
+   "Tuesday. 7:12 a.m., the metro. Unlock number 4."
+  ],
+  [
+   12.47,
+   15.33,
+   "Nobody looks up. You don’t either."
+  ],
+  [
+   15.43,
+   20.4,
+   "A notification. Then another. Then forty."
+  ],
+  [
+   20.5,
+   24.61,
+   "Fajr? You heard the alarm. You swiped it away."
+  ],
+  [
+   25.51,
+   31.41,
+   "5:04 p.m. Your balcony. Unlock number 96."
+  ],
+  [
+   31.51,
+   35.61,
+   "Then, from the green dome across the roofs: the adhan."
+  ],
+  [
+   35.71,
+   40.12,
+   "“Allahu akbar.” Your phone buzzes at the same time."
+  ],
+  [
+   40.22,
+   45.23,
+   "Two calls at once. Only one says “come to success.”"
+  ],
+  [
+   45.33,
+   47.21,
+   "You turn the phone face down."
+  ],
+  [
+   62.79,
+   66.5,
+   "Cold water on your hands. The screen stays dark."
+  ],
+  [
+   66.6,
+   69.8,
+   "Three rak’ahs of Maghrib. Nothing to scroll past."
+  ],
+  [
+   69.9,
+   74.05,
+   "Unlock 97 can wait. He answered first."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "PHONE UNLOCKS TODAY",
+   "time": "4",
+   "sub": "7:12 A.M.",
+   "t0": 6.73,
+   "t1": 24.61,
+   "box": true
+  },
+  {
+   "label": "PHONE UNLOCKS TODAY",
+   "time": "96",
+   "sub": "ADHAN: MAGHRIB",
+   "t0": 25.51,
+   "t1": 47.21,
+   "box": true
+  },
+  {
+   "label": "MAGHRIB",
+   "time": "3 RAK’AHS",
+   "sub": "PHONE: FACE DOWN",
+   "t0": 62.79,
+   "t1": 74.05,
+   "box": true
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "id": "2026-11-24-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "goldWords": [
+  "Ramadan",
+  "2019.",
+  "never",
+  "left."
+ ],
+ "post": {
+  "caption": "412 pages of a thriller this month. 0 pages of Qur’an. 📖\n\nSaturday night on a café terrace, chapter 31, the tea gone cold. Back home, on the top shelf: a green cover under the dust. First page — your name, in your mother’s handwriting. Ramadan 2019.\n\n“Your Lord has not taken leave of you, [O Muhammad], nor has He detested [you].” (93:3)\n\nThe dust is yours. He never left.\n\nToday, before Dhuhr: one page of Qur’an. Just one.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #readquran #quranreminder #dhuhr",
+  "youtube_title": "412 pages of a thriller. 0 pages of Qur’an. 📖 #islam #quran"
+ },
+ "hook": {
+  "text": "412 pages of a thriller this month. 0 pages of Qur’an.",
+  "gold": [
+   "Qur’an."
+  ],
+  "t0": 0.3,
+  "t1": 6.91
+ },
+ "verses": [
+  {
+   "text": "“Your Lord has not taken leave of you, [O Muhammad], nor has He detested [you].”",
+   "ref": "Surah Ad-Duha — 93:3",
+   "t0": 51.36,
+   "t1": 62.58
+  }
+ ],
+ "end": {
+  "text": "412 pages of a thriller this month. 0 pages of Qur’an.",
+  "gold": "Today, before Dhuhr: one page of Qur’an. Just one.",
+  "t0": 87.89,
+  "goldT0": 89.49,
+  "t1": 97.65
+ },
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 7.21
+  },
+  {
+   "scene": "cafe",
+   "dur": 21.14,
+   "opts": {}
+  },
+  {
+   "scene": "study",
+   "dur": 22.41,
+   "opts": {
+    "reach": 0.3
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 12.42
+  },
+  {
+   "scene": "library",
+   "dur": 24.11,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.76
+  }
+ ],
+ "captions": [
+  [
+   7.51,
+   14.24,
+   "Saturday, 9:40 p.m. The café terrace. Chapter 31."
+  ],
+  [
+   14.34,
+   19.09,
+   "Your tea went cold an hour ago. You didn’t notice."
+  ],
+  [
+   19.19,
+   24.57,
+   "Page after page. Then another chapter. Then another."
+  ],
+  [
+   24.67,
+   27.75,
+   "“Don’t spoil the ending,” you tell your friend."
+  ],
+  [
+   28.65,
+   34.35,
+   "11:20 p.m. Home. You put the book on the shelf."
+  ],
+  [
+   34.45,
+   39.02,
+   "Top shelf. A green cover under a layer of dust."
+  ],
+  [
+   39.12,
+   44.2,
+   "First page: your name. Your mother’s handwriting."
+  ],
+  [
+   44.3,
+   50.16,
+   "Ramadan 2019. The last date written beside it."
+  ],
+  [
+   63.48,
+   69.93,
+   "Sunday, 8:15 a.m. The library opens. You came early."
+  ],
+  [
+   70.03,
+   75.76,
+   "No phone. One page. Your finger under every word."
+  ],
+  [
+   75.86,
+   82.52,
+   "Then a second page. Slow. Stumbling. Yours."
+  ],
+  [
+   82.62,
+   86.69,
+   "The dust is gone. He never left."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "PAGES READ THIS MONTH",
+   "time": "412",
+   "sub": "QUR’AN: 0",
+   "t0": 7.51,
+   "t1": 27.75,
+   "box": true
+  },
+  {
+   "label": "QUR’AN · DAY 1",
+   "time": "2 PAGES",
+   "sub": "PHONE: OFF",
+   "t0": 63.48,
+   "t1": 86.69,
+   "box": true
+  }
+ ]
+}
