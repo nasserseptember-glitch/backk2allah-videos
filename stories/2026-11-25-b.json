@@ -1,0 +1,124 @@
+{
+ "id": "2026-11-25-b",
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.91,
+  "text": "187 likes sur ta prière. Et Allah, Il a vu quoi ?",
+  "gold": [
+   "187",
+   "allah,"
+  ]
+ },
+ "verses": [
+  {
+   "t0": 27.77,
+   "t1": 35.44,
+   "text": "« Nous sommes plus près de lui que sa veine jugulaire. »",
+   "ref": "Sourate Qâf — 50:16"
+  }
+ ],
+ "end": {
+  "t0": 52.38,
+  "goldT0": 53.38,
+  "t1": 59.04,
+  "text": "187 likes. Et Allah, Il a vu quoi ?",
+  "gold": "Ce soir, une bonne action. Sans la montrer à personne."
+ },
+ "segments": [
+  {
+   "scene": "bus_stop",
+   "dur": 27.47,
+   "opts": {
+    "phone": true,
+    "bus": 24
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "laundromat",
+   "dur": 14.11,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 7.36
+  }
+ ],
+ "captions": [
+  [
+   7.01,
+   10.39,
+   "Tu rafraîchis encore. 188."
+  ],
+  [
+   10.49,
+   15.14,
+   "18 h 20. Arrêt de bus. Il pleut."
+  ],
+  [
+   15.24,
+   19.48,
+   "Ta photo de ce matin : le tapis, la lumière."
+  ],
+  [
+   19.58,
+   22.59,
+   "Tu te souviens de la photo. Pas de la prière."
+  ],
+  [
+   22.69,
+   27.07,
+   "Ce matin, qu’as-tu dit à Allah ? Rien."
+  ],
+  [
+   38.37,
+   44.02,
+   "21 h. La laverie. Le téléphone reste dans le sac."
+  ],
+  [
+   44.12,
+   48.02,
+   "Sur tes doigts : Subhan Allah. Trente-trois fois."
+  ],
+  [
+   48.12,
+   51.68,
+   "Pas de photo. Juste Lui et toi."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "LIKES SUR TA PRIÈRE",
+   "time": "187",
+   "sub": "POUR ALLAH : ?",
+   "t0": 0.2,
+   "t1": 27.37,
+   "box": true
+  },
+  {
+   "label": "DHIKR SANS PHOTO",
+   "time": "33",
+   "sub": "VU PAR : ALLAH SEUL",
+   "t0": 38.27,
+   "t1": 51.88,
+   "box": true
+  }
+ ],
+ "goldWords": [
+  "allah",
+  "allah.",
+  "lui",
+  "rien.",
+  "prière."
+ ],
+ "capBox": true,
+ "hookBox": true,
+ "post": {
+  "caption": "187 likes sur ta prière. Et Allah, Il a vu quoi ? 🤍\n\n« Nous sommes plus près de lui que sa veine jugulaire. » (50:16)\n\nCe que personne ne voit, Allah le voit. Ce soir, une bonne action. Sans la montrer à personne.",
+  "hashtags": "#rappel #islam #rappelislamique #ikhlas #sincerite #riya #muslim #dhikr",
+  "youtube_title": "187 likes sur ta prière. Et Allah, Il a vu quoi ? 🤍 #rappel #islam"
+ }
+}

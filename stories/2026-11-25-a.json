@@ -1,0 +1,119 @@
+{
+ "id": "2026-11-25-a",
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.32,
+  "text": "27 ans qu’elle prie pour toi. Et toi, pour elle ?",
+  "gold": [
+   "27",
+   "ans",
+   "elle"
+  ]
+ },
+ "verses": [
+  {
+   "t0": 27.99,
+   "t1": 38.58,
+   "text": "« Je suis tout proche : Je réponds à l'appel de celui qui Me prie quand il Me prie. »",
+   "ref": "Sourate Al-Baqara — 2:186"
+  }
+ ],
+ "end": {
+  "t0": 50.09,
+  "goldT0": 51.09,
+  "t1": 57.1,
+  "text": "27 ans qu’elle prie pour toi. Et toi ?",
+  "gold": "Aujourd’hui, après ta prière, dis son prénom à Allah."
+ },
+ "segments": [
+  {
+   "scene": "kitchen",
+   "dur": 27.69,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.29
+  },
+  {
+   "scene": "balcony",
+   "dur": 10.81,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 7.71
+  }
+ ],
+ "captions": [
+  [
+   5.42,
+   9.06,
+   "Chaque Fajr, ton prénom dans sa bouche."
+  ],
+  [
+   9.16,
+   13.4,
+   "5 h 52. Tu descends boire un verre d’eau."
+  ],
+  [
+   13.5,
+   19.32,
+   "Ta mère est déjà là. Le tapis, la bouilloire."
+  ],
+  [
+   19.42,
+   22.47,
+   "Elle chuchote. Tu entends ton prénom."
+  ],
+  [
+   22.57,
+   27.29,
+   "Toi, tu n’as jamais prié pour elle. Pas une fois."
+  ],
+  [
+   39.38,
+   44.53,
+   "Le soir, sur le balcon. L’adhan de Maghrib."
+  ],
+  [
+   44.63,
+   49.39,
+   "Tu lèves les mains. Pour la première fois, son prénom."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "SES DUAS POUR TOI",
+   "time": "27 ANS",
+   "sub": "TES DUAS POUR ELLE : 0",
+   "t0": 0.2,
+   "t1": 27.59,
+   "box": true
+  },
+  {
+   "label": "TA DUA POUR ELLE",
+   "time": "16:41",
+   "sub": "LA PREMIÈRE",
+   "t0": 39.28,
+   "t1": 49.59,
+   "box": true
+  }
+ ],
+ "goldWords": [
+  "prénom.",
+  "allah",
+  "maghrib.",
+  "sait.",
+  "fajr,"
+ ],
+ "capBox": true,
+ "hookBox": true,
+ "post": {
+  "caption": "27 ans qu’elle prie pour toi. Et toi, pour elle ? 🤍\n\n« Je suis tout proche : Je réponds à l'appel de celui qui Me prie quand il Me prie. » (2:186)\n\nChaque Fajr, ta mère dit ton prénom à Allah. Aujourd’hui, après ta prière, dis le sien.",
+  "hashtags": "#rappel #islam #rappelislamique #mere #parents #dua #muslim #famille",
+  "youtube_title": "27 ans qu’elle prie pour toi. Et toi, pour elle ? 🤍 #rappel #islam"
+ }
+}

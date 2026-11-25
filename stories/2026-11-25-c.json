@@ -1,0 +1,124 @@
+{
+ "id": "2026-11-25-c",
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.83,
+  "text": "1 440 minutes aujourd’hui. Pas 25 pour Allah ?",
+  "gold": [
+   "1 440",
+   "25",
+   "allah"
+  ]
+ },
+ "verses": [
+  {
+   "t0": 26.5,
+   "t1": 34.95,
+   "text": "« Accomplis la Salât pour te souvenir de Moi. »",
+   "ref": "Sourate Tâ-Hâ — 20:14"
+  }
+ ],
+ "end": {
+  "t0": 51.17,
+  "goldT0": 52.17,
+  "t1": 57.48,
+  "text": "1 440 minutes aujourd’hui. Et pour Allah ?",
+  "gold": "Isha, ce soir : cinq minutes. À l’heure."
+ },
+ "segments": [
+  {
+   "scene": "train",
+   "dur": 26.2,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "ferry",
+   "dur": 14.17,
+   "opts": {
+    "time": "sunset"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.01
+  }
+ ],
+ "captions": [
+  [
+   6.93,
+   10.4,
+   "Cinq prières. Cinq minutes chacune."
+  ],
+  [
+   10.5,
+   15.39,
+   "7 h 12. Le métro. Déjà en retard."
+  ],
+  [
+   15.49,
+   18.63,
+   "Dhuhr : « juste après ce mail »."
+  ],
+  [
+   18.73,
+   21.27,
+   "Asr : « je rattraperai ce soir »."
+  ],
+  [
+   21.37,
+   25.8,
+   "Une notification : « Maghrib dans 4 minutes »."
+  ],
+  [
+   37.1,
+   42.37,
+   "Le bateau du retour. Le soleil touche la mer."
+  ],
+  [
+   42.47,
+   47.27,
+   "Tu poses ta veste sur le pont. Allahu akbar."
+  ],
+  [
+   47.37,
+   50.47,
+   "Cinq minutes. La ville peut attendre."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "MINUTES AUJOURD’HUI",
+   "time": "1 440",
+   "sub": "POUR ALLAH : 0",
+   "t0": 0.2,
+   "t1": 26.1,
+   "box": true
+  },
+  {
+   "label": "MAGHRIB SUR LE PONT",
+   "time": "16:41",
+   "sub": "5 MIN SUR 1 440",
+   "t0": 37.0,
+   "t1": 50.67,
+   "box": true
+  }
+ ],
+ "goldWords": [
+  "allah",
+  "akbar.",
+  "maghrib",
+  "attendre.",
+  "prières."
+ ],
+ "capBox": true,
+ "hookBox": true,
+ "post": {
+  "caption": "1 440 minutes aujourd’hui. Pas 25 pour Allah ? 🤍\n\n« Accomplis la Salât pour te souvenir de Moi. » (20:14)\n\nCinq prières, cinq minutes chacune. Isha, ce soir : cinq minutes. À l’heure.",
+  "hashtags": "#rappel #islam #rappelislamique #salat #priere #temps #muslim #maghrib",
+  "youtube_title": "1 440 minutes aujourd’hui. Pas 25 pour Allah ? 🤍 #rappel #islam"
+ }
+}
