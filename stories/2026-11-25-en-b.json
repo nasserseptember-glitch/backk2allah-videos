@@ -1,0 +1,143 @@
+{
+ "id": "2026-11-25-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "goldWords": [
+  "planted.",
+  "Real.",
+  "early.",
+  "34.”"
+ ],
+ "post": {
+  "caption": "“I’ll start praying at 30.” You turn 30 on Friday. 🫒\n\nHarvest day in your uncle’s olive grove. He points at the oldest row: “Your grandfather planted these. He was 30. He never tasted one — he died at 34.” He didn’t wait to be ready. He planted.\n\n“Allah does not charge a soul except [with that within] its capacity.” (2:286)\n\nThis Maghrib: your first prayer. Don’t wait for 30.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #salah #maghrib #nevertoolate #startnow",
+  "youtube_title": "“I’ll start praying at 30.” You turn 30 on Friday. 🫒 #islam #salah"
+ },
+ "hook": {
+  "text": "“I’ll start praying at 30.” You turn 30 on Friday.",
+  "gold": [
+   "30",
+   "Friday."
+  ],
+  "t0": 0.3,
+  "t1": 5.55
+ },
+ "verses": [
+  {
+   "text": "“Allah does not charge a soul except [with that within] its capacity.”",
+   "ref": "Surah Al-Baqarah — 2:286",
+   "t0": 39.57,
+   "t1": 50.57
+  }
+ ],
+ "end": {
+  "text": "“I’ll start praying at 30.” You turn 30 on Friday.",
+  "gold": "This Maghrib: your first prayer. Don’t wait for 30.",
+  "t0": 69.62,
+  "goldT0": 71.22,
+  "t1": 77.78
+ },
+ "segments": [
+  {
+   "scene": "orchard",
+   "dur": 38.67,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 12.8
+  },
+  {
+   "scene": "courtyard",
+   "dur": 18.15,
+   "opts": {
+    "time": "night"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.16
+  }
+ ],
+ "captions": [
+  [
+   5.75,
+   10.78,
+   "Sunday. Your uncle’s olive grove. Harvest day."
+  ],
+  [
+   10.88,
+   14.97,
+   "You’ve said “at 30” since you were 19."
+  ],
+  [
+   15.07,
+   19.77,
+   "“At 30 I’ll be ready. Calmer. More serious.”"
+  ],
+  [
+   19.87,
+   23.47,
+   "Your uncle points at the oldest row of trees."
+  ],
+  [
+   23.57,
+   27.63,
+   "“Your grandfather planted these. He was 30.”"
+  ],
+  [
+   27.73,
+   31.83,
+   "“He never tasted one. He died at 34.”"
+  ],
+  [
+   31.93,
+   34.56,
+   "His olives are in your hands now."
+  ],
+  [
+   34.66,
+   38.27,
+   "He didn’t wait to be ready. He planted."
+  ],
+  [
+   52.07,
+   57.17,
+   "That evening. A mosque courtyard you’ve walked past for years."
+  ],
+  [
+   57.27,
+   61.14,
+   "You forget the order of wudu. Nobody laughs."
+  ],
+  [
+   61.24,
+   66.1,
+   "Three rak’ahs of Maghrib. Clumsy. Real."
+  ],
+  [
+   66.2,
+   69.22,
+   "Not at 30. Five days early."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "DAYS UNTIL YOU TURN 30",
+   "time": "5",
+   "sub": "PRAYERS THIS YEAR: 2",
+   "t0": 5.75,
+   "t1": 38.27,
+   "box": true
+  },
+  {
+   "label": "PRAYERS THIS YEAR",
+   "time": "3",
+   "sub": "+1 TONIGHT: MAGHRIB",
+   "t0": 52.07,
+   "t1": 69.22,
+   "box": true
+  }
+ ]
+}

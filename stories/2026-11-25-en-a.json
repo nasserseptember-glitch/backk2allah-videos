@@ -1,0 +1,141 @@
+{
+ "id": "2026-11-25-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "goldWords": [
+  "€0",
+  "Allah.",
+  "too.”",
+  "four.",
+  "week."
+ ],
+ "post": {
+  "caption": "€184 on yourself this week. €0 for Allah. 🛒\n\nSaturday, 9:40 a.m., the checkout queue. In front of you, an old man counts his coins, puts the milk back, then the bread. Eighty cents short. You tap your card again: “His milk and bread too.” Sunday, the bakery: two loaves, you pay for four.\n\n“So whoever does an atom's weight of good will see it.” (99:7)\n\nThis morning: €5 for Allah. Before anything for yourself.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #sadaqa #charity #kindness",
+  "youtube_title": "€184 on yourself this week. €0 for Allah. 🛒 #islam #sadaqa"
+ },
+ "hook": {
+  "text": "€184 on yourself this week. €0 for Allah.",
+  "gold": [
+   "€0",
+   "Allah."
+  ],
+  "t0": 0.3,
+  "t1": 7.71
+ },
+ "verses": [
+  {
+   "text": "“So whoever does an atom's weight of good will see it.”",
+   "ref": "Surah Az-Zalzalah — 99:7",
+   "t0": 44.65,
+   "t1": 55.65
+  }
+ ],
+ "end": {
+  "text": "€184 on yourself this week. €0 for Allah.",
+  "gold": "This morning: €5 for Allah. Before anything for yourself.",
+  "t0": 76.4,
+  "goldT0": 78.0,
+  "t1": 86.17
+ },
+ "segments": [
+  {
+   "scene": "checkout",
+   "dur": 43.75,
+   "opts": {
+    "pay": 0.9
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 12.8
+  },
+  {
+   "scene": "bakery",
+   "dur": 19.85,
+   "opts": {
+    "knead": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.77
+  }
+ ],
+ "captions": [
+  [
+   7.91,
+   13.54,
+   "Saturday, 9:40 a.m. The checkout queue."
+  ],
+  [
+   13.64,
+   19.81,
+   "Coffee pods. Crisps. A charger you didn’t need."
+  ],
+  [
+   19.91,
+   24.56,
+   "€47.90. You don’t even read the receipt."
+  ],
+  [
+   24.66,
+   29.41,
+   "In front of you, an old man counts his coins."
+  ],
+  [
+   29.51,
+   33.84,
+   "He puts the milk back. Then the bread."
+  ],
+  [
+   33.94,
+   38.86,
+   "Eighty cents short. He says sorry to the cashier."
+  ],
+  [
+   38.96,
+   43.35,
+   "You tap your card again. “His milk and bread too.”"
+  ],
+  [
+   57.15,
+   63.45,
+   "Sunday, 7:05 a.m. The bakery on your street."
+  ],
+  [
+   63.55,
+   67.14,
+   "Two loaves. You pay for four."
+  ],
+  [
+   67.24,
+   70.61,
+   "“The other two are for whoever can’t pay.”"
+  ],
+  [
+   70.71,
+   76.0,
+   "€5.50. The best money you spent all week."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "SPENT ON YOURSELF THIS WEEK",
+   "time": "€184",
+   "sub": "SADAQA: €0",
+   "t0": 7.91,
+   "t1": 43.35,
+   "box": true
+  },
+  {
+   "label": "GIVEN FOR ALLAH THIS WEEK",
+   "time": "€5.50",
+   "sub": "MILK, BREAD + 2 LOAVES",
+   "t0": 57.15,
+   "t1": 76.0,
+   "box": true
+  }
+ ]
+}

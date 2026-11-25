@@ -1,0 +1,144 @@
+{
+ "id": "2026-11-25-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "goldWords": [
+  "eyes.",
+  "can.",
+  "legs."
+ ],
+ "post": {
+  "caption": "Dad prays with his eyes now. You skipped 3 prayers today. 🤍\n\nRoom 214, 5:10 p.m. Since the stroke, his right side doesn’t move. You’ve been here since 6 a.m. — no Fajr, no Dhuhr, no Asr. Then the adhan from the phone on his tray. His lips move. His eyes close, then lower. Ruku. Sujood. With his eyes.\n\n“So do not weaken and do not grieve.” (3:139)\n\nTonight at Isha: pray standing. Thank Him for your legs.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #salah #isha #gratitude #parents",
+  "youtube_title": "Dad prays with his eyes now. You skipped 3 prayers. 🤍 #islam #salah"
+ },
+ "hook": {
+  "text": "Dad prays with his eyes now. You skipped 3 prayers today.",
+  "gold": [
+   "eyes",
+   "3"
+  ],
+  "t0": 0.3,
+  "t1": 6.75
+ },
+ "verses": [
+  {
+   "text": "“So do not weaken and do not grieve.”",
+   "ref": "Surah Al-Imran — 3:139",
+   "t0": 50.36,
+   "t1": 61.36
+  }
+ ],
+ "end": {
+  "text": "Dad prays with his eyes now. You skipped 3 prayers today.",
+  "gold": "Tonight at Isha: pray standing. Thank Him for your legs.",
+  "t0": 78.44,
+  "goldT0": 80.04,
+  "t1": 88.23
+ },
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 7.05
+  },
+  {
+   "scene": "hospital",
+   "dur": 42.41,
+   "opts": {
+    "patient": "father"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 12.8
+  },
+  {
+   "scene": "balcony",
+   "dur": 16.18,
+   "opts": {
+    "time": "night",
+    "tea": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.79
+  }
+ ],
+ "captions": [
+  [
+   7.45,
+   14.61,
+   "Room 214. 5:10 p.m. The monitor beeps. Steady."
+  ],
+  [
+   14.71,
+   18.53,
+   "Since the stroke, his right side doesn’t move."
+  ],
+  [
+   18.63,
+   25.65,
+   "Here since 6 a.m. No Fajr. No Dhuhr. No Asr."
+  ],
+  [
+   25.75,
+   29.29,
+   "“I’ll make them up. Allah understands.”"
+  ],
+  [
+   29.39,
+   34.19,
+   "Then the adhan, from the phone on his tray."
+  ],
+  [
+   34.29,
+   39.91,
+   "His lips move. His eyes close. Then lower."
+  ],
+  [
+   40.01,
+   44.31,
+   "Ruku. Sujood. With his eyes."
+  ],
+  [
+   44.41,
+   49.06,
+   "You’re standing next to him on two healthy legs."
+  ],
+  [
+   62.86,
+   68.39,
+   "That night. His balcony at home. His prayer mat."
+  ],
+  [
+   68.49,
+   72.59,
+   "You stand. Because you still can."
+  ],
+  [
+   72.69,
+   78.04,
+   "Four rak’ahs of Isha. And a long du’a for him."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "PRAYERS MISSED TODAY",
+   "time": "3",
+   "sub": "DAD: 0",
+   "t0": 7.45,
+   "t1": 49.06,
+   "box": true
+  },
+  {
+   "label": "ISHA",
+   "time": "4 RAK’AHS",
+   "sub": "STANDING",
+   "t0": 62.86,
+   "t1": 78.04,
+   "box": true
+  }
+ ]
+}
