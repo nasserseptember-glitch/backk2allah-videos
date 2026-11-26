@@ -1,0 +1,134 @@
+{
+ "id": "2026-11-26-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "9 horns in 20 minutes. Not one “SubhanAllah.”",
+  "gold": [
+   "9",
+   "“SubhanAllah.”"
+  ],
+  "t0": 0.3,
+  "t1": 6.29
+ },
+ "verses": [
+  {
+   "text": "“So remember Me; I will remember you.”",
+   "ref": "Surah Al-Baqarah — 2:152",
+   "t0": 39.84,
+   "t1": 50.04
+  }
+ ],
+ "end": {
+  "text": "9 horns in 20 minutes. What did he learn?",
+  "gold": "Tonight in traffic: before the horn, one SubhanAllah.",
+  "t0": 69.91,
+  "goldT0": 71.51,
+  "t1": 78.58
+ },
+ "segments": [
+  {
+   "scene": "car_night",
+   "dur": 39.44,
+   "opts": {
+    "clock": "17:42"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.0
+  },
+  {
+   "scene": "ferry",
+   "dur": 19.07,
+   "opts": {
+    "time": "night"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.47
+  }
+ ],
+ "captions": [
+  [
+   6.44,
+   13.16,
+   "5:42 p.m. The ferry queue. Wipers. Brake lights."
+  ],
+  [
+   13.26,
+   19.04,
+   "Someone cuts in. Horn. Again. Again."
+  ],
+  [
+   19.14,
+   22.75,
+   "“Move, idiot!” The windscreen fogs up."
+  ],
+  [
+   22.85,
+   27.0,
+   "The ramp closes. You missed it by one car."
+  ],
+  [
+   27.1,
+   32.82,
+   "Then, from the back seat, a small voice: “Move, idiot!”"
+  ],
+  [
+   32.92,
+   38.84,
+   "Your son. Five years old. Copying you, word for word."
+  ],
+  [
+   50.84,
+   56.11,
+   "The next ferry. 6:30 p.m. Forty minutes lost. Nothing else."
+  ],
+  [
+   56.21,
+   60.97,
+   "You kneel next to him. “Baba was wrong. Say it with me.”"
+  ],
+  [
+   61.07,
+   65.5,
+   "“SubhanAllah.” He laughs. Says it louder."
+  ],
+  [
+   65.6,
+   68.91,
+   "Thirty-three times, all the way across."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "HORN · LAST 20 MIN",
+   "time": "9",
+   "sub": "SUBHANALLAH: 0",
+   "box": true,
+   "t0": 6.44,
+   "t1": 38.84
+  },
+  {
+   "label": "ON THE FERRY · TOGETHER",
+   "time": "33",
+   "sub": "SUBHANALLAH",
+   "box": true,
+   "t0": 50.84,
+   "t1": 68.91
+  }
+ ],
+ "goldWords": [
+  "“SubhanAllah.”",
+  "son.",
+  "across."
+ ],
+ "post": {
+  "caption": "9 horns in 20 minutes. Not one “SubhanAllah.” 🤍\n\n5:42 p.m., the ferry queue in the rain. Someone cuts in — horn, again, again. “Move, idiot!” You miss the boat by one car. Then a small voice from the back seat: “Move, idiot!” Your son, five years old, copying you word for word.\n\n“So remember Me; I will remember you.” (2:152)\n\nTonight in traffic: before the horn, one SubhanAllah.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #dhikr #subhanallah #parenting #patience",
+  "youtube_title": "9 horns in 20 minutes. Not one SubhanAllah. 🤍 #islam #dhikr"
+ }
+}

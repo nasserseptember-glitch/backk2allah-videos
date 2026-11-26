@@ -1,0 +1,136 @@
+{
+ "id": "2026-11-26-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "412 contacts. 0 awake at 1:14 a.m. Allah never sleeps.",
+  "gold": [
+   "412",
+   "Allah"
+  ],
+  "t0": 0.3,
+  "t1": 8.59
+ },
+ "verses": [
+  {
+   "text": "“We are closer to him than [his] jugular vein.”",
+   "ref": "Surah Qaf — 50:16",
+   "t0": 37.47,
+   "t1": 47.67
+  }
+ ],
+ "end": {
+  "text": "412 contacts. 0 awake. He was.",
+  "gold": "Tonight, before you scroll: talk to Him first.",
+  "t0": 67.49,
+  "goldT0": 69.09,
+  "t1": 75.03
+ },
+ "segments": [
+  {
+   "scene": "laundromat",
+   "dur": 37.07,
+   "opts": {
+    "phone": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.0
+  },
+  {
+   "scene": "snow_street",
+   "dur": 19.02
+  },
+  {
+   "scene": "black",
+   "dur": 8.34
+  }
+ ],
+ "captions": [
+  [
+   8.74,
+   13.01,
+   "1:14 a.m. The only laundromat still open."
+  ],
+  [
+   13.11,
+   16.24,
+   "Machine 4. Twenty-three minutes left."
+  ],
+  [
+   16.34,
+   19.89,
+   "You type “you up?” Then you delete it."
+  ],
+  [
+   19.99,
+   24.97,
+   "412 names. Not one you can call right now."
+  ],
+  [
+   25.07,
+   27.99,
+   "The woman folding sheets doesn’t look up."
+  ],
+  [
+   28.09,
+   32.69,
+   "Then the drum stops. Silence. Just you."
+  ],
+  [
+   32.79,
+   36.47,
+   "And a whisper you forgot you knew: “Ya Allah.”"
+  ],
+  [
+   48.47,
+   52.66,
+   "Fajr. 6:40 a.m. Snow on the street."
+  ],
+  [
+   52.76,
+   56.93,
+   "Footprints already. Someone walked to the mosque before you."
+  ],
+  [
+   57.03,
+   62.64,
+   "Inside, an old man smiles. “Salam, brother. Sit with us.”"
+  ],
+  [
+   62.74,
+   66.49,
+   "You were never alone. Not for one minute."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "CONTACTS",
+   "time": "412",
+   "sub": "AWAKE NOW: 0",
+   "box": true,
+   "t0": 8.74,
+   "t1": 36.47
+  },
+  {
+   "label": "FAJR · FIRST ROW",
+   "time": "6:40",
+   "sub": "NOT ALONE",
+   "box": true,
+   "t0": 48.47,
+   "t1": 66.49
+  }
+ ],
+ "goldWords": [
+  "“Ya",
+  "Allah.”",
+  "alone."
+ ],
+ "post": {
+  "caption": "412 contacts. 0 awake at 1:14 a.m. Allah never sleeps. 🤍\n\nA laundromat at night. Machine 4, twenty-three minutes left. You type “you up?” and delete it. 412 names, and not one you can call. Then the drum stops, and in the silence a whisper you forgot you knew: “Ya Allah.”\n\n“We are closer to him than [his] jugular vein.” (50:16)\n\nTonight, before you scroll: talk to Him first.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #dua #loneliness #fajr #allahisnear",
+  "youtube_title": "412 contacts. 0 awake at 1:14 a.m. Allah never sleeps. 🤍 #islam #dua"
+ }
+}

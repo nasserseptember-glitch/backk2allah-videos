@@ -1,0 +1,175 @@
+{
+ "id": "2026-11-26-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "In Mina, you never missed Fajr. Since then: 4 out of 180.",
+  "gold": [
+   "Mina,",
+   "Fajr.",
+   "4"
+  ],
+  "t0": 0.3,
+  "t1": 8.66
+ },
+ "verses": [
+  {
+   "text": "“They used to sleep but little of the night, and in the hours before dawn they would ask forgiveness.”",
+   "ref": "Surah Adh-Dhariyat — 51:17-18",
+   "t0": 48.67,
+   "t1": 62.39
+  }
+ ],
+ "end": {
+  "text": "In Mina, you never missed Fajr. Why here?",
+  "gold": "Tonight: one alarm. Phone across the room. Fajr.",
+  "t0": 85.23,
+  "goldT0": 86.83,
+  "t1": 94.12
+ },
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 8.96
+  },
+  {
+   "scene": "mina",
+   "dur": 17.94
+  },
+  {
+   "scene": "bed_dawn",
+   "dur": 21.37,
+   "opts": {
+    "phone": "alarm",
+    "clock": "06:58",
+    "sub": "Fajr · 06:41",
+    "snoozeAt": 2.5,
+    "snoozeClock": "06:59"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 14.52
+  },
+  {
+   "scene": "wudu",
+   "dur": 10.83,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "mosque_ext",
+   "dur": 11.21,
+   "opts": {
+    "time": "dawn"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.69
+  }
+ ],
+ "captions": [
+  [
+   9.36,
+   16.08,
+   "Mina. 4:50 a.m. Three million people, already awake."
+  ],
+  [
+   16.18,
+   21.41,
+   "Nobody needed an alarm. The whole valley stood up."
+  ],
+  [
+   21.51,
+   26.3,
+   "You cried in sujood. You promised: “Never again.”"
+  ],
+  [
+   27.3,
+   31.84,
+   "Six months later. Your room. 6:58 a.m."
+  ],
+  [
+   31.94,
+   38.2,
+   "Fajr was at 6:41. The alarm: snoozed. Twice."
+  ],
+  [
+   38.3,
+   44.07,
+   "Then your lock screen. You, in white. Mina at dawn."
+  ],
+  [
+   44.17,
+   47.67,
+   "That man would never have slept through this."
+  ],
+  [
+   63.19,
+   69.36,
+   "The next night: one alarm. 6:20. Phone across the room."
+  ],
+  [
+   69.46,
+   73.02,
+   "Cold water. Your hands still remember."
+  ],
+  [
+   74.02,
+   79.14,
+   "No three million. Just you, and four old men."
+  ],
+  [
+   79.24,
+   84.23,
+   "Small. Quiet. Still Fajr."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "FAJR IN MINA",
+   "time": "5 / 5",
+   "sub": "MAY 2026",
+   "box": true,
+   "t0": 9.36,
+   "t1": 26.3
+  },
+  {
+   "label": "FAJR SINCE YOU CAME HOME",
+   "time": "4 / 180",
+   "sub": "TODAY: MISSED",
+   "box": true,
+   "t0": 27.3,
+   "t1": 47.67
+  },
+  {
+   "label": "ALARM",
+   "time": "6:20",
+   "sub": "ONE. FOR FAJR.",
+   "box": true,
+   "t0": 63.19,
+   "t1": 73.02
+  },
+  {
+   "label": "FAJR SINCE YOU CAME HOME",
+   "time": "5 / 181",
+   "sub": "TODAY: ✓",
+   "box": true,
+   "t0": 74.02,
+   "t1": 84.23
+  }
+ ],
+ "goldWords": [
+  "sujood.",
+  "white.",
+  "Fajr."
+ ],
+ "post": {
+  "caption": "In Mina, you never missed Fajr. Since then: 4 out of 180. 🤍\n\nMina, 4:50 a.m. Three million people awake without an alarm. You cried in sujood and promised: never again. Six months later: 6:58 a.m., the alarm snoozed twice — and on your lock screen, you in white, Mina at dawn.\n\n“They used to sleep but little of the night, and in the hours before dawn they would ask forgiveness.” (51:17-18)\n\nTonight: one alarm. Phone across the room. Fajr.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #fajr #hajj #salah #mina",
+  "youtube_title": "In Mina you never missed Fajr. Since then: 4 out of 180. 🤍 #islam #fajr"
+ }
+}
