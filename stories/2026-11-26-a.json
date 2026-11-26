@@ -1,0 +1,137 @@
+{
+ "id": "2026-11-26-a",
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.14,
+  "text": "1 h 10 en terrasse. 3 minutes pour Maghrib ?",
+  "gold": [
+   "1 h 10",
+   "3",
+   "maghrib"
+  ]
+ },
+ "verses": [
+  {
+   "t0": 26.99,
+   "t1": 36.79,
+   "text": "« N'est-ce point par l'évocation d'Allah que se tranquillisent les cœurs ? »",
+   "ref": "Sourate Ar-Raʿd — 13:28"
+  }
+ ],
+ "end": {
+  "t0": 54.39,
+  "goldT0": 55.59,
+  "t1": 61.58,
+  "text": "1 h 10 pour tes amis. Et pour Lui ?",
+  "gold": "Ce soir, à Isha : prie lentement. Dix minutes."
+ },
+ "segments": [
+  {
+   "scene": "cafe",
+   "dur": 26.59,
+   "opts": {
+    "time": "dusk",
+    "friends": 3
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.8
+  },
+  {
+   "scene": "courtyard",
+   "dur": 16.7,
+   "opts": {
+    "time": "night"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.89
+  }
+ ],
+ "captions": [
+  [
+   5.24,
+   8.85,
+   "Le troisième thé. Personne ne regarde l’heure."
+  ],
+  [
+   8.95,
+   12.95,
+   "L’adhan de Maghrib, au loin, derrière les rires."
+  ],
+  [
+   13.05,
+   15.88,
+   "« Vas-y, on te garde ta place. »"
+  ],
+  [
+   15.98,
+   18.97,
+   "Tu pries au fond de la salle. Vite."
+  ],
+  [
+   19.07,
+   22.52,
+   "Au sujûd, tu penses encore à la blague."
+  ],
+  [
+   22.62,
+   26.19,
+   "Tu te relèves. Ton cœur était resté à table."
+  ],
+  [
+   38.09,
+   42.68,
+   "Isha. La cour de la mosquée. Le bruit de l’eau."
+  ],
+  [
+   42.78,
+   45.54,
+   "Ce soir, le téléphone reste dans la poche."
+  ],
+  [
+   45.64,
+   50.2,
+   "Tu récites lentement. Chaque mot, pour Lui."
+  ],
+  [
+   50.3,
+   53.69,
+   "Dix minutes. Et ton cœur était là aussi."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "EN TERRASSE",
+   "time": "1H10",
+   "sub": "MAGHRIB : 3 MIN",
+   "t0": 0.2,
+   "t1": 26.49,
+   "box": true
+  },
+  {
+   "label": "ISHA, SANS TÉLÉPHONE",
+   "time": "10 MIN",
+   "sub": "TON CŒUR ÉTAIT LÀ",
+   "t0": 37.49,
+   "t1": 53.99,
+   "box": true
+  }
+ ],
+ "goldWords": [
+  "maghrib",
+  "lui.",
+  "isha.",
+  "aussi.",
+  "cœur"
+ ],
+ "capBox": true,
+ "hookBox": true,
+ "post": {
+  "caption": "1 h 10 en terrasse. 3 minutes pour Maghrib ? 🤍\n\n« N'est-ce point par l'évocation d'Allah que se tranquillisent les cœurs ? » (13:28)\n\nCe soir, à Isha : prie lentement. Dix minutes. Ton cœur aussi doit être là.",
+  "hashtags": "#rappel #islam #rappelislamique #salat #khushu #priere #muslim #maghrib",
+  "youtube_title": "1 h 10 en terrasse. 3 minutes pour Maghrib ? 🤍 #rappel #islam"
+ }
+}

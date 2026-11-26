@@ -1,0 +1,130 @@
+{
+ "id": "2026-11-26-b",
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.98,
+  "text": "14 nuits à compter tes factures. 0 dua pour ton rizq.",
+  "gold": [
+   "14",
+   "0",
+   "rizq."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 28.46,
+   "t1": 36.65,
+   "text": "« Et quiconque place sa confiance en Allah, Il lui suffit. »",
+   "ref": "Sourate At-Talâq — 65:3"
+  }
+ ],
+ "end": {
+  "t0": 55.18,
+  "goldT0": 56.38,
+  "t1": 63.04,
+  "text": "14 nuits à compter. Et une pour Lui ?",
+  "gold": "Cette nuit, avant de dormir : une dua pour ton rizq."
+ },
+ "segments": [
+  {
+   "scene": "office",
+   "dur": 28.06,
+   "opts": {
+    "screen": "mail",
+    "typing": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "orchard",
+   "dur": 16.32,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 8.56
+  }
+ ],
+ "captions": [
+  [
+   6.08,
+   9.77,
+   "3 h 12. L’écran est la seule lumière."
+  ],
+  [
+   9.87,
+   15.98,
+   "Loyer. Électricité. Crédit. Tu refais le calcul."
+  ],
+  [
+   16.08,
+   21.02,
+   "Tu as appelé la banque. Ton patron. Ton frère."
+  ],
+  [
+   21.12,
+   25.06,
+   "Sous une pile de factures, le chapelet de ton père."
+  ],
+  [
+   25.16,
+   27.66,
+   "Tu ne l’as pas touché depuis des mois."
+  ],
+  [
+   39.26,
+   42.69,
+   "Samedi, la récolte des olives chez ton oncle."
+  ],
+  [
+   42.79,
+   46.81,
+   "« Moi, je plante. La pluie, ce n’est pas moi. »"
+  ],
+  [
+   46.91,
+   51.18,
+   "Ce matin, tu as fait ta part. Puis tu as levé les mains."
+  ],
+  [
+   51.28,
+   54.48,
+   "Les factures sont toujours là. Le poids, non."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "NUITS À COMPTER 14",
+   "time": "03:12",
+   "sub": "DUA POUR TON RIZQ : 0",
+   "t0": 0.2,
+   "t1": 27.96,
+   "box": true
+  },
+  {
+   "label": "CE MATIN",
+   "time": "07:40",
+   "sub": "1 DUA. LE RESTE À LUI",
+   "t0": 38.66,
+   "t1": 54.78,
+   "box": true
+  }
+ ],
+ "goldWords": [
+  "rizq.",
+  "père.",
+  "pluie,",
+  "mains.",
+  "non."
+ ],
+ "capBox": true,
+ "hookBox": true,
+ "post": {
+  "caption": "14 nuits à compter tes factures. 0 dua pour ton rizq. 🤍\n\n« Et quiconque place sa confiance en Allah, Il lui suffit. » (65:3)\n\nFais ta part. Puis confie-Lui le reste. Cette nuit, avant de dormir : une dua pour ton rizq.",
+  "hashtags": "#rappel #islam #rappelislamique #tawakkul #rizq #dua #muslim #confiance",
+  "youtube_title": "14 nuits à compter tes factures. 0 dua pour ton rizq. 🤍 #rappel #islam"
+ }
+}

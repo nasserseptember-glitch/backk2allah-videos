@@ -1,0 +1,126 @@
+{
+ "id": "2026-11-26-c",
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.41,
+  "text": "47 vendredis cette année. Jumu’a ? 2 fois.",
+  "gold": [
+   "47",
+   "2",
+   "jumu’a"
+  ]
+ },
+ "verses": [
+  {
+   "t0": 28.21,
+   "t1": 43.78,
+   "text": "« Ô vous qui avez cru ! Quand on appelle à la Salât du jour du Vendredi, accourez à l'invocation d'Allah et laissez tout négoce. »",
+   "ref": "Sourate Al-Jumuʿa — 62:9"
+  }
+ ],
+ "end": {
+  "t0": 59.03,
+  "goldT0": 60.23,
+  "t1": 66.42,
+  "text": "47 vendredis. Et demain ?",
+  "gold": "Demain, à l’adhan de Jumu’a : ferme. Et va."
+ },
+ "segments": [
+  {
+   "scene": "bakery",
+   "dur": 27.81,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 16.58
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 14.34,
+   "opts": {
+    "rows": 3
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.09
+  }
+ ],
+ "captions": [
+  [
+   5.51,
+   8.66,
+   "Le vendredi, c’est ton meilleur jour de caisse."
+  ],
+  [
+   8.76,
+   13.26,
+   "12 h 50. La file déborde sur le trottoir."
+  ],
+  [
+   13.36,
+   17.64,
+   "L’adhan de Jumu’a. Tu enfournes encore une plaque."
+  ],
+  [
+   17.74,
+   21.91,
+   "« Celle-là, et j’y vais. » Puis une autre."
+  ],
+  [
+   22.01,
+   27.41,
+   "13 h 40. Les fidèles sortent… et achètent ton pain."
+  ],
+  [
+   45.08,
+   50.14,
+   "Ce vendredi, une feuille sur la porte : « Fermé 45 min »."
+  ],
+  [
+   50.24,
+   53.14,
+   "Tes mains sentent encore la farine."
+  ],
+  [
+   53.24,
+   58.33,
+   "En rentrant, la file t’attendait. Le pain aussi."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "VENDREDIS CETTE ANNÉE",
+   "time": "47",
+   "sub": "JUMU’A À LA MOSQUÉE : 2",
+   "t0": 0.2,
+   "t1": 27.71,
+   "box": true
+  },
+  {
+   "label": "JUMU’A",
+   "time": "13:05",
+   "sub": "FERMÉ 45 MIN",
+   "t0": 44.48,
+   "t1": 58.63,
+   "box": true
+  }
+ ],
+ "goldWords": [
+  "jumu’a.",
+  "jumu’a",
+  "pain.",
+  "farine.",
+  "aussi."
+ ],
+ "capBox": true,
+ "hookBox": true,
+ "post": {
+  "caption": "47 vendredis cette année. Jumu'a ? 2 fois. 🤍\n\n« Ô vous qui avez cru ! Quand on appelle à la Salât du jour du Vendredi, accourez à l'invocation d'Allah et laissez tout négoce. » (62:9)\n\nDemain, c'est vendredi. À l'adhan de Jumu'a : ferme. Et va.",
+  "hashtags": "#rappel #islam #rappelislamique #jumuah #vendredi #salat #muslim #priorites",
+  "youtube_title": "47 vendredis cette année. Jumu'a ? 2 fois. 🤍 #rappel #islam #vendredi"
+ }
+}
