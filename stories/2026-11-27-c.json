@@ -1,0 +1,157 @@
+{
+ "id": "2026-11-27-c",
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 5.76
+  },
+  {
+   "scene": "cafe",
+   "dur": 16.61,
+   "opts": {
+    "friends": 1
+   }
+  },
+  {
+   "scene": "cemetery",
+   "dur": 11.47,
+   "opts": {
+    "dua": 0.62
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.3
+  },
+  {
+   "scene": "mosque_ext",
+   "dur": 12.76,
+   "opts": {
+    "time": "night"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.1
+  }
+ ],
+ "captions": [
+  [
+   6.16,
+   11.32,
+   "Samedi soir, en terrasse. Yanis rit plus fort que tout le monde."
+  ],
+  [
+   11.42,
+   14.89,
+   "L’adhan d’Isha. Tu lui dis : « On y va ? »"
+  ],
+  [
+   14.99,
+   18.6,
+   "« Plus tard, inch’Allah. On a le temps. »"
+  ],
+  [
+   18.7,
+   21.87,
+   "Tu as ri. Tu disais la même chose."
+  ],
+  [
+   22.87,
+   27.67,
+   "Mardi, 14 h. La terre est encore fraîche."
+  ],
+  [
+   27.77,
+   30.73,
+   "Son dernier message : « On se voit samedi ? »"
+  ],
+  [
+   30.83,
+   33.13,
+   "Il n’y a pas eu de samedi."
+  ],
+  [
+   45.73,
+   48.73,
+   "Ce soir, tu ne dis plus « plus tard »."
+  ],
+  [
+   48.83,
+   51.47,
+   "Tu marches vers la lumière de la porte."
+  ],
+  [
+   51.57,
+   54.6,
+   "Dans ta dua, il y a son nom."
+  ],
+  [
+   54.7,
+   57.39,
+   "Toi, tu as encore ce soir."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "SAMEDI · EN TERRASSE",
+   "time": "21:40",
+   "sub": "ISHA : « PLUS TARD »",
+   "box": true,
+   "t0": 5.96,
+   "t1": 22.27
+  },
+  {
+   "label": "MARDI",
+   "time": "14:00",
+   "sub": "ENTERREMENT DE YANIS",
+   "box": true,
+   "t0": 22.57,
+   "t1": 33.73
+  },
+  {
+   "label": "CE SOIR · ISHA",
+   "time": "19:05",
+   "sub": "PAS PLUS TARD",
+   "box": true,
+   "t0": 45.33,
+   "t1": 57.79
+  }
+ ],
+ "goldWords": [
+  "isha.",
+  "nom.",
+  "soir.",
+  "samedi."
+ ],
+ "post": {
+  "caption": "Il avait 34 ans. Il disait : « La prière, plus tard. » 🤍\n\n« Toute âme goûtera la mort. » (3:185)\n\nToi, tu as encore ce soir. Isha, ce soir. Pas plus tard. Et fais une dua pour ceux qui sont partis.",
+  "hashtags": "#rappel #islam #rappelislamique #salat #isha #mort #muslim #tawba",
+  "youtube_title": "Il avait 34 ans. Il disait : « La prière, plus tard. » 🤍 #rappel #islam"
+ },
+ "capBox": true,
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.26,
+  "text": "Il avait 34 ans. Il disait : « La prière, plus tard. »",
+  "gold": [
+   "34",
+   "tard."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 34.23,
+   "t1": 44.73,
+   "text": "« Toute âme goûtera la mort. »",
+   "ref": "Sourate Âl ʿImrân — 3:185"
+  }
+ ],
+ "end": {
+  "t0": 58.19,
+  "goldT0": 59.49,
+  "t1": 64.69,
+  "text": "« Plus tard. » Tu es sûr de l’avoir ?",
+  "gold": "Isha, ce soir. Pas plus tard."
+ }
+}

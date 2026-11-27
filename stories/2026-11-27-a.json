@@ -1,0 +1,125 @@
+{
+ "id": "2026-11-27-a",
+ "segments": [
+  {
+   "scene": "study",
+   "dur": 30.6,
+   "opts": {
+    "reach": 0.42
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.3
+  },
+  {
+   "scene": "balcony",
+   "dur": 12.49
+  },
+  {
+   "scene": "black",
+   "dur": 7.33
+  }
+ ],
+ "captions": [
+  [
+   7.03,
+   9.96,
+   "La poussière, elle, a compté."
+  ],
+  [
+   10.06,
+   14.23,
+   "23 h 12. Tu cherches un chargeur sur l’étagère."
+  ],
+  [
+   14.33,
+   17.02,
+   "Ta main tombe sur une couverture verte."
+  ],
+  [
+   17.12,
+   23.15,
+   "Première page, l’écriture de ta mère : « Pour toi. Chaque jour. »"
+  ],
+  [
+   23.25,
+   27.47,
+   "Ton téléphone, tu l’as ouvert 96 fois aujourd’hui."
+  ],
+  [
+   27.57,
+   30.0,
+   "Lui, tu l’avais oublié."
+  ],
+  [
+   42.5,
+   46.92,
+   "Le lendemain, au balcon. Le thé fume encore."
+  ],
+  [
+   47.02,
+   51.4,
+   "Une page. Tu butes sur les mots. Tu recommences."
+  ],
+  [
+   51.5,
+   53.89,
+   "Et la poussière s’en va de tes doigts."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "JOURS SANS OUVRIR TON CORAN",
+   "time": "253",
+   "sub": "TÉLÉPHONE : 96 FOIS AUJOURD’HUI",
+   "box": true,
+   "t0": 0.2,
+   "t1": 30.5
+  },
+  {
+   "label": "PAGES LUES AUJOURD’HUI",
+   "time": "1",
+   "sub": "MAGHRIB · TÉLÉPHONE À L’INTÉRIEUR",
+   "box": true,
+   "t0": 42.1,
+   "t1": 54.29
+  }
+ ],
+ "goldWords": [
+  "oublié.",
+  "page.",
+  "doigts.",
+  "mère",
+  "encore."
+ ],
+ "post": {
+  "caption": "Depuis Ramadan, 253 jours. Ton Coran n'a pas bougé. 🤍\n\n« Ton Seigneur ne t'a ni abandonné, ni détesté. » (93:3)\n\nTu L'as oublié. Lui ne t'a pas oublié. Une page aujourd'hui, avant Maghrib.",
+  "hashtags": "#rappel #islam #rappelislamique #coran #quran #muslim #lecture #deen",
+  "youtube_title": "Depuis Ramadan, 253 jours. Ton Coran n'a pas bougé. 🤍 #rappel #islam #coran"
+ },
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.93,
+  "text": "Depuis Ramadan, 253 jours. Ton Coran n’a pas bougé.",
+  "gold": [
+   "253",
+   "coran"
+  ]
+ },
+ "verses": [
+  {
+   "t0": 31.0,
+   "t1": 41.5,
+   "text": "« Ton Seigneur ne t'a ni abandonné, ni détesté. »",
+   "ref": "Sourate Ad-Duhâ — 93:3"
+  }
+ ],
+ "end": {
+  "t0": 54.69,
+  "goldT0": 55.99,
+  "t1": 61.42,
+  "text": "253 jours. Et aujourd’hui ?",
+  "gold": "Une page. Aujourd’hui, avant Maghrib."
+ }
+}

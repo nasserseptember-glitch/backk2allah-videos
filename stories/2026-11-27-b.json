@@ -1,0 +1,135 @@
+{
+ "id": "2026-11-27-b",
+ "segments": [
+  {
+   "scene": "laundromat",
+   "dur": 29.03,
+   "opts": {
+    "phone": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.3
+  },
+  {
+   "scene": "classroom",
+   "dur": 16.11,
+   "opts": {
+    "clock": "08:58",
+    "lookUp": 0.3
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 7.1
+  }
+ ],
+ "captions": [
+  [
+   4.85,
+   7.15,
+   "Ton historique se souvient de tout."
+  ],
+  [
+   7.25,
+   13.71,
+   "22 h 40. Ta machine tourne. Encore 23 minutes."
+  ],
+  [
+   13.81,
+   17.51,
+   "« Comment réussir un partiel ? » Rechercher."
+  ],
+  [
+   17.61,
+   20.86,
+   "« Et si je rate tout ? » Rechercher."
+  ],
+  [
+   20.96,
+   25.69,
+   "Le tambour s’arrête. Le silence, d’un coup."
+  ],
+  [
+   25.79,
+   28.43,
+   "Tu as tout demandé. Sauf à Lui."
+  ],
+  [
+   40.93,
+   45.39,
+   "Le lendemain, 8 h 58. La salle d’examen."
+  ],
+  [
+   45.49,
+   48.57,
+   "Avant de retourner la feuille, tu fermes les yeux."
+  ],
+  [
+   48.67,
+   53.03,
+   "« Ô Allah, facilite-moi. » Dix secondes."
+  ],
+  [
+   53.13,
+   55.93,
+   "Ta main tremble moins. Tu écris."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "RECHERCHES AUJOURD’HUI",
+   "time": "34",
+   "sub": "DUA : 0",
+   "box": true,
+   "t0": 0.2,
+   "t1": 28.93
+  },
+  {
+   "label": "EXAMEN",
+   "time": "08:58",
+   "sub": "DUA : 1",
+   "box": true,
+   "t0": 40.53,
+   "t1": 56.33
+  }
+ ],
+ "goldWords": [
+  "lui.",
+  "allah,",
+  "facilite-moi.",
+  "écris."
+ ],
+ "post": {
+  "caption": "34 questions à Google aujourd'hui. 0 à Allah. 🤍\n\n« Invoquez-Moi, Je vous répondrai. » (40:60)\n\nGoogle te donne des résultats. Allah te répond. Ce soir, avant de dormir : demande-Lui.",
+  "hashtags": "#rappel #islam #rappelislamique #dua #examen #etudiant #muslim #tawakkul",
+  "youtube_title": "34 questions à Google aujourd'hui. 0 à Allah. 🤍 #rappel #islam #dua"
+ },
+ "capBox": true,
+ "hook": {
+  "t0": 0.3,
+  "t1": 4.75,
+  "text": "34 questions à Google aujourd’hui. 0 à Allah.",
+  "gold": [
+   "34",
+   "0",
+   "allah."
+  ]
+ },
+ "verses": [
+  {
+   "t0": 29.43,
+   "t1": 39.93,
+   "text": "« Invoquez-Moi, Je vous répondrai. »",
+   "ref": "Sourate Ghâfir — 40:60"
+  }
+ ],
+ "end": {
+  "t0": 56.73,
+  "goldT0": 58.03,
+  "t1": 63.23,
+  "text": "34 questions à Google. Et à Allah ?",
+  "gold": "Ce soir, avant de dormir : demande-Lui."
+ }
+}
