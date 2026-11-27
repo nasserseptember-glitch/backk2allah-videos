@@ -121,5 +121,7 @@
   "t1": 61.42,
   "text": "253 jours. Et aujourd’hui ?",
   "gold": "Une page. Aujourd’hui, avant Maghrib."
- }
+ },
+ "hookBox": true,
+ "capBox": true
 }

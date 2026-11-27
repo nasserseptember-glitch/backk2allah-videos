@@ -131,5 +131,6 @@
   "t1": 63.23,
   "text": "34 questions à Google. Et à Allah ?",
   "gold": "Ce soir, avant de dormir : demande-Lui."
- }
+ },
+ "hookBox": true
 }
