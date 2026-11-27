@@ -1,0 +1,127 @@
+{
+ "id": "2026-11-27-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "Friday, 12:50. 3 crates left. Jumu’ah starts at 1.",
+  "gold": [
+   "12:50.",
+   "Jumu’ah"
+  ],
+  "t0": 0.3,
+  "t1": 7.49
+ },
+ "verses": [
+  {
+   "text": "“O you who have believed, when [the adhan] is called for the prayer on the day of Jumu'ah [Friday], then proceed to the remembrance of Allah and leave trade.”",
+   "ref": "Surah Al-Jumu'ah — 62:9",
+   "t0": 35.4,
+   "t1": 52.37
+  }
+ ],
+ "end": {
+  "text": "3 crates left. What really couldn’t wait?",
+  "gold": "Today at 1: leave the crate, the laptop, the till. Go to Jumu’ah.",
+  "t0": 70.14,
+  "goldT0": 71.74,
+  "t1": 82.03
+ },
+ "segments": [
+  {
+   "scene": "orchard",
+   "dur": 35.1,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 17.57
+  },
+  {
+   "scene": "courtyard",
+   "dur": 17.27,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 12.19
+  }
+ ],
+ "captions": [
+  [
+   7.58,
+   11.24,
+   "“Allah will understand,” your uncle says."
+  ],
+  [
+   11.34,
+   15.4,
+   "The nets are full. The crates pile up."
+  ],
+  [
+   15.5,
+   19.82,
+   "Down in the village, the adhan rises."
+  ],
+  [
+   19.92,
+   24.71,
+   "Nobody looks up. “The olives won’t wait.”"
+  ],
+  [
+   24.81,
+   29.48,
+   "Every Friday this autumn: one more crate."
+  ],
+  [
+   29.58,
+   34.6,
+   "Then your little cousin tugs your sleeve: “Aren’t we going?”"
+  ],
+  [
+   53.27,
+   58.2,
+   "You put the crate down. Oil still on your hands."
+  ],
+  [
+   58.3,
+   63.55,
+   "The fountain. Cold water. The dust runs off your wrists."
+  ],
+  [
+   63.65,
+   69.44,
+   "Row two. The khutbah begins. The olives can wait."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "CRATES LEFT · FRIDAY 12:50",
+   "time": "3",
+   "sub": "JUMU’AH IN 10 MIN",
+   "box": true,
+   "t0": 7.58,
+   "t1": 34.6
+  },
+  {
+   "label": "JUMU’AH · ROW 2",
+   "time": "1:00",
+   "sub": "THE OLIVES CAN WAIT",
+   "box": true,
+   "t0": 53.27,
+   "t1": 69.44
+  }
+ ],
+ "goldWords": [
+  "“Aren’t",
+  "going?”",
+  "wait."
+ ],
+ "post": {
+  "caption": "Friday, 12:50. 3 crates left. Jumu’ah starts at 1. 🤍\n\nYour uncle’s olive grove, the best harvest in years. The adhan rises from the village, and nobody looks up: “Allah will understand. The olives won’t wait.” Every Friday this autumn, one more crate. Until your little cousin tugs your sleeve: “Aren’t we going?”\n\n“O you who have believed, when [the adhan] is called for the prayer on the day of Jumu'ah [Friday], then proceed to the remembrance of Allah and leave trade.” (62:9)\n\nToday at 1: leave the crate, the laptop, the till. Go to Jumu’ah.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #jumuah #friday #jummahmubarak #salah",
+  "youtube_title": "3 crates left. Jumu’ah starts at 1. 🤍 #islam #jumuah"
+ }
+}

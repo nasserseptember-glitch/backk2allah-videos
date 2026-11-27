@@ -1,0 +1,139 @@
+{
+ "id": "2026-11-27-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "7 weeks, you laughed when he got up for Isha.",
+  "gold": [
+   "7",
+   "Isha."
+  ],
+  "t0": 0.3,
+  "t1": 5.03
+ },
+ "verses": [
+  {
+   "text": "“Establish prayer for My remembrance.”",
+   "ref": "Surah Ta-Ha — 20:14",
+   "t0": 41.78,
+   "t1": 49.96
+  }
+ ],
+ "end": {
+  "text": "7 weeks you laughed. Who stands up now?",
+  "gold": "Tonight at Isha: be the one who stands up first.",
+  "t0": 73.36,
+  "goldT0": 74.96,
+  "t1": 82.24
+ },
+ "segments": [
+  {
+   "scene": "cafe",
+   "dur": 41.48,
+   "opts": {
+    "friends": 2
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.78
+  },
+  {
+   "scene": "mosque_ext",
+   "dur": 22.91,
+   "opts": {
+    "time": "night"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.18
+  }
+ ],
+ "captions": [
+  [
+   5.13,
+   9.3,
+   "“Back in ten,” Karim always said."
+  ],
+  [
+   9.4,
+   16.8,
+   "7:40 p.m. The terrace. Mint tea. The same table."
+  ],
+  [
+   16.9,
+   23.86,
+   "At every adhan, he stood up. And every time, you laughed."
+  ],
+  [
+   23.96,
+   28.95,
+   "“Sheikh Karim!” The whole table laughed with you."
+  ],
+  [
+   29.05,
+   32.25,
+   "Tonight his chair is empty."
+  ],
+  [
+   32.35,
+   37.54,
+   "A message: “New job. Moved to Leeds.”"
+  ],
+  [
+   37.64,
+   40.98,
+   "“Who’s going to drag you guys to Isha now?”"
+  ],
+  [
+   50.86,
+   57.48,
+   "The adhan again. Nobody moves. Then you do."
+  ],
+  [
+   57.58,
+   63.08,
+   "“Isha. Who’s coming?” Two chairs scrape behind you."
+  ],
+  [
+   63.18,
+   68.18,
+   "The mosque lights. Three of you at the door."
+  ],
+  [
+   68.28,
+   72.66,
+   "You send a photo to Leeds: “Back in ten.”"
+  ]
+ ],
+ "hud": [
+  {
+   "label": "WEEKS YOU LAUGHED",
+   "time": "7",
+   "sub": "ISHA WITH HIM: 0",
+   "box": true,
+   "t0": 5.13,
+   "t1": 40.98
+  },
+  {
+   "label": "TONIGHT · ISHA",
+   "time": "8:12 P.M.",
+   "sub": "YOU STOOD UP FIRST",
+   "box": true,
+   "t0": 50.86,
+   "t1": 72.66
+  }
+ ],
+ "goldWords": [
+  "empty.",
+  "now?”",
+  "ten.”"
+ ],
+ "post": {
+  "caption": "7 weeks, you laughed when he got up for Isha. 🤍\n\n7:40 p.m., the terrace, mint tea, the same table. At every adhan Karim stood up — “Back in ten.” And every time, you laughed: “Sheikh Karim!” Tonight his chair is empty. A message: “New job. Moved to Leeds. Who’s going to drag you guys to Isha now?”\n\n“Establish prayer for My remembrance.” (20:14)\n\nTonight at Isha: be the one who stands up first.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #salah #isha #brotherhood #friendship",
+  "youtube_title": "7 weeks, you laughed when he got up for Isha. 🤍 #islam #salah"
+ }
+}

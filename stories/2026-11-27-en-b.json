@@ -1,0 +1,133 @@
+{
+ "id": "2026-11-27-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "6 workouts this week. 0 minutes for your heart.",
+  "gold": [
+   "6",
+   "0",
+   "heart."
+  ],
+  "t0": 0.3,
+  "t1": 4.96
+ },
+ "verses": [
+  {
+   "text": "“Unquestionably, by the remembrance of Allah hearts are assured.”",
+   "ref": "Surah Ar-Ra'd — 13:28",
+   "t0": 39.3,
+   "t1": 48.46
+  }
+ ],
+ "end": {
+  "text": "6 workouts this week. And your heart?",
+  "gold": "Before Maghrib today: five minutes of dhikr. Count it on your fingers.",
+  "t0": 70.18,
+  "goldT0": 71.78,
+  "t1": 79.02
+ },
+ "segments": [
+  {
+   "scene": "gym",
+   "dur": 39.0,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 9.76
+  },
+  {
+   "scene": "balcony",
+   "dur": 21.22,
+   "opts": {
+    "tea": false
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 9.15
+  }
+ ],
+ "captions": [
+  [
+   5.06,
+   11.46,
+   "Your watch tracks everything. Steps. Reps. Calories."
+  ],
+  [
+   11.56,
+   17.36,
+   "32 minutes on the treadmill. 5.2 kilometres."
+  ],
+  [
+   17.46,
+   22.16,
+   "The man next to you runs slower. His lips are moving."
+  ],
+  [
+   22.26,
+   28.64,
+   "No earphones. “SubhanAllah… Alhamdulillah…” with every step."
+  ],
+  [
+   28.74,
+   34.35,
+   "Your watch buzzes: “Resting heart rate: 52. Excellent.”"
+  ],
+  [
+   34.45,
+   38.5,
+   "Your body: excellent. And your heart?"
+  ],
+  [
+   49.36,
+   55.22,
+   "Home. The balcony. The sun touches the rooftops."
+  ],
+  [
+   55.32,
+   60.22,
+   "No watch. Just your fingers, counting: SubhanAllah."
+  ],
+  [
+   60.32,
+   65.08,
+   "The minaret lights up. Your heart slows down."
+  ],
+  [
+   65.18,
+   69.48,
+   "Five minutes. The best set of your week."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "WORKOUTS THIS WEEK",
+   "time": "6",
+   "sub": "DHIKR: 0 MIN",
+   "box": true,
+   "t0": 5.06,
+   "t1": 38.5
+  },
+  {
+   "label": "MAGHRIB · YOUR BALCONY",
+   "time": "5 MIN",
+   "sub": "DHIKR",
+   "box": true,
+   "t0": 49.36,
+   "t1": 69.48
+  }
+ ],
+ "goldWords": [
+  "heart?",
+  "SubhanAllah.",
+  "week."
+ ],
+ "post": {
+  "caption": "6 workouts this week. 0 minutes for your heart. 🤍\n\nYour watch tracks everything: steps, reps, calories. 32 minutes on the treadmill. The man next to you runs slower, no earphones, whispering “SubhanAllah… Alhamdulillah…” with every step. Then your watch buzzes: “Resting heart rate: 52. Excellent.” Your body: excellent. And your heart?\n\n“Unquestionably, by the remembrance of Allah hearts are assured.” (13:28)\n\nBefore Maghrib today: five minutes of dhikr. Count it on your fingers.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #dhikr #gym #fitness #heart",
+  "youtube_title": "6 workouts this week. 0 minutes for your heart. 🤍 #islam #dhikr"
+ }
+}
