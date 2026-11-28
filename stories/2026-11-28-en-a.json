@@ -1,0 +1,136 @@
+{
+ "id": "2026-11-28-en-a",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "9 times you checked your bank app. 0 times you asked Allah.",
+  "gold": [
+   "9",
+   "0",
+   "Allah."
+  ],
+  "t0": 0.3,
+  "t1": 6.46
+ },
+ "verses": [
+  {
+   "text": "“And whoever relies upon Allah - then He is sufficient for him.”",
+   "ref": "Surah At-Talaq — 65:3",
+   "t0": 43.69,
+   "t1": 53.7
+  }
+ ],
+ "end": {
+  "text": "9 checks of your balance. And Allah?",
+  "gold": "This morning: two rak’ahs of Duha. Before you check your balance.",
+  "t0": 72.81,
+  "goldT0": 74.41,
+  "t1": 82.4
+ },
+ "segments": [
+  {
+   "scene": "bakery",
+   "dur": 43.39,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 10.91
+  },
+  {
+   "scene": "mosque_int",
+   "dur": 18.21,
+   "opts": {
+    "night": true,
+    "rows": 2,
+    "ruku": [
+     [
+      4.6,
+      11.5
+     ]
+    ],
+    "povBow": true
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.29
+  }
+ ],
+ "captions": [
+  [
+   6.56,
+   12.77,
+   "5:10 a.m. Your bakery. Rent is due on Monday."
+  ],
+  [
+   12.87,
+   19.9,
+   "The dough. The oven. The app again: €312."
+  ],
+  [
+   20.0,
+   24.47,
+   "You knead harder. As if it could change the number."
+  ],
+  [
+   24.57,
+   31.42,
+   "Uncle Hamid slides the bread in. He hums. He never checks."
+  ],
+  [
+   31.52,
+   36.31,
+   "Then, through the window: the adhan for Fajr."
+  ],
+  [
+   36.41,
+   42.89,
+   "He wipes the flour off his hands. “Coming? The bread can wait.”"
+  ],
+  [
+   54.8,
+   59.4,
+   "Two rows. Flour still on your sleeves."
+  ],
+  [
+   59.5,
+   65.86,
+   "Your forehead on the floor: “Ya Allah, You know about the rent.”"
+  ],
+  [
+   65.96,
+   72.01,
+   "You walk back lighter. The first customer is already at the door."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "BANK APP CHECKS",
+   "time": "9",
+   "sub": "DU’A FOR RIZQ: 0",
+   "t0": 6.56,
+   "t1": 42.89,
+   "box": true
+  },
+  {
+   "label": "FAJR · 5:42 A.M.",
+   "time": "7 MIN",
+   "sub": "NO NUMBERS. ONLY HIM.",
+   "t0": 54.8,
+   "t1": 72.01,
+   "box": true
+  }
+ ],
+ "goldWords": [
+  "Fajr.",
+  "wait.”",
+  "rent.”"
+ ],
+ "post": {
+  "caption": "9 times you checked your bank app. 0 times you asked Allah. 🤍\n\n5:10 a.m. in your bakery. Rent is due Monday. The app again: €312. Uncle Hamid slides the bread in and hums — he never checks. Then the adhan for Fajr: “Coming? The bread can wait.”\n\n“And whoever relies upon Allah - then He is sufficient for him.” (65:3)\n\nThis morning: two rak’ahs of Duha. Before you check your balance.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #tawakkul #rizq #duha #fajr",
+  "youtube_title": "9 times you checked your bank app. 0 times you asked Allah. 🤍 #islam"
+ }
+}

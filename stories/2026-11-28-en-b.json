@@ -1,0 +1,139 @@
+{
+ "id": "2026-11-28-en-b",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "52 minutes about Yusuf. Not one du’a for him.",
+  "gold": [
+   "52",
+   "du’a"
+  ],
+  "t0": 0.3,
+  "t1": 6.07
+ },
+ "verses": [
+  {
+   "text": "“Do not despair of the mercy of Allah.”",
+   "ref": "Surah Az-Zumar — 39:53",
+   "t0": 38.72,
+   "t1": 46.16
+  }
+ ],
+ "end": {
+  "text": "52 minutes about him. And for him?",
+  "gold": "This afternoon: one du’a for the one you talked about. By name.",
+  "t0": 72.14,
+  "goldT0": 73.74,
+  "t1": 79.79
+ },
+ "segments": [
+  {
+   "scene": "souk",
+   "dur": 17.46,
+   "opts": {
+    "time": "dusk"
+   }
+  },
+  {
+   "scene": "cafe",
+   "dur": 20.96,
+   "opts": {
+    "friends": 3
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "river",
+   "dur": 22.92,
+   "opts": {}
+  },
+  {
+   "scene": "black",
+   "dur": 8.35
+  }
+ ],
+ "captions": [
+  [
+   6.17,
+   11.67,
+   "Saturday, 6:10 p.m. The market. Your phone buzzes."
+  ],
+  [
+   11.77,
+   16.96,
+   "“Café. Usual table. You won’t believe what Yusuf did.”"
+  ],
+  [
+   17.96,
+   24.71,
+   "Mint tea. Three friends. One story, told again and again."
+  ],
+  [
+   24.81,
+   29.66,
+   "You laugh. You add one too. It wasn’t even true."
+  ],
+  [
+   29.77,
+   32.95,
+   "Then your phone lights up. It’s him."
+  ],
+  [
+   33.05,
+   37.92,
+   "“Brother, my mum has surgery tomorrow. Make du’a for her?”"
+  ],
+  [
+   49.42,
+   55.65,
+   "After Fajr. The river is still. You say his name, in a du’a."
+  ],
+  [
+   55.75,
+   60.67,
+   "“Ya Allah, heal his mother. And forgive my tongue.”"
+  ],
+  [
+   60.77,
+   64.74,
+   "Then one message to him: “I’m with you, brother.”"
+  ],
+  [
+   64.84,
+   71.34,
+   "52 minutes against him. 1 minute for him. Start there."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "MINUTES ABOUT YUSUF",
+   "time": "52",
+   "sub": "DU’A FOR HIM: 0",
+   "t0": 17.96,
+   "t1": 37.92,
+   "box": true
+  },
+  {
+   "label": "DU’A FOR YUSUF",
+   "time": "1 MIN",
+   "sub": "BY NAME",
+   "t0": 49.42,
+   "t1": 71.34,
+   "box": true
+  }
+ ],
+ "goldWords": [
+  "du’a.",
+  "brother.”",
+  "there."
+ ],
+ "post": {
+  "caption": "52 minutes about Yusuf. Not one du’a for him. 🤍\n\nMint tea, three friends, one story told again and again. You add a detail too — it wasn’t even true. Then your phone lights up. It’s him: “Brother, my mum has surgery tomorrow. Make du’a for her?”\n\n“Do not despair of the mercy of Allah.” (39:53)\n\nThis afternoon: one du’a for the one you talked about. By name.",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #gossip #backbiting #dua #tawbah",
+  "youtube_title": "52 minutes about him. Not one du’a for him. 🤍 #islam #dua"
+ }
+}

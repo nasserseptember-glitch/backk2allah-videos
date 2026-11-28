@@ -1,0 +1,133 @@
+{
+ "id": "2026-11-28-en-c",
+ "lang": "en",
+ "hookBox": true,
+ "capBox": true,
+ "hook": {
+  "text": "730 days of silence. Your brother lives 40 minutes away.",
+  "gold": [
+   "730",
+   "40"
+  ],
+  "t0": 0.3,
+  "t1": 7.04
+ },
+ "verses": [
+  {
+   "text": "“Every soul will taste death.”",
+   "ref": "Surah Al-Imran — 3:185",
+   "t0": 34.58,
+   "t1": 41.93
+  }
+ ],
+ "end": {
+  "text": "730 days of silence. Who says salam first?",
+  "gold": "Tonight, before Isha: send him one word. “Salam.”",
+  "t0": 72.17,
+  "goldT0": 73.77,
+  "t1": 81.65
+ },
+ "segments": [
+  {
+   "scene": "ferry",
+   "dur": 34.28,
+   "opts": {
+    "time": "sunset"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.5
+  },
+  {
+   "scene": "dinner",
+   "dur": 27.09,
+   "opts": {
+    "family": [
+     "father",
+     "mother",
+     "sibling"
+    ]
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 10.18
+  }
+ ],
+ "captions": [
+  [
+   7.14,
+   13.8,
+   "4:20 p.m. The ferry. A work trip, to his side of the water."
+  ],
+  [
+   13.9,
+   19.08,
+   "His name is still first in your favourites: Bilal."
+  ],
+  [
+   19.18,
+   24.89,
+   "Two years ago: one word too many. Then nothing."
+  ],
+  [
+   24.99,
+   29.19,
+   "Every Eid you thought: he should call first."
+  ],
+  [
+   29.29,
+   33.78,
+   "A message from Mum: “Your brother asked about you today.”"
+  ],
+  [
+   45.28,
+   49.48,
+   "The ferry docks. You don’t go to the hotel."
+  ],
+  [
+   49.58,
+   54.64,
+   "Mum’s house. Dinner. He looks up from his plate."
+  ],
+  [
+   54.74,
+   62.39,
+   "“Salam, Bilal.” Two years, gone in two words."
+  ],
+  [
+   62.49,
+   71.37,
+   "Pride kept you apart for 730 days. One “salam” brought you back."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "DAYS WITHOUT SPEAKING",
+   "time": "730",
+   "sub": "HIS TOWN: 40 MIN",
+   "t0": 7.14,
+   "t1": 33.78,
+   "box": true
+  },
+  {
+   "label": "DAYS WITHOUT SPEAKING",
+   "time": "0",
+   "sub": "ONE SALAM",
+   "t0": 45.28,
+   "t1": 71.37,
+   "box": true
+  }
+ ],
+ "goldWords": [
+  "Bilal.",
+  "today.”",
+  "back."
+ ],
+ "post": {
+  "caption": "730 days of silence. Your brother lives 40 minutes away. 🤍\n\n4:20 p.m., on the ferry to his side of the water. His name is still first in your favourites. Two years ago: one word too many. Every Eid you thought: he should call first. Then a message from Mum: “Your brother asked about you today.”\n\n“Every soul will taste death.” (3:185)\n\nTonight, before Isha: send him one word. “Salam.”",
+  "hashtags": "#islamicreminder #islam #muslim #quran #deen #family #brother #silaturrahim #forgiveness",
+  "youtube_title": "730 days of silence with your brother. One word can end it. 🤍 #islam"
+ }
+}
