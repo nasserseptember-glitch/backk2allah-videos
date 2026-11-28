@@ -1,0 +1,132 @@
+{
+ "id": "2026-11-28-b",
+ "segments": [
+  {
+   "scene": "bus_stop",
+   "dur": 26.95,
+   "opts": {
+    "phone": true,
+    "bus": 23.66
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.3
+  },
+  {
+   "scene": "balcony",
+   "dur": 14.81
+  },
+  {
+   "scene": "black",
+   "dur": 7.72
+  }
+ ],
+ "captions": [
+  [
+   5.83,
+   8.23,
+   "Ton téléphone garde chaque « non »."
+  ],
+  [
+   8.33,
+   12.27,
+   "16 h 35, l’arrêt de bus. Il pleut."
+  ],
+  [
+   12.37,
+   15.47,
+   "Un mail. « Nous avons le regret de… »"
+  ],
+  [
+   15.57,
+   19.27,
+   "Le 17e. Tu ne finis même pas la phrase."
+  ],
+  [
+   19.37,
+   22.06,
+   "Tu murmures : « Allah m’a oublié. »"
+  ],
+  [
+   22.16,
+   26.55,
+   "Le bus arrive. Au loin, l’adhan de Maghrib."
+  ],
+  [
+   38.65,
+   42.44,
+   "Chez toi, sur le balcon. Tu déplies le tapis."
+  ],
+  [
+   42.54,
+   44.94,
+   "Le carrelage est froid sous ton front."
+  ],
+  [
+   45.04,
+   48.85,
+   "« Ya Rabb, Tu sais tout. Je n’ai plus de mots. »"
+  ],
+  [
+   48.95,
+   52.66,
+   "Rien n’a changé dehors. Toi, si."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "CANDIDATURES",
+   "time": "17",
+   "sub": "REFUS : 17 · DUA : 0",
+   "t0": 0.2,
+   "t1": 26.85,
+   "box": true
+  },
+  {
+   "label": "MAGHRIB · BALCON",
+   "time": "16:52",
+   "sub": "SUJÛD : 1 · DUA : 1",
+   "t0": 38.45,
+   "t1": 52.96,
+   "box": true
+  }
+ ],
+ "verses": [
+  {
+   "t0": 27.35,
+   "t1": 37.85,
+   "text": "« À côté de la difficulté est, certes, une facilité. »",
+   "ref": "Sourate Ash-Sharh — 94:5-6"
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 5.73,
+  "text": "17 refus en 3 mois. Et ton tapis, toujours plié.",
+  "gold": [
+   "17",
+   "tapis,"
+  ]
+ },
+ "end": {
+  "t0": 53.36,
+  "goldT0": 54.66,
+  "t1": 60.38,
+  "text": "17 refus. Et à Allah, tu as tout dit ?",
+  "gold": "Ce soir, à Isha : pose ton front. Dis-Lui tout."
+ },
+ "goldWords": [
+  "maghrib.",
+  "front.",
+  "si.",
+  "rabb,"
+ ],
+ "post": {
+  "caption": "17 refus en 3 mois. Et ton tapis, toujours plié. 🤍\n\n« À côté de la difficulté est, certes, une facilité. » (94:5-6)\n\nAllah ne t'a pas oublié. Les portes qui se ferment ne ferment pas la Sienne. Ce soir, à Isha : pose ton front et dis-Lui tout.",
+  "hashtags": "#rappel #islam #rappelislamique #sabr #dua #recherchedemploi #muslim #espoir",
+  "youtube_title": "17 refus en 3 mois. Et ton tapis, toujours plié. 🤍 #rappel #islam #sabr"
+ },
+ "hookBox": true,
+ "capBox": true
+}

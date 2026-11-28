@@ -1,0 +1,121 @@
+{
+ "id": "2026-11-28-c",
+ "segments": [
+  {
+   "scene": "black",
+   "dur": 6.88
+  },
+  {
+   "scene": "orchard",
+   "dur": 22.32
+  },
+  {
+   "scene": "black",
+   "dur": 11.3
+  },
+  {
+   "scene": "snow_street",
+   "dur": 14.74
+  },
+  {
+   "scene": "black",
+   "dur": 8.04
+  }
+ ],
+ "captions": [
+  [
+   7.28,
+   11.0,
+   "Ton appli affiche encore : « Série : 0 »."
+  ],
+  [
+   11.1,
+   15.84,
+   "Dimanche matin, chez ton grand-père. Les oliviers."
+  ],
+  [
+   15.94,
+   20.27,
+   "Tu lui dis : « Je n’y arrive pas. Je lâche toujours. »"
+  ],
+  [
+   20.37,
+   26.3,
+   "« Cet arbre, je l’ai planté à 30 ans. 7 ans sans une olive. »"
+  ],
+  [
+   26.4,
+   28.8,
+   "Une olive tombe dans ta main."
+  ],
+  [
+   40.9,
+   45.0,
+   "Le lendemain, 6 h 40. La neige."
+  ],
+  [
+   45.1,
+   50.59,
+   "Des traces de pas vers la mosquée. Quelqu’un est passé avant toi."
+  ],
+  [
+   50.69,
+   54.84,
+   "Tu mets tes pieds dedans. Pas 30 jours. Juste Fajr."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "SÉRIE DE PRIÈRES",
+   "time": "4 J",
+   "sub": "PUIS : 0",
+   "t0": 7.08,
+   "t1": 29.1,
+   "box": true
+  },
+  {
+   "label": "FAJR · JOUR 1",
+   "time": "06:40",
+   "sub": "SÉRIE : 1",
+   "t0": 40.7,
+   "t1": 55.14,
+   "box": true
+  }
+ ],
+ "verses": [
+  {
+   "t0": 29.6,
+   "t1": 40.1,
+   "text": "« Allah est avec ceux qui sont endurants. »",
+   "ref": "Sourate Al-Baqara — 2:153"
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.48,
+  "text": "4 jours de prière. Le 5e, tu as lâché. Encore.",
+  "gold": [
+   "4",
+   "lâché."
+  ]
+ },
+ "end": {
+  "t0": 55.54,
+  "goldT0": 56.84,
+  "t1": 62.88,
+  "text": "Tu lâches au 5e jour. Et demain ?",
+  "gold": "Demain, Fajr. Jour 1. Recommence."
+ },
+ "goldWords": [
+  "main.",
+  "fajr.",
+  "encore.",
+  "beaucoup."
+ ],
+ "post": {
+  "caption": "4 jours de prière. Le 5e, tu as lâché. Encore. 🤍\n\n« Allah est avec ceux qui sont endurants. » (2:153)\n\nRecommencer, ce n'est pas échouer. Un olivier met des années avant de donner. Demain, Fajr. Jour 1. Recommence.",
+  "hashtags": "#rappel #islam #rappelislamique #priere #fajr #sabr #muslim #salat",
+  "youtube_title": "4 jours de prière. Le 5e, tu as lâché. Encore. 🤍 #rappel #islam #fajr"
+ },
+ "capBox": true
+}

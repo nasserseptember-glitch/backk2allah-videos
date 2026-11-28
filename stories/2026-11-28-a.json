@@ -1,0 +1,129 @@
+{
+ "id": "2026-11-28-a",
+ "segments": [
+  {
+   "scene": "ferry",
+   "dur": 32.23,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 11.3
+  },
+  {
+   "scene": "courtyard",
+   "dur": 11.41,
+   "opts": {
+    "time": "day"
+   }
+  },
+  {
+   "scene": "black",
+   "dur": 8.86
+  }
+ ],
+ "captions": [
+  [
+   6.83,
+   9.23,
+   "Ton pouce les a toutes vues."
+  ],
+  [
+   9.33,
+   14.21,
+   "8 h 10, le ferry. Tu ne lèves pas les yeux."
+  ],
+  [
+   14.31,
+   18.53,
+   "Une plage à Bali. Puis une voiture neuve."
+  ],
+  [
+   18.63,
+   23.8,
+   "Puis un mariage. Puis une autre vie que la tienne."
+  ],
+  [
+   23.9,
+   27.58,
+   "Écran noir. Batterie : 0 %."
+  ],
+  [
+   27.68,
+   31.83,
+   "Et devant toi, la mer. Elle brillait depuis le début."
+  ],
+  [
+   43.93,
+   47.64,
+   "12 h 40. Une mosquée près du port."
+  ],
+  [
+   47.74,
+   51.21,
+   "L’eau froide sur tes mains. Tes deux mains."
+  ],
+  [
+   51.31,
+   54.54,
+   "Alhamdulillah. Pour de vrai, cette fois."
+  ]
+ ],
+ "hud": [
+  {
+   "label": "VIES REGARDÉES",
+   "time": "41",
+   "sub": "MERCI À ALLAH : 0",
+   "t0": 0.2,
+   "t1": 32.13,
+   "box": true
+  },
+  {
+   "label": "DHUHR · LE PORT",
+   "time": "12:40",
+   "sub": "ALHAMDULILLAH : 3",
+   "t0": 43.73,
+   "t1": 54.84,
+   "box": true
+  }
+ ],
+ "verses": [
+  {
+   "t0": 32.63,
+   "t1": 43.13,
+   "text": "« La vie présente n'est que jouissance trompeuse. »",
+   "ref": "Sourate Al-Hadîd — 57:20"
+  }
+ ],
+ "hook": {
+  "t0": 0.3,
+  "t1": 6.73,
+  "text": "41 vies parfaites ce matin. Pas un merci à Allah.",
+  "gold": [
+   "41",
+   "allah."
+  ]
+ },
+ "end": {
+  "t0": 55.24,
+  "goldT0": 56.54,
+  "t1": 63.4,
+  "text": "41 vies regardées. Et la tienne, tu l’as remerciée ?",
+  "gold": "Avant Dhuhr : pose ton téléphone. Compte trois bienfaits."
+ },
+ "goldWords": [
+  "allah.",
+  "mer.",
+  "alhamdulillah.",
+  "mains."
+ ],
+ "post": {
+  "caption": "41 vies parfaites ce matin. Pas un merci à Allah. 🤍\n\n« La vie présente n'est que jouissance trompeuse. » (57:20)\n\nTu regardes la vie des autres pendant que la tienne brille devant toi. Avant Dhuhr : pose ton téléphone, compte trois bienfaits, dis « alhamdulillah ».",
+  "hashtags": "#rappel #islam #rappelislamique #alhamdulillah #gratitude #comparaison #muslim #dunya",
+  "youtube_title": "41 vies parfaites ce matin. Pas un merci à Allah. 🤍 #rappel #islam"
+ },
+ "hookBox": true,
+ "capBox": true
+}
